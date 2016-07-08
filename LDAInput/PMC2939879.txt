@@ -1,0 +1,338 @@
+337
+10.1371/journal.pone.0012737.t007 table 7 non-parametric correlations among spermatogenic index metal concentrations transcript expression levels si dg zn testis zn dg cu testis cu psme4 kiser dnajb13 degs1 rras rab1b rab1a tiam1 rabl4 arl1 4r79.2 si dg zn â??0.655 testis zn â??0.382 0.733 dg cu â??0.509 0.836 0.661 testis cu â??0.345 0.333 â??0.164 0.491 psme4 0.771 â??0.600 â??0.800 â??0.429 0.100 kiser 0.771 â??0.771 â??0.700 â??0.543 â??0.100 0.714 dnajb13 0.886 â??0.543 â??0.600 â??0.314 â??0.314 0.943 0.771 degs1 0.829 â??0.829 â??0.600 â??0.600 â??0.600 0.600 0.943 0.714 rras 0.829 â??0.657 â??0.900 â??0.371 0.200 0.943 0.771 0.771 0.657 rab1b 0.886 â??0.886 â??0.700 â??0.600 â??0.600 0.600 0.771 0.771 0.886 0.714 rab1a 0.714 â??0.886 â??1.000 â??0.657 0.100 0.771 0.771 0.657 0.714 0.886 0.829 tiam1 â??0.943 0.771 0.600 0.429 0.500 â??0.657 â??0.886 â??0.771 â??0.943 â??0.771 â??0.943 â??0.771 rabl4 0.829 â??0.829 â??0.600 â??0.600 â??0.500 0.600 0.943 0.714 1.000 0.657 0.886 0.714 â??0.943 arl1 0.771 â??0.771 â??0.700 â??0.543 â??0.100 0.714 1.000 0.771 0.943 0.771 0.771 0.771 â??0.886 0.943 4r79.2 0.657 â??0.657 â??0.800 â??0.600 0.100 0.943 0.771 0.886 0.657 0.829 0.543 0.714 -0.600 0.657 0.771 â??siâ?? refers spermatogenic index determined histologically â??dgâ?? refers digestive gland transcripts: psme4 proteasome activator subunit 4 kiser similar kiser dnajb13 dnaj related subfamily b member 13 degs1 degenerative spermatocyte homolog 1 lipid desaturase rras related ras viral oncogene homolog rab1b ras-related protein 1b rab1a rab1a member ras oncogene family tiam1 t-cell lymphoma invasion metastasis 1 rabl4 rab member ras oncogene family-like 4 arl1 adp ribosylation factor-like 1 4r79.2 4r79.2 hypothetical protein boldface values indicate significance (p<0.05).
+queen conch ( strombus gigas ) reproduction inhibited nearshore areas florida keys relative offshore environment where conchs reproduce successfully
+nearshore reproductive failure possibly result exposure environmental factors including heavy metals likely accumulate close shore
+metals such cu zn detrimental reproduction many mollusks
+histology shows gonadal atrophy nearshore conchs compared reproductively healthy offshore conchs
+order determine molecular mechanisms leading tissue changes reproductive failure microarray developed
+normalized cdna library queen conch constructed sequenced using 454 life sciences gs-flx pyrosequencer producing 27723 assembled contigs 7740 annotated transcript sequences
+resulting sequences used design microarray
+microarray analysis conch testis indicated differential regulation 255 genes (p<0.01) nearshore conch relative offshore
+changes expression three four transcripts interest confirmed using real-time reverse transcription polymerase chain reaction
+gene ontology enrichment analysis indicated changes biological processes: respiratory chain (go:0015992) spermatogenesis (go:0007283) small gtpase-mediated signal transduction (go:0007264) others
+inductively coupled plasma-mass spectrometry analysis indicated zn possibly cu elevated some nearshore conch tissues
+congruence between testis histology microarray data suggests nearshore conch testes regress during reproductive season while offshore conch testes develop normally
+possible mechanisms underlying testis regression observed queen conch nearshore florida keys include disruption small gtpase (ras)-mediated signaling testis development
+additionally elevated tissue levels cu (34.77 ng/mg testis) zn (831.85 ng/mg digestive gland 83.96 ng/mg testis) nearshore similar reported levels resulting reproductive inhibition other gastropods indicating metals possibly contribute ns conch reproductive failure
+queen conch ( strombus gigas ) species significant ecological economic importance throughout its range
+example estimated economic value annual conch fishery bahamas approximately $4.457 million representing 9800 seasonal jobs [1] 
+queen conch large benthic invertebrate associated coral reef ecosystems therefore could serve indicator species toxic effects contributing decline florida coral reef ecosystem
+result queen conch population decline florida complete moratorium florida conch fishery declared 1986 [2] [3] 
+queen conch listed under convention international trade endangered species' (cites) appendix ii 1992 [4] 
+however recovery adult conchs spawning aggregations within florida keys been modest
+2001 number adult conchs offshore (os) spawning aggregations estimated 27000 up lowest observed estimate 5750 1992 according transect data collected florida fish wildlife conservation commission [3] 
+believed little no reproduction occurs nearshore (ns) aggregations might contribute slow recovery population [2] [3] 
+study conch reproduction found ns conchs failed develop adequate gonad tissue reproduction but translocation ns conchs os environment resulted development normal gonad tissue reproductive activity within three months [2] 
+however causes reproductive failure ns conchs remain unknown
+human impacts coastal marine ecosystems ever-increasing threats include inputs nutrients organic contaminants metals well changes temperature decreasing ocean ph deoxygenation [5] 
+while many factors theoretically affect reproduction one plausible cause reproductive failure ns marine gastropod heavy metal exposure
+number gastropod studies related heavy metal exposure particular exposure cu [6] - [8] zn [6] [9] [10] reduced fecundity ? reproductive output usually measured terms egg laying
+despite link between exposure cu zn decreased reproductive output gastropods past studies consider mostly female-mediated effects individual level
+florida keys both male female reproductive development inhibited ns [2] [3] 
+given heavy metals known inhibit gastropod egg laying general point sources metal contamination exist close shore florida keys [11] ? [13] our general hypothesis heavy metals likely contribute reproductive failure observed ns
+present study our specific hypotheses were: testis transcriptional data would identify candidate gene expression pathways affected ns environmental stressors tissue concentrations heavy metals ns conchs would exceed those os conchs
+study we developed used microarray identify gene expression differences between testes ns os conchs
+gene expression data anchored histopathology provide more complete understanding dysfunction testis development ns conchs
+additionally we used inductively coupled plasma-mass spectrometry quantify nine metals including cu zn conch tissues determine whether their concentrations correlate histological gene expression evidence ns reproductive dysfunction
+study all conchs collected florida keys ( figure 1 )
+tissue samples used queen conch cdna library construction collected sombrero reef 9 june 2004 east sister's rock eastern sambo 15 march 2005
+tissue samples used comparison reproductive (os) versus non-reproductive (ns) queen conchs histology real-time reverse-transcription polymerase chain reaction (real-time rt-pcr) metals analysis collected pelican shoal (os) tingler island (ns) 15 february 2007 eastern sambo (os) east sisters' rock (ns) 7 june?9 june 2007
+microarray analysis conducted using 15 february 2007 samples pelican shoal tingler island
+sampling conducted free diving scuba diving
+only adult queen conchs identified fully flared lip [4] collected
+microarray construction: esr east sister's rock (ns) es eastern sambo (os) sr sombrero reef (os)
+microarray real-time reverse-transcription polymerase chain-reaction experiments: ps pelican shoal (os) ti tingler island (ns)
+validation 18s rrna real-time rt-pcr: ps ti es esr ds delta shoal (os)
+inductively coupled plasma-mass spectrometry histology: ps ti esr es 
+all cases adult male conchs collected live transported immediately florida fish wildlife conservation commission's fish wildlife research institute (fwri) laboratory marathon fl
+conchs then euthanized tissues harvested
+molecular assays determination tissue metal burdens gonad digestive gland neural ganglia blood foot muscle samples frozen immediately liquid nitrogen
+frozen tissue samples maintained ?80°c until further analysis
+histology piece testis tissue approximately 1 cm3 size middle conch's testis placed individually labeled cassette fixed 10% neutral buffered formalin minimum 7 days retained further processing
+histological examinations testes experimental conchs conducted described delgado et al
+[2] 
+briefly fixed tissue samples rinsed running tap water overnight dehydrated graded series ethanols cleared embedded paraplast (leica microsystems wetzlar germany) sectioned 4 µm stained hematoxylin eosin following standard histological techniques
+testicular development assessed histologically determine reproductive capability conchs
+conchs classified reproductive phases based maturity scale presented delgado et al
+[2] ( table 1 )
+order quantify amount testicular tissue present series photomicrographs taken enable visualization all gonadal tissue resulting 6?20 photographs specimen
+three photographs randomly selected specimen area testicular lobule photographs determined using imagej software
+sperm scale based presence developing sperm testis (spermatogonia ?=?1 spermatocytes ?=?2 spermatids ?=?3 spermatozoa ?=?4 vas deferens spermatozoa ?=?5) recorded lobule
+spermatogenic index (si) calculated following methodology similar reported kofoed et al
+[14] area lobule (mm2) multiplied sperm scale lobule
+total si determined specimen summing si lobule three photographic views
+modified delgado et al
+[2] 
+cdna library construction carried out following method garcia-reyero et al
+[15] 
+briefly total rna isolated 12 individual conch tissue samples (neural ganglia gonad digestive gland four conchs one female one male ns one female one male os) using trizol (invitrogen carlsbad ca usa) according manufacturer's protocol
+rna quality integrity assessed using nanodrop nd-1000 spectrophotometer (nanodrop technologies wilmington de usa) agilent 2100 bioanalyzer (agilent technologies santa clara ca usa) respectively
+200 ng rna sample pooled used template cdna library construction normalization using smart (clontech/takara bio usa madison wi usa) trimmer (evrogen joint stock company moscow russia) kits respectively
+normalized queen conch cdna library sequenced using 454 gs-flx pyrosequencer (roche/454 life sciences branford ct usa) [16] university florida interdisciplinary center biotechnology research (icbr)
+sequencing conducted described garcia-reyero et al
+[15] 
+sequence assembly annotation performed described farmerie et al
+[17] using newbler v1.1.03.24 paracel transcriptassembler
+minimum confidence match set e<1×10?4
+sequence its top 100 hits blast search retained icbr's blastquest database [17] annotated gene ontology (go) information human zebrafish ( danio rerio ) homologues referring ncbi gene database
+queen conch oligonucleotide microarray designed 8×15 k format consisting 15208 60-mer user probes 536 internal control probes using earray service agilent
+microarray submitted platform dataset ncbi's gene expression omnibus (geo) database (gpl8934)
+microarray cloning procedures four biological replicate conch rna samples isolated testis male conchs collected february 2007 pelican shoal (os) tingler island (ns) ( figure 1 )
+one array group determined insufficient quality during quality control process so final sample size microarrays three individuals location os ns
+os individuals considered reference group exhibit successful sexual reproduction while ns conchs do not
+total rna extracted using rna stat-60 reagent (tel-test friendswood tx usa) reconstituted rnasecure (ambion) dnase-treated turbo dna-free (ambion)
+all cases manufacturers' protocols followed
+rna samples used real-time rt-pcr assays extracted using more rigorous procedure stat-60 extraction rna followed gradient centrifugation through 1.4 ml layer 5.7 m cscl 0.5 m edta beckman optima-tlx ultracentrifuge tla120.2 rotor
+rna cleanup performed using qiagen rneasy mini kit
+rna quantity assessed nanodrop nd-1000 quality assessed using agilent 2100 bioanalyzer
+we observed un-degraded conch total rna samples show no 28s rrna band therefore no rin calculated quantify rna integrity samples
+likely due ?hidden break? invertebrate 28s rrna been described ishikawa [18] present gastropods including haliotis rufescens [19] 
+despite impossibility calculating rin only high-quality samples bioanalyzer profiles appeared un-degraded used further analysis
+rna samples labeled cy3-ctp hybridized microarray following agilent protocol h3d one color microarray-based gene expression analysis v5.5 (publication no
+g4140-90040)
+specific activity cy3 label least 10.04 pmol/?l sample averaged 13.14 pmol/?l
+microarray scanning feature extraction performed icbr using agilent g2505b microarray scanner agilent feature extraction software v9.5
+all microarray data here reported miame compliant raw normalized microarray data been submitted geo database (gse17379) according miame standards [20] 
+3 ?g conch rna sample reverse transcribed produce cdna using invitrogen superscript ii reverse transcriptase random primers per manufacturer's protocol
+18s rrna cloned using primers designed program primer3 [21] based alignment 18s rrna gastropod bursa rana (x94269.1) bivalve nucula sulcata (af207642.1) ( table 2 )
+18s rrna primers used pcr reaction invitrogen taq polymerase according manufacturer's protocol
+pcr products cloned pgem-t easy vector (sigma-aldrich st
+louis mo usa) invitrogen one-shot top10 chemically competent e
+coli cells per manufacturer's protocols
+sequence cloned 18s rrna fragment confirmed sanger sequencing icbr (gu198749)
+?accession number? refers accession sequence ncbi (18s rrna) uf probename corresponding microarray probe
+transcripts: ctr1c copper transporter 1c tepii thiolester containing protein ii gst similar glutathione s-transferase stard7 star-related lipid transfer (start) domain containing 7
+copper transporter 1c (ctr1c) thiolester-containing protein ii (tepii) similar glutathione s-transferase (gst) start domain-containing protein 7 (stard7) evaluated real-time rt-pcr
+primers transcripts interest ( table 2 ) developed 454-derived cdna library sequences using primer3
+all primer sets verified using same cloning sequencing methods section cloning s
+gigas 18s ribosomal rna above
+638 bp clone 18s rrna used design second set primers more optimal real-time rt-pcr
+all other clones cloning primers used real-time rt-pcr
+plasmids containing cloned sequence used create standard curve consisting eight points serial dilution 1×102 through 1×109 copies/reaction
+real-time rt-pcr performed two step process
+step one 2 ?g dnase-treated rna reverse transcribed using invitrogen's superscript ii reverse transcriptase random primers
+step two real-time pcr reactions run using sybr green supermix (bio-rad hercules ca usa) per manufacturer's protocol bio-rad icycler real-time pcr thermal cycler using two-step protocol initial denaturation 95°c followed 40 cycles denaturation 95°c annealing extension 58°c during real-time quantification enabled
+following amplification dissociation curve run beginning 55°c increasing 95°c 0.5°c intervals every 10s
+standards experimental samples run duplicate along two negative controls gene: ?no reverse transcriptase (-rt)? control dnase-treated rna samples pooled water used place reverse transcriptase during reverse transcription reaction ?no template control (ntc)? water used place template cdna during real-time pcr reaction
+use 18s rrna reference gene rt-pcr validated measuring 18s rrna method described above 23 conch testis samples collected february 2007 june 2007 march 2009 ( figure 1 )
+initial quantity sample calculated 18s rrna copy number/ng total rna
+data analyzed jmp v8 using two-way anova factors ?collection (date)? ?location (os vs
+ns).? analysis showed nearly identical mean 18s levels between os ns no statistically significant difference according anova ( table s1 )
+while no reference gene perfect [22] [23] 18s rrna appears best internal reference experiment
+18s rrna expression does vary across some sites collection times but remarkably consistent samples here presented collected february 2007
+moreover least one commonly used reference gene ?-actin differentially regulated between ns os microarray study ( table s2 probename uf_sgi_af_101275) making poor candidate our internal reference real-time rt-pcr
+icp-ms used determine levels 58ni 65cu 66zn 88sr 107ag 111cd 118sn 202hg 238u blood digestive gland foot neural ganglia testis male conchs collected february june 2007 field collections (n?=?2-8 varying sample type)
+weighed tissue samples (approximately 50?200 mg) acid digested completion 0.5 ml 67?70% optima grade hno3 140° c 2 hours
+followed addition 0.5 ml 30% ultrapure h2o2 further digested 110°c until almost dry
+sample quantitatively diluted 5 ml using ultrapure water final concentration 2% hno3 filtered through 0.22 ?m nylon syringe filter
+reconstituted samples analyzed total metal content using xseries 2 icp-ms (thermo electron corporation winsford cheshire uk) 115in internal standard
+samples quantified against seven point standard curve standard concentrations 1 5 10 50 100 500 1000 ppb analyte
+lower limit detectability assay set 0.5 ppb analyte digested sample
+histological data analyzed using jmp v8 (sas cary nc usa)
+differences si analyzed using anova month nested within location
+student's t-test based least square means nested anova calculated jmp all month location combinations
+si tested homogeneity variance (levene's test) normality distribution (kolmogorov-smirnov test) values log10 transformed assumptions violated
+raw microarray data imported jmp genomics v3.1 analyzed follows: non-uniform spots flagged removed dataset
+next 590 rows not containing least two data points treatment group (os ns) deleted leaving 15154 rows analysis
+array data then median-centered prior performing one-way anova factor location (os/ns) identify differentially regulated transcripts (p<0.01 p<0.05 further analyses fdr?=?5%)
+hierarchical clustering analysis significant transcripts (p<0.01) performed using program cluster [24] visualized program java treeview [25] 
+data median-centered gene clustering based centered correlation complete linkage
+real-time rt-pcr data analyzed using kruskall-wallis non-parametric test calculator available http://elegans.wsmed.edu/~leon/stats/utest.html 
+icp-ms data imported jmp v7 analyzed difference means using two-way anova two factors being tissue location analysis followed post hoc tukey-kramer hsd test multiple comparisons (p<0.05)
+non-parametric correlation analysis spearman's ? calculated jmp
+microarray data functional enrichment analysis gene ontology terms performed fisher's exact test using fatigo tool within babelomics suite [26] 
+all terms nominal p-value p<0.05 (no post hoc correction) considered enriched
+finally pathway studio 7 (ariadne genomics rockville md usa) operating resnet 7.0 mammalian database updated zebrafish annotation used identify all shortest paths between genes falling under significantly enriched terms cellular processes order illustrate important connections within biological processes based human zebrafish ( danio rerio ) homologs
+testis tissue eight conchs (four os four ns) february 2007 seven conchs june 2007 (two os five ns) analyzed histopathology ( table 3 )
+all os conchs both months normal healthy testicular tissue present >75% histological section ( figure 2a )
+contrast amount testicular tissue present ns conchs lower os conchs both february june ( figure 2b c )
+differences gonadal development based reproductive phase not marked february between ns os conchs
+all conchs both locations testicular tissue undergoing active spermatogenesis february although higher percentage os conchs (75%) spawning capable compared ns conchs (50% table 3 )
+however there significant difference si between os ns conchs february (t11?=?2.606 p?=?0.024) os conchs having si value nearly 7 times greater ns value ( table 3 )
+
+testicular tissue offshore (os) spawning capable male february
+all os conchs captured june similar appearance
+b 
+testicular tissue nearshore (ns) developing male february
+c 
+testicular tissue ns male june showing little spermatogenic tissue spermatogenesis
+st?spermatogenic tissue vd?vas deferens
+data reproductive phases presented percentage
+data spermatogenic index (si) presented mean ± se
+superscripts indicate differences si (nested anova p<0.05)
+contrast june all os conchs spawning capable while only 60% ns conchs exhibited active spermatogenesis only one ns individual spawning capable ( table 3 )
+si nearly 45 times higher os conchs compared ns conchs june (t11?=?6.05 p<0.001 table 3 )
+overall both february june si significantly higher os conchs when compared ns conchs
+there no difference si between months os conch (t11?=?0.245 p?=?0.81) suggesting os conchs reproductively active february through june
+interestingly ns conchs si significantly higher february june (t11?=??4.49 p?=?0.0009 table 3 ) suggesting ns conchs unable maintain spermatogenic tissue during reproductive season
+sequencing produced total 64794458 bases across 286933 reads (average read length ?=?225.8 bases) ( table 4 )
+sequences submitted ncbi sequence read archive (sra) (experiment srx017250)
+sequences assembled 28010 contigs 7740 matched ncbi nr nt database e<1×10?4
+7740 annotated sequences least one go term assigned 3971 (51.3 percent) human homologues 2688 (34.7 percent) zebrafish homologues 2681 (34.6 percent)
+microarray designed probes corresponding all 7740 annotated sequences 7468 additional un-annotated sequences total 15208 user-defined elements
+?alias? refers run alias listed sra database
+255 differentially-regulated probes (58 up 197 down ns respect os conchs) identified anova (n?=?3 p<0.01 fdr?=?5%) ( figure 3 table s2 )
+less stringent p-value 1147 differentially-regulated probes (341 up 806 down) identified (p<0.05 fdr?=?5%) ( table s2 )
+based differentially-regulated probes all os ns individuals clustered separately one another indicating identified set transcripts show clear difference between two presumably outbred groups wild conchs ( figure 3 )
+differentially regulated genes predominantly down-regulated experiment cutoff p<0.01 proportion differentially regulated transcripts down-regulated 77.4 percent
+two most up-regulated probes annotation (p<0.01) similar glutathione s-transferase (gst 15.24-fold up-regulated ns) collagen 1 alpha 1 (col1a1 10.26-fold up-regulated ns)
+two most down-regulated probes annotation (p<0.01) riken cdna f730014i05 gene mouse genome sequence (13.83-fold down-regulated ns) dolichyl-phosphate mannosyltransferase polypeptide 2 regulatory subunit (dpm2 4.92-fold down-regulted ns)
+red color represents expression gene level greater row (gene) average blue color represents expression lower row average
+map shows clear distinction between nearshore (ns) offshore (os) testis samples based 256 differentially-regulated transcripts
+approximately one-fourth regulated transcripts up-regulated ns relative os majority down-regulated
+functional enrichment analysis based go terms biological process identified 11 significantly enriched terms differentially-regulated gene list ( table 5 )
+most significantly enriched term ?proton transport? under all but one seven differentially-regulated genes down-regulated
+another notable term ?small gtpase-mediated signal transduction.? ?spermatogenesis? twelfth term list (p?=?0.052)
+pathway analysis (pathway studio) further illustrated results enrichment analysis ( figure 4 ): most affected transcripts down-regulated (blue color) many transcripts found mitochondria there large number associations cell processes ?respiratory chain? ?cell proliferation? ?spermatogenesis? among others
+pathway studio (ariadne genomics) used find all shortest paths between human homologues genes falling under significantly enriched go biological processes testis
+red color represents up-regulation nearshore (ns) blue color represents down-regulation ns
+genes: arl1 zgc:92883 (adp-ribosylation factor-like 1) atp5b atp synthase h+ transporting mitochondrial f1 complex beta polypeptide atp5c1 atp synthase h+ transporting mitochondrial f1 complex gamma polypeptide 1 atp5g2 atp synthase h+ transporting mitochondrial f0 complex subunit c2 (subunit 9) atp5h atp synthase h+ transporting mitochondrial f0 complex subunit d crp si:ch211-234p6.13 ( danio rerio hypothetical protein) degs1 im:6909319 (degenerative spermatocyte homolog lipid desaturase) dgkz hypothetical loc571856 (similar diacylglycerol kinase iota) dnai2 dynein axonemal intermediate chain 2 dnajb13 dnaj (hsp40) related subfamily b member 13 gstm4 glutathione s-transferase mu 4 mov10 si:dkeyp-38g6.3 (moloney leukemia virus 10) napa n-ethylmaleimide sensitive fusion protein attachment protein alpha pgds prostaglandin d2 synthase hematopoietic pick1 hypothetical protein loc791503 ppme1 zgc:56239 (protein phosphatase methylesterase 1) psme4 hypothetical loc561538 (proteasome (prosome macropain) activator subunit 4) rab1a rab1a member ras oncogene family rabl4 rab member ras oncogene family-like 4 rap1a rap1a member ras oncogene family sars2 seryl-trna synthetase 2 mitochondrial slmo2 slowmo homolog 2 (drosophila) (similer kiser) vapa (vamp (vesicle-associated membrane protein)-associated protein 33 kda
+organelles clockwise top center: mitochondrion endoplasmic reticulum golgi complex nucleus
+?% dr? refers percent differentially regulated transcripts falling under term ?% other? refers percent all other transcripts go annotation fall under term
+p-value raw (nominal) p-value fisher's exact test
+efficiencies real-time rt-pcr assays here reported ranged 92.5 percent 108.6 percent ( table 6 ) their correlation coefficients ranged 0.988 0.999
+difference between threshold cycles last experimental sample amplify first negative control well amplify any reaction least 6.49 cycles 9.83 cycles ?rt ntc controls respectively
+assay dissociation curve indicated single amplicon produced
+real-time rt-pcr (n?=?4) two four genes stard7 tepii significantly differentially regulated (p?=?0.029 0.014 respectively) direction regulation same determined microarray
+fold-change similar determined microarray stard7(1.87 real-time rt-pcr compared 2.31 microarray) but smaller tepii (5.66 real-time rt-pcr compared 29.66 microarray)
+gst fold-change smaller but direction regulation (4.71-fold up-regulated ns) similar determined microarray (15.24-fold up-regulated ns)
+difference real-time rt-pcr not significant according kruskall-wallis test (p?=?0.100)
+one gene ctr1c direction regulation determined real-time rt-pcr opposite determined microarray though difference essentially zero (1.03-fold down ns rt-pcr compared 1.74-fold up ns microarray)
+change not significant kruskall-wallis (p?=?0.443)
+therefore rt-pcr results similar microarray though transcript's fold change statistical significance reduced when measured rt-pcr compared microarray
+real-time rt-pcr values normalized 18s rrna (18s rrna efficiency ?=?108.6%)
+?direction? regulation given nearshore samples respect offshore
+transcripts: ctr1c copper transporter 1c tepii thiolester containing protein ii gst similar glutathione s-transferase stard7 star-related lipid transfer (start) domain containing 7
+icp-ms results all nine analytes given table s3 (sample size varies: n?=?2?8/group specifically enumerated table s3 )
+66zn present significantly higher level digestive gland ns conchs (831.85 ng/mg) os conch digestive gland (84.53 ng/mg) any other tissue either site ( figure 5a )
+addition although not statistically significant concentration zn ns testis (83.96 ng/mg) approximately 15-fold higher os testis (5.43 ng/mg) ( figure 5a )
+65cu conversely not significantly higher any ns tissue means compared corresponding os means
+however there non-significant (p?=?0.65) approximately five-fold difference between 65cu levels ns (34.77 ng/mg) os (6.60 ng/mg) gonad ( figure 5b table s3 )
+tissue term two-way anova concentrations 58ni 66zn 111cd 238u significantly higher digestive gland any other tissue
+118sn despite being detected only very low concentrations samples found its highest concentrations neural ganglia
+65cu levels highest blood molluscs contains copper-based hemocyanin pigment [27] 
+letters indicate significant difference 2-way anova two factors tissue location followed tukey-kramer hsd (p<0.05)
+note different y-axis cu zn
+break zn data (a) omits 150?800 ng/mg
+dg ?=? digestive gland ng ?=? neural ganglia
+correlation analysis based testis histological conditions (n?=?7?8) metal concentrations testis digestive gland (n?=?3?8) expression levels differentially-regulated transcripts under go biological processes spermatogenesis small gtpase-mediated signal transduction determined microarray (n?=?3) ( table 7 )
+si significantly inversely correlated digestive gland zn (??=??0.655) inversely correlated digestive gland cu (??=??0.509) though not statistically significant (p?=?0.110)
+digestive gland zn significantly inversely correlated four 11 transcripts included analysis gonad zn correlated two 11
+si significantly correlated six 11 genes analysis
+?si? refers spermatogenic index determined histologically
+?dg? refers digestive gland
+transcripts: psme4 proteasome activator subunit 4 kiser similar kiser dnajb13 dnaj related subfamily b member 13 degs1 degenerative spermatocyte homolog 1 lipid desaturase rras related ras viral oncogene homolog rab1b ras-related protein 1b rab1a rab1a member ras oncogene family tiam1 t-cell lymphoma invasion metastasis 1 rabl4 rab member ras oncogene family-like 4 arl1 adp ribosylation factor-like 1 4r79.2 4r79.2 hypothetical protein
+boldface values indicate significance (p<0.05)
+testis histological data gathered study show strong difference between ns os conchs terms development throughout reproductive season ( table 3 figure 2 )
+queen conchs ns sites dramatically less spermatogenic tissue relation os conchs both february june
+additionally spermatogenesis somewhat reduced february markedly reduced june ns conchs during peak conch reproductive season
+si values give clear picture reduction spermatogenic capability ns conchs during both february june highlight decrease spermatogenic capability ns conchs between february june
+although all ns conchs undergoing active spermatogenesis february there evidence developmental delay february lower percentage ns conchs spawning capable compared os conchs well evidence significant regression february june
+histological data june collections show ns conchs unable maintain reproductive capability throughout spawning season
+while all os conchs collected june high si values spawning capable only 20% ns conchs spawning capable all very low si values
+current study only presents histological data physiological anchor gene expression two sites florida keys
+while we acknowledge site-specific effects may play large role testis development observations mirror results conchs collected similar ns os areas florida keys 1999 [2] suggesting ns conchs show persistent long-term reduction reproductive capability
+moreover histology here reported showed more dramatic reduction reported 1999
+results complement results our microarray icp-ms experiments
+ns conch testis transcription differed os go biological processes proton transport (go:0015992) spermatogenesis (go:0007283) small gtpase-mediated signal transduction (go:0007264) others ( table 5 figure 4 )
+supports specific hypothesis (1) suggests inhibition small gtpase (ras)-mediated signaling ns testis contributes ns reproductive failure
+icp-ms analysis indicated cu zn elevated some ns conch tissues providing preliminary support specific hypothesis (2) creating hypothesis cu zn may causative factor reproductive failure ns conchs florida keys
+important note site-specific differences metal concentrations gene expression surely exist
+future studies will incorporate metal gene expression data additional sites determine whether differences parameters consistent histological differences observed throughout ns os florida keys
+gene expression analysis conch testis reveals logically spermatogenesis-associated transcripts down-regulated ns
+correspondingly mitochondrial transcripts significantly down-regulated ns testes
+effects proton transport identified go enrichment analysis could either cause result observed reduction spermatogenesis ns testes given important role mitochondria spermatozoa sperm maturation [28] ? [30] 
+our finding likely result reduction mature spermatozoa consequent numeric reduction mitochondria ns testes opposed os
+under biological process go:0007283 spermatogenesis we identified differentially regulated transcripts major roles spermatogenesis species ranging drosophila humans including degenerative spermatocyte homolog 1 (degs1) [31] similar kiser (homologous slowmo) [32] proteasome activator subunit 4 (psme4/pa200) [33] dnaj related subfamily b member 13 (dnajb13) [34] [35] related tsarg genes rats [36] mice [37] nuclear autoantigenic sperm protein (histone-binding) (nasp) [38] 
+genes important process spermatogenesis wide range species appear conserved queen conch all down-regulated ns present study
+surprising result go enrichment analysis enrichment term ?small gtpase-mediated signal transduction.? most genes under term related ras-gtpases proto-oncogenes involved mammalian tumor formation developmental disorders [39] 
+seven genes fall under go term differentially regulated our experiment including related ras viral oncogene homolog (rras) ras related protein 1b (rap1b) rab1a member ras oncogene family t-cell lymphoma invasion metastasis 1 (tiam1) rab member ras oncogene family 4-like (rabl4) adp ribosylation factor-like 1 (arl1) 4r79.2 hypothetical gtp-binding protein identified caenorhabditis elegans 
+all genes down-regulated exception tiam1 ( table s2 )
+ras function been described invertebrates including ascidians ras signaling involved embryonic tissue development [40] drosophila rap1 involved cell adhesion polarity during epidermal growth factor receptor-mediated tissue growth [41] 
+ras genes known involved vertebrate invertebrate testis development
+ras-cyclin d2 pathway involved mouse spermatogonial stem cell development vitro [42] 
+mapk rap-gef signaling pathways involved testis development renewal drosophila [43] 
+therefore ras-gtpase signaling may play major role conch testis tissue growth differentiation
+histological si correlated six 11 differentially regulated transcripts involved spermatogenesis small gtpase-mediated signaling ( table 7 )
+suggests transcription genes indicative overall maturation testis tissue queen conchs perturbation normal transcription genes detrimental spermatogenesis
+transcripts evaluated real-time rt-pcr selected based their differential regulation between ns os according microarray study ( table s2 ) their varied interesting biological functions
+go biological processes gene products include: ctr1c copper transmembrane transport tepii antibacterial humoral response gst glutathione metabolic process stard7 no biological process (but related steroidogenic acute regulatory (star) protein)
+results our real-time rt-pcr assays largely successful validating changes observed microarray study
+tepii gst stard7 confirmed real-time rt-pcr though gst result not statistically significant
+ctr1c however essentially unchanged between ns os samples real-time rt-pcr 1.03-fold change direction opposite determined microarray
+difference results between platforms possibly due part small sample size (n?=?4) used both assays increased sample size would lend power analyses
+unfortunately permitting regulations limit sample size protected species such s
+gigas 
+possible ctr1c our probe designed region homology other proteins isoforms slc31 family copper transporters causing lack consistency between microarray real-time rt-pcr
+changes tepii gst stard7 may indicate stressors affecting ns conchs cause changes immune response xenobiotic metabolism/redox balance steroidogenesis respectively
+however single gene changes so should interpreted carefully
+our icp-ms data indicated cu zn two known reproductive toxicants gastropods elevated some ns conch tissues
+our study included other analytes known toxic effects including ni ag cd sn hg u
+sr included due its role shell-building known physiologically beneficial gastropods low doses but toxic high levels [44] 
+however few differences observed latter seven analytes
+effects cu zn gastropod reproductive output been well-documented although most examples relate females
+laboratory exposures cu resulted reduced fecundity helix aspersa [6] reduced egg-laying dose-dependent reduction hatching pomacea palludosa [7] copper oxychloride reduced oocyte number ovotestis helix aspersa [8] 
+zn exposures likewise impacted reproduction numerous studies resulting reduced fecundity population growth rate valvata piscinalis [10] reduced fecundity helix aspersa [6] effluent containing zn cd fe mortality reduced egg laying lymnaea palustris [9] 
+general point sources heavy metals south florida include storm water runoff roadway contaminants septic system leachate boats may responsible high levels hg pb zn cu waterways [12] 
+elevated cu zn cr hg pb ni levels been identified biscayne bay adjacent city miami well outflow canals [11] 
+additionally heavy metals including cu zn been detected sediments seagrass beds both habitats occupied conchs well surface waters multiple sites throughout south florida cu sometimes exceeding guidelines aquatic life sediment quality [13] 
+taken together information suggests potential sources cu zn contamination exist florida keys likely primarily land close shore further supporting plausibility metals interfering ns testis development
+present study zn elevated digestive gland possibly gonad ns conchs ( figure 5a )
+coupled knowledge zn causes reduced fecundity other gastropod species [6] [9] finding suggests zn may contribute reproductive failure ns conchs
+observed ns digestive gland mean concentration 831.85 ng zn/mg tissue similar body burden observed (approx
+200?500 µg zn/g tissue) effluent treatments resulting mortality reduced fecundity lymnaea palustris [9] 
+while available data literature focus female-mediated reproductive inhibition measured reduced fecundity studies fecundity may miss mechanistic effects both males females
+further while gonad apparent site action any potential toxicant accumulation zn digestive gland present study likely significant finding
+digestive gland adjacent gonad believed site metal accumulation detoxification gastropods [45] ? [48] 
+while recent study indicates zn concentrations testis japanese eel anguilla japonica track progression spermatogenesis [49] important note excess zn external sources could still deleterious effect possible present study
+relationship between zn spermatogenesis likely complex should subject further study
+no significant differences cu concentrations within any tissue found between ns os
+mean concentration 34.77 ng cu/mg tissue observed ns conch testis study still only fraction toxic levels accumulated studies rogevich et al
+[7] (396.60 ng cu/mg tissue) snyman et al
+[8] (260.47 ng cu/mg tissue) but approximately five times os mean 6.60 ng cu/mg tissue
+further aforementioned studies measured whole body cu rather tissue-specific accumulation
+blood levels cu our study (40.18 ng cu/mg tissue ns 58.90 ng cu/mg tissue os) highest any tissue would difficult separate cu contribution hemocyanin tissue amount actually bound up cells
+other words blood cu bound hemocyanin might obscure differences between tissues
+therefore cu might still factor ns reproductive failure future studies will attempt test possibility
+should noted many environmental factors could considered stressors complex environmental mixture all real-world situations multiple stressors likely involved our ns sites
+inverse correlations between cu zn concentrations digestive gland si ( table 7 ) provide support argument accumulation metals including zn possibly cu conch digestive gland affects development conch testis
+hypotheses will examined future studies
+approximately 60000 extant gastropods make up largest class within 100000-member phylum mollusca second-largest animal phylum [50] 
+however very little work been done area gastropod genomics
+pubmed search ?gastropod microarray? 16 july 2010 yielded only 14 results one non-germane
+two remaining 13 papers discussed toxicogenomics tool understanding endocrine disruption invertebrates [51] [52] 
+remaining 11 papers applied only five genera gastropods: helix [53] lymnaea [54] haliotis [55] aplysia [56] biomphalaria [57] [58] schistosomes use both humans gastropods hosts [59] ? [63] 
+fielded search ?gastropoda[organism]? geo yielded only 13 results consisting two submissions here reported addition two platforms (gpl3635 gpl3636) two gene expression datasets (gse4628 gse18783) aplysia californica one platform (gpl7421) one gene expression dataset (gse13039) haliotis asinina two platforms (gpl9129 gpl9483) two gene expression datasets (gse16596 gse18705 gse22037) biomphalaria glabrata 
+use high-throughput sequencing allowed us make significant contribution growing field
+still aside several heavily studied genera one ( biomphalaria ) direct importance human health entire realm gastropod genomics remains developed
+study provided new information regarding reproductive failure ns conchs florida keys
+major findings study include following: first failure ns conchs reproduce coupled reduction ns testis development previously reported [2] premature regression ns testis
+second microarray results indicate reduced testis tissue ns male conchs concurrent decrease expression many genes related spermatogenesis mitochondrial function
+transcription small gtpase-related signaling genes clearly affected may contribute lack testis tissue development but requires further study
+finally study supports hypothesis heavy metals may contribute reproductive failure ns conchs
+zn possibly cu elevated ns conch digestive gland zn may elevated testis
+given zn cu known reduce gastropod fecundity possibility same metals may inhibit gametogenesis both males females merits further consideration
+note study characterized effects ns environment reproductive tissue male conchs
+while many gastropod reproduction studies rely egg-laying (i.e
+female-mediated effects) measure average reproductive success [6] ? [10] phenomenon observed ns florida keys affects both males females [2] [3] 
+conchs rely mate-pairing copulation [4] rather broadcast spawning other mating strategies would require fewer reproductive males
+logically lack male reproductive maturity could significant impact conch population
+future studies will aim assess transcriptional effects ovaries affected ns females addition males
+although testicular regression ns conchs appears persistent problem florida keys apparently reversible level individual many ns conchs transplanted os areas become spawning capable [2] 
+suggests transcriptional effects immediately transiently respond environmental factors play important role understanding disparity conch reproduction ns os well identifying responsible factors
+therefore combination microarray studies more traditional approaches will yield useful information managers work facilitate recovery ns queen conch populations florida keys
+validation 18s rrna reference gene real-time rt-pcr
+?tukey? denotes whether interaction term tissue*os/ns significantly different anova (only p<0.05) followed tukey-kramer hsd multiple comparisons
+within analyte values not connected same letter significantly different
+*ns samples 06/2007 contaminated digestive gland
+microarray real-time rt-pcr reported present study conducted 02/2007 samples
+(0.03 mb doc) click here additional data file
+list all differentially regulated probes microarray experiment (p<0.05 fdr?=?5%)
+no gene h3 given probes insufficient annotation
+?diff treatment ?=? (ns)-(os)? gives log2-transformed fold change respect ns (os control)
+p-value determined one-way anova (fdr?=?5%)
+(0.15 mb xls) click here additional data file
+icp-ms analysis
+?tukey? denotes whether interaction term tissue*os/ns significantly different anova (only p<0.05) followed tukey-kramer hsd multiple comparisons
+within analyte values not connected same letter significantly different
+(0.11 mb doc) click here additional data file.

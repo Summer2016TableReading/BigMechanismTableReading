@@ -1,0 +1,123 @@
+122
+table 1 ras/raf/mek signal pathway inhibitors agent class inhibitor target protein(s) reference sorafenib multikinase inhibitor c-raf b-raf vegf-2 -3 pdgf flt-3 c-kit [ 27 â?? 30 ] tanespimycin (kos-953 17-agg) hsp90 inhibitor hsp90 (client proteins b-raf akt others) [ 31 ] raf265 multikinase inhibitor mutant b-raf vegfr-2 [ 32 ] plx4032 plx4720 selective b-raf kinase inhibitor mutant b-raf [ 33 ] pd0325901 non-atp-competitive specific mek inhibitor mek1 2 [ 32 ] azd6244 non-atp-competitive specific mek inhibitor mek1 2 [ 34 ] tipifarnib (r115777) farnesyl transferase inhibitor prenylated proteins [ 35 36 ]
+chemotherapy biological agents combinations both little impact survival patients metastatic melanoma
+advances understanding genetic changes associated development melanoma resulted availability promising new agents inhibit specific proteins up-regulated signal cell pathways inhibit anti-apoptotic proteins
+sorafenib multikinase inhibitor raf/ras/mek pathway elesclomol (sta-4783) oblimersen (g3139) antisense oligonucleotide targeting anti-apoptotic bcl-2 phase iii clinical studies combination chemotherapy
+agents targeting mutant b-raf (raf265 plx4032) mek (pd0325901 azd6244) heat-shock protein 90 (tanespimycin) mtor (everolimus deforolimus temsirolimus) vegfr (axitinib) showed some promise earlier stages clinical development
+receptor tyrosine-kinase inhibitors (imatinib dasatinib sunitinib) may role treatment patients melanoma harbouring c-kit mutations
+although often studied single agents disappointing results new targeted drugs should more thoroughly evaluated combination therapies
+future rational use new targeted agents depends successful application analytical techniques enabling molecular profiling patients leading selection likely therapy responders
+treatment melanoma once metastasised beyond locoregional sites remains unsatisfactory
+range different treatments based chemotherapy biological agents combination both (reviewed elsewhere) little impact survival [ 1 ? 3 ]
+single-agent chemotherapy produces responses 10?20% patients advanced melanoma although there no evidence translates survival advantage
+complete responses occur ?2% cases median survival associated chemotherapy 9 months 13% patients alive 2 years [ 4 ]
+commonly used compounds include dacarbazine (dtic) temozolomide fotemustine cisplatin carboplatin vinblastine paclitaxel docetaxel [ 5 ]
+single agent dtic been most commonly used even when not been formally compared other agents observation alone
+usual dose 1000 mg/m2 every 3?4 weeks (given either 1 day five daily doses 200 mg/m2)
+some centres substitute dtic temozolomide its convenience administration [ 2 ]
+temozolomide demonstrated efficacy equal dtic phase iii trial dose 200 mg/m2/day 5 days every 28 days [ 6 ]
+recent results large randomised phase iii trial (eortc 18032) examined efficacy extended schedule temozolomide (week on-week off 150 mg/m2/day 7 days repeated every 14 days) compared standard dose single-agent dtic showed no difference overall survival (os) progression-free survival (pfs) overall response rate (orr) between two arms [ 7 ]
+combination chemotherapy associated response rate 30?50% but <5% complete responses median survival 9 months [ 2 5 ]
+better-known combinations cisplatin?vinblastine?dacarbazine (cvd) cisplatin?dacarbazine?bcnu?tamoxifen (dartmouth regimen) [ 8 9 ]
+although preliminary reports favoured use regimens over single-agent chemotherapy further comparisons dtic alone did not show differences survival even response rate [ 10 ]
+addition combination chemotherapy produces significant toxicity
+poor results single-agent combination chemotherapy regimens remained unchanged decades underscore need application fundamentally different strategies treatment advanced melanoma
+substantial advances been made understanding genetic changes associated onset malignancy
+reviewed elsewhere [ 11 ] consensus emerging about primary events involved development melanoma largely comparative genome hybridisation (cgh) [ 12 ]
+include (a) up-regulation ras/raf/mek pathway [ 12 13 ] (b) down-regulation retinoblastoma protein (rb) increased cyclin d1 cdk4 activity [ 12 14 ] (c) inactivation cdkn2a p16 suppressor cdk4 6 >50% melanoma [ 12 15 ]
+activating mutations c-kit fgf may occur some melanoma [ 16 ]
+inactivation cdkn2a gene may affect production p14 arf (alternate reading frame) important maintenance p53 protein levels inhibiting hdm2-mediated ubiquitination p53 leads its degradation
+numerous studies shown several signal pathways related survival cancer cells frequently up-regulated melanoma
+arguably most important raf/ras/mek pathway involved proliferation resistance apoptosis
+pathway turned activating mutations nras braf endogenous receptor?ligand interactions
+importantly activation pathway shown related progression disease [ 17 ] resistance apoptosis [ 18 19 ]
+another survival pathway pi3k/akt3 pathway activated 5?10% melanomas mutation phosphatase tensin (pten) protein receptor?ligand interactions activating mutations nras [ 20 ? 22 ]
+src/stat3 pathway reported variably activated some melanoma lines metastatic melanoma vivo [ 23 ]
+expression c-met/hgf receptors associated progression melanoma [ 24 ? 26 ]
+number new drugs been developed target members pathways
+summarised tables 1 2 
+many agents still being evaluated preclinical studies very few been evaluated randomised phase iii studies
+sorafenib multikinase inhibitor selectivity b-raf c-raf vegfr-2 -3 platelet-derived growth factor receptor (pdgfr) c-kit
+when used single agent stabilised disease 19% stage iv patients when given carboplatin paclitaxel induced promising objective responses pfs [ 27 ]
+randomised phase ii trial comparing dtic without sorafenib twice-daily 400 mg doses conducted 101 patients
+group receiving sorafenib pfs 21.1 weeks compared 11.7 weeks dtic-alone group
+response rates 24% 12% respectively [ 28 ]
+another phase ii trial complex design investigated sorafenib combination temozolomide
+again encouraging response rates reported [ 29 ]
+skin rashes haematologic toxicity main side-effects reported
+phase iii trial recruited 270 patients second-line study compared carboplatin plus paclitaxel without sorafenib
+median pfs 17.9 17.4 weeks placebo sorafenib groups respectively
+orr 11% both groups [ 30 ]
+although addition sorafenib did not improve pfs orr second-line patient population utility carboplatin plus paclitaxel sorafenib chemotherapy-naïve advanced melanoma patients remains determined
+eastern cooperative oncology group (ecog) conducting similar trial previously untreated patients now closed accrual (ecog 2603)
+results trial further studies sorafenib plus dtic awaited interest
+ras/raf/mek signal pathway inhibitors akt receptor tyrosine kinase (rtk) stat signal pathway inhibitors specific mek inhibitor azd6244 evaluated randomised phase ii trial 200 patients stage iv melanoma
+patients randomised azd6244 temozolomide recently reported results indicate there no significant difference pfs between those arms [ 34 ]
+however azd6244 monotherapy resulted lasting remissions mainly patients documented b-raf mutations
+combinations other agents such taxanes being planned
+taxanes known activate anti-apoptotic mek pathway [ 48 ] combination therapy inhibitors pathway may beneficial
+other two b-raf inhibitors raf265 plx4032 ( table 1 ) high affinity mutated b-raf dose-finding early phase ii studies
+mek-specific inhibitor pd0325901 associated some retinal disturbances its further evaluation halted
+tanespimycin (kos-953) inhibitor heat shock protein 90 (hsp90) targets proteins protected (chaperoned) hsp90
+includes raf akt other signal pathway proteins
+drug tested phase ii study previously treated stage iv melanoma patients administered twice weekly 2 weeks out 3 weeks
+results treatment 14 patients met criteria further evaluation second stage trial [ 31 ]
+another group farnesyl transferase inhibitors should theory inhibit activation ras
+however when used single agent group drugs been disappointing [ 35 36 ]
+most agents table 2 early stages investigation listed indicate rich supply agents remain evaluated treatment melanoma
+given activation akt pathway been implicated resistance chemotherapy [ 22 ] trials inhibitors pathway downstream targets such mtor gsk3? hdm2 awaited much interest
+key downstream target akt?mtor exists two complexes mtorc1 mtorc2
+latter not inhibited rapamycin its analogues believed responsible rapamycin-induced activation akt pkc-? [ 49 ]
+newer inhibitors target mtorc2 complex those inhibit both pi3k mtor (xl765) should avoid problem
+xl765 proved well-tolerated phase i studies [ 42 ]
+rich supply inhibitors receptor tyrosine kinases (rtks) such those against bcr-ab1 c-kit pdgfr epidermal growth factor receptor (egfr) c-met src may role treatment some melanomas
+example high percentage mucosal acral melanoma some cutaneous melanoma amplified mutated c-kit may respond imatinib sunitinib dasatinib [ 44 45 ]
+four phase ii trials sunitinib imatinib patients c-kit melanoma mutations ongoing
+subgroup melanoma overexpression phosphorylated c-kit cdk4 resistant b-raf inhibitors but sensitive imatinib [ 50 ]
+several agents indeterminate action such histamine [ 51 ] lenalidomide (cc-5013) [ 52 ] no longer under investigation
+elesclomol (sta-4783) new agent appears increase reactive oxygen species
+results recent randomised phase ii study elesclomol combination paclitaxel indicated significant benefit chemotherapy-naïve patients pfs (hr?=?0.315 p ?=?0.02) [ 53 ]
+evaluation combination therapy progressed phase iii trial [ 54 ]
+axitinib (ag-013736) oral inhibitor vegfr-1 -2 -3 c-kit pdgr-? pdgr-? early stage evaluation melanoma [ 55 ] recent results phase ii study demonstrated its single-agent activity subgroup melanoma patients [ 56 ]
+another group new drugs targets anti-apoptotic proteins
+mitochondria-dependent apoptotic pathways regulated mainly bcl-2 family proteins reviewed elsewhere [ 57 ? 60 ] consists family bh3-only pro-apoptotic proteins two multi-domain pro-apoptotic proteins (bax bak) several multi-domain anti-apoptotic proteins (bcl-2 bcl-xl bcl-w mcl-1 a1)
+one model binding anti-apoptotic proteins bh3 proteins displaces bax bak anti-apoptotic proteins allowing them bind mitochondria induce mitochondrial outer membrane permeabilisation (momp) [ 58 61 ]
+certain bh3 proteins selectivity different anti-apoptotic proteins
+particular noxa binds selectively mcl-1
+latter binds bak hence noxa may displace bak mcl-1 allowing bind mitochondria [ 62 63 ]
+particular interest immunohistological studies tissue sections melanoma shown mcl-1 bcl-xl increase expression progression disease whereas bcl-2 decreased during progression disease [ 64 ]
+further studies needed define regulators proteins more closely particularly mcl-1 current studies suggest up-regulated part unfolded protein response endoplasmic reticulum stress [ 65 ]
+findings important design treatment strategies melanoma
+shown table 3 number new agents used clinically target anti-apoptotic proteins
+oblimersen antisense agent targeted mitochondrial bcl-2
+results randomised phase iii trial comparing dtic combined oblimersen dtic alone 771 patients showed improved pfs (2.6 months compared 1.6 months p ?<?0.01) response rate (13.5% compared 7.5% p ?=?0.007) but no statistical difference overall survival (9.0 months compared 7.8 months p ?=?0.077) [ 66 ]
+problems study design failure measure tumour bcl-2 expression made results difficult interpret
+significant interaction between baseline serum lactate dehydrogenase (ldh) treatment noted oblimersen significantly increasing survival patients normal ldh (11.4 months compared 9.7 months p ?=?0.02)
+another agent abt-737 high affinity bcl-2 bcl-xl bcl-w but not mcl-1
+preclinical studies shown many tumours resistant agent due its failure inhibit mcl-1 cancer cells down-regulation mcl-1 resulted sensitivity abt-737 [ 68 69 ]
+abt-263 orally active form abt-737 [ 70 ]
+sorafenib mek inhibitors may down-regulate mcl-1 may thus useful combination studies
+shown table 3 however number protein inhibitors selectivity all anti-apoptotic proteins
+one inhibitors obatoclax now preliminary trials patients haematological malignancies [ 75 ] shown overcome mcl-1 resistance apoptosis [ 76 ]
+stage we would expect broad-spectrum inhibitors would more effective when given combination treatment induces apoptosis such immunotherapy chemotherapy
+targeting anti-apoptotic proteins we may already agents would control disease targeted patient subgroups given appropriate combinations
+number new agents various stages clinical evaluation
+current strategy testing new targeted drugs single agents necessary but should regarded first step evaluation agent future combination other agents
+example agents induce apoptosis such taxanes platinum compounds immunotherapy combined agents inhibit anti-apoptotic proteins
+failure drug single agent probably no guide ultimate effectiveness drug when given combination planning trials combined agents would appear important part drug evaluation (e.g
+carried out evaluation elesclomol?paclitaxel combination)
+future research will need develop approaches help select subgroups patients more likely respond particular agents
+combining high-density single-nucleotide polymorphism arrays mutation analysis relevant oncogenes might provide rational basis sophisticated use new agents treatment melanoma [ 77 ]
+improve outcome melanoma treatments determine biological mechanisms efficacy failure future studies small molecules targeted therapies will require strict monitoring biological end points
+l
+bastholt advisory role schering plough celgene pfizer genmab astrazeneca received honoraria educational lectures schering-plough astrazeneca v
+chiarion-sileni received research funding bristol-myers squibb synta provided expert testimony schering-plough g
+cinat served advisor pfizer received lecture honoraria pfizer r
+dummer received research funding astrazeneca novartis cephalon merck sharp & dohme transgene bayer served consultant advisory boards astrazeneca novartis cephalon merck sharp & dohme transgene genta bayer schering plough a
+m
+m
+eggermont been consultant schering-plough e
+espinosa received honoraria schering-plough a
+hauschild served advisory boards onyx pharmaceuticals/bayer (usa/germany) astrazeneca (germany) synta pharmaceuticals/glaxosmithkline genta pharmaceuticals (usa) c
+robert advisory role bayer pfizer bristol-myers squibb johnson & johnson novartis d
+schadendorf advisory role bristol-myers squibb astrazeneca glaxosmithkline schering-plough synta pharmaceuticals bayer altona received research support schering-plough.

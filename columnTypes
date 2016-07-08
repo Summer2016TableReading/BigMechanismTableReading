@@ -1,0 +1,100 @@
+0:1-2 character string
+1:Range with special characters
+2:Protein/Gene
+3:Decimal with Error Range
+4:Decimal with Error Range
+5:Decimal with Percentage
+6:Primer
+7:Protein/Gene
+8:Medium English Word
+9:Percentage Change
+10:Protein/Gene (multiple Accession Type)
+11:miRNA identifier (mixed numbers and letters)
+12:Short Description (letters and numbers)
+13:Set of two numbers (likely References)
+14:Long English Word
+15:ID
+16:Decimal number
+17:Percentage
+18:Percentage
+19:Complex range
+20:Integer range or Reference
+21:Medium Long English Phrase
+22:Medium English Phrase
+23:Decimal with Error Range
+24:List of Protein/Gene
+25:Gene with ID/descriptions
+26:Medium Description (with numbers)
+27:Primer
+28:Short Description (with numbers and special characters)
+29:Integer with Percentage
+30:Medium English Description (with number)
+31:Accession Number
+32:Inconclusive
+33:Short English Phrase (long words)
+34:Short English Phrase
+35:Description with Reference
+36:Uniprot (and similar syntax)
+37:Medium Long English Phrase
+38:Short Description (author)
+39:Location
+40:Primer
+41:Swiss-Prot or two genes (and similar syntax)
+42:List of Protein/Gene
+43:1 or 2 character string (noisy)
+44:Long English Word (or dash separated description)
+45:Gene with other/Cell line (similar syntax)
+46:Statistical Value
+47:Medium English Description (with number)
+48:Decimal with Range
+49:Medium English Phrase
+50:(3 digit number, may be decimal)
+51:Score with Range
+52:Short English Description
+53:Categorical Features
+54:Complex range or multiple IDs
+55:Medium Description (could be protein)
+56:Possible Protein Description
+57:Inconclusive
+58:Short English Phrase
+59:Medium Description
+60:Possible Author Reference (Numbers, special, and letters)
+61:Medium Long English Word
+62:Primer
+63:(decimal range)
+64:Inconclusive
+65:(groups of numbers (2-3))
+66:(2-3 digit decimals)
+67:Short Similar Characters
+68:Medium English Phrase with Biological Abbr.
+69:(1-2 decimal numbers with special char)
+70:Protein/Gene
+71:Short English Phrase
+72:2-3 character string
+73:Short Medium English Phrase with Numbers
+74:Primer
+75:Inconclusive
+76:Number with special character
+77:Gene/Protein
+78:Methods
+79:References
+80:(1-3 digit decimals)
+81:Medium Long English Description
+82:Short Description
+83:Medium Chemical Related Phrases
+84:Short English Phrase
+85:Short word
+86:(3 digit decimal)
+87:Function
+88:Medium English Phrase (with Abbr/Acr/Num)
+89:Short English Phrase
+90:Data (x/x likely) (with Percentage)
+91:Name with Reference
+92:References
+93:Sequence
+94:Primer
+95:Functions/Properties
+96:Medium English Phrase
+97:Short English Phrase
+98:Categorical Features
+99:Range

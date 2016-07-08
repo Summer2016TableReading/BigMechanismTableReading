@@ -1,0 +1,225 @@
+224
+table 3 summary individual cases eoc genetic alterations pik3ca braf kras genes kras mutation pik3ca mutation braf mutation case number exon/codon nucleotide exchange amino acid pik3ca amplify exon/codon nucleotide exchange amino acid exon/codon nucleotide exchange amino acid 1 normal 20/1047 c t>c g t his>arg 2 normal 20/1056 g at> asp>asn 3 normal 20/1115 t c t>t t t ser>phe 4 normal 9/542 g aa> aa glu>lys 5 normal 9/545 g ag> ag glu>lys 6 normal 9/530 c g>c g g gln>arg 7 1/12 g g t>g t t gly>val normal 8 1/13 g g c>g c gly>asp normal 9 1/12 g g t>g t gly>asp normal 10 normal 15/594 g g t>g t asp>gly 11 normal 15/600 g t g>g g g val>gly 12 normal 15/600 g t g>g g val>glu 13 amplified 14 amplified 15 amplified
+pi3k/aktsignaling pathway plays important role cell growth proliferation tumorgenesis various malignancies
+signaling pathway been shown frequently altered several human cancers including ovarian cancers
+however role oncogenic signaling pathway not been explored middle eastern epithelial ovarian cancer (eoc)
+therefore we investigated pi3k/akt genetic alterations such pik3ca amplification pik3ca mutation pten protein loss their relationships various clinicopathological characteristics 156 eocs
+fluorescence situ hybridization (fish) technique dna sequencing used analyze pik3ca amplification mutation respectively
+expression pik3ca protein expression (p110 ?) pten p-akt ki-67 analyzed immunohistochemistry
+pik3ca amplification seen 54 152 (35.5%) eoc cases analyzed pik3ca gene mutations 6/153 eoc (3.9%) kras mutations 3/154 eoc (1.9%) braf mutations 3/156 eoc (1.9%) p53 mutation 50/154 eoc (32.5%) loss pten protein expression 33/144 eoc (22.9%)
+p110 ? overexpression associated increased phosphorylation akt-ser 473 proliferation marker ki-67
+our data showed mutual exclusivity between molecular event pik3ca amplification mutations pik3ca kras braf genes suggests alterations may individually sufficient drive ovarian tumor pathogenesis independently
+high prevalence genetic alterations pi3k/akt pathway middle eastern ovarian carcinoma provides genetic evidence supporting notion dysregulated pi3k/akt pathways play important role pathogenesis ovarian cancers
+ovarian carcinoma most lethal gynecological malignancy because most tumours detected advanced stages [ 1 2 ]
+fifth leading cause cancer-related death among u.s
+women
+middle eastern ovarian cancer similar pattern incidence been seen [ 3 ]
+epithelial cancer ovary derives malignant transformation epithelium ovarian surface contiguous peritoneal mesothelium [ 4 5 ]
+epithelial ovarian neoplasms subclassified histologically serous mucinous endometrioid clear cell transitional (brenner) squamous cell undifferentiated subtypes
+serous carcinomas (sc) most common histology accounting about two thirds ovarian carcinomas [ 6 ]
+better understanding factors mechanisms determining aggressive behavior some eoc critical developing new treatment
+increased mitogenic signaling through receptors proven play major role ovarian cancer
+one major downstream mediators signaling initiated receptors phosphatidylinositol 3-kinase (pi3k)/akt pathway
+pi3k/akt activated multiple cancers leading oncogenic transformation [ 7 8 ]
+activation may result activating mutation catalytic subunit p110? pik gene (pik3ca) amplification pik3ca result inactivating mutation tumor suppressor gene phosphatase tensin homolog (pten)
+activation pathway will cause akt translocate plasma membrane where activated phosphorylation allowing mediate many biological consequences pi3k activation
+several studies showed pik3ca gene amplification ovarian cancers [ 9 - 13 ]
+mutations pik3ca been identified ovarian cancers though relatively common endometrioid ovarian carcinomas (ec) uncommon serous carcinomas (sc) [ 11 ]
+rat sarcoma viral oncogene (ras) proteins located inner surface plasma membrane attached membrane farnesyl residue
+ras proteins transmit extracellular signals promote growth proliferation differentiation survival cells
+major downstream target ras-gtp mitogen-activated protein kinases (mapks) but known activate other targets like pi3k [ 14 15 ]
+mapk pathway hyperactivated 30% human cancer [ 14 ]
+ras mutation promote ovarian tumorigenesis through mapk pathway through its interaction pi3k/akt pathway [ 14 15 ]
+ovarian cancer kras mutation been identified 35% low-grade serous tumors 33% borderline tumors whereas braf mutations occur 30% low-grade serous carcinomas 28% borderline tumors [ 16 17 ]
+kras braf mutations less common high grade ovarian cancers [ 16 17 ]
+several pervious studies shown oncogenic role pi3k/akt pathway eoc
+elucidation characteristics ovarian cancer pi3k alterations seems important execution personalized medicine future
+however all studies pi3k alteration reported until now dealt caucasian ovarian cancers
+seems interesting compare frequency pi3k alterations between two ethnicities middle eastern caucasian eoc explore contribution pi3k alterations pathogenesis middle eastern eoc
+therefore present study we analyzed prevalence genetic alterations pi3k middle eastern eoc their interrelationships other genetic alterations like p53 kras braf
+furthermore correlation pi3k alterations various clinicopathological characteristics investigated large cohort middle eastern eocs
+156 patients ovarian carcinoma diagnosed between 1991?2007 selected files king faisal specialist hospital research centre
+all samples analyzed tissue microarray (tma) format
+tma construction performed described earlier [ 18 19 ]
+two cores ovarian carcinoma arrayed case
+institutional review board king faisal specialist hospital & research centre approved study
+patients diagnosed histologically received follow-up care departments obstetrics gynecology oncology king faisal specialist hospital research centre
+histological subtype ovarian tumor sample determined pathologist (pb) according accepted criteria [ 20 ]
+department obstetrics gynecology king faisal specialist hospital research center provided long-term follow-up data patients
+primary pathological diagnosis serous 125 patients (80.1%) endometrioid 22 (14.1%) clear cell 4 (2.6%) undifferentiated/mixed epithelial 5 (3.2%)
+ages patients ranged 19?86 years median age 56 years
+majority patients underwent primary surgical staging cytoreduction
+some patients who not fit primary surgery primary neoadjuvant chemotherapy followed interval debulking surgery
+distribution figo stage diagnosis was: stage i-ii 8 patients (5.1%) stage iii-iv 137 (87.8%) unknown 11(6.1%)
+median follow-up time 14.9 months (range 2?130 months)
+progression free survival computed date surgery patients who underwent primary cytoreduction date diagnosis biopsy cytology those who underwent primary neoadjuvant chemotherapy
+since majority patients lost follow-up their disease reaches its terminal stages impossible determine overall survival specific patient population
+genomic dnas extracted paraffin embedded neoplastic primary tissues using gentra kit (minneapolis mn usa) following slight modification manufacturer's recommendation
+step-down cycling condition used braf t1799a transversion mutation exon 15 braf gene [ 21 ]
+after 10-min denaturing 95°c pcr run temperature 1 min five step-down steps two cycles each
+denaturing temperature 95°c extension temperature 72°c step annealing temperature 66 64 62 60 58°c first last step
+pcr finally run 95 58 72°c 1 min 35 cycles followed elongation 72°c 5 min
+pcr performed total volume 25 ?l using 50 ng genomic dna 2.5 ?l 10 × taq buffer 1.5 ?l mgcl2 (25 mm) 0.05 ?l dntp (10 mm) 0.2 ?l taq polymerase (1 u/ ? l) (all reagents qiagen inc) 1 ?l primer (2.5 ? m) water
+majority kras mutations found exon 1 kras gene we focused our mutation analysis kras .[ 21 ] pcr mixture contained same components pcr reaction braf gene
+pcr condition follows: after 10 min denaturation 95°c 30 s annealing 53°c 1 min extension 72°c extension 72°c 7 min last step [ 21 ]
+efficiency quality amplification pcr confirmed running pcr products 2% agarose gel
+pcr products subsequently subjected direct sequencing pcr bigdye terminator v 3.0 cycle sequencing reagents (applied biosystems foster city ca)
+samples finally analyzed abi prism 3100 xl genetic analyzer (applied biosystems foster city ca)
+sequencing pik3ca exons 9 20 done pcr amplification direct sequencing both strands all crc cases their matched normal samples previously described [ 22 23 ]
+p53 mutational analysis exons 5?8 p53 gene amplified separately previously [ 24 ]
+following primers used: exon-5-forward: 5'gactttcaactc-tgtctc3' reverse: 5'ctggggacccctgggcaac3' exon-6-forward: 5'gagac-gacagggctggtt3' reverse: 5'ccactgac-aaccaccctt3' exon-7-forward 5'ccaaggcgcactggcctc3' reverse: 5'gcggcaagcagaggctgg3' exon-8-forward: 'ccttactg-cctcttgctt3' reverse 5'tgaatctgaggcataa-ctgc3'
+samples finally analyzed abi prism 3100 xl genetic analyzer (applied biosystems foster city ca)
+mutational analysis done using dna seqman software (dnastar inc madison wi)
+tma slides processed stained manually
+streptavidin-biotin peroxidase technique diaminobenzidine chromogen applied
+antigen retrieval dako target retrieval solution ph 9.0 (catalogue number s2368) used slides boiled pressure cooker (pascal pressure cooker dako cytomation model: s2800 usa)
+primary antibodies used their dilutions incidences listed table 1 
+endogenous peroxidase activity quenched using 3% hydrogen peroxidase
+endogenous biotin blocked all slides counterstained hematoxylin dehydrated cleared cover slipped premount
+only fresh cut slides stained simultaneously minimize influence slide ageing maximize repeatability reproducibility experiment
+antibodies used tissue microarray immunohistochemical analysis @normal expression pten seen 77.1% cases pten inactivation (loss/reduced expression) seen 33/144(22.9%) eoc cases
+$ non representative spots various antibodies ranged from18 cases p53 12 spots pten ihc p-akt scoring done described earlier [ 21 25 ]
+purposes statistical analysis all cases staining level 0 1 grouped p-akt negative all cases staining level 2 level 3 grouped p-akt positive
+pten scoring cases staining level 2 3 considered normal expression cases staining level 0 1 considered pten inactivation
+only fresh cut slides stained simultaneously minimize influence slide ageing maximize repeatability reproducibility experiment
+two types negative controls used p-akt
+one negative control kit primary antibody omitted
+preabsorption experiment using p-akt ser 473 blocking peptide (cell signaling technology beverly ma product no 1140) used second negative control
+pik3ca protein (p110 ? expression) categorized doing h score described earlier [ 26 ]
+tma spot assigned intensity score 0?3(i0 i1?3) proportion tumor staining intensity recorded 5% increments range 0?100(p0 p1?3)
+final h score (range 0?300) obtained adding sum scores obtained intensity proportion area stained (h score = i1xp1+i2xp2+i3xp3)
+ovarian tumors grouped 2 groups using x-tile bioinformatics software: low p110 ? expression (h score = 100) other group showed high p110 ? expression (h score >100) [ 27 ]
+fish tissue micorarray performed previously described [ 21 ]
+briefly search fish probe done browsing ensemble genome browser bacterial artificial chromosome (bac) corresponding pik3ca gene
+bac rp11-245 c23 purchased childrens hospital oakland reseach institute (oakland california) cultured dna isolated
+bac dna probe labeled digoxigenin using dig-nick translating kit roche
+fish performed digoxigenin-labeled bac dna probe containing pik3ca gene spectrum orange-labeled chromosome 3 centromeric probe (cep3) reference (purchased vysis)
+tma sections treated according paraffin pretreatment reagent kit protocol (vysis il usa) before hybridization
+ovarian cancer tma study hybridization post-hybridization washes according vysis lsi procedure
+probe visualization using fluorescent isothiocyanate (fitc)-conjugated sheep anti-digoxigenin (roche diagnostics indianapolis usa) described (wagner et al)
+slides then counterstained 125 ng/ml 4'6-diamino-2-phenylindole antifade solution screened olympus bx51 fluorescent microscope
+tissue samples classified pik3ca/centromere 3 ratio 1.0 normal between 1.0 2.0 having pik3ca gains
+pik3ca/centromere 3 ratio more 2.0 considered amplified
+ovarian tumors increased copy number fish pik3ca gene selected validation quantitative real time pcr
+dna content normalized long interspersed elements (line1) repetitive element copy number per haploid genome similar both normal dna sample neoplastic cells
+primers designed primer express 3.0 software (applied biosystems foster city ca) hybridize sequences genomic dna pik3ca line 1 
+primers genomic sequences (pik3ca forward 5'-tatggttgtc-tgtcaatcggtga-3' reverse5'-gcctttgcagtgaatt-tgcat-3') (line1 forward 5'-ccgctcaactacatggaaactg-3' reverse 5'-gcgtcccagagattctggtatg-3')
+conditions all pcrs optimized gradient cycler (mj research ma united states) regard taq dna polymerase forward reverse primers mgcl2 concentrations dntp concentrations various annealing temperatures (55?65°c)
+specificity pcr product confirmed agarose gel electrophoresis
+optimized results transferred following light cycler pcr protocol
+all reactions performed glass capillaries (roche mannheim germany) final reaction volume 10 ?l 1× lightcycler-faststart dna master sybr green i reaction mixture (roche mannheim germany) containing faststart taq reaction buffer deoxynucleoside triphosphate 1 mm mgcl2 final concentrations 0.5 ?m primer
+mgcl2 concentrations optimized target gene (varied 2?4 mm)
+thermocycling detection performed lightcycler (roche diagnostics mannheim germany)
+initial preheating step 10 min 95°c used activate dna polymerase then touch-down procedure consisting 10 s 95°c annealing 5 s temperatures decreasing 63 59°c ending extension step 72°c 10 s
+total 45 cycles performed followed melting curve program (60?95°c heating rate 0.1°c per second continuous fluorescence measurement) finally cooling step 40°c
+pfaffle method relative quantification used calculate fold changes normal ovarian cancer samples [ 28 ]
+relative copy number ratio target gene calculated based efficiency (e) crossing point (cp) deviation samples (normal) versus (ovarian tumor) expressed comparison reference gene (line1)
+normal cell copy number gene per haploid genome should one
+all statistical analysis will performed using statview jmp software (version 7.0)
+fisher's exact chi-square (?2) test used assess associations between categorical variables
+kaplan-meier survival analyses carried out progression free survival using log-rank test differences between groups
+results considered statistically significant when p two-tailed test < 0.05
+pik3ca mutation seen 6 153 (3.9% fig
+1 ) eoc's analyzed fish analysis revealed presence pik3ca amplification 54 152 (35.5% fig
+2 ) eoc cases analyzed
+pik3ca amplification results further validated real-time pcr
+no significant associations observed pik3ca mutations pik3ca amplifications clinicopathological parameters
+immunohistochemical analysis showed overexpression p110 ? expression 78 140 (55.7% fig
+3 ) eoc cases analyzed its association various clinicopathological parameters analyzed (table 2 )
+p110 ? expression overexpression did not coorelate age tumor stage figo grade progreesion free survival
+pik3ca 110 overexpression associated overexpression p-akt-ser 473 ( p = 0.0260) trend noted proliferation marker ki-67 ( p = 0.0639)
+6 eocs pik3ca mutation 5 them showed overexpression pik3ca 110 protein
+no association seen pik3ca amplification overexpression p110 ? expression ( p = 0.2320)
+examples pik3ca kras braf mutations eoc cases 
+a
+typical sequencing traces pik3ca mutations shown exon 9 (right) 20 (left) cancer mutant sequence (bottom) normal wild-type sequence (top)
+b
+sequencing traces braf (right) kras (left) mutations cancer mutant sequence (bottom) normal wild-type sequence (top)
+arrows denote position missense mutations amino acid changes noted
+determination pik3ca gene copy number fish ovarian tissue (a) 
+b
+sample 1 normal cell selected according fish analysis
+samples 2?4 pik3ca amplified ovarian tumor cells selected according fish
+fish images show cell nuclei (blue) selected cases hybridized probes directed against pik3ca gene (green rp11-245 c23) centromere 3 (red)
+(1) 
+normal cell (blue) shows 2 centromeric signals (red) 2 (green) pik3ca signals
+(2?4) 
+representative cells show amplification two (red) centromeric signals green pik3ca amplified signals
+immunohistochemical analysis p-akt pi3k-110 alpha subunit protein expression pten epithelial ovarian carcinoma (eoc) 
+(i) p-akt over expression observed along (iii) low pten expressionand (v) over expression pi3k-110 alpha eoc tma specimen (ii) low expression p-akt seen along (iv) high pten expression (vi) reduced expression pi3k-110 alpha eoc tma specimen
+20 × magnifications inset showing 100 × magnified view same
+correlation between pik3ca-110-alpha status clinicopathological features epithelial ovarian carcinoma we found six eocs contained pik3ca mutation three eoc contained activating kras mutations three eocs braf mutations codon 599 (fig
+1 )
+presence kras braf mutations mutually exclusive
+eocs pi3k mutation did not display braf kras mutations
+thus pik3ca mutations mutually exclusive kras braf mutation
+tp53 mutation analysis revealed mutation incidence rate 32.5% (50 154)
+no significant associations found between tp53 mutations clinicopathological data like figo staging tumor grading tumor type patient age progression free survival
+tp53 mutations not associated mutations pik3ca braf kras genes activation akt loss pten expression pik3ca amplification
+using mouse monoclonal anti p53 antibody (table 1 ) p53 overexpression immunohistochemistry seen 68/138 (49.3%) eocs analyzed
+p53 overexpression significantly associated p53 mutations ( p = 0.0002) trend increased expression noted poorly differentiated eocs ( p = 0.0961)
+because suggested pik3ca mutations activate akt function through its phosphorylation [ 29 ] we investigated relationship between pik3ca mutation pik3ca amplification activation p-akt
+correlation between activation akt clinicopathological parameters mutational status k-kras braf genes tp53 mutation explored
+akt activation evaluated assessing phosphorylation akt immunohistochemistry ser473 eoc case considered show akt activation when scored 2+ 3+ p-akt ser 473
+activation akt observed 52.1% (75 144) eoc cases
+though p-akt ser 473 overexpression correlated significantly proliferation marker ki-67 expression ( p = 0.0262) no association seen clinicopathological parameters including progression free survival
+there lack association between eocs harbored kras mutations braf mutations akt activation
+all eoc cases lost reduced pten expression considered eocs pten inactivation
+pten inactivation seen 33 144 (22.9%) eoc's analyzed associated histology subtype clear cell undifferentiated carcinomas ( p = 0.0491) overexpression p53 protein ( p = .0413) trend seen older age ( p = 0.0936)
+no significant associations noted clinicopathological features various mutations analyzed
+because pik3ca copy gain most common genetic alteration pi3k/akt pathway eocs middle eastern cohort we analyzed its relationship gene mutations pi3k/akt pathway
+shown table 3 pik3ca gene copy gain uncommonly overlapped gene mutations eoc mutations mostly seen group eoc without pik3ca copy gain
+mutual exclusivity between pik3ca copy gain any pik3ca kras braf mutations not statistically significant probably due small number mutations
+there not single overlap among alterations
+additionally majority amplified pik3ca cases harbored normal pten protein expression
+however overlap between pten protein loss pik3a amplification seen number cases eoc (5.7% [4/140] data not shown)
+summary individual cases eoc genetic alterations pik3ca braf kras genes similarities prevalence pi3k alterations western asian ovarian cancer [ 29 - 32 ] raised interest study alterations other ethnic groups
+there mixed report incidence pik3ca mutation ovarian cancer
+reported incidence pik3ca mutation epithelial ovarian cancer varies 3.6% [ 30 ] 12% [ 31 ]
+our study showed lower incidence pik3ca mutations (3.9%) indicating pik3ca gene mutation not common mechanism activation pik3ca middle eastern ovarian tumors
+earlier studies reported pik3ca gene amplification range 13 24.5% [ 10 - 13 33 ]
+only one study done limited number ovarian samples (n = 12) reported higher incidence pik3ca amplification (40%) [ 9 ]
+other hand our study demonstrated pik3ca amplification ovarian tumors relatively high frequency (35.5% fig
+2 ) suggests major role pik3ca amplification activation ovarian cancers
+interestingly there almost perfect reciprocal association presence gene amplification somatic pik3ca mutations suggesting mutations mainly occur tumors without amplification
+agreement earlier report woenckhaus j et al 2007 we did not find any association between pik3ca amplification p110 ? protein expression [ 13 ]
+lack association could explained transcriptional post transcriptional mechanisms finely tune expression level p110 ? expression
+however we found p110 ? expression correlated p-akt ( p = 0.0260 table 2 ) trend noted proliferation marker ki-67 ( p = 0.0639)
+next pten protein expression investigated immunohistochemistry 33 144 (22.9% fig
+3 ) eocs showing pten inactivation concordance early report [ 34 ]
+correlation analysis between pik3ca amplification pten protein loss ihc revealed majority pik3ca amplifications found cases high pten protein expression
+data suggests single oncogenic alteration along pathway sufficient drive ovarian cell transformation
+read out pi3k functional activation we tested akt phosphorylation (activation) eoc
+our findings show akt activated large proportion eocs (52.1%) reflect activity pathway our eoc
+however no significant association found between akt pik3ca mutation/amplification
+currently multiple pathways been implicated having role akt activation such map kinase [ 35 ]
+furthermore agreement earlier report [ 36 ] we found significant correlation between fatty acid synthase (fas) protein expression akt activation middle eastern eoc (data not shown)
+therefore fas overexpression might one signaling pathways activate akt mechanism independent pi3k pathway
+we interested studying relationship between pi3k/akt pathway p53 (tumor suppressor gene) since interactions between p53 pi3k/akt pathways play significant role determination cell death/survival
+interrelation between pathways occurs through transcriptional regulation pten pik3ca p53 required p53 -mediated apoptosis [ 37 - 39 ]
+p53 gene mutation among frequent genetic alteration ovarian carcinomas its incidence middle eastern eocs 32% relatively lower what been reported west (50 80%) [ 40 - 42 ]
+recently astanehe et al 2008 suggested p53 inactivation results increases pik3ca transcripts beyond those result amplification pik3ca alone [ 37 ]
+thus combined effects pik3ca amplification p53-mediated regulation pik3ca pten expression should contribute greatly increased signaling through pi3k pathway middle eastern eoc
+we analyzed mapk signaling pathway investigating mutational status key genes pathway braf kras
+presence kras braf mutations significantly more common serous borderline ovarian tumors compared serous carcinomas ( p = 0.0221 kras mutations) ( p < 0.0001 braf mutations) data not shown)
+concordance earlier reports [ 16 17 ]
+mutual exclusivity braf kras mutations (table 3 ) our ovarian carcinoma consistent previous findings ovarian carcinoma melanoma colorectal carcinoma [ 43 - 45 ]
+supports view braf kras mutations equivalent effects tumorigenesis [ 44 - 46 ]
+although possibility other downstream targets braf mutated conventional high-grade ovarian carcinomas cannot completely ruled out would appear development high grade serous carcinomas involves pathway distinct map kinase signaling pathway
+examining relationship between pi3k/akt mapk pathways we found pik3ca amplification single most common genetic alteration our middle eastern eoc cases mutually exclusive gene mutations both pathways (pik3ca kras braf)
+represents strong genetic evidence pik3ca amplification possesses similar oncogenic function classical gene mutations pathways ovarian cancer pathogenesis
+collective prevalence genetic alterations (pik3ca amplification mutation pten protein loss) pi3k/akt pathway particularly high middle eastern eoc (60%) suggesting significant role pi3k/akt pathway pathogenesis eoc
+our results showed though mutation pik3ca not common event eocs its amplification very common may novel mechanism activating pi3k/akt pathway some eocs
+high prevalence pi3k/akt genetic alterations along low incidence kras braf mutations middle eastern ovarian carcinomas mutual exclusivity among genetic alterations pi3k/akt mapk pathways support notion dysregulated pi3k/akt pathways play important role pathogenesis ovarian cancers regardless ethnic background
+understanding alternative molecular pathways result epithelial ovarian cancers will allow specific biological targeting therapy prevention ovarian cancer
+authors declare no competing interests
+ja carried out all mutational analysis helped project planning well interpretation data contributed draft manuscript
+pb contributed performance immunohistochemistry statstical analysis writing manuscript
+wh carried out most pcr optimization sequencing
+zj conducted fish analysis real-time pcr validation
+ms conducted some mutation analysis
+am helped collecting samples provided us clinical data
+su participated experimental design writing manuscript
+ksa conceived study coordinated study contributed draft manuscript
+we thank sriraman devarajan data abstraction statistical analysis
+skillful technical assistance azadali moorji hassan al-dossari valerie atizado valorie balde greatly appreciated.

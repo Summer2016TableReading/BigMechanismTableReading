@@ -1,0 +1,291 @@
+290
+table 2 novel rassf1c target genes t47d breast cancer cells gene gene discription fold change efem1 egf-containing fibulin-like extracellular matrix protein 1 5.76 ghr growth hormone receptor 4.3 egr1 early growth response 1 5.9 tp53in1 tumor protein p53 inducible nuclear protein 1 4.46 mras muscle ras oncogene homolog 3.8 mtus1 mitochondrial tumor suppressor 1 -2 pros protein s (alpha) 4 emp1 epithelial membrane protein 1 -7.5 hoxa1 homeobox a1 4.6 sepp1 selenoprotein p plasma 1 7.92 mgmt o-6-methylguanine-dna methyltransferase 2.1 pak1 p21/cdc42/rac1-activated kinase 1 (ste20 homolog yeast) 2.1 cxcr4 chemokine (c-x-c motif) receptor 4 3.6 creg cellular repressor e1a-stimulated genes 1 11.2 bmpr2 bone morphogenetic protein receptor type ii (serine/threonine kinase) 2 noggin noggin -3.6 ssp1 (osteopontin bone sialoprotein i early t-lymphocyte activation 1) -14.5 tgm2 tgm2: transglutaminase 2 (protein-glutamine-gamma-glutamyltransferase) 3 srpx sushi-repeat-containing protein x-linked -7.25 samd5 sterile alpha motif domain containing 5 -11.47 map1b microtubule-associated protein 1b -11.7 rnf182 ring finger protein 182 -13.8 tmem8 transmembrane protein 158 -11.29 ldb2 lim domain binding 2 -5.85 igfbp3 insulin-like growth factor binding protein 3 -4.96 col131 collagen type xiii alpha 1 -8.69 frmdb ferm domain containing 4b -5.2 sox9 sry (sex determining region y)-box 9 -4.5 dab2 disabled homolog 2 mitogen-responsive phosphoprotein (drosophila) -2.55 apoe apolipoprotein e 3.74 ccnd2 cyclin d2 -3 spanx1 sperm protein associated nucleus x-linked family member a1 7.38 spanx1 spanx family member b1 17.7 hladp1 major histocompatibility complex class ii dp alpha 1 12.7 hist1h2bc histone cluster 1 h2bc 5.34 dach1 dachshund homolog 1 (drosophila) 7.63 pcdh7 protocadherin 7 8.58 myl9 myosin light chain 9 regulatory 9 dpep3 dipeptidase 3 10.66 cpe carboxypeptidase e 11.47 litaf lipopolysaccharide-induced tnf facto 8.17 abat 4-aminobutyrate aminotransferase 10.82 list novel rassf1c target genes identified t47d breast cancer cells using microarray analysis affymetrix-microarray analysis performed using t47d cells over-expressing rassf1c outlined materials methods section data analysis performed using dchip program [ 21 ] thresholds selecting significant genes set relative difference > = 1.5-fold (or/and 2-fold) absolute signal difference > = 50 p < 0.05 genes met all three criteria considered significant changes comparison results false discovery rate (fdr) <5% considered valid analysis.
+ras association domain family 1 (rassf1) gene ras effector encoding two major mrna forms rassf1a rassf1c derived alternative promoter selection alternative mrna splicing
+rassf1a tumor suppressor gene
+however very little known about function rassf1c both normal transformed cells
+gene silencing over-expression techniques used modulate rassf1c expression human breast cancer cells
+affymetrix-microarray analysis performed using t47d cells over-expressing rassf1c identify rassf1c target genes
+rt-pcr western blot techniques used validate target gene expression
+cell invasion apoptosis assays performed
+article we report effects altering rassf1c expression human breast cancer cells
+we found silencing rassf1c mrna breast cancer cell lines (mda-mb231 t47d) caused small but significant decrease cell proliferation
+conversely inducible over-expression rassf1c breast cancer cells (mda-mb231 t47d) resulted small increase cell proliferation
+we report identification novel rassf1c target genes
+rassf1c down-regulates several pro-apoptotic tumor suppressor genes up-regulates several growth promoting genes breast cancer cells
+we further show down-regulation caspase 3 via overexpression rassf1c reduces breast cancer cells' sensitivity apoptosis inducing agent etoposide
+furthermore we found rassf1c over-expression enhances t47d cell invasion/migration vitro 
+together our findings suggest rassf1c unlike rassf1a not tumor suppressor but instead may play role stimulating metastasis survival breast cancer cells
+ras association domain family 1 (rassf1) proteins postulated function ras effectors affect cell growth
+rassf1 gene resides chromosome 3p21.3 region often undergoes homozygous heterozygous deletions hypermethylation-induced suppression many human cancers [ 1 2 ]
+rassf1 gene encodes multiple isoforms derived alternative promoter selection alternative mrna splicing [ 1 2 ] two major isoforms called rassf1a rassf1c
+rassfia protein (340 amino acids) contains amino-terminal diacyl glycerol binding domain (c1 domain) ataxia telangiectasia mutated (atm) phosphorylation site carboxy-terminal putative ras association (ra) domain
+rassfic protein (270 amino acids) contains atm phosphorylation site ra domain but not c1 domain [ 1 2 ]
+rassf1a tumor suppressor gene epigenetically inactivated cytidine methylation many human solid tumors
+been reported 80 100% lung cancer cell lines tumors [ 1 - 4 ] 49 62% breast cancers [ 3 5 ] 67 70% nasopharyngeal cancers [ 6 ] 90% hepatocellular carcinomas [ 7 ] 91% renal cell carcinomas [ 8 ] 70% prostate cancers [ 9 10 ] rassf1a gene but not rassf1c gene inactivated
+addition rassf1a over-expression reduces colony formation suppresses anchorage independent growth inhibits tumor growth nude mice inhibits cell growth inducing g1-s phase cell cycle arrest blocking cyclin d accumulation [ 2 8 11 12 ]
+studies rassf1a knockout mice showed rassf1a -/- rassf1a+/- mice exhibit enhanced tumor multiplicity tumor size compared wild type animals upon exposure chemical carcinogens benzo(a) pyrene urethane [ 13 ]
+rassf1c isoform differs rassf1a isoform having distinct n-terminus lacking diacyl glycerol binding domain
+unlike rassf1a rassf1c not been extensively studied very little known about its role cell growth survival metastasis
+contrast rassf1a rassf1c expressed almost all human solid tumors
+majority published literature indicates rassf1c no tumor-suppressor activity [ 2 9 11 12 14 ]
+however some reports suggest rassf1c may function tumor suppressor ovarian prostate renal cancer cells [ 15 - 17 ]
+we recently identified rassf1c insulin-like growth factor binding protein-5 (igfbp-5) interacting protein shown silencing rassf1c expression resulted significant decrease osteosarcoma lung cancer cell proliferation [ 18 19 ]
+we shown over-expression rassf1c increased cell proliferation lung cancer cell line nci h1299 suggesting growth promoting role rassf1c lung cancer cells [ 19 ]
+paper we report effects silencing over-expressing rassf1c human breast cancer cell growth apoptosis invasion identification novel rassf1c target genes
+human breast cancer cell lines hs578t mda-mb231 t47d obtained american type culture collection atcc manassas va)
+cell culture carried out recommended atcc
+hs578t mda-mb231 cells grown dmem supplemented 10% calf bovine serum
+t47d cells grown rpmi-1640 medium supplemented 10% calf bovine serum 0.2 units/ml insulin
+human mammary epithelial cell line ag1132b obtained coriell institute medical research (camden nj)
+cell culture carried out recommended supplier
+mda-mb231 t47d cell lines transfected sirna-rassf1c control plasmids previously described [ 20 ]
+since shrna plasmids used study would target both rassf1a rassf1c mrnas we utilized breast cancer cells express rassf1c but not rassf1a
+cells plated 20000 50000 cells per well appropriate medium 10% calf serum 24 6 well culture dishes respectively
+after 24 hr cells transfected 1 ?g/ml plasmid dna using lipofectamine (invitrogen carlsbad ca) using recommended conditions
+48 hr post-transfection cells collected used rna extraction
+200 ng total rna used prepare cdna omniscript kit (qiagen valencia ca)
+100 ng reverse transcriptase reaction used pcr using hotstart master mix (qiagen valencia ca) pcr reactions run following conditions: 95°c 1 min 60°c 30 sec 72°c 30 sec 35 cycles
+cells treated either sirna-rassf1c (suppresses rassf1c expression) control plasmid 48 hr cell proliferation measured alamar blue assay previously described [ 18 19 ]
+mda-mb231 t47d ag1132b cells treated either sirna-rassf1c (suppresses rassf1c expression) control plasmid 18 hr
+3h-thymidine then added cells labeled 6 hr before cultures terminated 3h-thymidine incorporation assayed previously described [ 19 ]
+order over-express rassf1c cdna human breast cancer cells regulated fashion we chose use doxycycline (dox)-inducible murine leukemia virus based retroviral vector developed house (chen et
+al manuscript preparation)
+using yfp-rassf1c plasmid [ 18 19 ] template full-length ha-rassf1c coding sequence cloned using forward primer: 5' ggg tcg acg cgg ccg cc atgtacccatacgatgttccggattacgct ggc gag gctgaaacacctt 3' reverse primer: 5' cgg gat cc tca ccc aag ggg gca ggc gtg cag 3' ha-igfbp-5 coding sequence cloned using forward primer: 5' ggg tcg acg cgg ccg cc atgtacccatacgatgttccggattacgct ggc tcc ttc gtg cac tgc ga 3' reverse primer: 5' cgg gat cc tca ctc aac gtt gct gct gtc gaa 3' flanked noti bamhi restriction enzyme sites respectively
+noti bamhi sites pgyt plasmid used insert rassf1c cdna sequence down stream teto mammalian promoter
+correct cdna sequence orientation confirmed sequencing pgyt-ha-rassf1c plasmid
+plasmid then used produce vsv-g pseudotyped mlv-based vector described [ 20 ]
+mda-mb231 t47d breast cancer cell lines seeded 1 × 105 cells/well 6-well plates
+after 24 hr incubation cells transduced mlv-based vectors rtta-gyt (vector without transgene) rtta-gyt-gfp rtta-gyt-ha-rassf1c different moi 6-well plates using 2 3 serial infection cycles described [ 20 ]
+after 1-4 days cells treated up 1 × 10-6 m doxycycline (dox) 48 hr
+ha-rassf1c expression assessed western blot analysis using anti-ha antibody
+we tested mlv-gfp vector expression human breast cancer cell lines demonstrated 10 fold induction gfp expression achieved dox concentration 1 ug/ml
+total rna human cell lines isolated confluent cultures using absolutely rna microprep kit (stratagene la jolla ca)
+1 ?g total rna used set up reverse transcriptase (rt) reactions using superscript kit (qiagen valencia ca) rt reactions subsequently used set up real-time pcr reactions using 1 ?l rt template
+1 ?g total rna used perform reverse transcription reactions (rts) 1 ul rt reaction used set up qrt-pcr reactions triplicates using rassf1a rassf1c specific primer
+rassf1a forward primer 5'ggcgtcgtgcgcaaaggcc rasff1c forward primer: 5'ctgcagccaagaggactcgg 3' reverse primer both rassf1a 1c 5'gggtggcttcttgctggaggg 3' [ 2 ]
+real-time pcr reactions set up using sybr green pcr master mix (bio-rad hercules ca) pcr reactions run using opticon 2 pcr machine (bio-rad)
+pcr reactions run using following protocol: 1
+incubate 95°c 10 min 2
+incubate 95°c 15 sec 3
+incubate 60°c 30 sec 4
+incubate 72°c 30 sec 5
+go step 2 39 more cycles 6
+melting curve 60°c 95°c read every 1.0°c
+western blot analysis carried out using odyssey® infrared system (li-cor biosciences lincoln ne)
+anti-caspase 3 p-erk1/2 total erk1/2 -ghr antibodies purchased santa cruz biotechnology (1: 250-1000 santa cruz ca) anti-ha antibody purchased covance (1:1000 berkeley ca) anti-cxcr4 antibody purchase millipore (1:500 temecula ca) anti-trans glutaminase 2 (1:1000 tgm2) antibody purchased sigma (saint luis mo)
+fluorescently labeled secondary antibodies purchased li-cor biosciences (1:5000)
+cells collected lysed ripa buffer supplemented protease inhibitors
+30-40 ug protein separated 12% sds-page gels transferred nitrocellulose membranes
+membranes blocked overnight 4°c tbst dried milk
+incubation antibodies carried out odyssey® infrared system blocking buffer (diluted 1:10 pbst blocking buffer)
+hybridization 12 ?g labeled crna affymetrix u133 plus 2.0 chip carried out triplicates data analyses carried out ucla microarray facility core department pathology
+control sample rna t47d cells stably transduced mlv-backbone (t47d-bb) experimental sample rna t47d cells stably transduced mlv-rassf1c (t47d-1c)
+prior rna isolation t47d-bb t47d-1c cells treated 1 ?g/ml doxycycline 48 hr
+data analysis performed using dchip [ 21 ]
+thresholds selecting significant genes set relative difference > = 1.5-fold (or/and 2-fold) absolute signal difference > = 50 p < 0.05
+genes met all three criteria considered significant changes
+comparison results false discovery rate (fdr) <5% considered valid analysis
+microarray data been deposited gene expression omnibus (geo) data base accession number gse24473
+caspase 3 gene primers purchased realtimeprimers.com (elkins park pa)
+other gene primers follows: cyclophilin forward primer 5' gcatacaggtcctggcatct3 reverse 5'tcttgctggtcttgccattc3' creg forward primer: 5'gtgccctatttctacctgagcc 3' reverse primer 5'agcattatgtgaacacaaagggg 3' cxcr4 forward primer: atgaaggaaccctgtttccgt reverse primer 5' agatgatggagtagatggtggg 3' egr1 forward primer: 5'atgaaggaaccctgtttccgt 3'and reverse primer 5' atgatggagtagatggtggg 3' ghr forward primer 5' gctgctgttgaccttggc 3' reverse primer 5'acctcatctgtccagtgg 3' mras forward primer: 5'tttgtgcctgactatgacccc 3' reverse primer 5' tgacggagtagacgatgagga 3' hoxa1 forward primer: 5' cgcctcaatacattcaccact 3' reverse primer 5' ccagcaggactgacctgtttt 3'
+rt-pcr reactions carried out triplicate fold change calculated using 2-??ct method [ 22 ]
+breast cancer cells plated 5000/well 96-well plates 24 hrs before infection
+cells incubated 8 ?g/ml hexadimethrine bromide two hours before virus particles added
+cells infected mission® non-target shrna control transduction particles multiple mission® lentiviral shrna transduction particles (nmid: nm_007182) silencing rassf1c (sigma st
+louis mo)
+since lentiviral shrna transduction particles (nmid: nm_007182) used study would target both rassf1a rassf1c we used breast cancer cells express rassf1c but not rassf1a
+infections carried out using moi outline supplier manual
+infected cells selected media containing 2 ?g/ml puromycin 2-4 weeks then cells harvested
+knockdown validation rassf1c expression assessed qrt-pcr using rassf1c specific primers
+caspase 3 activity assayed using apo3/7 caspase activity assay (promega madison wi)
+cells plated 96-well plates 5000 cells/well next day cells treated doxycycline dmso etoposide 45 umol/ml doxycycline etoposide 48 hr before cells assayed caspase 3 activity
+etoposide purchased sigma diluted dmso (sigma) concentration 45 mm doxycycline purchased invitrogen (carlsbad ca)
+breast cancer cells stably over-expressing rassf1c incubated 14 days presence 1 ?g/ml doxycycline before cells used isolate genomic dna dna fragmentation analysis using apoptotic dna ladder kit (roche applied science mannheim germany)
+apoptotic dna ladder corresponding genomic dna isolated lyophilized apoptotic u937 cells treated 4 ug/ml camptothecin 3 hrs provided kit used positive control apoptosis
+24-well plate bd biocoat? matrigel? invasion chamber (bd biosciences
+bedfor ma) used co-culture t47d breast cancer cells human stromal cells hs27a according user manual
+hs27a cells seeded 25000 cells per well 24-well bd falcon? tc companian plate dmem supplemented 10% calf bovine serum
+t47d cells seeded density 25000 cells matrigel chambers t47d-bb t47d-1c grown rpmi-1640 medium supplemented 10% calf bovine serum 0.2 units/ml insulin
+then chambers containing t47d-bb t47d-1c transferred well containing hs27a stromal cells incubated 22 hours
+mda-mb231 t47d cells seeded density 25000 cells matrigel chambers chambers transferred wells containing either 40 ng/ml sdf-1 conditioned medium control medium lacking sdf-1 incubated 22 hours
+cells lower surface membrane fixed methanol stained 1% toluidine blue per user manual instructions
+stained membranes photographed through microscope invading cells counted
+data presented mean values ± sem analyzed student's t -test
+values ?0.05 considered significant
+because rassf1c rassf1a structurally similar but appear opposing effects possible may interact modulate other's effects
+therefore prior silencing rassf1c mrna endogenous rassf1a rassf1c mrna levels measured mda-mb231 t47d breast cancer cells
+rassf1c readily detectable while rassf1a barely detectable both cell lines (figure 1a )
+(a) rt-pcr analysis rassf1a rassf1c expression breast cancer cell lines (mda-mb231 t47d) using rassf1a rassf1c specific primers
+rt-pcr results clearly show rassf1c mrna expressed both cell lines 
+unlike rassf1c rassf1a mrna expression not readily detected mda-mb23 t47d cells
+rassf1a rassf1c cdnas used templates control rassf1a (1a-cont) rassf1c (1c-cont) primers actin used internal control
+(b) mda-mb231 t47d breast cancer cells transfected psilencer-rassf1c-258 (sirna-1c) silence rassf1c psilencer (control) plasmids previously described [ 18 19 ]
+proliferation cells treated sirna-1c significantly reduced (p < 0.05 t-test) compared cells transfected empty psilencer plasmid
+(c) transfected mda-mb231 t47d cells incubated 3h-thymidine 3h-thymidine incorporation assayed previously described [ 19 ]
+proliferation cells treated sirna-1c significantly reduced (p < 0.05 vs vector control t-test) compared cells transfected control plasmid
+values mean ? sem 8 replicas experiments performed least three independent times
+(d) rt-pcr analysis rassf1c expression transfected mda-mb231 t47d either transfected psilencer-rassf1c-258 (sirna-1c) psilencer plasmid alone (control)
+rt-pcr results clearly show rassf1c mrna significantly reduced cells treated sirna-1c compared control
+amplification actin internal control same both treated control cells
+(e) t47d breast cancer cells infected mission® lentiviral-shrna-control particles (lentiviral-control) mission® lentiviral-shrna-rassf1c (lentiviral-shrna-1c) silence rassf1c
+proliferation cells infected lentiviral-shrna-1c significantly reduced (p < 0.001 t-test) compared cells infected lentiviral-shrna-control
+next expression rassf1c silenced small interfering rna (sirna) technology
+sirna-rassf1c plasmid used study one three rassf1c sirna plasmids [ 18 ] we previously demonstrated consistently reduce ha-rassf1c protein expression compared non-target sirna oligos judged western blot analysis using anti-ha antibody [ 19 ]
+cells transfected sirna-rassf1c plasmid showed significant decrease (p < 0.05) cell proliferation compared cells transfected control plasmid judged alamar blue 3h-thymidine incorporation assays (figure 1b 1c )
+confirm inhibitory effect rassf1c sirna cell number correlated reduction rassf1c mrna rassf1c mrna levels measured mda-mb231 t47d cultures treated sirna-rassf1c control plasmid
+figure 1d shows transient transfection sirna-rassf1c reduced rassf1c mrna levels breast cancer cells
+we confirmed our plasmid silencing data using mission® lentiviral shrna transduction particles silence rassf1c expression t47d cells (figure 1e )
+findings suggest rassf1c appears important promoting breast cancer cell growth
+further elucidate function rassf1c demonstrate rassf1c not tumor suppressor we carried out rassf1c over-expression studies breast cancer cells using tet-inducible mouse leukemia virus-based retroviral vector express ha-tagged rassf1c fusion protein
+cells stably transduced mlv-backbone (bb) mlv-rassf1c (1c) outlined materials methods
+western blot analysis using anti-ha-tag antibody detect ha-rassf1c fusion protein verified rassf1c over-expressed cells transduced mlv-rassf1c vector following treatment 1 ?g/ml doxycycline 48 hr (figure 2a )
+over-expression rassf1c did not inhibit cell proliferation
+instead consistently resulted small but reproducibly statistically significant increase cell proliferation hs578t mda-mb231 t47d cells stably transduced mlv-ha-rassf1c (1c) compared empty mlv-backbone (bb) demonstrated 3h-thymidine cell proliferation assays (figure 2b 2c )
+findings demonstrate rassf1 c over-expression does not inhibit breast cancer cell growth may suggest potential role rassf1c promoting cancer cell growth progression
+(a) western blot analysis hs578t mda-mb231 t47d cells stably transduced either empty mlv back bone (bb) mlv-ha-rassf1c (1c) treated 1 ?g/ml doxycycline 48 hr 
+anti-ha tag antibody detected ha-rassf1c fusion protein cells transduced 1c but not bb expected
+(b) hs578t mda-mb231 t47d cells stably transduced empty mlv-backbone (bb) mlv-ha-rassf1c (1c) vectors treated 1 ?g/ml doxycycline 48 hr
+cells incubated 3h-thymidine 6 hr 3h-thymidine incorporation assayed previously described [ 19 ]
+(c) hs578t-1c t47d-1c treated doxycycline showed increase cell proliferation compared cells not treated doxycycline respectively
+rassf1c over-expression did not inhibit but rather caused small statistically significant increase cell proliferation compared cells stably transduced empty mlv-backbone vector
+values mean ± sem 8 replicates experiments performed least three independent times
+we assessed expression rassf1a rassf1c primary mammary epithelial (ag1132b) cells established breast cancer cell lines using quantitative real time pcr (qrt-pcr)
+rt-pcr reactions carried out triplicates fold change calculated using 2-??ct method [ 22 ]
+interestingly rassf1c expression least 6 fold higher rassf1a least 2.5 fold lower breast cancer cell lines (hs578t mda-mb231 t47d) compared normal mammary epithelial cells ag1132b) (table 1 )
+elevated expression rassf1c detected established breast cancer cell lines compared primary cells indeed consistent our hypothesis rassf1c unlike rassf1a potential growth survival factor breast cancer
+rassf1a rassf1c mrna expression epithelial breast cancer cell lines qrt-pcr analysis total rna human primary mammary epithelial cells (ag1132b) established breast cancer cell lines hs578t
+mda-mb231 t47d cells
+1 ?g total rna used perform reverse transcription reactions (rts) 1 ul rt reaction used set up qrt-pcr reactions triplicates using rassf1a rassf1c specific primers
+all qrt-pcr reactions set triplicates cyclophillin used internal loading control used normalize relative expression levels using 2-?? method [ 42 ]
+rt-pcr analysis shows rassf1a expression down rassf1c expression up established breast cancer cell lines compared primary mammary epithelial cells
+observed increase cell number breast cancer cells over-expressing rassf1c predicted over-expression rassf1c might either down-regulate expression cell growth inhibiting/pro-apoptotic genes up-regulate expression cell growth promoting/anti-apoptotic genes
+affymetrix-microarray analysis performed using t47d cells over-expressing rassf1c answer question
+control sample rna t47d cells stably transduced mlv-backbone (t47d-bb) experimental sample rna t47d cells stably transduced mlv-rassf1c (t47d-1c)
+prior rna isolation t47d-bb t47d-1c cells treated 1 ?g/ml doxycycline 48 hr
+data analysis performed using dchip program [ 21 ] thresholds selecting significant genes set relative difference > = 1.5-fold (or/and 2-fold) absolute signal difference > = 50 p < 0.05
+genes met all three criteria considered significant changes
+comparison results false discovery rate (fdr) <5% considered valid analysis
+we found rassf1c over-expression modulated expression number genes involved cancer development cell growth/proliferation cell cycle cell death apoptosis (table 2 )
+rassf1c down-regulated several pro-apoptotic tumor suppressor genes including bcl2-associated protein (bax) [ 23 ] caspase 3 [ 24 ] disabled homolog 2 (dab2) [ 25 ] epithelial membrane protein 1(emp-1) [ 26 ] insulin-like growth factor binding protein 3 (igfbp-3) [ 27 ] mitochondrial tumor suppressor 1 (mtusi) [ 28 ] ring finger protein 182 (rfn182) [ 29 ] sry (sex determining region y)-box 9 (sox9) [ 30 ] sushi-repeat-containing protein x-linked (sprx) [ 31 ] transglutaminase 2 (tgm2) [ 32 ] transmembrane protein 158 (tmem158 known ras-induced senescence 1(ris-1)) [ 33 ]
+rassf1c up-regulated several growth promoting genes include apolipoprotein e (apoe) [ 34 ] carboxypeptidase e (cpe) [ 35 ] chemokine (c-x-c motif) receptor 4 (cxcr4) [ 36 ] human growth hormone receptor (ghr) [ 37 ] homeobox a1 (hoxa1) [ 38 ] muscle ras (mras) oncogene homolog [ 39 ] spanx family member a1 (spanxa1) spanxb1 [ 40 ]
+rassf1c target genes identified study consistent potential growth promoting role rassf1c breast cancer cells
+we then selected several rassf1c target genes confirmed microarray results using rt-pcr analysis (table 3 )
+we show changes mrna levels caspase 3 cxcr4 ghr tgm2 indeed translated change protein expression t47d cells (figure 3a )
+we found t47d cell over-expressing rassf1c displayed higher levels phosphorylated erk1/2 compared control cells (figure 3b )
+should noted total erk1/2 levels same both t47d-bb t47d-1c (figure 3c )
+addition we show silencing endogenous rassf1c expression t47d cells resulted increase caspase 3 decrease cxcr4 mrna expression (table 4 )
+novel rassf1c target genes t47d breast cancer cells list novel rassf1c target genes identified t47d breast cancer cells using microarray analysis
+affymetrix-microarray analysis performed using t47d cells over-expressing rassf1c outlined materials methods section
+data analysis performed using dchip program [ 21 ] thresholds selecting significant genes set relative difference > = 1.5-fold (or/and 2-fold) absolute signal difference > = 50 p < 0.05
+genes met all three criteria considered significant changes
+comparison results false discovery rate (fdr) <5% considered valid analysis
+validation selected rassf1c target genes list selected rassf1c target genes validated t47d breast cancer cell line using rt-pcr
+rt-pcr reactions carried out triplicates fold change calculated using 2-??ct method [ 22 ]
+cyclophyllin used loading control
+effects silencing rassf1c target genes caspase3 cxr4 gene expression t47d cells treated mission® lentiviral transduction particles specific rassf1c
+fold change compared t47d cells treated control scrambled shrna (mission® lentiviral transduction control particles)
+rt-pcr reactions carried out triplicate fold change calculated using 2-??ct method [ 22 ]
+cyclophyllin used loading control
+(a) western blot analysis caspase 3 cxcr4 ghr tgm2 expression t47d cells stably transduced empty mlv-backbone (t47d-bb) mlv-ha-rassf1c (t47d-1c) using their corresponding antibodies 
+t47d cells treated 1 ?g/ml doxycycline 48 hr used western blot analysis
+clear caspase 3 tgm2 protein levels down regulated cxcr4 ghr up regulated t47d cells over expressing rassf1c validating microarray qrt-pcr findings (table 1 2)
+activation erk1/2 (b) total erk1/2 levels (c) assessed t47d-1c cells
+level phosphorylated erk1/2 t47d-1c much higher compared t47d-bb while total erk1/2 protein levels relatively same t47d-bb t47d-1c
+because rassf1c over-expression up-regulates expression cxcr4 key metastasis gene we carried out vitro invasion assay determine t47d cells over-expressing rassf1c grown presence sdf-1 (the ligand cxcr4 receptor) more invasive control cells
+invasion assays t47d cells over-expressing rassf1c co-cultured human stromal cell line hs27a secretes sdf-1 grown conditioned serum-free medium containing sdf-i
+figure 4a shows t47d-1c significantly more invasive t47d-bb control cells
+interestingly silencing rassf1c t47d cells using lentiviral shrna transduction particles significantly reduces t47d cell invasion/migration compared cells infected lentiviral shrna control transduction particles (figure 4b ) further supporting rassf1c may promote breast cancer cell invasion/migration
+(a) bd biocoattm matrigeltm invasion chamber used assess cell invasion/migration t47d cells stably transduced empty mlv-backbone (t47d-bb) mlv-ha-rassf1c (t47d-1c) 
+t47d-1c t47d-bb cells treated doxycycline 1ug/ml co-incubated hs27a human stromal cells
+hs27a cells express stromal derived factor-1 (sdf-1) ligand cxcr4 receptor
+after 24 hr incubation period lower sides filters fixed stained cells four microscopic fields counted
+average cell number count plotted
+t47d cells over-expression rassf1c showed higher number cells invading matrigel chamber migrating other side filter compared t47d-cells p <0.003
+(b) t47d-lenti-shrna control (mission sigma) t47d-lenti-shrna silence rassf1c (t47d-sirna-1c) (mission sigma) t47d-1c cells incubated either non-conditioned serum-free medium sdf-1-conditioned serum-free medium 24 hr
+lower number t47d-sirna-1c cells invaded matrigel chamber migrating other side filter compared t47d-sirna control
+(c) mda-mb231-bb (mda-bb) mda-mb231-1c (mda-1c) cells plated chamber inserts placed wells containing either non-conditioned serum-free medium sdf-1-conditioned serum-free medium incubated 24 hr
+mda-1c cells showed higher number cells invading matrigel chamber migrating other side filter compared mda-bb cells p < 0.001
+data suggests potential role rassf1c cancer cell metastasis perhaps through up-regulation cxcr gene expression
+addition t47d cells we show mda-mb231 cells over-expressing rassf1c more invasive control cells (figure 4c )
+all together our novel findings suggest rassf1c may promote breast cancer cell invasion/migration perhaps part through up-regulation expression cxcr4 gene
+etoposide chemotherapy agent known induce apoptosis through activation caspase 3
+since over-expression rassf1c down-regulates caspase 3 expression we hypothesized over-expression rassf1c would reduce amount active caspase 3 induced etoposide
+we tested hypothesis measuring amount caspase 3 produced response etoposide t47d breast cancer cells either over-express normally express rassf1c
+rassf1c over-expressing cells (t47d-1c) exhibit reduced caspase 3 activity compared cells do not over-express rassf1c (t47d-bb) when treated etoposide (figure 5 )
+further show prolonged over-expression rassf1c does not promote apoptosis breast cancer cells dna fragmentation analysis carried out using genomic dna isolated breast cancer cells treated 1 ?g/ml doxycycline 14 days
+over-expression rassf1c did not induce dna fragmentation breast cancer cells (figure 6 )
+findings further support our hypothesis rassf1c plays role promoting breast cancer cell growth may allow cancer cells evade killing chemotherapy agents
+caspase 3 activity measured t47d cells stably transduced mlv-ha-rassf1c (t47d-rassf1c) 
+t47d cells treated doxycycline (d) and/or 45 um/ml etoposide (e) 48 hr
+cells subsequently assayed caspase 3 activity
+rassf1c over-expression down regulates expression caspase 3 hence less caspase 3 activity observed t47d-1c cells treated both d e compared cells treated e alone (p < 0.01)
+data normalized t47d cells treated vehicle assay carried least three independent times n = 4
+t47d mda-mb231 hs578t cells stably transduced empty mlv-backbone (t47d- mda- hs578t-bb) mlv-ha-rassf1c (t47d- mda- hs578t-1c) vectors treated 1 ?g/ml doxycycline 14 days 
+genomic dna isolated dna fragmentation analysis using apoptotic dna ladder (adl) kit
+clear dna fragmentation did not occur all three cell lines tested suggesting rassf1c over-expression does not induce apoptosis
+function rassf1c not been extensively studied rassf1a
+initial reports literature suggested rassf1c might function tumor suppressor ovarian prostate renal cancer cells [ 15 - 17 ]
+recently rassf1c been shown interact daxx protein involved apoptosis transcriptional repression
+been suggested rassf1c may contribute activation stress-activated protein-kinase/c-jun n-terminal kinase [ 17 ]
+contrast we recently demonstrated rassf1c promotes lung cancer cell proliferation [ 19 ]
+we previously showed rassf1c plays role promoting osteoblast cell proliferation through interaction insulin like growth factor binding protein (igfbp)-5 [ 18 ]
+consistent our hypothesis another group recently shown rassf1c interacts ?trcp (the receptor subunit scf?trcp ubiquitin ligase recruits signaling proteins cell cycle regulators proteosomal degradation) [ 41 ]
+through mechanism rassf1c over-expression human lung cancer cell line a549 promotes accumulation ?-catenin oncogene key player wnt signaling pathway leading increased transcriptional activation cell proliferation [ 41 ]
+study we demonstrated reduction rassf1c mrna breast cancer cells correlated small but statistically significant decrease cell proliferation compared control cells express rassf1c
+reduction rassf1c did not affect cell viability judged trypan blue staining (data not shown)
+overall our results consistent those we obtained osteosarcoma (te85 mg63 u2) lung cancer (nci h1299) cells [ 18 19 ]
+studies osteosarcoma cells effects silencing rassf1c cells express both rassf1a rassf1c (te85) very similar those observed cells express only rassf1c (mg63 u2) clearly indicating rassf1a does not modulate effect rassf1c cell proliferation survival [ 18 ]
+based observations we think unlike rassf1a rassf1c not tumor suppressor least breast bone lung
+instead may function growth-stimulating factor
+further determine effect(s) rassf1c breast cancer cell proliferation we used tetracycline-regulated mlv-based vector stably over-express rassf1c mda-mb231 t47d
+tetracycline-regulated over-expression rassf1c did not inhibit cell proliferation
+fact over-expression rassf1c caused reproducible statistically significant increase cell proliferation further suggesting rassf1c not growth suppressor gene
+support we found expression rassf1c elevated breast cancer cell lines compared primary mammary epithelial cells consistent our hypothesis rassf1c may act potential growth survival factor breast cancer
+mentioned above recent study suggested regulated over-expression rassf1c may inhibit growth prostate cancer (lncap) renal cell carcinoma (krc/y) cells [ 15 ]
+however we now shown rassf1c over-expression does not inhibit cell growth but rather significantly increases proliferation osteosarcoma [ 18 ] lung cancer [ 19 ] breast cancer (this study) cells
+different findings related stimulatory function rassf1c human osteosarcoma breast cancer lung cancer cells [ 18 19 21 41 ] inhibitory function rassf1c prostate kidney ovarian cancer cells [ 15 - 17 ] may due tissue-specific actions rassf1c
+well known some proteins such igfbp-5 fhit (fragile histidine triad) exert opposite effects different tissues [ 42 43 ]
+our silencing over-expression studies rassf1c underscores potential growth promoting function least breast lung osteosarcoma cell lines
+begin address effect rassf1c cellular growth we carried out microarray study identify novel rassf1c target genes
+we found rassf1c over-expression interestingly modulated expression number genes involved cancer development cell growth/proliferation cell cycle cell death apoptosis
+we validated expression several rassf1c target genes qrt-pcr validated expression caspase 3 cxcr4 ghr tgm2 western blot analysis
+we found cancer cells over-expressing rassf1c exhibited increased phosphorylation erk1/2 compared control cells (but no increase total erk1/2 levels) suggesting rassf1c may exert its activities part through activation erk1/2 pathway
+we show breast cancer cells over-expressing rassf1c showed enhanced invasion/migration while cells knockdown rassf1c expression reduced invasion/migration compared control cells
+addition we found rassf1c over-expressing cells exhibited reduced caspase 3 activity compared control cells when treated etoposide
+we found over-expressing rassf1c 14 days did not induce apoptosis judged lack dna fragmentation hs578t mda-mb231 t47d cells further suggesting rassf1c does not promote apoptosis
+taken together findings consistent our hypothesis rassf1c may potentially function metastasis promoting apoptosis attenuating protein breast cancer cells perhaps through modulation cxcr4 caspase 3 gene expression respectively
+our findings together others' building case rassf1c rassf1a opposing antagonistic functions least breast lung bone cancer cells
+instance been reported rassf1a inhibits lung cancer cell migration promotes cell adhesion [ 44 ]
+rassf1a been shown activate pro-apoptotic bax1 gene [ 45 ] consistent its tumor suppressing activities
+study we shown rassf1c promotes cell migration down-regulates pro-apoptotic genes such bax caspase 3 srpx
+rassf1c over-expression up-regulates expression inhibitor differentiation (id2) been shown down-regulated rassf1a nasopharyngeal carcinoma [ 46 ]
+rassf1c down-regulates tgm2 gene expression up-regulated rassf1a non-small cell lung cancer cell line a549 [ 47 ]
+lastly our rassf1c studies breast cancer lung cancer osteosarcoma cells well other reports literature [ 41 ] suggest rassf1c functions opposing manner rassf1a
+all studies rassf1c appears stimulate cell growth while rassf1a well established suppress it
+thus fine balance rassf1a rassf1c isoform expression may critical determining neoplastic potential cell
+mentioned above microarray analyses mrna cells subjected forced expression rassf1c stimulates expression silencing rassf1c reduces expression genes associated cell growth proliferation
+data provide significant information propose testable models explain how rassf1c exerts growth promoting activities breast cancer
+example up-regulation cxcr4 rassf1c interesting discovery suggesting hypothesis rassf1c may play role promoting breast cancer metastasis mentioned above
+recent studies shown cxcr4 expression increased early transition normal transformed breast epithelium [ 48 ]
+cxcr4 signaling receptor interacts cognate ligand (sdf-1 known cxcl12) expressed higher levels tissues attract breast cancer cells support metastasis (e.g bone liver lung)
+cxcr4 interaction sdf-1 activates pi3k erk1/2 pathways promotes cancer cell proliferation metastasis [ 48 49 ]
+light findings we proposing testable model rassf1c action (see figure 7 ) based hypothesis rassf1c increases expression cxcr4 pre-malignant/malignant breast epithelial cells thus supporting successful seeding metastases sites express high levels sdf-1
+we plan test model others delineate molecular mechanism/pathway(s) through rassf1c exerts its growth promoting effects breast cancer cells using both vitro vivo approaches
+hypothetical model proposed explain rassf1c action breast cancer cells: we hypothesize rassf1c activates ras-raf-erk1/2 pathway leading up-regulation cxcr4 
+breast cancer cells expressing high number cxcr4 receptor attracted migrate secondary tissue sites where cognate ligand (cxcl12) expressed higher levels (e.g bone liver lung)
+conclusion together our previous work rassf1c osteosarcoma lung cancer cells our present findings breast cancer cells provide further evidence rassf1c not tumor suppressor instead may promote metastasis survival cancer cells
+our studies further suggest rassf1c may accomplish up-regulation specific growth promoting genes down-regulation specific pro-apoptotic genes
+apoe: apolipoprotein e atm: ataxia telangiectasia mutated bax: bcl2-associated protein cpe: carboxypeptidase e cxcr4: chemokine (c-x-c motif) receptor 4 dab2: disabled homolog 2 dox: doxycycline emp-1: epithelial membrane protein 1 erk: extracellular receptor kinase ghr: human growth hormone receptor ra: ras association rassf1: ras association domain family 1 rt: reverse transcriptase sirna: small interfering rna
+authors declare no competing interests
+mr participated design study contributed data analysis drafting manuscript
+sb carried tissue culture gene cloning work
+mb carried out western blot analysis apoptosis assays
+sc prepared viral vectors viral cell transduction
+jm performed cell tissue culture work cell invasion assays
+ra performed rna rt-pcr work
+xl carried out microarray hybridization analysis
+ds participated rt-pcr design contributed data analysis
+sm participated drafting manuscript
+ya designed supervised study carried out gene silencing over-expression work contributed data analysis drafting manuscript
+all authors read approved final manuscript
+pre-publication history paper accessed here: http://www.biomedcentral.com/1471-2407/10/562/prepub work supported grant department surgery loma linda university school medicine.

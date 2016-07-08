@@ -1,0 +1,290 @@
+289
+table 1 summary rassf2 rassf5a rassf1a methylation analyses rassf2 rassf5a rassf1a c thyroid cancer cell lines 7/8 (88%) 9/9 (100%) 9/9 (100%) primary thyroid cancer 19/30 (63%)a b 26/31 (84%) 26/31 (84%) â??mtc 0/3 (0%) 1/3 (33%) 5/6 (83%) â??ptc 6/11 (54%) 9/12 (75%) 8/13 (62%) â??ftc 8/10 (80%) 10/10 (100%) 7/10 (70%) â??utc 5/6 (83%) 6/6 (100%) 7/9 (77%) follicular adenoma 0/10 (0%)a 10/10 (100%) 7/10 (70%) goiter 2/12 (17%)b 12/12 (100%) 9/12 (75%) control tissue 0/12 (0%)a 12/12 (100%) - significant differences: aprimary thyroid carcinoma vs follicular adenoma primary thyroid carcinoma vs normal thyroid (pâ?¤0.001 fisher's exact test) b primary thyroid carcinoma vs goiter (p = 0.015 fisher's exact test) c[ 7 10 ].
+ras association domain family (rassf) encodes distinct tumor suppressors several members frequently silenced human cancer
+our study we analyzed role rassf2 rassf3 rassf4 rassf5a rassf5c rassf6 effectors mst1 mst2 ww45 thyroid carcinogenesis
+frequent methylation rassf2 rassf5a cpg island promoters thyroid tumors observed
+rassf2 methylated 88% thyroid cancer cell lines 63% primary thyroid carcinomas
+rassf2 methylation significantly increased primary thyroid carcinoma compared normal thyroid goiter follicular adenoma (0% 17% 0% respectively p < 0.05)
+patients older 60 years significantly hypermethylated rassf2 their primary thyroid tumors compared those younger 40 years (90% vs
+38% p < 0.05)
+rassf2 promoter hypermethylation correlated its reduced expression treatment dna methylation inhibitor reactivated rassf2 transcription
+over-expression rassf2 reduced colony formation thyroid cancer cells
+functionally our data show rassf2 interacts proapoptotic kinases mst1 mst2 induces apoptosis thyroid cancer cell lines
+deletion mst interaction domain rassf2 reduced apoptosis significantly (p < 0.05)
+results suggest rassf2 encodes novel epigenetically inactivated candidate tumor suppressor gene thyroid carcinogenesis
+approximately 10% whole population develop clinically significant thyroid nodule during their lifetime [ 1 ]
+nearly 80% all thyroid malignancies arise follicular epithelial cells thyrocytes
+there three main histological types epithelial thyroid cancer: papillary thyroid carcinoma (ptc) follicular thyroid carcinoma (ftc) undifferentiated (or anaplastic) thyroid carcinoma (utc)
+contrast medullary thyroid carcinoma (mtc) develop parafollicular c cells
+c cells produce calcitonin hormone regulating calcium metabolism [ 2 ]
+development progression thyroid tumors consequence complex epigenetic genetic changes
+our previous work we identified novel ras effector located tumor suppressor gene locus 3p21.3 [ 3 ]
+gene termed ras association domain family 1a ( rassf1a ) epigenetically inactivated human cancers inhibits growth tumors vivo [ 4 5 ]
+we others shown rassf1a frequently silenced thyroid cancer [ 6 - 9 ]
+rassf1a hypermethylation more pronounced aggressive undifferentiated thyroid carcinoma [ 7 10 ]
+epigenetic inactivation rassf5 thyroid cancer been investigated [ 11 12 ]
+rassf1a first member ras association domain family (rassf)
+family consists six classical rassfs (rassf1 rassf6) n-terminal rassfs (rassf7 rassf10) n-terminal ras association (ra) domain [ 13 - 17 ]
+classical rassfs encode c-terminal ra sarah domain [ 13 16 ]
+several genes (e.g
+rassf1a rassf2 rassf5 [nore1] rassf6 ) encode tumor suppressors involved cell cycle regulation microtubule stability apoptosis [ 13 16 18 - 20 ]
+sarah domain protein-protein interaction domain named after tumor suppressors sa lvador (in d
+melanogaster orthologue human ww45) ra ssf1 h ippo (in d
+melanogaster orthologue human proapoptotic kinase mst1)
+sarah domains found ww45 mst1 all classical rassfs
+heteromeric well homomeric interactions conducted via their sarah domains [ 21 ] e.g
+mst ww45 rassf1a rassf5 interaction [ 22 - 24 ]
+sarah domains play central role newly discovered hippo signaling pathway d
+melanogaster regulates cell proliferation apoptosis [ 21 25 ]
+aim our study reveal epigenetic status function rassf2 rassf3 rassf4 rassf5 rassf6 thyroid carcinogenesis
+here we report rassf2 frequently hypermethylated thyroid tumors suppresses growth thyroid cancer
+our study we aimed reveal role classical rassf members harbor c-terminal ra domain sarah domain their effectors mst1 mst2 ww45 thyroid carcinogenesis
+since rassf1a function silencing already studied detail we focused our work rassf2 rassf3 rassf4 rassf5a rassf5c rassf6 all encode c-terminal sarah domain [ 7 10 13 ]
+first we analyzed promoter methylation genes thyroid cancer cell lines (fig
+1 )
+rassf6 contains only promoter not located within cpg island [ 13 ] not included methylation analysis
+rassf2 promoter hypermethyation observed seven out eight (88%) thyroid cancer cell lines (fig
+1 tab
+1 )
+rassf5a hypermethylation found all analyzed cancer cell lines however rassf5c only partially methylated 8305c hth74 (fig
+1 )
+rassf5a rassf5c transcribed different cpg island promoters [ 13 ]
+cpg island hypermethylation rassf2 rassf5a confirmed bisulfite sequencing (additional file 1 )
+cpg island promoter hypermethylation rassf3 rassf4 mst1 mst2 ww45 not found thyroid cancer cell lines (fig
+1 )
+rassf1a methylation analyzed previously summarized table 1 [ 7 10 ]
+rassf1a hypermethylated all analyzed thyroid cancer cell lines
+methylation rassfs msts ww45 thyroid cancer cell lines 
+methylation status indicated cpg islands analyzed cobra
+pcr products (for length see additional file 5 table s1) bisulfite-treated dna digested (+) mock digested (-) taqi hpych4iv resolved 2% gel
+vitro methylated dna (methy.) utilized positive control
+sizes 100 bp ladder (m) indicated
+methylated (m) partially methylated (p) unmethylated (u) samples determined
+summary rassf2 rassf5a rassf1a methylation analyses significant differences: aprimary thyroid carcinoma vs
+follicular adenoma primary thyroid carcinoma vs
+normal thyroid (p?0.001 fisher's exact test) b primary thyroid carcinoma vs
+goiter (p = 0.015 fisher's exact test) c[ 7 10 ]
+next we analyzed expression rassf2 rassf5a rassf5c all thyroid cancer cell lines human fibroblasts (hf53) (fig
+2 )
+human fibroblasts unmethylated all three promoters high expression rassf2 rassf5a detected however rassf5c expression low (fig
+2a )
+expression rassf2 reduced several thyroid cancer cell lines (e.g
+ftc 236 1736)
+rassf5a expression diminished different thyroid cancer cell lines (fig
+2a ) compared hf53
+additionally two thyroid cancer cell lines (ftc 236 1736) treated 5-aza-2'-deoxycytidine (aza) rassf2 rassf5a expression analyzed qrt-pcr (fig
+2b 2c )
+inhibition dna methyltransferases aza induced upregulation rassf2 rassf5a expression
+summary we observed frequent epigenetic silencing rassf2 rassf5a thyroid cancer cell lines
+rassf2 rassf5 expression thyroid cancer cell lines 
+cdna isolated thyroid cancer cell lines human fibroblasts (hf53) amplified rt-pcr (for primer conditions see additional file 6 table s2) together water control (h2o)
+pcr products resolved 2% gel together 100 bp ladder (m)
+expression ?-actin (230 bp) determined control rna integrity
+b 
+reexpression rassf2 analyzed qrtpcr thyroid cancer cell lines ftc133 1736 treated 4 days indicated concentrations 5-aza-2'-deoxycytidine (aza)
+rna levels normalized ?-actin calculated relative human fibroblasts (= 100) c 
+reexpression rassf5a after aza treatment
+subsequently we analyzed methylation rassf2 rassf5a promoter 31 primary thyroid carcinomas (3 mtc 10 ftc 12 ptc 6 utc) 10 follicular adenomas 12 goiters 12 normal thyroid controls (fig
+3 tab
+1 )
+19 out 30 (63%) thyroid carcinomas promoter rassf2 partially methylated (tab
+1 )
+contrast none 12 normal thyroid tissues 10 follicular adenomas exhibited methylation rassf2 (fig
+3a )
+only two out 12 (17%) goiters methylated (tab
+1 )
+statistical analysis revealed significant increase rassf2 methylation frequency thyroid cancer compared normal thyroid controls follicular adenomas goiters (p < 0.001 p = 0.001 p = 0.015 fisher's exact test respectively)
+furthermore we examined methylation frequency rassf2 different types thyroid carcinoma (tab
+1 )
+medullary thyroid carcinoma showed lowest frequency (0/3 = 0%) comparison ptc (6/11 = 54%) ftc (8/10 = 80%) utc (5/6 = 83%)
+methylation rassf2 significantly higher thyroid tumors obtained older patients (90% >60 year) compared those younger patients (38% <40 years p = 0.043) patients 41 59 years (58%)
+other correlations histopathological parameters not revealed
+we analyzed rassf5a methylation primary thyroid cancers other thyroid tissues (fig
+3b )
+rassf5a methylation frequently found cancer cell lines (9/9 = 100%) primary thyroid cancer but detected all analyzed control tissues goiters follicular adenomas (tab
+1 )
+since rassf5a methylation not tumor specific we further focused rassf2 where methylation preferentially found cancers
+methylation rassf2 rassf5a primary tissue 
+
+cobra rassf2 primary thyroid specimen including follicular thyroid cancer (ftc) papillary thyroid cancer (ptc) medullary thyroid cancer (mtc) undifferentiated thyroid cancer (utc) goiter (g) normal thyroid samples (n) follicular adenoma (fa)
+pcr products bisulfite-treated dna digested (+) mock digested (-) taqi resolved 2% gel
+b 
+methylation status rassf5a 
+vitro methylated dna (methy.) utilized positive control
+sizes 100 bp ladder (m) indicated
+methylated (m) partially methylated (p) unmethylated (u) samples determined
+next we analyzed distinct tumor suppressive features associated rassf2
+first localization rassf2 other classical rassfs investigated ftc133 cells (fig
+4 )
+rassf1a rassf1c both found cytoplasm together microtubule
+other rassfs (rassf2 rassf3 rassf4 rassf5 rassf6) not associated microtubule but observed cytoplasm nucleus (fig
+4 data not shown)
+rassf3 rassf4 rassf5 rassf6 cluster formation detected (fig
+4 data not shown)
+deletion sarah domain did not alter localization fluorescent rassf2 rassf3 rassf6
+however rassf1a rassf4 appear localize nucleus cytoplasm
+interesting note utilized rassf5a isoform (variant 4) contains partially truncated sarah domain
+sarah domain protein-protein interaction domain found all classical rassfs their proapoptotic effector mst1 mst2 adapter protein ww45
+therefore we analyzed interaction proteins yeast two hybrid pull down assays (table 2 fig
+5 )
+we found interaction all rassfs mst1 mst2 yeast two hybrid assay (additional file 2 )
+however truncation sarah rassf5a (variant 4) rassf2 reduced interaction yeast two hybrid abolished interaction pulldown assay (fig
+5 additional file 2 additional file 3 )
+interaction ww45 rassf1a rassf3 rassf4 mst1 mst2 yeast two hybrid found
+precipitation mst1 ww45 rassf1a rassf2 rassf3 rassf5c rassf6 confirmed pull down (tab
+2 fig
+5 )
+interaction rassf2 rassf1a rassf3 rassf5c only found yeast two hybrid assay (tab
+2 )
+localization fluorescent rassfs rassf?sarahs (deletion sarah domain) 
+ftc133 cells transfected indicated fluorescent rassfs control vector (pegfp)
+after one day cells fixed stained dapi
+summary interaction analyses + positive interaction - no interaction w weak interaction na not analyzed
+binding studies rassfs mst1 ww45 co-precipitation 
+plasmids express indicated gst-flag-tagged-constructs (-gf) flag-tagged-constructs (-f) transfected hek293t cells
+after two days total protein extracted flag-tagged proteins precipitated anti-flag-agarose (f) glutathione sepharose (g)
+samples separated 10% page gel blotted
+precipitated co-precipitated proteins determined anti-flag-antibodies
+sizes protein marker (m) indicated
+interaction rassf2 kinases mst1 mst2 indicate rassf2 involved proapoptotic rassf-pathway
+therefore we analyzed rassf2-induced growth suppression apoptosis thyroid cancer cell lines (fig
+6 )
+thyroid cancer cell line 1736 transfected construct expressing rassf2 under control cmv promoter empty vector (fig
+4 )
+after selection 4 weeks 65% decrease colony formation cancer cells transfected rassf2 (mean = 4.6) compared cells transfected empty vector (mean = 13.6 p = 0.019 one-way anova test) observed (fig
+6a 6b )
+additionally we analyzed rassf2 induced apoptosis 1736 ftc133 cells (fig
+6c 6d additional file 4 )
+transfection fluorescent rassf2 caused significantly increased apoptosis indicated nuclei condensation/fragmentation compared fluorescent vector 1736 ftc133 (p < 0.001 p = 0.07 respectively)
+apoptotic cells exemplarily verified tunel assay (fig
+s4)
+ftc1736 ratio intact vs
+apoptotic cells vector: 96% vs
+4% rassf2wt: 88% vs
+12% rassf2?sarah: 94% vs
+6% respectively
+ftc133 similar trend observed (fig
+6d )
+ftc133 ratio intact vs
+apoptotic cells following vector: 75% vs
+25% rassf2wt: 62% vs
+38% rassf2?sarah: 78% vs
+22% respectively
+thus rassf2?sarah exhibited significantly reduced rate apoptotic cells 1736 ftc133 cells compared wt rassf2 (p < 0.05)
+summary our data suggest rassf2 tumor suppression function involves apoptotic regulation through binding proapoptotic kinases mst
+tumor suppressor function rassf2 
+
+rassf2 cloned pcmv-tag1 transfected thyroid cancer cell line 1736 parallel empty vector triplicates
+cells grown selective medium four weeks stained giemsa
+b 
+numbers colonies determined means standard deviation plotted
+c 
+1736 cells transfected indicated fluorescent rassf2 constructs control vector (peyfp)
+after two days cells fixed stained dapi
+fluorescent cells (n > 200) counted percentage intact condensed fragmented missing nuclei determined
+d 
+nuclei alterations ftc133 cells (n > 100)
+epigenetic inactivation tumor suppressor genes fundamental event pathogenesis malignant tumors
+here we report rassf2 member ras association domain family frequently silenced primary thyroid tumor thyroid cancer cell lines
+best our knowledge first report shows epigenetic inactivation rassf2 common event thyroid carcinogenesis
+we show rassf2 suppressed growth thyroid cancer cells
+rassf2 transcript detected most normal tissues [ 20 ]
+down-regulation rassf2a promoter hypermethylation been shown different tumor cell lines primary tumors including lung cancer colon cancer gastric cancer nasopharyngeal carcinoma head neck cancer [ 20 26 - 33 ]
+been reported primary colorectal cancers showed kras braf mutations frequently showed rassf2 methylation inactivation rassf2 enhanced kras-induced oncogenic transformation [ 28 30 ]
+rassf2 binds directly k-ras gtp-dependent manner via ras effector domain [ 20 ]
+addition patients methylated rassf2a promoter presented higher frequency lymph node metastasis [ 27 ]
+methylation rassf1a rassf2 associated poor outcome after radiotherapy oral squamous cell carcinoma [ 34 ]
+here we report degree rassf2 methylation associated age thyroid cancer patients
+been suggested aberrant methylation rassf2 plasma colorectal cancer patients may serve cancer biomarker [ 35 ]
+thus will interesting determine hypermethylation rassf2 blood samples thyroid cancer patients
+regarding rassf2's interaction other rassf members shown associate rassf3 rassf5 [ 29 ]
+our yeast two hybrid assay confirmed bindings additionally binding rassf1a rassf2 observed
+however interactions not observed pulldown (tab
+2 )
+general only strong yeast two hybrid interactions could confirmed pulldowns
+since yeast two hybrid assays prone false positive results we rather agree pull down interactions
+rassf2 binds both proapoptotic kinases mst1 mst2 yeast two hybrid assays confirmed rassf2 mst1 pulldown
+been suggested binding classical rassfs mst1 mst2 ww45 other conducted their sarah domains [ 21 ]
+deletion sarah domain rassf2 abolished binding mst1 mst2 [ 36 37 ]
+interesting note all rassfs ww45 bind mst1 however only certain rassfs (e.g
+rassf1a rassf5c) bind other pulldowns
+result suggests sarah domains show different binding properties
+rassf2 exhibits several tumor suppressor properties like inhibition cell growth induction apoptosis [ 20 27 ]
+here we show rassf2 acts novel tumor suppressor thyroid carcinogenesis
+been shown rassf2 binds regulates proapoptotic kinases mst1 mst2 [ 36 37 ]
+rassf2 engages jnk pathway induces apoptosis mst1-independent manner [ 37 ]
+other findings suggest mst2 rassf2 form complex rassf2 maintained phosphorylated state mst2 protects mst2 degradation turnover [ 36 ]
+however exact phosphorylation site rassf2 mst2 not revealed
+additionally we found rassf5a frequently hypermethylated thyroid tissues however methylation not tumor specific since observed controls
+epigenetic silencing rassf5 thyroid cancer been analyzed previously but not tumor specific [ 11 12 ]
+interestingly rassf5a rassf2 methylation reduced mtc compared other cancers
+been reported rassf5a expression suppressed ftc carrying pax8-ppar? fusions [ 11 ]
+methylation other investigated cpg island promoters ras effectors ( rassf3 rassf4 mst1 mst2 ww45 ) uncommon
+summary we report frequent tumor-specific hypermethylation rassf2 thyroid cancer
+functional analysis showed rassf2 interacts both proapoptotic kinases mst1 mst2
+overexpression rassf2 induces apoptosis thyroid cancer cell lines
+data suggest rassf2 acts proapoptotic tumor suppressor thyroid carcinogenesis
+65 thyroid tissues including 31 primary thyroid carcinomas (6 utc 3 mtc 10 ftc 12 ptc) 10 follicular adenomas 12 goiters 12 normal thyroid samples analyzed [ 7 10 ]
+all patients signed informed consent initial clinical investigation
+study approved local ethic committees
+mean age study population time surgical resection 51 ± 15 years 40% patients male
+nine human thyroid cancer cell lines: bcpap (ptc) ftc238 ftc236 ftc133 c643 (utc) 8505c (utc) 1736 (utc) 8305c (utc) hth74 (utc) cultured recommended medium included study [ 7 10 ]
+genomic dna extracted frozen tissues cultured cells standard phenol/chloroform procedure
+methylation promoter regions ( rassf2 rassf3 rassf4 rassf5a rassf5c ww45 mst1 mst2 ) determined cobra bisulfite sequencing [ 38 39 ]
+briefly 100 ng bisulfite-treated dna amplified 10 pmol primers reaction buffer containing 0.2 mm dntp mix 1.5 mm mgcl2 10 pmol primer 1.5 u taq polymerase (invitek gmbh berlin germany)
+pcr primers condition see additional file 5 
+20 50 ng pcr products digested 10 u taqi hpych4iv (neb frankfurt germany) analyzed 2% tris-borate edta agarose gel
+bisulfite sequencing pcr products cloned pgem-t vector (promega heidelberg germany) sequenced (genterprise mainz germany)
+two thyroid cancer cell lines (1736 ftc236) treated 4 days 5 ?m 10 ?m 5-aza-dc (sigma taufkirchen germany)
+rna isolated using trizol-reagent (invitrogen karlsruhe germany)
+eliminate dna contamination 1 ?g rna incubated 1u dnase i (fermentas gmbh st
+leon-rot germany) 1 ?l 10x dnase i buffer depc-treated water 10 ?l
+after 15 minutes incubation room temperature dnase inactivated adding 1 ?l 25 mm edta incubation 65°c 15 min reversely transcribed using poly-dt primers random hexamers 20 ?l rt-mix mmlv reverse transcriptase (promega heidelberg germany) 1 h 42°c
+subsequently 2 ?l cdna amplified
+pcr primers condition see additional file 6 
+statistical analysis carried out using spss17 (spss münchen germany)
+categorical variables plotted contingency tables evaluated using fisher's exact test one way anova test
+all reported p-values two-sided considered significant p < 0.05
+cdnas rassf2 rassf3 rassf4 rassf5a (variant 4) rassf5c (variant 3) rassf6 mst1 mst2 ww45 cloned after amplification fragments est-clones dkfzp781o1747q imagp998a0813502q irakp961i1269q iralp962n0113q (bc004270) irakp961l2026q dkfzp686k23225q irakp961c0282q irakp961i0613q irakp961l0427q (rzpd berlin germany) respectively
+rassf1a rassf1c rassf3 described previously [ 3 40 ]
+mutant forms constructs generated quickchange® xl site-directed mutagenesis kit (stratagene la jolla usa) appropriate primers
+all constructs confirmed sequencing
+cdnas cloned fluorescence vector peyfp (clontech mountain view usa)
+after transient transfection ftc133 cells hekfectin (biorad münchen germany) localization fluorescent rassf variants vector control investigated fluorescence microscope (axio observer z1 zeiss jena germany)
+nuclei cells visualized staining dapi (01 ?g/ml pbs)
+matchmaker two-hybrid system (clontech mountain view usa) utilized
+yeast strain pj69-4a co-transformed 0.5 ?g plasmid using peg/liac method
+interaction analysis carried out sd minimal medium plates without adenine histidine transformation efficiency determined sd plates adenine histidine
+strength interaction investigated quantification expression ?-galactosidase reporter gene o-nitrophenyl-?-d-galactopyranoside (onpg) substrate od 420 nm
+cdnas cloned vector pcmv-tag1 (stratagene la jolla usa) and/or modified vector pebg (gst flag tag)
+investigate interaction specific rassf forms mst1 mst2 ww45 co-transfections hekfectin (biorad münchen germany) performed hek293t cells
+two days after transfection total protein extracted flag-lysis buffer
+gst-fused proteins precipitated glutathione-sepharose (amersham biosciences freiburg germany)
+flag-tagged proteins precipitated anti-flag-agarose (sigma steinheim germany)
+samples separated 10% page gel blotted
+interaction determined anti-flag-antibodies (sigma steinheim germany)
+rassf2 cloned vector pcmv-tag1 (stratagene la jolla usa)
+thyroid cancer cell line 1736 transfected using hekfectin (biorad münchen germany)
+colonies selected under 1 mg/ml geneticin (gibco karlsruhe germany) dmem 4 weeks
+expression rassf2 confirmed rt-pcr (data not shown)
+thyroid cancer cells ftc133 1736 seeded glass slides transfected different rassf2 constructs using hekfectin (biorad münchen germany) analyzed after two days incubation
+therefore cells fixed paraformaldehyde permeabilized tritonx dapi stained embedded mowiol fluorescent analysis
+transfected cells (n > 100 ftc133 n > 200 1736) analyzed intact condensed fragmented missing nucleus
+rassf: ras association domain family mst: mammalian sterile 20-like kinase/human hippo homolog ww45: human salvador homolog sarah: salvador-rassf-hippo cobra: combined bisulfite restriction analysis 5-aza-dc: 5-aza-2'-deoxycytidine utc: undifferentiated thyroid carcinoma ptc: papillary thyroid carcinoma mtc: medullary thyroid carcinoma ftc: follicular thyroid carcinoma
+authors declare no competing interests
+rhd created study
+amr us ks rhd participated design study
+amr us cl jh ks acquired data
+amr us cl jh rhd controlled analyzed interpreted data
+amr us cl jh rhd prepared manuscript
+all authors read corrected approved final manuscript
+summary bisulfite sequencing rassf2 rassf5a 
+figure results bisulfite sequencing click here file quantitative interaction analysis onpg assay 
+graph quantitative yeast two-hybrid interaction results click here file binding analysis rassf2?sarah mst1 co-precipitation 
+figure western blot click here file rassf2 induced apoptosis 
+figure tunel assay
+click here file primer sequences conditions cobra 
+table oligonucleotides used methylation analysis click here file primer sequences conditions qrt-pcr 
+table oligonucleotides used expression analysis click here file work supported ata thanc research grant undraga schagdarsurengin
+research reinhard dammann's laboratory funded deutsche krebshilfe deutsche forschungsgemeinschaft (dfg da552)
+organizations no involvement study design acquisition analysis interpretation data writing manuscript decision submit manuscript publication.

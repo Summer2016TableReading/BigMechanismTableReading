@@ -1,0 +1,138 @@
+137
+table 2a genetic alterations: mutation frequencies k-ras b-raf p53   all cases k-ras   b-raf   p53     no no (%)   no (%)   no (%)   all patients 202 54 (27%)   7 (3%)   65 (32%)   age (years±s.d.) 66.05±11.66 67.16±11.56 ns 64.42±13.50 ns 65.23±12.17 ns sex â??f 81 24 (30%) ns 2 (2%) ns 22 (27%) ns â??m 121 30 (25%)   5 (4%)   43 (35%)                   tumour â??mâ?? 72 12 (17%) p =0.016 1 (1%) ns 26 (36%) ns â??m+ 130 42 (32%)   6 (5%)   39 (23%)                   location â??r 71 25 (35%)   5 (7%)   23 (32%)   â??l 78 15 (19%) p =0.088 1 (1%) ns 23 (29%) ns â??re 53 14 (26%)   1 (2%)   19 (36%)                   grading â??g1 14 5 (36%)   â??   4 (29%)   â??g2 145 38 (26%) ns 4 (3%) ns 48 (33%) ns â??g3 43 11 (26%)   3 (7%)   13 (30%)   f=female l=left side m=male m+=metastatic tumours mâ??=nonmetastatic tumours ns=not significant r=right side re=rectum s.d.=standard deviation.
+colorectal cancer (crc) develops multistep process involves genetic epigenetic alterations
+k-ras p53 b-raf mutations rassf1a e-cadherin p16ink4a promoter methylation investigated 202 crcs without lymph node and/or liver metastasis assess whether gene abnormalities related metastogenic phenotype
+k-ras b-raf p53 mutations detected 27 3 32% cases k-ras mutations significantly associated metastatic tumour ( p =0.019)
+rassf1a e-cadherin p16ink4a methylation documented 20 44 33% cases p16ink4a significantly associated metastatic tumours ( p =0.001)
+overall out 202 tumours 34 (17%) did not show any molecular change 125 (62%) one two 43 (21%) three more
+primary but yet metastatic crcs prevalent latter group ( p =0.023) where most frequent combination one genetic (k-ras particular) two epigenetic alterations
+conclusion analysis provided detect some molecular differences between primary metastatic nonmetastatic crcs k-ras p16ink4a statistically altered metastatic tumours particular gene combinations such coincidental k-ras mutation two methylated genes associated metastogenic phenotype
+study includes 202 consecutive primary advanced metastatic nonmetastatic crcs surgically removed 1997 2002
+table 1 reports main clinico-pathological features series
+we elected study compare two homogeneous groups crc cases namely those invading through muscolaris mucosa subsierosa (or nonperitonealised pericolic perirectal tissues) without lymph nodes and/or liver metastases
+such way only significant morphological biological variable between two groups presence metastatic deposits
+accordingly two groups will referred throughout paper metastatic (m+) nonmetastatic (m?) tumours
+samples fixed formalin embedded paraffin
+paraffin blocks cut several 2? ? m sections
+one section tissue stained hematoxylin?eosin distinguish neoplastic tissue nonmalignant counterpart
+after manual dissection dna extracted unstained section malignant tissue described previously ( roncalli et al 2002 )
+briefly tissue sections deparaffinised using 100% xylene (sigma saint louis mo usa) followed 100% ethanol
+pellet then resuspended buffer containing proteinase k (finnzyme espoo finland) dna extracted phenol?chloroform (sigma saint louis mo usa) followed ethanol precipitation
+finally precipitated dna resuspended 100? ? l water
+dna quantified spectrophotometrically 200?ng used template pcr amplification
+mutations codon 12 k-ras gene codon 599 b-raf gene detected pcr?rflp identifies codon 12 599 mutations but not specifically altered nucleotide
+k-ras codon 12 mutations detected using bst ni restriction enzymes (new england biolabs inc beverly ma usa)
+briefly 200?ng dna used template first pcr consisted 50? ? l volume containing taq dna polymerase (1?u finnzyme espoo finland) deoxynucleotide triphosphates (0.2?m m finnzyme espoo finland) reaction buffer (5? ? l finnzyme espoo finland) primers forward (0.2?pmol? ? l?1 proligo boulder co usa): 5?-actgaatataaacttgtggtagttggacct-3? reverse (0.2?pmol? ? l?1 proligo boulder co usa): 5?-tcaaaagaatggtcctgcaccag-3?
+forward primer creates restriction site bst ni lost when k-ras mutated codon 12
+amplification dna thermocycler (mbs 0.2s hybaid ashford uk) used
+cycling conditions first pcr follows: initial denaturation (4?min 94°c) followed 40 cycles denaturation (30?s 94°c) annealing (15?s 53°c) elongation (30?s 72°c)
+elongation 10?min 72°c followed last cycle end samples kept 4°c
+twenty microlitres pcr reaction then digested bst ni 4?h 60°c total volume 50? ? l
+when codon 12 wild-type pcr product contains restriction site bst ni digestion yields bands 128 29?bp
+there mutation either first two bases codon 12 mutant pcr fragment will not cut will remain its original size 157?bp
+digested products visualised electrophoresis 3% agarose gels (containing 0.5? ? g?ml?1 ethidium bromide)
+positive (sw480 cell line) negative controls (human placental dna) mutation controls carryover dna contamination included every experiment
+b-raf v599e mutations analysed first amplification using primers forward (0.2?pmol? ? l?1 proligo boulder co usa): 5?-ctgttttcctttacttactacacctcagata-3? reverse (0.2?pmol? ? l?1 proligo boulder co usa): 5?-ctcaattcttaccatccacaaaatg-3?
+after 40 cycles amplification (annealing temperature 55°c) amplified dna subjected tsp ri (new england biolabs beverly ma usa) restriction digestion because mutation abrogates restriction site present wild-type sequence
+after incubation enzyme 65°c overnight products analysed 3% agarose gels
+special care taken directly load samples high temperature (70°c) presence formamide (0.2%) avoid reannealing restricted products ( tsp ri leaves nine-base 3? overhang)
+dna containing wild-type (human placental dna) mutated t1976 sequence (ht29 cell line) always included controls
+we used both sscp immunohistochemistry
+sscp we identified samples altered p53 migratory pattern gene mutation polymorphism
+briefly pcr fragments generated 200?ng genomic dna 50? ? l pcr reaction buffer
+primers (0.4?pmol? ? l?1 proligo boulder co usa) condition pcr described table 1 supplementary appendix available bjc website
+dna containing wild-type p53 (human placental dna) always included controls
+sscp analysis pcr product mixed equal volume loading buffer containing 100% formamide (sigma saint louis mo usa) 0.05% xylene cyanol (sigma saint louis mo usa) 0.05% bromphenol blue (amersham bioscience corporation buckinghamshire uk) heated 96°c 10?min put ice before being loaded 37.5% tbe polyacrylamide gels electrophoresed 1?h 100?v 4?5?h 300?v
+gels silver stained dna silver staining kit (amersham bioscience corporation buckinghamshire uk) according manufacturer's recommendations
+analyse p53 expression formalin-fixed paraffin-embedded tissue sections (2? ? m) used deparaffinised exposed antigen retrieval system (1?m m edta ph 8 98°c 30?min) before being incubated specific p53 antibody (1:1000 ab-2 calbiochem oncogene research products cambridge ma usa)
+endogenous peroxidase blocked 3% hydrogen peroxide 20?min room temperature
+primary mouse monoclonal antibody applied 1?h room temperature
+reactive sites identified secondary antibody (hrp rabbit/mouse chemmate dako envision carpinteria ca usa) 30?min room temperature
+immunoperoxidase staining using diaminobenzidine chromogen carried out (dab+chromogen x-50 chemmate dakocytomation carpinteria ca usa)
+slides counterstained hematoxylin (harris hematoxylin diapath microstain division martinengo bg italy)
+abnormal sscp pattern coincidental p53 nuclear immunoreactivity taken indicative cases p53 mutation
+indeed altered sscp pattern may merely related gene polymorphism such being not indicative abnormally mutated gene
+other hand mere immunocytochemical detection p53 gene product may due increased protein stabilisation uncoupled mutation ( cripps et al 1994 )
+therefore less expensive quick efficient way detect p53 mutations associate abnormal sscp pattern nuclear immunocytochemical detection gene product
+previously reported ( roncalli et al 2002 ) 1? ? g genomic dna volume 50? ? l denatured naoh 10?min 37°c 30? ? l 10?m m hydroquinone (sigma saint louis mo usa) 520? ? l 3? m sodium bisulphite (sigma saint louis mo usa) ph 5 both freshly prepared added mixed samples incubated 50°c 16?h
+modified dna purified using wizard dna purification resin according manufacturer's instruction (promega milano italy) eluted 50? ? l water
+modification completed naoh treatment (final concentration 0.3? m ) 5?min room temperature followed ethanol precipitation
+dna resuspended water used immediately stored ?20°c
+polymerase chain reaction performed separately methylation-specific primers (0.12?pmol? ? l?1 proligo boulder co usa) unmethylation primers (0.12?pmol? ? l?1 proligo boulder co usa) gene ( supplementary appendix table 1 )
+unmethylated (human placental dna) methylated dna (lovo colo320 hepg2 cell lines rassf1a e-cadherin p16ink4a respectively) used msp controls
+polymerase chain reaction products analysed 2% agarose gels stained ethidium bromide (0.5? ? g?ml?1) visualised under uv illumination
+sample classified methylated whenever band corresponding molecular weight methylated pcr product thickness staining intensity equal greater unmethylated pcr product
+figure 1 supplementary appendix available bjc website illustrates example methylated unmethylated pcr products
+data described number percentage means s.d whether appropriate
+differences frequencies variables tested using ? 2 test (pearson fisher appropriate) differences mean levels variables tested using t -test
+p -value 0.05 considered statistically significant
+all variables found p -value ?0.1 univariate evaluation considered candidates subsequent stepwise multivariate logistic regression analysis
+data analysis performed using stata9
+mutational status k-ras b-raf p53 202 cases crc shown table 2a 
+codon 12 k-ras mutations found 54 cases (27%)
+univariate analysis k-ras mutations significantly associated m+ tumours ( p =0.016) more frequent detectable right side ( p =0.088)
+multivariate analysis confirmed association between k-ras mutations m+ tumours (or 2.37 95% ci 1.15?4.88 p =0.019)
+seven cases (3%) showed b-raf mutation but none coincidental mutation k-ras gene nor statistical association other clinico-pathological variables
+altered sscp pattern identified 91 (45%) out 202 samples whereas p53 nuclear immunoreactivity detected 115 (57%) out 202 cases
+coincidental abnormal sscp migratory pattern p53 nuclear immunoreactivity documented 65 (32%) out 202 cases
+no association found cases showing both genetic phenotypic p53 abnormalities clinico-pathological parameters under study
+all cases showing pcr products methylated dna sequences exhibited unmethylated dna sequences related tumour heterogeneity occurrence intermingled non-neoplastic cells
+epigenetic profile rassf1a e-cadherin p16ink4a crc shown table 2b 
+out 202 tumours rassf1a methylated 40 (20%) tumours majority occurring m+ tumours ( p =0.021)
+no other association found between rassf1a methylation clinico-pathological parameters under study
+out 202 cases e-cadherin methylation detected 88 (44%) cases
+e-cadherin methylation more frequently detectable right colon ( p =0.011) older patients ( p =0.002)
+e-cadherin methylation associated rassf1a methylation ( p =0.047)
+all variables retained statistical significance multivariate analysis (right side: 0.59 95% ci 0.40?0.87 p =0.007 older age: 1.039 95% ci 1.01?1.07 p =0.004 rassf1a methylation: 2.11 95% ci 1.01?4.41 p =0.047)
+out 202 cases p16ink4a promoter methylation found 67 (33%) cases
+p16ink4a methylation significantly associated m+ tumours ( p <0.001)
+p16ink4a methylation associated b-raf mutations ( p <0.001) rassf1a ( p =0.004) e-cadherin ( p =0.040) methylation
+p16ink4a methylation more frequently detectable p53 mutated cases ( p =0.075)
+multivariate analysis showed gene methylation statistically associated m+ tumours (or 3.48 95% ci 1.66?7.26 p =0.001) rassf1a methylation (or 2.29 95% ci 1.07?4.89 p =0.032)
+out 202 crcs thirty-four (17%) free molecular abnormalities no association m+ vs m? tumours
+regardless type molecular abnormalities 68 cases (34%) showed one molecular alteration 57 cases (28%) two molecular alterations 43 cases (21%) ?3 molecular alterations
+no statistical association seen between m+ m? crcs showing one two gene alterations
+conversely frequency crcs group showing three more alterations higher m+ m? tumours (34/130=26% vs 9/72=12% p =0.023)
+latter (?3 abnormalities) group most frequent combination genes one genetic two epigenetic alterations particularly k-ras mutations (18/34=53%) gene methylation equally affecting three genes under study ( rassf1a e-cadherin p16ink4a )
+coincidental methylation genes documented 12 cases 11 whose m+ crcs ( p =0.042)
+among variables associated m+ cancers univariate analysis ( k-ras mutation p16ink4a methylation rassf1a methylation younger age grading) multivariate analysis showed only k-ras mutations (or 2.98 95% ci 1.37?6.46 p =0.006) p16ink4a methylation (or 4.58 95% ci 2.14?9.76 p <0.001) younger age (or 0.95 95% ci 0.92?0.98 p <0.001) retained statistically significant value
+aim study characterise genetic epigenetic molecular alterations occurring primary advanced m+ m? crcs
+model crc relies upon sequential accumulation genetic epigenetic changes but our study 17% cases no abnormalities investigated genes ( k-ras b-raf p53 rassf1a e-cadherin p16ink4a )
+data agreement previous studies examining different sets genes
+smith et al (2002) investigated k-ras p53 apc 106 cases 10% crc reported free molecular abnormalities
+lee et al (2004) examined promoter methylation 12 different genes 149 crcs found 9% unmethylated
+chiang et al (2004) demonstrated three key mutations (apc k-ras p53 ) rarely coincidental 122 sporadic crcs
+all findings suggest alterations genes mostly involved colorectal carcinogenesis not always requested tumour progression
+we found 27% k-ras mutations whole series statistical association m+ tumours (univariate analysis p =0.016 multivariate analysis p =0.019) suggesting k-ras activation important determinant extracolic tumour spread
+gonzalez-aguilera et al (2004) found increased k-ras mutations tumours advanced duke's stage (a 22% b 27% c 38% d 33%) particularly when grouping m+ (46%) vs m? tumours (26%)
+aberrant activation k-ras been implicated facilitating all aspects malignant phenotype including proliferation invasion metastases ras effectors such pik3 raf/mek/erk cascade rho gtpases
+recently some authors proposed epithelial cells activated ras signalling require cooperation other signalling pathway became metastogenic ( grunert et al 2003 ) oncogenic ras thought cooperates several other proto-oncogenes such p53 p16ink4a ( serrano et al 1996 aguirre et al 2003 )
+cooperation between ras other genes likely occur crc progression because our study only 6% tumours showed exclusive presence k-ras mutation
+e-cadherin promoter methylation prevalent right colon (univariate analysis p =0.011 multivariate analysis p =0.007) so coincidental k-ras mutations e-cadherin methylation frequently occurred proximal (27%) rather left colon (5%) rectum (8%) ( p <0.001)
+whether e-cadherin methylation k-ras mutation cooperate right side colonic carcinogenesis progression confirmed larger series
+b-raf rarely found mutated our cases never conjunction k-ras 
+previously noted ( rajagopalan et al 2002 yuen et al 2002 ) k-ras b-raf mutations appear mutually exclusive confirming previous suggestions similar biological targets ras-raf-mek-erk-map kinase signalling pathway ( yuen et al 2002 )
+small proportion cases (10/202=5%) showed both k-ras mutations rassf1a methylation interestingly all cases m+ ( p =0.016)
+whether alterations both genes may able confer more aggressive phenotype remains established larger series
+our study p53 abnormalities not prevalent m+ tumours suggesting limited role p53 crc metastatisation
+different results reported goh et al (1999) used only sscp detect p53 mutations
+among tumour suppressor genes showing dna methylation p16ink4a seems play major role metastogenic phenotype primary crcs
+methylation seen 33% whole series like k-ras mutation significantly associated m+ phenotype (univariate analysis p =0.011 multivariate analysis p =0.001)
+strong correlation between staging p16ink4a methylation found yi et al (2001) loss p16ink4a expression been previously associated lymph-node metastases ( kim et al 2005a ) more advanced stage ( jeong et al 2005 )
+altogether results suggest p16ink4a methylation might link more malignant phenotype crc interestingly liang et al (1999) recently reported association between p16ink4a methylation shorter survival crc
+coincidental alterations k-ras p16ink4a mainly found m+ tumours (2/67 m? tumours vs 17/139 m+ tumours p =0.034) suggesting abnormalities pathways could cooperate more aggressive phenotype previously supported serrano et al (1997 )
+another focus study examine interactions between genetic epigenetic alterations induction metastogenic phenotype
+regardless type molecular abnormalities tumours three more but not those less three significantly more prevalent group m+ tumours ( p =0.023)
+means genes under study confer more aggressive phenotype when molecular changes deregulate least three them
+hypothesis keeping stepwise model progression crc
+given fraction m? crcs (13%) already harbours three more molecular changes we currently analysing cohort ascertain whether cases will develop metachronous liver metastasis increase rate compared m? crcs <3 molecular changes
+group m+ tumours showing three more abnormal genes characterised single genetic mutation (usually k-ras 53%) two epigenetic alterations (equally affecting p16ink4a rassf1a e-cadherin )
+notably toyota et al (2000) found k-ras mutations significantly prevalent crcs so called methylator phenotype (cimp) compared cimp negative cases
+stepwise increase number methylated genes observed lesion progression through stages multistep colorectal carcinogenesis lee et al (2004) 
+our study showed coincidental methylation three genes ( rassf1a e-cadherin p16ink4a ) restricted m+ tumours ( p =0.042)
+unclear why advanced m+ crcs showed high degree methylation: perhaps advanced tumours inherited major biological aggressiveness simply more likely become methylated
+notably patients showing three methylated genes older age (73.83 vs 65.60 years p =0.017) keeping suggestion put forwards toyota issa (1999 ) age-related methylation might contribute sharp increase cancer risk after age 60 years
+interestingly present study younger age statistically associated m+ tumours
+likely due internal selection surgical treatment being older age limiting factor radical surgical resection ( leporrier et al 2006 )
+conclusion analysis panel genes provided detect some genetic epigenetic molecular differences between m+ m? primary crcs
+set genetic epigenetic molecular abnormalities feature primary m+ crcs likely conferring ability tumour extracolic spread determining markers aggressive behaviour potential therapeutic targets.

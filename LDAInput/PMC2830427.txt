@@ -1,0 +1,179 @@
+178
+10.1371/journal.pone.0009472.t001 table 1 results gene promoter methylation analyses parathyroid tumours control tissues case apc methylation â?  rassf1a methylation â?  p16 ink4a methylation â?  rar-î² methylation â?  line-1 methylation â?  genotypes * no mean % (range) % mean % (range) % mean % (range) % mean % (range) % mean % (range) % men1 hrpt2 tumour samples cad1 2.7 (2â??5) 39.6 (24â??55) 8.1 (2â??27) 1.0 (1â??1) 66.3 (64â??69) wt wt cad2 2.7 (2â??4) 45.2 (34â??59) 1.3 (1â??2) 0.9 (0â??2) 67.3 (66â??70) wt wt cad3 2.9 (2â??4) 46.8 (28â??64) 2.1 (1â??5) 1.1 (1â??2) 67.0 (65â??69) wt wt cad4 3.4 (2â??4) 37.2 (22â??48) 2.9 (1â??5) 0.9 (0â??1) 68.3 (65â??71) wt wt cad5 3.6 (2â??6) 50.0 (35â??71) 4.4 (2â??14) 1.0 (0â??2) 67.7 (64â??70) wt wt cad6 3.8 (3â??5) 40.6 (27â??57) 1.4 (1â??2) 1.9 (1â??3) 72.3 (70â??75) wt wt cad7 3.9 (3â??5) 49.0 (30â??69) 1.9 (1â??3) 1.7 (0â??4) 64.7 (62â??67) wt wt cad8 4.0 (3â??5) 55.4 (41â??71) 1.1 (1â??2) 1.1 (1â??2) 64.7 (62â??66) wt wt cad9 5.3 (4â??6) 38.0 (23â??50) 0.9 (0â??1) 0.8 (0â??1) 64.0 (60â??66) wt wt cad10 9.1 (6â??13) 19.2 (9â??31) 1.3 (1â??2) 1.4 (0â??3) 65.0 (64â??67) wt wt cad11 10.3 (5â??13) 48.8 (25â??70) 1.6 (1â??3) 1.6 (1â??3) 71.3 (69â??73) wt mut (s) cad12 10.8 (7â??26) 59.4 (48â??67) 1.3 (1â??2) 2.1 (1â??4) 63.7 (61â??66) wt wt cad13 15.8 (11â??19) 8.0 (7â??11) 5.4 (2â??14) 0.4 (0â??2) 72.7 (71â??75) wt wt cad14 19.5 (12â??26) 46.6 (32â??59) 1.4 (1â??2) 4.0 (2â??8) 72.7 (70â??77) wt wt cad15 23.4 (15â??30) 52.8 (38â??67) 2.6 (2â??3) 1.4 (1â??2) 68.0 (66â??72) wt wt cad16 26.8 (8â??38) 60.4 (49â??73) 1.6 (1â??3) 5.3 (3â??7) 66.7 (63â??69) wt wt cad17 26.9 (9â??36) 39.6 (15â??77) 2.7 (2â??3) 1.3 (1â??2) 65.3 (64â??66) wt wt cad18 28.7 (11â??37) 57.4 (47â??67) 0.9 (0â??2) 0.6 (0â??3) 62.3 (60â??64) wt wt cad19 30.0 (11â??38) 50.2 (36â??71) 1.0 (1â??1) 1.0 (0â??2) 70.7 (69â??74) wt wt cad20 30.9 (16â??36) 58.2 (30â??86) 2.3 (1â??4) 1.0 (1â??1) 64.3 (61â??67) wt wt cad21 31.0 (18â??38) 24.2 (14â??37) 3.9 (2â??7) 1.9 (1â??2) 73.3 (71â??75) wt wt cad22 32.5 (16â??42) 49.6 (36â??59) 1.3 (1â??2) 1.3 (1â??2) 66.0 (64â??68) wt wt cad23 32.8 (20â??38) 49.8 (29â??61) 2.4 (1â??5) 2.9 (2â??5) 66.7 (64â??68) wt wt cad24 36.6 (16â??45) 63.8 (60â??69) 1.1 (1â??2) 1.0 (1â??1) 68.3 (66â??72) mut (s) wt cad25 37.6 (13â??43) 69.4 (54â??78) 1.3 (1â??2) 2.4 (1â??4) 69.7 (67â??72) wt mut (s) cad26 38.0 (26â??57) 52.0 (29â??61) 6.9 (4â??12) 4.6 (3â??8) 69.0 (67â??70) wt wt cad27 39.2 (32â??48) 44.4 (29â??57) 1.1 (1â??2) 2.1 (0â??4) 64.6 (62â??66) wt wt cad28 45.7 (18â??69) 57.8 (27â??77) 1.4 (1â??3) 3.2 (2â??7) 73.7 (72â??77) wt wt cad29 48.0 (26â??60) 29.8 (21â??36) 0.9 (0â??2) 1.6 (0â??3) 66.3 (63â??68) wt wt cad30 48.2 (38â??55) 38.8 (21â??49) 1.0 (1â??1) 1.3 (1â??2) 68.7 (65â??71) wt wt cad31 54.5 (30â??68) 45.8 (22â??65) 2.7 (1â??7) 1.1 (0â??2) 66.3 (62â??69) wt wt cad32 55.7 (44â??63) 71.2 (64â??78) 1.1 (1â??2) 1.3 (0â??4) 60.7 (58â??63) wt wt cad33 60.6 (34â??89) 45.4 (27â??63) 8.6 (2â??35) 1.6 (1â??2) 68.7 (65â??71) wt wt cad34 64.1 (39â??78) 41.0 (25â??50) 1.3 (1â??2) 2.3 (1â??4) 73.3 (70â??75) wt mut (s) rad1 1.5 (1â??2) 71.4 (60â??83) 2.3 (1â??4) 2.9 (0â??4) 75.3 (73â??79) wt n.d rad2 2.0 (1â??4) 64.0 (55â??72) 14.9 (2â??34) 3.4 (0â??7) 71.3 (70â??72) wt n.d rad3 2.5 (2â??3) 66.4 (45â??83) 5.9 (1â??20) 2.7 (2â??4) 67.3 (66â??69) wt n.d rad4 6.4 (2â??23) 80.0 (63â??96) 1.9 (1â??4) 1.8 (0â??2) 66.3 (65â??67) wt n.d rad5 9.6 (5â??12) 48.2 (35â??58) 7.1 (3â??16) 3.2 (2â??5) 67.3 (65â??69) wt n.d rad6 10.1 (5â??27) 46.0 (29â??70) 7.1 (3â??15) 4.8 (3â??7) 74.0 (72â??76) wt n.d rad7 11.1 (6â??15) 42.2 (23â??55) 1.1 (1â??2) 3.4 (0â??6) 68.3 (66â??70) wt n.d rad8 11.6 (7â??17) 40.2 (24â??49) 2.1 (1â??4) 2.1 (0â??6) 69.3 (67â??71) mut (s) n.d rad9 21.3 (8â??34) 53.2 (22â??78) 1.3 (1â??3) 3.4 (2â??5) 67.7 (65â??69) wt n.d rad10 24.9 (17â??31) 26.4 (14â??46) 5.9 (1â??11) 1.5 (0â??3) 73.0 (71â??75) wt n.d rad11 26.8 (10â??47) 41.6 (32â??50) 1.1 (1â??2) 3.1 (1â??6) 71.7 (70â??73) wt n.d rad12 32.6 (20â??43) 69.8 (63â??76) 2.3 (1â??5) 1.4 (1â??2) 67.7 (65â??71) wt n.d rad13 33.9 (16â??41) 58.2 (49â??68) 1.6 (1â??3) 2.0 (1â??3) 70.0 (67â??72) mut (s) n.d rad14 36.4 (23â??46) 53.6 (46â??62) 2.0 (1â??5) 2.0 (1â??4) 68.0 (65â??71) mut (s) n.d rad15 38.6 (23â??47) 56.4 (48â??63) 0.9 (0â??1) 0.9 (0â??2) 67.7 (65â??69) mut (s) n.d rad16 43.3 (17â??53) 53.4 (36â??71) 1.0 (1â??1) 1.9 (0â??3) 69.0 (66â??72) wt n.d rad17 58.0 (46â??68) 64.4 (56â??78) 1.3 (1â??2) 4.8 (0â??7) 68.7 (66â??71) wt n.d rad18 65.1 (50â??78) 72.4 (56â??91) 0.7 (0â??1) 1.5 (0â??8) 67.0 (64â??70) mut (s) n.d rad19 65.9 (55â??73) 63.0 (42â??74) 1.9 (1â??2) 2.8 (0â??5) 63.7 (62â??66) mut (s) n.d h1 2.3 (1â??5) 16.2 (13â??19) 1.4 (1â??2) 4.1 (2â??7) 78.3 (75â??83) n.d mut (g) h2 77.5 (30â??89) 52.8 (32â??62) 1.9 (1â??3) 2.6 (1â??4) 75.7 (73â??78) n.d mut (g) shpt shpt1 2.5 (2â??3) 30.2 (16â??54) 3.0 (1â??5) 1.6 (0â??4) 71.3 (69â??76) n.d n.d normal controls normal pt1 4.0 (2â??7) 5.2 (4â??6) 2.9 (1â??5) 2.1 (1â??4) 60.7 (56â??68) n.d n.d normal pt2 2.2 (1â??5) 1.6 (1â??2) 3.1 (1â??7) 2.2 (1â??4) 59.7 (55â??67) n.d n.d normal pt3 3.3 (2â??4) 3.0 (3â??3) 2.1 (1â??3) 2.6 (2â??4) 72.3 (68â??77) n.d n.d leukocyte rad2 2.3 (1â??4) 2.8 (2â??3) 1.0 (1â??1) 3.5 (2â??6) 78.0 (75â??80) n.d n.d thymus h1 2.4 (1â??5) 3.8 (3â??5) 1.6 (1â??3) 6.8 (5â??9) 77.3 (75â??80) n.d n.d â?  â??=â?? mean cpg methylation density % (x% cpg1+y% cpg2)n/n range within parenthesis n.d: not determined wt â??=â?? wild-type mut (s/g) â??=â?? somatic/germline mutation * genotypes according previous publications [3] [43] â?? [44] .
+parathyroid adenomas constitute most common entity primary hyperparathyroidism although recent advances been made regarding underlying genetic cause lesions very little data epigenetic alterations tumour type exists
+study we determined levels promoter methylation regarding four tumour suppressor genes apc rassf1a p16 ink4a rar-? parathyroid adenomas
+addition levels global methylation assessed analyzing line-1 repeats
+sample collection consisted 55 parathyroid tumours known hrpt2 and/or men1 genotypes
+using pyrosequencing analysis we demonstrate apc promoter 1a rassf1a promoter hypermethylation majority parathyroid tumours (71% 98% respectively)
+using taqman qrt-pcr all tumours analyzed displayed lower rassf1a mrna expression higher levels total apc mrna normal parathyroid latter largely conferred augmented apc 1b transcription levels
+hypermethylation p16 ink4a demonstrated single adenoma whereas rar-? hypermethylation not observed any sample
+moreover based line-1 analyses parathyroid tumours exhibited global methylation levels within range non-neoplastic parathyroid tissues
+results demonstrate apc rassf1a promoter hypermethylation common events parathyroid tumours
+while rassf1a mrna levels found downregulated all tumours investigated apc gene expression retained through apc 1b mrna levels
+findings suggest involvement ras signaling pathway parathyroid tumorigenesis
+additionally contrast most other human cancers parathyroid tumours not characterized global hypomethylation parathyroid tumours exhibited line-1 methylation levels similar normal parathyroid tissues
+primary hyperparathyroidism (phpt) common endocrine disorder denotes tumorous enlargement one more parathyroid glands
+while genetic background phpt been partly elucidated involvement epigenetic modifications remains unresolved
+mutations hrpt2 (also known cdc73 ) men1 tumour suppressor genes two important genetic events propelling parathyroid tumorigenesis [1] ? [3] 
+protein product hrpt2 parafibromin functionally linked canonical part wingless type (wnt) pathway [4] 
+parafibromin part human polymerase associated factor complex (hpaf) required facilitating transcription elongation histone modifications [5] ? [6] 
+furthermore parafibromin been shown associate wnt oncoprotein ?-catenin down-regulate c-myc oncogene transcription through direct binding c-myc promoter region supporting role parafibromin tumor suppressor protein inhibits wnt signaling [7] 
+interestingly men1 product menin coupled wnt pathway demonstrated its epigenetic regulation axin2 expression profiling men1 knock-out mice [8] ? [9] 
+broaden knowledge epigenetic events parathyroid tumour development we sought determine levels promoter methylation four tumour suppressor genes apc (adenomatous polyposis coli) p16 ink4a rassf1a (ras association domain family protein 1) rar-? (retinoic acid receptor-beta) all known widely hypermethylated various human cancers well exhibiting potential parathyroid tumour suppressor genes
+apc mutations responsible autosomal dominant familial adenomatous polyposis (fap) syndrome [10] ? [11] found sporadic colorectal cancer well other tumour types such cancer thyroid mammary glands [12] ? [13] 
+hypermethylation apc promoter 1a been demonstrated e.g
+cancer colorectum breast lung [14] ? [15] 
+furthermore loss apc immunoreactivity recently been implicated parathyroid malignant tumours [16] 
+tumour suppressor protein p16ink4a regulates g1 s phase transition cell cycle through its inhibition interaction between cdk 4/6 cyclin d1
+parathyroid tumours often demonstrate over-expression cyclin d1 thus making p16 ink4a gene interesting candidate promoter methylation assays since p16 ink4a inactivation might produce parallel oncogenic effects analogous cyclin d1 up-regulation [17] 
+p16 ink4a gene mutations been sought parathyroid tumours due presence 9p21-pter deletions small subsets parathyroid adenomas however no mutations been demonstrated [18] 
+rassf1a gene localized 3p21 epigenetically inactivated high regularity human cancers well endocrine tumours such pheochromocytomas follicular thyroid cancer [19] ? [21] 
+interestingly rassf1a been shown down-regulate cyclin d1 expression addition its role ras-binding protein hypothetically making rassf1a gene potential candidate parathyroid tumour suppressor gene [22] 
+rar-? member nuclear receptor superfamily main function convey retinoid signaling target gene transcription nucleus
+rar-? promoter exhibit frequent hypermethylation various tumours instance breast- prostate cancer well malignant mesothelioma [23] ? [25] 
+recently shown up-regulation oncogene c-myc increased levels rar-? promoter methylation prostate cell line suggesting events might directly indirectly coupled [26] 
+finding particular interest c-myc over-expression been demonstrated parathyroid tumours [27] 
+addition gene-specific hypermethylation global hypomethylation common characteristic human cancers [28] ? [29] 
+line-1 (long interspersed nuclear elements-1) retrotransposons denote replicating repetitive elements constitute about 15% human genome
+cpg sites within line-1 promoter region normally heavily methylated protect retrotransposon activation line-1 hypomethylation noted epigenetic event human tumourigenesis
+example line-1 promoter hypomethylation common colon cancer retrotransposal insertion line-1 sequence been directly shown disrupt apc gene case colon cancer [29] ? [30] 
+furthermore quantifying line-1 promoter methylation densities been shown reliable substitute global methylation assays [31] 
+towards ends we quantified promoter methylation apc rassf1a p16 ink4a rar-? line-1 repeats series parathyroid tumours characterized hrpt2 men1 genotypes
+total 55 parathyroid tumors assessed apc rassf1a p16 ink4a rar-? regional promoter methylation using pyrosequencing analysis
+examples pyrograms illustrated figure 1 results summarized table 1 
+density promoter methylation tumour calculated mean individual cpg residues results presented range minimum maximum methylation density individual sites assessed ( table 1 )
+results indicate cpg-specific methylation parathyroid tumours common event apc rassf1a promoters but rarely occur p16 ink4a rar-? promoter loci ( figure 2 )
+apc mean cpg methylation ranged 1.5% (case rad1) 77.5% (case h2) our panel ( table 1 )
+normal parathyroid tissues (normal pt 1?3) displayed very low levels apc promoter methylation (2.2% 4.0% 3.3% table 1 )
+addition shpt1 thymus tissue case h1 well leukocyte dna patient rad2 exhibited low apc methylation (2.3% 2.5%) agreement previous report low apc methylation density other non-neoplastic tissues such colonic mucosa (?5%) [32] 
+our study total 39 out 55 tumours (71%) considered exhibit hypermethylated apc promoter 1a (above 10% density) compared 16 tumours (29%) very low methylation (below 10% density)
+twenty-four out 34 cystic parathyroid adenomas (71%) exhibited hypermethylation well 14 out 19 (74%) regular parathyroid adenomas
+two cases germ-line hrpt2 gene mutations (h1-2) atypical adenoma case h1 presented virtually no methylation (2.3%) whereas parathyroid adenoma h2 endowed highest density apc methylation entire series (77.5%)
+10 cpg sites apc promoter 1a 5 cpg sites rassf1a promoter 7 cpg sites p16 ink4a promoter shown case rad 13 tumour carrying somatic men1 mutation
+tumour displays methylation densities 33.9% apc (range 16?41%) 58.2% rassf1a (range 49?68%) 1.6% p16 ink4a (range 1?3%) respectively
+nucleotides position #16 apc promoter region 1a position #32 p16 ink4a promoter (yellow) examples cpg free cytosine residues serve internal controls satisfactory bisulphite-driven c t conversion dna sample
+individual value plot illustrating mean densities cpg methylation apc rassf1a p16 ink4a rar-? line-1 promoters 55 parathyroid tumours (t) 3 normal parathyroid controls (n)
+y axis represents mean density methylation calculated average individual cpg residues assayed
+? ?=? mean cpg methylation density % (x% cpg1+y% cpg2)n/n range within parenthesis
+n.d: not determined wt ?=? wild-type mut (s/g) ?=? somatic/germline mutation
+* genotypes according previous publications [3] [43] ? [44] 
+rassf1a methylation ranged 8% (cad13) 80% (rad4) 54 out 55 (98%) tumours displayed methylation densities above 10% ( table 1 figure 2 )
+three normal parathyroid samples presented almost no rassf1a promoter methylation additional non-tumorous controls consisting normal thymus leukocyte dna displayed low levels rassf1a methylation
+case shpt1 however exhibited average methylation density 30.2% ( table 1 figure 2 )
+there significant but weak positive correlation between apc rassf1a methylation levels suggesting tumours high levels apc methylation density frequently demonstrate high rassf1a methylation levels (pearson's correlation 0.301 p?=?0.022 table 2 )
+n.s: not significant
+regarding p16 ink4a promoter methylation one case found hypermethylated compared non-tumorous controls (rad2 14.9%)
+remaining 54 cases (98%) displayed very low mean levels promoter methylation densities (<10%) ( table 1 )
+however nine cases found exhibit methylation levels above 10% one more individual cpg sites preferentially involvement cpg site 7
+rar-? all tumours normal controls displayed low levels promoter methylation (<10%) ( table 1 )
+regarding line-1 promoter methylation normal parathyroid tissues ranged 59.7% 72.3% thereby encompassing vast majority (45/55 82%) all parathyroid tumours investigated
+possible correlations evaluated between methylation density individual hypermethylated apc rassf1a promoters clinical genetic characteristics ( table 1 table 2 table 3 table s1 )
+no significant correlations observed between apc promoter hypermethylation serum levels calcium pth glandular weight ( table 2 )
+rassf1a no correlation between methylation levels serum calcium pth glandular weight demonstrated however increased levels rassf1a methylation correlated negatively serum calcium ( table 2 )
+n.a: not available
+all men1 mutated tumours current study displayed apc promoter 1a hypermethylation weak but significant correlation (pearson's correlation 0.322 p?=?0.027) revealed between high apc methylation density presence men1 mutation ( figure 3 )
+however no association observed between rassf1a methylation levels men1 genotype ( table 2 )
+furthermore there no correlation between apc rassf1a promoter methylation densities hrpt2 genotype ( table 2 )
+boxplot displaying apc promoter methylation comparison men1 genotype all cases where genotype data available
+endpoints boxes represent first third quartiles respectively horizontal line corresponds median
+high apc promoter methylation density statistically correlated men1 mutational status
+apc we assessed both total levels apc mrna apc 1b specific transcript regulated apc promoter 1b
+no taqman gene expression assay exists exclusively apc 1a transcript
+total levels apc mrna all 16 parathyroid adenomas available qrt-pcr exhibited greater relative expression levels compared normal parathyroid mean ranging 1.3?9 (normal parathyroid mean ?=?1) mean relative expression 4.5
+apc 1b transcript all tumours displayed greater relative expression levels compared normal parathyroid mean ranging 2?20 (normal parathyroid mean ?=?1) mean relative expression 8.7 ( figure 4 )
+rassf1a all 16 adenomas investigated been shown exhibit rassf1a hypermethylation ranging 37.2?71.2%
+using qrt-pcr all tumours found exhibit lower relative rassf1a mrna expression levels compared normal parathyroid mean value ranging 0.05?08 (normal parathyroid mean ?=?1)
+mean relative expression 0.26 suggesting parathyroid adenomas display noteworthy reduction rassf1a expression compared normal parathyroid ( figure 4 )
+16 adenomas compared normal parathyroid mean regarding ( ) rassf1a ( b ) total apc apc 1b gene expression
+endpoints intervals represent 95% confidence interval mean diamond corresponds mean value
+study we demonstrate frequent hypermethylation apc rassf1a tumour suppressor genes majority parathyroid adenomas
+rassf1a promoter hypermethylation led diminished rassf1a mrna levels parathyroid adenomas compared normal parathyroid tissues whereas apc gene expression retained through augmented expression apc 1b mrna regulated apc promoter 1b
+addition based line-1 promoter methylation results parathyroid benign tumours found exhibit global methylation levels within range normal parathyroid tissues examined
+apc gene expression regulated least two separate promoter regions named 1a 1b
+hypermethylation promoter 1a been readily demonstrated various human tumours however our knowledge there no little evidence suggesting epigenetic inactivation apc promoter 1b through hypermethylation [33] 
+hence purpose we focused solely apc promoter 1a regarding pyrosequencing analyses
+our tumour panel hypermethylation apc promoter 1a found majority benign parathyroid tumours well one familial hrpt2 related case
+results supported research colorectal tumorigenesis where promoter 1a methylation regarded early event readily detected small colorectal adenomas [33] 
+furthermore study all 16 adenomas analyzed qrt-pcr displayed augmented apc 1b mrna levels compared normal parathyroid tissues strongly suggesting apc promoter 1b not epigenetically silenced tumours
+parafibromin encoded hrpt2 vital part hpaf complex involved epigenetic modifications facilitating gene transcription been shown specifically regulate c-myc oncogene expression through binding directly c-myc promoter region [7] 
+our results do not point towards specific correlation between apc promoter methylation hrpt2 gene mutations suggesting parafibromin may not play apparent role regulation apc promoter 1a methylation
+however apc promoter 1a methylation displayed weak but significant correlation tumour suppressor men1 genotype all parathyroid tumours men1 mutations our panel displayed apc hypermethylation ranging 11.6?65.9% ( figure 2 )
+interestingly men1 protein product menin recently been implicated epigenetic modifier axin2 component within wnt pathway well apc-associated protein [8] 
+our study vaguely implies menin might regulate levels apc promoter methylation dna level parathyroid cells since cases men1 mutations general displayed higher levels methylation wild-type cases
+further molecular studies needed investigate potential role menin dna regulator apc promoter methylation status addition its known role axin2 regulator through histone methylation
+rassf1a promoter found hypermethylated nearly all parathyroid adenomas examined rassf1a gene expression levels considerably reduced adenomas compared normal parathyroid tissue
+data strongly support involvement tumour suppressor gene parathyroid tumorigenesis
+unrelated tumour tissues rassf1a promoter methylation been shown greatly diminish levels rassf1a mrna transcription subsequent usage demethylating agents such 5-aza-cdr reconstitutes rassf1a transcription levels [34] 
+role rassf1a cyclin d1 posttranslational modifier motivated us correlate our methylation data previous cyclin d1 expression results parathyroid cystic adenomas published elsewhere [35] 
+however no statistical correlation between increased rassf1a promoter methylation density over-expressed cyclin d1 levels seen (data not shown) suggesting rassf1a hypermethylation least part might contribute excessive parathyroid tumour growth other means cyclin d1 accumulation example through its role regulator apoptosis mitotic arrest [19] 
+regarding apc we demonstrate three cases normal parathyroid tissue (normal pt1-3) well case secondary hyperparathyroidism hyperplasia (case shpt1) displaying virtually no cpg promoter methylation suggesting methylation locus might conserved true tumorous lesions parathyroids such adenomas carcinomas
+moreover studies shown normal adrenal well normal colonic mucosa general shows apc promoter 1a methylation levels below 5% compared higher levels observed corresponding tumours [20] [32] 
+vast majority cases normal breast lung tissue display un-methylated apc promoter 1a compared corresponding tumours [15] [36] consequently examples illustrate tumour-specific phenotype apc promoter 1a methylation some tissue types
+rassf1a three normal parathyroid samples endowed virtually no methylation (2.0% 3.6% 3.0% respectively) whereas case shpt1 endowed methylation density approximately 30% suggesting rassf1a methylation found parathyroid tissue disproportionate growth pattern albeit not tumour per definition
+interestingly cyclin d1 over-expression found fraction cases secondary hyperparathyroidism suggesting subset lesions propelled parts processes similar those present parathyroid adenomas carcinomas [37] 
+hence finding rassf1a hypermethylation case shpt1 could imply process could contribute pathological growth secondary hyperparathyroidism addition adenomas
+other non-neoplastic endocrine tissues such normal adrenal medulla normal thyroid tissue rassf1a promoter habitually exhibit low levels (<10%) methylation densities few exceptions [20] ? [21] 
+our study normal thymus leukocyte dna used additional controls displayed low levels rassf1a methylation validating specificity our findings
+furthermore tumour case our study displayed virtually no rassf1a promoter methylation (cad13 8%) suggesting parathyroid tissue not routinely exhibit high levels methylation locus
+not known whether hypermethylation apc promoter 1a bears any pathological consequences parathyroid growth since apc protein expression been previously demonstrated parathyroid adenomas [16] [27] 
+however recent study shown reduced apc promoter 1a mrna levels colorectal tumours apc promoter 1a hypermethylation although retained apc protein expression through promoter 1b activity authors advocate even slight decrease apc gene transcription through epigenetic silencing promoter 1a could impact wnt signalling although via unknown mechanisms [33] 
+furthermore another study regarding colorectal cancer found no correlations between apc methylation levels apc protein expression [38] 
+study we found notably augmented levels total apc mrna levels (from promoters 1a 1b) well apc 1b mrna adenomas investigated qrt-pcr 13 out 16 samples displayed apc promoter 1a hypermethylation ( figure 4 )
+data imply apc 1b mrna highly expressed parathyroid adenomas suggesting apc promoter 1b not epigenetically inactivated cases
+presents credible explanation fact parathyroid adenomas display retained apc protein expression demonstrated previous publications although possibly endowed apc promoter 1a hypermethylation [16] [27] 
+furthermore finding elevated levels total apc mrna most likely result elevated levels apc 1b mrna expression does not argue directly against theoretical specific down-regulation apc 1a mrna latter observed phenomenon colon cancer research [33] 
+studies unrelated tumour tissues apc promoter 1a methylation coupled down-regulation apc 1a mrna treatment demethylating agents results re-expression specific transcript demonstrating sensible correlation between apc promoter methylation apc mrna transcript levels vivo [39] 
+line-1 bisulphite pyrosequencing analysis been shown efficient substitute global methylation assays [31] our data thus suggests parathyroid tumours display comparable methylation levels globally normal parathyroid cells
+finding unexpected considering current notion human cancers generally exhibit global hypomethylation
+support our findings current study recently demonstrated global hypermethylation patients myelodysplastic syndrome (mds) compared normal controls using line-1 pyrosequencing [40] 
+authors furthermore observed noteworthy clinical improvement among mds patients when treated hypomethylation-inducing agents suggesting global hypermethylation clinical significance tumour type
+hence data suggest not all tumours display relative hypomethylation globally compared their corresponding normal tissues
+addition we found male cases displayed significantly higher levels line-1 methylation female cases (pearson's correlation ?0.466 p<0.001) cases higher age surgery displayed lower levels line-1 methylation younger cases (pearson's correlation 0.320 p?=?0.018)
+observations may suggest influence age gender upon global levels methylation parathyroid tissues
+summary study first identify apc rassf1a promoter hypermethylation majority parathyroid tumours investigated
+frequently observed hypermethylation rassf1a promoter downregulation rassf1a mrna levels parathyroid adenomas point toward association between inactivation tumour suppressor gene parathyroid aberrant growth whereas apc gene expression retained parathyroid adenomas due increased transcription apc promoter 1b
+moreover line-1 analyses indicate parathyroid tumours do not exhibit global hypomethylation compared normal parathyroid tissues
+fifty-five samples parathyroid adenoma collected informed verbal consent
+informed verbal consent constitutes standard procedure karolinska university hospital consent subsequently documented patient's medical journal according swedish biobank law
+procedure been specifically approved karolinska university hospital ethics committee karolinska institute research ethics committee approvals include collection normal parathyroid biopsies well normal tissues (including blood thymus tissue) whenever motivated patients undergoing surgery primary secondary hyperparathyroidism
+fifty-five samples parathyroid adenoma collected study ( tables 1 3 table s1 )
+histopathological classifications according guidelines world health organization (who) [41] 
+thirty-four cases parathyroid adenomas cystic features (cad1-34) previously been reported detail including screening hrpt2 men1 mutations [3] [35] 
+thirty-three cases sporadic one single case (cad11) derived 1q linked fihp family
+addition one case (cad25) classified atypical adenoma
+two additional hrpt2 related adenomas derived patients germ-line hrpt2 mutations (h1-2)
+tumor h1 exhibited atypical histological findings sometimes seen malignant parathyroid tumours but without definite criteria malignancy agreement diagnosis atypical adenoma equivocal carcinomas previously applied [42] 
+nineteen cases regular parathyroid adenomas (rad1-19) been previously characterized men1 genotype [43] ? [44] 
+moreover case parathyroid hyperplasia due secondary hyperparathyroidism (shpt1) included study
+non-tumorous normal controls three samples normal parathyroid tissue derived surgical biopsies included together human leukocyte dna patient rad2 well thymic tissue patient h1
+sodium bisulphite modification 500 ng dna carried out ez dna methylation kit (d5002 zymo research corporation ca usa) following manufacturer's protocol
+subsequent pcr pyrosequencing analysis assess level methylation carried out essentially previously described 10 cpg sites apc promoter 1a [20] 7 cpg sites p16 ink4a promoter [45] 5 cpg sites rassf1a promoter [46] 10 cpg sites rar-? promoter [20] 3 cpg sites line-1 promoter [20] 
+primer sequences available pyromark assay database (biotage sweden) all assays exception p16 ink4a designed hybridize cpg-free regions secure methylation-independent amplification
+hotstar taq polymerase used amplify 1 µl bisulphite?treated dna
+pcr conditions 95°c 15 min followed 45 cycles of: 95°c 20 s 50°c ( rar-? line-1 ) 55°c ( apc rassf1a p16 ink4a ) 20 s 72°c 20 s followed 72°c 5 min finally 4° c
+all samples blank controls reaction (pcr water control additional non-pcr water control) then analyzed using pyrosequencing analysis pyromark q24 system (biotage)
+subsequent quantification methylation density done using pyromark q24 software
+cases bisulphite-treated normal leukocyte thymic dna assessed additional negative controls
+subsets cases re-analyzed repeated pcr pyrosequencing reactions test validity initial pyrosequencing findings all promoter regions included similar end results (data not shown)
+subsets cases (including both tumour normal parathyroid samples) repeatedly bisulphite treated subsequently analyzed using pcr pyrosequencing analogous results (data not shown)
+we chose define hypermethylation average cpg residue methylation above 10% apc rassf1a p16 ink4a rar-beta since normal parathyroid mean well other normal tissues study below value
+total rna available 16 parathyroid adenomas two normal parathyroid glands (normal pt1-2)
+all samples extracted using trizol reagent (invitrogen ca usa) subsequently purified rneasy kit (qiagen ca usa)
+rna quality verified using nanodrop nd-1000 (thermo scientific de usa) confirmation acceptable 260/280 nm absorbance ratio well determining sample concentrations
+addition all rna samples analyzed agarose gels where integrity 28s 18s bands verified
+subsequent cdna synthesis performed using high capacity cdna reverse transcription kit (applied biosystems ca usa) following company protocol
+subsequent assessment apc rassf1a mrna levels carried out quantitative rt-pcr (qrt-pcr) using taqman gene expression assay technique 7900ht fast real-time pcr system (applied biosystems ca usa)
+apc two assays included hs00181051_m1 covers total levels apc mrna (covering three transcript variants one regulated promoter 1a two 1b) hs01568282_m1 covers specific apc 1b transcript regulated promoter 1b
+there no assay available exclusively analysis apc 1a transcript regulated apc promoter 1a using taqman gene expression assay technique
+rplp0 (ribosomal protein large p0) known 36b4 been used previous publications authors selected housekeeping reference known demonstrate little variation parathyroid tissues (hs99999902_m1) [35] 
+apc promoter 1a 13/16 adenomas available qrt-pcr displayed hypermethylation ranging 10.3?64.1%
+rassf1a all 16 adenomas analyzed demonstrated rassf1a promoter hypermethylation ranging 37.2?71.2%
+two normal parathyroid tissues analyzed devoid hypermethylation covering both rassf1a apc promoters
+standard curve established relative quantification using cdna tumour case cad20 qrt-pcr carried out 25 µl reactions 12.5 µl taqman gene expression master mix 8.5 µl rnase free h2o 1 µl taqman gene expression assay 3 µl cdna
+thermocycling conditions 50°c 2 min 95°c 10 min followed 40 cycles 95°c 15 sec 60°c 1 min
+two non-template controls assessed negative controls experiment all experiments carried out double
+after quantification relative standard curve all samples normalized their corresponding rplp0 value thereafter normal parathyroid mean assay
+possible correlations between methylation density different promoters assayed well between individual promoters clinical/genetic characteristics evaluated using minitab 15 statistical software (minitab inc pa usa)
+correlations appraised pearson's correlation differences between groups verified using fisher's exact test
+p-values <0.05 considered statistically significant
+(0.03 mb xls) click here additional data file.

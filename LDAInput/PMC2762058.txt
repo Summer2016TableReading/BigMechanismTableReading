@@ -1,0 +1,359 @@
+358
+table 5 nci60 cell lines predicted active pathways mutational analysis tumor type ras pi3k other mutation not tested breast hs578t mda-mb231 md-mb435 mcf7 t47 - mda-n bt549 cns - sf295 sf359 snb19 u251 sf268 snb75 - colon hcc2998 hct116 hct15 sw620 colo205 ht29 km12 - - leukaemia ccrf-cem rpmi-8226 hl60 molt4 k562 - - sr melanoma sk-mel2 loximvi m14 malme-3m sk-mel28 sk-mel5 uacc257 uacc62 - - - lung a549 hop62 nci-h23 nci-h460 - ekvx nci-h226 nci-h322 nci-h522 hop92 ovarian ovcar5 ovcar8 skow3 igrov1 ovcar3 ovcar4 - prostate - pc3 du145 - - renal - 786-0 rxf-393 a498 achn caki-1 snc12c tk10 u031 - unknown adr-res - - - 60 cell lines reorganized 4 categories described text basis most representative mutation cell line: cell lines carrying mutations able interfere ras-raf-mapk pathway (i.e mutations genes encoding ras b-raf erbb2 pdgfra referred ras) cell lines carrying mutations able interfere pi3k-akt pathway (i.e mutations genes encoding pi3kca pten lkb1 referred pi3k) cell lines carrying no somatic mutations interfering two above pathways (i.e mutations genes encoding cdkn2a p53 referred other mutation) cell lines presence somatic mutations interfering two above pathways not been searched referred not tested.
+integration data multiple genome-wide assays essential understanding dynamic spatio-temporal interactions within cells
+such integration leads more complete view cellular processes offers opportunity rationalize better high amount "omics" data freely available several public databases
+particular integration microarray-derived transcriptome data other high-throughput analyses (genomic mutational analysis promoter analysis) may allow us unravel transcriptional regulatory networks under variety physio-pathological situations such alteration cross-talk between signal transduction pathways transformed cells
+here we sequentially apply web-based statistical tools case study: role oncogenic activation different signal transduction pathways transcriptional regulation genes encoding proteins involved camp-pka pathway
+end we first re-analyzed available genome-wide expression data genes encoding proteins downstream branch pka pathway normal tissues human tumor cell lines
+then order identify mutation-dependent transcriptional signatures we classified cancer cells function their mutational state
+results such procedure used starting point analyze structure pka pathway-encoding genes promoters leading identification specific combinations transcription factor binding sites neatly consistent available experimental data help clarify relation between gene expression transcriptional factors oncogenes our case study
+genome-wide large-scale "omics" experimental technologies give different complementary perspectives structure regulatory properties complex systems
+even relatively simple integrated workflow presented here offers opportunities not only filtering data noise intrinsic high throughput data but progressively extract novel information would remained hidden otherwise
+fact we been able detect strong transcriptional repression genes encoding proteins camp/pka pathway cancer cells different genetic origins
+basic workflow presented herein may easily extended incorporating other tools applied even researchers poor bioinformatics skills
+integration achieves one most important imperatives systems biology namely reduces dimensionality global data needed deliver useful information about networks active system interest
+integration data different sources provides effective means deal issue reinforcing bona fide observations reducing false negatives
+moreover because different experimental technologies provide different insights system integration multiple data types offers greatest information about particular cellular process [ 1 - 3 ]
+example gene perturbation experiments (e.g knockouts rna interference) microarrays analysis reveal relationships between genes may imply direct physical interactions indirect logical interactions
+indeed microarray experiments permit us look overall patterns gene expression order understand architecture genetic regulatory networks global approach could ultimately lead complete description transcription-control mechanisms cell
+contrast chromatin immunoprecipitation (chip) data reveal direct protein-dna interactions cofactor associations bound transcription factors
+combined together technologies provide much more detailed view transcriptional regulatory network either alone
+several recent methods addressed problem heterogeneous data integration network prediction modeling noise inherent high-throughput genomic datasets especially using statistical methods significantly improve specificity sensitivity allow robust integration datasets heterogeneous properties [ 4 5 ]
+however many methods recently developed implement our ability integrate compare heterogeneous data often not easy use and/or not freely accessible [ 6 7 ]
+taking consideration development efficient methods facilitate biological interpretation data crucial present work we focus efficient identification regulatory mechanisms propose approach analysis interpretation gene expression data based integration various types related biological information
+camp-pka signalling pathway important regulator cell fate controls activity metabolic enzymes transcription factors cytoskeletal proteins strongly associated onset several endocrine non-endocrine tumors
+fundamental characteristic camp its ability stimulate cell proliferation many cell types while inhibiting others
+such ability been related fact camp regulates ras/raf/erk pathway whose role cancer onset well known (about 25% human cancers ras mutation)
+indeed camp pathway able suppress erk signaling through its ability target c-raf conversely activate erk signaling through its ability target b-raf [ 8 ]
+underlying inhibitory mechanism reasonably well characterized involves uncoupling ras signaling c-raf
+other hand models explain erk activation camp incomplete addition b-raf involvement other proteins been suggested [ 9 10 ]
+many observations regarding camp ability inhibit/stimulate proliferation interfering erks been collected normal immortalized cell lines
+however recognizing important role both pathways development cancer relevant more specific analysis their crosstalk network cancer cells [ 11 - 14 ]
+previously described ras pathway able crosstalk camp-pka pathway some typical signal transduction mechanisms (i.e
+protein-protein interaction protein phosphorylation)
+moreover through its ability regulate activity large number transcription factors [ 15 16 ] ras pathway able control several transcriptional programs leading proliferation differentiation metabolism cytoskeletal reorganization immune response
+such transcriptional programs result ras-specific effectors stimulation [ 13 17 ]
+until now more ten distinct functional classes proteins been involved effectors small gtpase ras but best studied raf kinases type i phosphoinositide (pi) 3-kinases ral-guanine nucleotide exchange factors (ral-gefs) rac exchange factor tiam1 phospholipase c [ 18 ]
+raf phosphatidylinositol 3-kinase (pi3k) first two identified ras effectors main focus research investigating ras functions [ 19 20 ]
+raf promotes cell proliferation differentiation through map kinase (mapk) pathway [ 21 ] same time pi3k generates anti-apoptotic signalling directly through akt pathway activation [ 22 23 ]
+both signalling pathways activate two different signals distinct their response timing
+indeed both mapk pi3k able activate phosphorylation cascades lead primary effect post-translational modification several substrates (membrane targets cytosolic targets cytoskeletal targets nuclear targets) rapidly activate functional processes
+early response ras signalling quite fast: instance resting cells stimulated mitogens ras-gtp level increases within 2 minutes stimulation serum [ 19 ]
+raf-1 undergoes transient activation within 2-3 minutes rapidly activates mitogen-activated protein kinase (mapk) cascade whose most downstream component erk rapidly moves nucleus
+here phosphorylates nuclear proteins notably transcription factors [ 24 25 ] whose activity controlled regulating their sub-cellular localization expression stability ability bind other components transcriptional complexes dna their ability remodel chromatin structure [ 26 ]
+transcription factors under control mapk pathway including members ets family (i.e
+ets-1 ets-2 pu-1) mads box family (i.e
+mef2a mef2c sp1) zinc finger family (i.e
+gata-2 gata-4) bzip family (i.e
+fra-1 c-jun junb jund atf-2 c-fos creb) bhlh family (i.e
+c-myc mitf) nuclear hormone receptor (i.e
+pr gr er) well other transcription factors (i.e smad1 stat1) coregulatory proteins (i.e cbp p300) [ 15 24 25 ]
+like erks akt other targets pi3k signalling phosphorylate activate transcription factors [ 27 ]
+akt protein control several transcription factors directly indirectly
+direct targets forkhead box proteins foxo cell cycle inhibitor miz1 both inhibited upon akt-mediated phosphorylation
+akt-dependent regulation p53 nuclear factor b (nfkb) c-myc activator protein 1 (ap1) beta-catenin indirect [ 16 ]
+such observation led us re-analyze using generalized workflow data recovery integration available data multiple global assays several databases (genomics transcriptomics promoter analysis literature)
+particular we searched information genes encoding proteins downstream branch pka pathway (starting adenylyl cyclase downstream) tumor cell lines (nci60 cells) function mutational activation different pathways (notably ras pi3k pathway) comparison corresponding normal tissues aim define better connection between pathways cancer cells [ 28 ]
+gene-expression profiling been applied extensively cancer research
+first step identify regulatory mechanisms underlining gene-expression profiles necessary extract filter cross-reference structure information cancer-related data sets [ 29 ]
+aim work been identification cancer-specific specific gene expression signatures genes encoding proteins involved camp-pka pathway
+particular we wished identify present differences between primary normal tissues cancer cells search correlation pathway mutationally activated any given transformed cell line integrating accurate analysis recovered data several databases application different statistical tests
+nci60 cell collection includes cell lines derived colorectal renal ovarian breast prostate lung central nervous system cancers well leukaemias melanomas (table 1 ) most commonly used cancer research drug screening [ 30 31 ]
+good correlation between transcriptional profiles cell lines their tumor cancer origin [ 31 32 ] been found 51 out 59 cell lines
+nci60 transcriptional profiles available public databases
+cancer cell lines nci60 collection sorted tissue origin since stabilized cell lines within nci60 collection represent physiological model study gene profiles cancer cells features strongly similar cancer tissues we reviewed information present public databases about 60 cell lines 21 normal tissues order identify transformation-dependent transcriptional signatures pka pathway-encoding genes (table 2 )
+gene expression profiling datasets nci60 cell lines normal tissues analyzed study gene expression profiles retrieved geo database
+dataset (60 profiles) made up nci60 cell lines [ 31 ]
+dataset b (13 profiles) subset transcriptional profiles diverse array tissues organs cell lines normal human physiological state [ 106 ]
+dataset c (4 profiles) encompasses normal human adult samples derived colonoscopic biopsy present database comprising samples patients crohn's disease ulcerative colitis [ 107 ]
+dataset d (4 profiles) contains normal control samples present database containing transcriptional profiles peripheral blood mononuclear cells (pbmc) obtained juvenile arthritis patients healthy controls [ 108 ]
+we identified gathered transcriptional profile 41 genes encoding proteins involved pka pathway (adenylyl cyclases -adcy- phosphodiesterases -pde- a-kinase anchor proteins -akap- camp-dependent transcriptional factors -tf- pka catalytic subunits -prkac- pka regulatory subunits -prkacr- table 3 ) compared expression profiles cancer cell lines those primary normal tissues collected different datasets (table 3 )
+identify differences between normal cancer samples we performed anova analysis entire data set
+shown figure 1 distributions expression values genes encoding proteins camp/pka pathway statistically different between normal transformed cells (p-value <0.0001) indicating transformed cells pka pathway-related genes differentially expressed compared normal cells
+namely box plot indicates overall distribution expression values transformed cells shifted towards lower expression values
+dispersion distribution transformed cells much reduced compared observed normal tissues transformation events superimpose negative regulation largely abrogates tissue-specific regulation (i.e major factor responsible dispersion expression normal tissues see next paragraph)
+pka related genes identified all datasets shown table 2 used study statistical analysis 41 pka pathway-encoding genes expression normal transformed samples
+81 transcriptional profiles normal tissues nci60 cancer cell line collection recovered geo database
+after normalization (see methods) expression values 41 pka pathway-encoding genes used perform anova analysis (p-value 0.0001) evaluate statistical significance differences between normal transformed samples
+iqr: interquartile range
+outliers shown
+same data-set then analyzed through unsupervised hierarchical clustering (as implemented genespring platform) organizes genes according similarity dissimilarity expression profile placing cases similar expression profiles together neighbouring columns dendrogram (figure 2 )
+six different classes corresponding main arms dendrogram derived clustering according tissue cell lines (classes i iii correspond left main branch dendrogram iv vi right branch) identified
+cell line color-coded bottom according its condition (i.e normal blue transformed red) tissue origin
+notably classes ii v contain only transformed cells while only one transformed cell line clusters class vi 
+most cases clustering effectively separates normal transformed cell lines same histological origin: instance normal transformed cell lines derived kidney cluster class i iii hemopoietic normal transformed cell lines iv ii colon cancer cells class ii while normal colon class iv respectively (table 4 )
+class i iv contained cancer lines several histological origin while class ii enriched cancer cells colon blood class iii ovary kidney class v lung respectively (table 4 )
+results indicate regulation pka pathway tissue-dependent keeping pleiotropic tissue-specific phenotypes regulated intracellular camp
+suggest transformation transcriptionally remodulates pka pathway so most cases expression profiling genes encoding proteins camp-pka pathway quite different cancer cells compared their normal counterparts
+interestingly class iv comprises all colon hemopoietic normal samples we observe strong expression few genes (akap9-11 pde4d prkcb prkar2b creb1- colon sample- akap9-11 pde4b pde8a prkcb prkar1a creb1 crem- hemopoietic sample-) compared their transformed counterparts same genes appeared poorly expressed (class ii )
+human colon carcinoma cells been reported prkar2b overexpression suppresses neoplastic cell growth [ 33 ] consistently notion abnormal expression isoforms pka regulatory subunits may involved neoplastic transformation
+moreover several models hemopoietic malignancies been shown induction camp/pka pathway stimulates leukemia cell differentiation (event associated relapse disease) lymphoma cells apoptosis [ 34 35 ]
+hierarchical clustering 41 pka pathway-encoding genes analyzed paper
+two-way (gene column cell line row) hierarchical clustering (see methods) same profiles analyzed figure 1 
+normalized expression colour-coded green (poor expression) red (strong expression)
+name gene colour-coded according family belongs
+6 main classes described text (red lines top dendrogram roman number bottom dendrogram) shown
+distance function based pearson correlation complete linkage clustering
+legends expression condition gene family tissue origin shown right dendrogram
+correlation between pka related gene patterns tissues six different classes corresponding main arms dendrogram derived clustering according "tissue cell line" identified
+number right tissue represents number samples belonging class compared total sample analyzed
+previous paragraph we shown different tissue-specific pattern expression pka pathway encoding genes between normal transformed samples does exist
+moreover we observed similar pattern common different tissues both normal transformed samples
+while normal tissues such finding may justified common histological origin pka pathway regulating common intracellular process (i.e
+differentiation metabolism) transformed samples correct regulation pka pathway lost such similar gene regulation suggest transformation mutation-dependent gene regulation
+aim we determined mutation status nci-60 panel human cancer cell lines identified pathway such mutations involved correlated mutation status pathway altered transformed cells transcriptional profiling data
+60 cell lines sorted according mutational status using information provided catalogue somatic mutations cancer ( ) divided four groups based carried mutation follows (table 5 ): 1) cell lines carrying mutations able interfere ras pathway (i.e mutations genes encoding ras b-raf erbb2 pdgfra referred ras) 29 cell lines 2) cell lines carrying mutations able interfere pi3k-akt pathway (i.e mutations genes encoding pi3kca pten lkb1 referred pi3k) 13 cell lines
+3) cell lines carrying no somatic mutations interfering two above pathways (i.e mutations genes encoding cdkn2a p53 referred other mutation) 14 cell lines 4) cell lines presence somatic mutations interfering above pathways not been searched referred not tested) 4 cell lines
+nci60 cell lines predicted active pathways mutational analysis 60 cell lines reorganized 4 categories described text basis most representative mutation cell line: cell lines carrying mutations able interfere ras-raf-mapk pathway (i.e mutations genes encoding ras b-raf erbb2 pdgfra referred ras) cell lines carrying mutations able interfere pi3k-akt pathway (i.e mutations genes encoding pi3kca pten lkb1 referred pi3k) cell lines carrying no somatic mutations interfering two above pathways (i.e mutations genes encoding cdkn2a p53 referred other mutation) cell lines presence somatic mutations interfering two above pathways not been searched referred not tested
+assess overall data quality visualize relations differences between aforementioned transformed normal samples we applied dimensional reduction through principal component analysis (pca)
+three-dimensional pca plot all expression data (accounting 91% variance) shown figure 3a 
+pc1 (x axis) effectively separates normal group four groups transformed cells
+pc2 (y axis) effectively separates ras group others while pc3 (z axis) best separates other mutation group others
+overall ras group appeared segregate most other groups
+identification differentially regulated genes normal transformed samples
+(a) samples sorted five groups according mutational activation: green normal yellow ras red pi3k blue other mutation cyan not tested
+principal component analysis (pca) performed 41 pka pathway-encoding genes normal samples four classes mutation-dependent samples
+sphere represents comparative averaging 41 genes pathway identified mutational analysis
+(b) 5 groups described (a) 41 pka-encoding genes clustered relative their level expression three subgroups: strong (>1 red) average (=1 black) low (<1 green)
+(c) gene list according expression level mutational group three subgroups previously indicated divided sample
+color-coding follows: blue common between normal least one transformed sample yellow specific normal samples grey specific transformed samples
+percentage regulated genes subgroup shown bottom
+(d) anova analysis evaluate statistical significance differences between five classes samples described (a) 
+right inset shows p-value pair-wise comparisons
+statistically significant differences indicated red
+iqr: interquartile range
+outliers shown
+figure 3b 41 genes encoding proteins involved pka pathway sorted according their relative level expression color-coded graph according expression: strong (red value >1) average (black value=1) low (green level <1)
+three series crossed groups described above namely normal ras pi3k other mutation not tested
+normal tissues expression 83% genes classified strong value 2-3 fold higher those observed different transformed groups (27-41%)
+overall transformed groups expression most pka pathway-encoding genes classified average low exception ras group only one gene scored low
+expression pka pathway-encoding genes further classified follows (figure 3c ): genes similar level expression between normal least one transformed group (blue color) genes whose expression level different between normal transformed groups (yellow color) genes similar expression level among different transformed groups (grey color)
+such classification allowed us pinpoint genes such adcy2 akap13 whose expression strong only normal group
+more interestingly expression few genes such adcy3 akap8 strong only members transformed groups despite overall reduction expression pka pathway-encoding genes observed transformed samples
+results further confirmed pair-wise anova analyses (figure 3d ) distribution expression values genes encoding proteins camp/pka pathway found statistically different between normal group transformed cells (p-value between 0.0001 0.0003)
+notably difference distribution between ras group pi3k other mutation groups statistically significant unlike difference not tested group
+suggests cells group may biased mutations within genes encoding proteins ras pathway
+reveal gene expression changes relate mutation status 60 cell lines better interpret results pca anova hierarchical clustering performed
+resulting dendrogram shown figure 4 cell line color-coded bottom according its tissue origin -row labeled tissue- mutated gene -row labeled mutation- inferred pathway activated mutation -row labeled pathway-
+robust association between transcriptional profiles mutations ras pathway observed (indicated ras red color)
+two cell lines not tested group interdispersed within ras group indicating two lines most likely responsible lack statistical difference between ras not tested group (see above)
+comparison tissue pathway categories indicated within two ras sub-clusters some tissue-specificity conserved
+indeed left cluster comprising total 18 cell lines characterized 6 colon cancers 6 leukemias 5 6 mutated ras pathway
+similarly right cluster comprising total 19 cell lines characterized 8 melanomas 5 lung cancers 7 8 mutated ras pathway melanoma 4 5 lung cancer
+other sub-clusters comprising all remaining cell lines other three groups mutations consequently pathways more dispersed along clustergram
+together results indicate transformation events modulate transcriptional regulation genes encoding proteins pka pathway mutational activation ras pathway originates distinguishable signature comparison mutational activation other genes studied report
+such distinguishable signature particularly noticeable melanoma cells strong expression gene set encoding complete functional pka pathway module (adcy3 pde4b pde4d pde8a akap12 prkar1a prkar2b prkacb crem) observed suggesting deregulated camp signaling
+moreover analysis expression values prkar1a prkar2b genes indicated presence melanoma cells high r1/r2 ratio been associated melanocyte proliferation [ 36 ]
+hierarchical clustering 41 pka pathway-encoding genes transformed samples
+two-way (gene column cell line row) hierarchical clustering (see methods) profiles nci60 collection only
+normalized expression colour-coded green (poor expression) red (strong expression)
+distance function based pearson correlation complete linkage clustering
+name gene colour-coded according family belongs
+legends expression condition gene family tissue origin shown right dendrogram
+data been organized basis tissue origin cancer (tissue) specific oncogenic mutations identified cell line (mutation) putative altered pathway specific mutations (pathway) gene family
+genes involved same pathway transcriptionally co-regulated likely share similar promoter features
+test hypothesis our model 15 groups previously established (see figure 3 ) containing coregulated genes group used promoter identification analysis
+using series biocomputing procedures statistical processes (see methods figure) we identified transcription factor binding sites (tfbss) conserved within promoters (operationally defined regions spanning 500 nt upstream 100 nt downstream transcription start site) 41 pka pathway-encoding genes
+genes sorted 15 groups indicated figure 3b 3c group separately analyzed
+first analysis (fig
+5a ) tfbs scored either absent present regardless number copies present within given promoter
+analysis permitted identification 30 tfbss enriched promoters 41 pka pathway-encoding genes whose frequency occurrence i.e ratio between promoters contained specified motif (s) 41 promoters our collection (t) compared frequency occurrence within vertebrate genomes (computed using promoter library matrix family vertebrates comprises 260.000 vertebrate promoters)
+statistical analysis indicated 30 tfbss 7 over-represented (red color) 9 under-represented (green color)
+remaining showed same frequency occurrence found whole vertebrate genome collection
+tfbs identification using enrichment parameter
+(a) panel shows tfbs recognized relevant (present ? 70% promoters 41 pka pathway-encoding genes) percentage promoters our collection contain motif compared matrix family library vertebrates
+percentage been calculated dividing total number promoters containing motif (s) total number promoters (t)
+color-coding scheme right panel
+(b) schematic representation tfbss (color-coded shown right panel) identified promoters 15 subgroups described text figure 3 
+cartoon represents promoter structure resulting average tfbs identified ? 70% gene promoters subgroup
+asterisks bottom cartoon indicate over-represented tfbs scored panel all 41 pka pathway-encoding genes
+consensus representation promoter structure subgroup coregulated genes drawn taking account 30 tfbss present least 70% genes within subgroup (figure 5b )
+surprisingly vast majority consensus promoters (13 out 15) showed common module (upper part module) comprising 4 tfbss: etsf mazf zbpf egrf 3 over-represented our collection (over-represented motifs indicated asterisk bottom figure)
+strongly suggests functional implication tfbss expression pka pathway-encoding genes
+other interesting features indicated analysis include identification binding sites pax6 (indicated red p) zf5f nkxh (indicated red z n respectively) only consensus promoters some genes within normal transformed group respectively
+another feature may critical identification enriched elements number copies given tfbs within promoter
+fact been documented presence multiple copies cis -elements promoters particularly when clustered makes transcriptional activation stronger [ 31 32 ]
+reason total number frequency (number tfbs/promoter) 30 tfbss previously identified scored within 15 subgroups classified hierarchical clustering (figure 6a 6b respectively)
+analysis using both criteria confirmed results reported figure 5 : presence promoters all subgroups tfbs module comprising etsf mazf zbpf egrf
+clustering according regulation figure 6a show all promoters genes characterized low expression transformed samples cluster together (class ii)
+promoters belonging genes strong expression ras group cluster completely independent arm (lower part dendrogram) opposite where cluster promoters belonging genes strong expression normal group (class i)
+additionally clustering frequency highlighted specific enrichment eklf genes low expression
+clustering according both criteria indicated normal samples clustered different way compared transformed samples (upper part dendrogram) pi3k other mutation not tested samples more interspersed along dendrogram confirmed ras category showed different promoter composition compared other categories keeping pca analysis presented figure 3 
+hierarchical clustering tfbss present promoters 41 pka pathway-encoding genes according total number frequency
+two-way (tbfs column expression subgroup see figure 3 row) hierarchical clustering tfbs present within promoters 41 pka pathway-encoding genes
+clustering run according total number tbfs present group (panel ) frequency i.e
+total number given tbfs divided number promoters (panel ( b )
+color-coding scale shown top panel
+distance function based pearson correlation complete linkage clustering
+two classes corresponding main arms dendrogram derived clustering according "condition" shown right dendrogram
+previously described computational analysis our promoter collection permitted identification some tfbs able characterize specific manner normal transformed samples
+confirm some our computational results we interrogated several databases searched literature studies promoter structure pka pathway-encoding genes
+experimental studies using one more molecular approaches including emsa chromatin immunoprecipitation transactivation assay been found 16 pka pathway-encoding genes: prkar1a prkar1b prkar2b prkaca akap1 akap8 akap9 akap10 akap12 adcy8 adcy9 pde4b pde4c pde4d creb crem
+subset genes re-analyzed described above obtained results compared literature data (table 6 )
+total 36 tfbss been experimentally identified: 20 (i.e
+55%) been predicted our computational approach two genes alone (akap9 prkaka) none experimentally identified sites identified computational approach overall identified much higher number sites compared those retrieved literature
+biological significance presence identified tfbs their relationship oncogenic mutations notably ras pathway proposed below
+comparison between computational data literature data table shows transcriptional factor families identified computational analysis transcriptional factors/transcriptional family identified analysis literature data
+factors identified both analysis shown bold 
+pka type i regulatory subunit (prkar1a) expression been studied different cellular models analyzing its mrna expression using its putative promoter region
+its promoter binding sites activator protein-1 2 (ap-1 ap-2) sp1 [ 37 ] been identified
+moreover more recent work showed direct activity fox family (foxc2 d1 d2) transcriptional factors members regulation prkar1a expression both transcriptional post-transcriptional levels [ 38 39 ]
+promoter prkar1b been identified studied human mouse: binding sites jun p53 (human) oct-1 egr1 pax1 (mouse) been found
+binding sites been experimentally verified electrophoretic mobility shift assay functional analysis northern blot [ 40 41 ]
+prkar2b promoter been studied particular sertoli cells (human)
+some reports identified binding sites sp1 nf-1 myc c/ebpbeta able induce prkar2b promoter usf1 usf2
+interestingly overexpression usf2 but not usf1 led inhibition both camp- c/ebpbeta-mediated induction prkar2b [ 42 - 44 ]
+promoter protein kinase camp-dependent catalytic alpha (prkaca) been identified both humans mouse but little information been produced human promoter
+indeed one paper describes presence binding sites usf1 usf2 transcription factors [ 45 ]
+akap1 akap9 akap10 promoters contain binding sites c-myc shown computational analysis chip experiments several human cell lines [ 46 47 ]
+moreover single study indicates presence promoter akap12 binding sites serum response factor transcriptional factors [ 48 ] more recently myc
+adcy9 promoter contains binding sites c-myc shown experimental approach [ 49 ]
+several promoters genes encoding phosphodiesterase proteins been isolated some extent studied
+all studies been performed sequences human promoters particular pde4b pde4c (both present our collection pka pathway related genes) pde5a pde6a pde6b pde7a promoters (not present our gene list) been better characterized
+pde4b promoter binding sites creb been found [ 50 ]
+pde4c promoter binding sites myc been found [ 47 ]
+pde5a promoter binding sites jun ap-2 been found [ 51 52 ] pde6a pde6b promoters binding sites sp1 [ 53 ] sp4 [ 54 55 ] respectively pde7a promoter ets2 nfkb1 binding sites [ 56 ]
+cyclic amp response element (cre)-binding protein creb promoter been identified human mouse rat
+analysis done human promoter experimentally confirmed identified binding site c-myc [ 57 ] sp1 [ 58 ]
+further information about such promoter been produced mouse rat cells allowed identification binding site nfkb [ 57 ]
+important regulative mechanism pka pathway feedback control
+indeed well camp produced adenylyl cyclases activate pka kinase activity pka able inhibit pathway activating phosphorylation phosphodiesterases ultimately induce hydrolysis camp switching off pathway
+moreover huge amount data been published regarding ability pka activate specific transcription factors phosphorylation: cyclic amp response element (cre)-binding protein creb camp response element modulator (crem) activating transcription factor 1 (atf-1) repressor icer (inducible camp early repressor) [ 59 ] certain extent been shown regulate pka pathway-related genes transcription
+some promoters already discussed above been shown cre binding sites
+moreover two interesting recent publications identified characterized different cellular contexts several approaches through genome-wide approach target genes regulated creb [ 60 61 ]
+authors identified proved chip analysis (prkar1a pde7b) presence cre site prkar1a pde7b akap8 pde4c adcy8
+latter case did not observe binding chip analysis but another report shown its activation mediated specifically via canonical cre site [ 62 ]
+binding sites creb1 been found pde7a [ 56 ] pde4d [ 63 ] crem [ 64 ] experimentally confirmed
+moreover analysis promoter creb gene showed presence several cre binding sites [ 65 66 ]
+most ap-1 (i.e
+jun) ap-2 sp1 transcription factors involved growth-related signal transduction pathways among ras main actor their over-expression positive negative effects proliferation [ 67 - 71 ]
+indeed sp family been shown regulated post-translational mechanisms ras pathway [ 72 73 ] well ets1 ets2 [ 74 75 ] nfkb [ 76 - 78 ]
+egr-1 early responsive gene linked mitogenic stimulation directly regulated mapk pathway [ 79 - 82 ]
+moreover myc [ 83 84 ] c/ebpbeta [ 85 ] nf-1 [ 86 ] large amount data about their correlation ras pathway been reported
+transcriptional factors been associated several cellular responses (proliferation survival apoptosis) transformation case pka pathway well
+therefore possible mitogenic signal through ras regulation such transcription factors modulates expression pka pathway related genes
+important role activation creb family transcription factors played stimuli able induce their phosphorylation consequently their activation
+fact reviewed [ 65 ] not only protein kinase involved function but several growth factors (ngf fgf igf-i pdgf egf) survival signals hypoxia often activate ras pathway pointing essential role latter pathway gene transcriptional regulation pka pathway-encoding genes transcription factors creb family
+using generalized workflow data recovery integration combines accurate analysis recovered data several databases application different statistical tests we been able correlate strong transcriptional repression genes encoding proteins camp/pka pathway transformed samples different genetic origin (i.e bearing mutations different pathways)
+finding prompted us compute consensus promoters whose composition specifically enriched different transcription factor binding sites (tbfs)
+comparison tfbs computationally identified consensus promoters tbfs experimentally identified variety techniques shows good agreement
+indeed lowering stringency used workflow some tfbs missed higher stringency analysis (false negatives) recovered keeping notion intersection different data sets and/or techniques decreases both noise number hits
+workflow we followed summarized figure 7 detailed methods section
+number sites hosting curated transcriptional profiles increases more more data used starting point become available
+we used geo database recover data nci60 cell collection (cancer samples) matching normal tissues specific statistical tests (i.e
+anova hierarchical clustering) applied
+using cosmic database gives information about mutational status nci60 collection we could sort nci60 cell lines 4 subgroups mutational activation genes encoding components ras pathway pi3k pathway other pathways no information available
+such sorting allowed us uncover hitherto unrecognized oncogene-dependent pattern regulation 41 genes encoding components camp/pka pathway (figure 7b 7c )
+transcriptional profiles transformed cells within one identified subgroups may then used new query geo database (green arrow) order correlate confirm i.e
+cancer tissues oncogene-dependent pattern identified
+flowchart our web-based statistical strategy used elucidate relation between pka encoding genes transcriptional profiles oncogenic mutations
+(a) flow chart our web-based statistical strategy indication some databases (source) used type data analyzed (input) specific program statistical test (tool) used result obtained (output)
+(b) graphical representation block diagram summarizing functional interconnections within pka pathway module indication expression level (geometric mean) gene belonging network -strong (red) average (black) low (green)- identified our analysis both normal (b left) transformed samples (b right)
+(c) boxplots expression pka pathway-encoding genes normal (c left) transformed (c right) samples grouped functional classes (adcy: adenylyl cyclase akap: a-kinase anchor protein pde: phosphodiesterase prkacr: pka regulatory subunit prkac: pka catalytic subunit)
+represented value median
+(d) schematic representation tfbss (color-coded) identified promoters pka pathway-encoding genes normal transformed samples
+cartoon represents promoter structure resulting merge tfbs identified ? 70% gene promoters all normal samples transformed samples
+deregulation transcriptional programs such identified pka pathway-encoding genes may considered direct consequence deregulated activity transcription factors
+transfac database used high stringency threshold identify regulatory sequence co-regulated genes high confidence improving deduced linkages between transcription factors regulated genes
+using approach we demonstrated all pka encoding genes tfbss ets maz zbp egr transcription factors present (figure 7d ) specific subsets tfbs present normal transformed samples
+number tfbs identified computational analysis higher those could retrieved literature experimentally determined
+observation some extent expected because limited literature reference availability complexity retrieve data difficulty analyze data several origins lack powerful data analysis integration tools
+under less-than-ideal conditions dedicated tool such tfbs database extremely powerful allowing predictions amenable experimental verification should necessary
+discussed above most false-negatives failed detected our computational approaches could recovered appropriately lowering stringency analysis
+figure 7b transcriptional expression pka pathway encoding genes color-mapped (geometric mean strong expression red average expression black low expression green) block diagram summarizing functional interconnections within pka pathway module
+general balanced co-regulation both positive negative regulators camp/pka pathway apparent both normal transformed samples
+notably normal cells variability expression maximal genes encoding catalytic subunit pka
+because pleiotropic role pka pathway (including stimulation growth differentiation many cell types such somatotrophs thyrocytes melanocytes ovarian follicular granulosa cells keratinocytes nervous muscle blood cells adipocyte important role such pathway regulation function tissues kidney ovary brain prostate) strong expression normal tissues expected [ 8 87 88 ]
+should remembered cross-talk between pka pathway oncogene-mediated pathways take place post-transcriptional levels
+example several authors reported ability oncogenic viral ras proteins either stimulate [ 89 - 91 ] inhibit [ 92 - 94 ] adcy activity different cell lines (thyroid epithelial kidney fibroblast)
+moreover involvement mapk pi3k pathways regulation pde activity been reported suggesting mitogenic stimulation may positively regulate pde4 expression directly [ 95 ] confirming our transcriptional results post-translational mechanisms p42(mapk) phosphorylation activity relevant role their regulation [ 96 ]
+another important post-transcriptional mechanism links ras pi3k pathways camp/pka pathway positive negative control creb activity phosphorylation [ 97 98 ]
+moreover been reported camp able induce proliferation rather growth inhibition several tumors where oncogenic activation b-raf been identified (i.e melanoma thyroid cancer) [ 8 ]
+nevertheless general coordinated down-regulation essentially all genes pathway transformed cells (as compared normal tissues) suggests least one pka-mediated function needs reduced substantially order express transformed phenotype
+although stage too early propose specific hypotheses intriguing remember pka been ascribed role activating mitochondrial respiration decreasing ros production [ 99 100 ] thus effectively counteracting mitochondria dysfunction found associated increased glycolysis (warburg effect [ 101 - 103 ]) many cancer cells
+other hand reduction oxidative phosphorylation will decrease atp supply substrate adenylate cyclase may result decreased camp production without relevant changes level enzymes (and possibly therefore their gene expression)
+expected deeper computational integration transcriptional data other genome-wide findings including -but not limited to- proteomics interactomics metabolomics will allow better extraction hidden information
+we propose such data integration further applied examine topology biological networks provide information directionality interactions create wiring diagrams better depict functional outcome component-component relationships
+together strategies should facilitate systems approach modular biology
+thus systems biology approached perturbing suspected components given cellular process monitoring responses integrating data modeling biological process question [ 104 ]
+applying single "omic" approach able sample "horizontal" slice (i.e
+across all genes gene products) multidimensional space knowledge system expanded single gene network genes regarded basic model system
+when genes proteins network systematically disrupted responses other parts network recorded data obtained incorporated basic model
+however sampling single dimension complex space will undoubtedly provide relevant information but may not highlight major regulatory features
+therefore wiring diagram depicts direction interactions network behavior components constructed better represent relationships between components [ 104 ]
+example shown figure 7 illustrates how our current knowledge biological system expanded model built based integrated "omic" information
+ultimately development such computational methods their recursive integration genome-wide hypothesis-driven experimental investigations take account post-translational substrate-dependent mechanisms controlling camp/pka pathway activity should reconcile experiments different experimental systems (cell cultures animal models human tumor samples) contribute explain integrative systems level how camp-pka pathway affected oncogenic processes originated mutational activation signal transduction
+gene expression data nci60 cell lines normal tissues samples downloaded gene expression omnibus (geo) national center biotechnology information (ncbi) website ( ) [ 105 ]
+particular gene expression profiles nci60 cell collection (cancer samples) recovered geo database ( gse5949 [ 31 ]) experimental data obtained using affymetrix hg-u95av2 oligonucleotide array platform
+analysis only results obtained oligonucleotide arrays considered because platform uses different method evaluate mrna expression compared cdna array platform
+therefore normal tissue samples data used comparative analysis recovered transcriptional profiles produced using u95av2 oligonucleotide array ( gse96 [ 106 ] gse6731 [ 107 ] gse1402 [ 108 ])
+total 81 transcriptional profiles encompassing cancer cell lines nine histological origins samples six normal tissues recovered
+further details found legends tables 1 2 
+all datasets generated downloading processing cel files
+preprocessed using robust multichip average (rma) [ 109 110 ] then transformed log2 values linear scale values normalized per gene median value its level expression across 81 samples implemented genespring gx 7.3.1 (silicon genetics - )
+rma preprocessing algorithm includes background quantile normalization steps [ 109 111 ]
+although background correction first step analysis been computed separately array all other procedures performed using rma (normalization summarization) been performed across all arrays (rma multiple-array method)
+normalization necessary so multiple chips compared other analyzed together
+normalization procedure aimed making distributions identical across arrays
+rma usually gives very accurate normalizations
+note rma implemented genespring gx 7.3.1 all arrays used no chip discarded
+we used rma analysis compared other tools analysis because described several papers [ 112 113 ] successfully reduces variance low abundance transcripts better distinguishes differentially expressed transcripts those unchanging using controlled datasets known quantities specific mrnas been added common reference pool [ 109 110 114 ]
+we identified gathered transcriptional profile 41 genes encoding proteins involved pka pathway (adenylyl cyclases -adcy- phosphodiesterases -pde- a-kinase anchor proteins -akap- camp-dependent transcriptional factors -tf- pka catalytic subunits -prkac- pka regulatory subunits -prkacr- table 3 )
+order identify specific variations expression pattern selected pka pathway-related genes both normal transformed samples different tools analysis used
+initially pka pathway related genes expression profiles observed transformed samples compared normal samples evaluated analysis variance (anova)
+such statistical linear modeling procedure partitions total variance parts corresponding various sources model [ 115 116 ] been successfully used analyze microarray data [ 117 - 120 ]
+order model test hypothesis expression genes pka pathway different between normal tissues transformed cell lines following comparisons used: expression gene i (where i=i-esimo) normal tissues vs
+transformed cell lines (figure 1 ) p-value < 0.05
+same data-set then analyzed through unsupervised hierarchical clustering [ 121 ] (as implemented genespring platform)
+two-way hierarchical clustering performed rma-generated linear scale expression levels using pearson correlation coefficient measure similarity complete linkage clustering [ 122 ]
+results process dendrograms short branches connect very similar elements longer branches join elements diminishing degrees similarity
+vectors used sample - normal tissues transformed cells- expression genes pka pathway-related genes arms classified different variables: conditions tissues (figure 2 )
+60 cell lines sorted according mutational status using information provided catalogue somatic mutations cancer ( ) [ 123 ]
+database holds somatic mutation data other information related human cancer cell lines tissues interrogated through series web pages provide graphical tabular view data along various export options
+we could sort nci60 cell lines 4 subgroups presenting mutational activation genes encoding components ras pathway pi3k pathway other pathways no information available (table 5 )
+order identify specific variations expression pattern pka pathway-related genes 4 subgroups different tools analysis used
+we applied unsupervised principal component analysis (pca) [ 124 125 ] establish interrelationships among samples used our study
+pca statistical method used reduce complex data sets multiple variables significantly smaller numbers variables (known components) retain relevant variance information used distinguish sample groups another
+visualizing projections components low-dimensional spaces we able observe grouping samples reflecting underlying patterns their gene expression profiles
+pca mean centered scaling data used model effects oncogene-dependent transformation gene expression
+following comparisons performed: expression gene i normal tissues vs
+pi3k mutation cell lines vs
+ras mutation cell lines vs
+not tested mutation cell lines vs
+other mutation cell lines
+case order model test hypothesis expression genes pka pathway different between normal tissues four subgroups previously identified we applied one-way anova using following comparisons: expression gene i (where i=i-esimo) normal tissues vs
+pi3k mutation cell lines vs
+ras mutation cell lines vs
+not tested mutation cell lines vs
+other mutation cell lines (figure 3d ) p-value < 0.05
+data-set 41 genes then analyzed through unsupervised hierarchical clustering (pearson correlation coefficient complete linkage clustering)
+vectors used sample - oncogene-dependent transformed cells - expression genes pka pathway-related genes
+results process dendrograms arms classified different variables: tissue mutation pathway (figure 4 )
+order identify transcriptional factor binding sites (tfbs) present promoters co-regulated genes 41 pka pathway-encoding genes sorted relative their level expression three groups: strong (>1) average (=1) low (<1) where 1 expression value calculated rma
+groups identified sample group i.e normal tissues cell lines carrying mutation(s) ras pathway-encoding genes cell lines carrying mutation(s) pi3k pathway-encoding genes cell lines carrying mutation(s) other pathways cell lines not tested mutation thus generating 15 subgroups
+tfbs called present only when present more 70 % promoters within group
+proximal promoter regions - defined 500 nt upstream 100 nt downstream transcription start site (tss) automatically assigned genes basis 5' cap-site databases integrated promoter identification program - identified using eldorado (gems launcher genomatix [ 126 ]) genomatix promoter database
+tfbs promoter regions identified using modelinspector genomatix promoter database comprising total 519 matrices 154 families (matrix family library vertebrates version 7.1 june 2008)
+matrix family library based 260000 human mouse rat promoter sequences average length 650bp
+analysis 41 pka pathway-encoding genes performed threshold 1.0 core similarity -that reached only when highest conserved bases matrix match exactly sequence- value 0.85 optimized matrix threshold [ 127 ]
+optimized matrix threshold optimized value defined way minimum number matches found non-regulatory test sequences
+value when higher 0.80 permits reduction false positive matches
+total number frequency (i.e ratio between total number tbfs number promoters present within subgroup) tfbs within subgroup calculated
+frequency tfbs called present 15 subgroups pka pathway-encoding genes compared frequency same tfbs within matrix family library vertebrates
+tfbs enrichment scored based p-value generated hypergeometric distribution calculated 2-tailed fisher's exact test implemented through use 2 x 2 contingency table (figure 5 )
+order identify differences between 15 groups two-way hierarchical clustering (by using vectors sample tfbs) applied using total number values frequency values tfbs identified ? 70% promoters group
+total number value transformed log2 used hierarchical clustering using pearson correlation coefficient measure similarity complete linkage clustering (figure 6 )
+identify known transcription factor binding sites promoter sequences pka pathway-encoding genes annotated promoter associated information been retrieved transcriptional regulatory element database (tred) [ 128 ] ( ) ncbi ( )
+both web sites freely accessible
+results been shown table 6 
+authors declare no competing interests
+cb mv fc conceived experiments wrote manuscript
+cb fc carried out data analysis
+la mv fc participated data analysis
+all authors read edit approved final manuscript
+work been supported grants italbionet l.a
+far m.v
+f.c
+authors wish thank neil campbell language checking
+article been published part bmc bioinformatics volume 10 supplement 12 2009: bioinformatics methods biomedical complex system applications
+full contents supplement available online .

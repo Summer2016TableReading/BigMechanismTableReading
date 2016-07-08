@@ -1,0 +1,180 @@
+179
+table 3 summary genes differentially expressed different kirsten-ras ( k-ras ) mutations relative nih3t3 cells mock transfected pef vector     fold change     cluster 1 cluster 2 gene gene function g12v g12c g12d g13d a146t k117n q61h r164q l19f signal transduction â?? dusp4 mapk phosphatase activity 2.4 4.3 3.1 3.3 2.9 3.2 2.9 nd 2.9 â?? dusp6 phosphoprotein phosphatase activity 2.8 3 2.5 2.2 2.2 2.6 2.8 nd 1.9 â?? ptpre protein tyrosine phosphatase activity 3.2 5.1 3.8 5.2 4.0 5.6 4.4 2.7 4.5 â?? spry4 protein binding nd nd nd 7.0 5.9 4.1 5.6 nd 4.4 â?? ereg egfr binding 7.5 11.1 7.9 7.0 7.0 7.3 8.6 nd 6.2 â?? hbegf egfr binding 2.3 3.6 2.8 2.6 2.2 2.7 2.7 nd 2.2 â?? btc egfr binding 4.2 5.3 5.1 4.5 4.5 3.9 5.8 nd 4.1 â?? vegfa growth factor activity 1.8 2.3 1.8 nd nd nd nd nd nd â?? igf1r protein tyrosine kinase activity nd nd nd 2.7 2.3 2.3 2.8 nd 2.7 â?? jun transcription factor 2.0 2.0 1.8 nd nd 1.4 1.4 nd nd â?? e2f2 transcription factor 3.3 4.2 3.5 2.4 nd nd 2.3 nd nd â?? creb1 transcription factor nd nd nd 2.3 2.0 2.0 2.3 nd 2.8 â?? wnt5a receptor binding 2.3 2.8 nd 2.5 2.8 2.2 nd nd 2.4 â?? tcf4 transcription factor nd nd nd 2.7 2.5 3.2 nd 2.6 3.2                       cytoskeleton remodelling â?? arhgap6 rho gtpase activator activity 8.7 10.5 4.6 10.7 9.2 9.7 13.2 3.0 7.2 â?? ngef rho guanine-exchange factor activity 3.5 9.1 5.5 3.9 3.8 5.0 4.0 nd 3.0                       cell adhesion â?? mmp3 metalloendopeptidase activity 3.5 2.3 nd 2.5 2.9 3.3 3.4 nd nd â?? ceacam1 cell adhesion 17.8 29.9 21.1 19.9 20.4 30.0 27.5 nd 15.6                       g-protein signalling â?? gnaq signal transducer activity nd nd nd 1.8 nd 1.5 1.7 nd 1.8 â?? gna11 signal transducer activity â??1.5 nd nd â??1.6 â??1.9 â??1.5 â??1.9 â??1.6 â??1.7                       immune response â?? ccl2 cytokine 3.2 2.8 2.2 1.9 2.0 2.2 2.0 nd nd                       protein kinases â?? abl1 tyrosine-protein kinase â??1.6 â??1.5 nd â??1.6 â??1.6 â??1.8 â??2.0 â??1.6 â??1.8 â?? pak3 protein serine/threonine kinase â??1.6 â??1.8 â??1.7 nd nd nd nd nd nd â?? pim1 protein serine/threonine kinase 1.9 1.6 1.6 nd nd nd nd nd nd                       cell survival â?? serpinb2 serine-type endopeptidase inhibitor activity 12.4 20.7 11.7 15.8 19.1 18.5 18.5 nd 13.7                       transcription â?? ell2 rna polymerase ii transcription elongation factor activity 3.1 2.8 2.8 nd nd nd nd nd nd                       metabolism/glycolysis â?? glut-1 glucose transport 2.0 1.8 1.6 1.8 nd 1.5 1.5 nd nd abbreviation: nd=statistically significant fold change not detected.
+response egfr -targeted therapies colorectal cancer patients been convincingly associated kirsten-ras ( k-ras ) mutation status
+current mandatory mutation testing patient selection limited k-ras ?hotspot' codons 12 13
+colorectal tumours ( n =106) screened additional k-ras mutations phenotypes compared transformation ras gtpase activating assays gene pathway changes induced individual k-ras mutants identified microarray analysis
+taqman-based gene copy number fish analyses used investigate k-ras gene amplification
+four additional k-ras mutations (leu19phe (1 out 106 tumours) lys117asn (1 out 106) ala146thr (7 out 106) arg164gln (1 out 106)) identified
+lys117asn ala146thr phenotypes similar hotspot mutations whereas leu19phe attenuated phenotype arg164gln mutation phenotypically equivalent wt k-ras 
+we additionally identified new k-ras gene amplification event present approximately 2% tumours
+identification mutations outwith previously described hotspot codons increases k-ras mutation burden colorectal tumours one-third
+future mutation screening facilitate optimal patient selection treatment egfr -targeted therapies should therefore extended codon 146 addition should consider unique molecular signatures associated individual k-ras mutations
+patients (age range 45?80 years median age 67 years 64 males 42 females) undergoing surgery colorectal cancer ninewells hospital dundee perth royal infirmary invited participate study
+all patients caucasian pre-operative pathological confirmation diagnosis (icd-9 classification 153.0?153.9 154.0?154.1) no history previous cancer inflammatory bowel disease ulcerative colitis diverticular disease
+patient details been described previously ( smith et al 2002 )
+study approved tayside committee medical research ethics written informed consent obtained all study participants
+primary colorectal tumour resection specimens brought fresh theatre pathology tumours selected experienced pathologist stored liquid nitrogen before analysis
+genomic dna mutation analysis extracted using wizard genomic dna purification kit (promega southampton uk) according manufacturer's instructions
+all study participants provided 10?ml venous blood sample stored edta blood containers ?20°c
+genomic dna extracted 200? ? l whole blood using qiaamp 96 spin blood kit (qiagen crawley west sussex uk) according manufacturer's instructions
+methods k-ras b-raf mutation detection restriction fragment length polymorphism (rflp) analysis mutation frequencies given appendix 
+mouse embryonic fibroblast cell line nih3t3 obtained cancer research uk cell services
+nih3t3 cells maintained dulbecco's modified eagle's medium (dmem) supplemented 10% calf serum unless otherwise stated 37°c 5% co2
+cells transfected using lipofectamine (invitrogen paisley uk) according manufacturer's instructions
+pef.6 plink pefha wt k-ras plasmids kind gifts professor richard marais (institute cancer research london uk)
+site-directed mutagenesis (sdm) carried out pefha wt k-ras plasmid using quikchange ii sdm kit (agilent south queensferry edinburgh uk) according manufacturer's instructions generate following k-ras mutations: g12v g12d g13d q61h l19f k117n a146t r164q using oligonucleotide primers described table 1 
+nih3t3 cells seeded 2.5 × 105 cells 35?mm culture dishes allowed adhere overnight before transfection 250?ng either pef.6 pefha (wt k-ras ) plasmids containing one following k-ras mutants: g12v g12d g13d q61h l19f k117n a146t r164q
+after 24?h cells trypsinised split (1?:?3) between two 10?cm3 plates grown dmem containing 5% calf serum 21 days then fixed methanol stained 0.5% (w/v) crystal violet
+foci greater then 5?mm counted manually
+all transfections repeated three times average foci counts standard deviations calculated
+ras activity determined using ras activation assay kit (millipore watford hertfordshire uk)
+briefly cells harvested 48?h after transfection mg-containing lysis buffer (mlb)
+500? ? g cell lysate sample incubated 10? ? g raf-1 rbd agarose 4°c 30?min gentle rocking
+after washing three times mlb agarose beads re-suspended 40? ? l nupage lds sample buffer (invitrogen) 20? ? l sample separated sds-page
+total 30? ? g whole-cell lysate additionally separated sds?page analysis total k-ras expression
+cells lysed 48?h after transfection mkk lysis buffer (20?m m tris-acetate 1?m m edta 1% (v/v) triton x-100 1?m m egta 0.1% (v/v) ? -mercaptoethanol 1?m m sodium orthovanadate 1?m m sodium pyrophosphate 1?m m sodium ? -glycerophosphate 5?m m sodium fluoride protease inhibitors)
+cell lysates centrifuged 13?000?r.p.m
+15?min 4°c soluble fraction transferred fresh 1.5?ml eppendorf tube
+protein concentration determined using bio-rad protein assay (bio-rad hemel hempstead hertfordshire uk)
+western blot analysis 30? ? g cell lysate separated using nupage electrophoresis system (12% pre-cast polyacrylamide gels invitrogen) transferred nitrocellulose membranes (whatman maidstone kent uk)
+membranes probed anti-k-ras (merck nottingham uk) anti-actin (santa cruz biotechnology heidelberg germany) antibodies overnight 4°c
+secondary horseradish peroxidase-conjugated antibodies (anti-mouse dako anti-goat santa cruz biotechnology) applied 1?h room temperature before developing membranes using enhanced chemiluminescence
+nih3t3 cells plated 2.5 × 105 cells per well 6-well plate following overnight attachment transfected 250?ng pef wt k-ras one k-ras mutants: g12v g12d g12c g13d q61h l19f k117n a146t r164q
+after 48?h cells harvested 1?ml trizol reagent (invitrogen) total rna extracted according manufacturer's instructions
+rna further purified using rneasy mini kit (qiagen) eluted final volume 50? ? l rnase-free dh20 rna quality concentration assessed bioanalyzer 2100 using rna 6000 nano labchip kit (agilent)
+rna labelling microarray hybridisation carried out collaboration cxr biosciences dundee uk
+briefly 1? ? g total rna sample amplified generate complementary rna (crna) labelled cyanine 3-ctp (cys3) using quickamp labelling kit one-colour (agilent)
+labelled crna hybridised agilent 4 × 44k whole mouse genome oligo microarray slides scanned agilent microarray scanner images processed using agilent feature extraction software v9.1
+microarray data analysed using open-source software bioconducter 2.2
+lists differentially expressed genes generated comparing k-ras mutants empty vector control using probes exhibited adjusted p value (false discovery rate (fdr)) ?0.05
+hierarchical clustering analysis carried out using ?cluster' (open source clustering software) clusters visualised using java treeview
+new taqman gene expression assay evaluate k-ras gene copy number designed k-ras copy number compared endogenous control gene rnase p (copy number 2)
+k-ras amplified genomic dna extracted normal tumour tissues ( n =96 normal/tumour pairs) our colorectal patient series ( smith et al 2002 ) oligonucleotide primers 5?-tttaatactttttatgtatttcagggtgttg-3? (300?n m ) 5?-ttaccatctttgctcatcttttctttat-3? (300?n m ) taqman probe 5?-fam-tgatgccttctatacattagttcgagaaattcgaaaa-tamra-3? (100?n m ) expression compared rnase p comparative ct method according manufacturer's instructions (applied biosystems warrington uk)
+sections (4? ? m ) formalin-fixed paraffin-embedded tumour tissue provided tayside tissue bank positively charged slides been baked overnight 56°c
+sections deparaffinised using automated protocol vysis vp2000 processor placed coplin-containing pre-warmed pre-treatment solution (vysis maidenhead kent uk) incubated 80°c 30?min
+slides then washed room temperature water 1?min before two 5?min washes 2 × ssc before digestion protease buffer 37°c 65?min
+following digestion slides washed three times 2 × ssc 2?min before sequential washes 70 85 100% ethanol 2?min room temperature dried 37°c block
+meanwhile 1? ? l chromosome 12p bac rp11-707g18 (red) (bluegnome) 1? ? l chromosome 12q bac rp11-89h19 (green) (bluegnome) 9? ? l lsi?wcp hybridisation buffer (vysis) mixed together slide pipetted onto 22 × 22?mm coverslip placed onto region slide containing tumour tissue placed onto heat block 75°c 5?min co-denature probes tumour tissue
+rubber cement then applied seal coverslips slides placed humidified hybridisation chamber 37°c incubator overnight
+next morning coverslips removed slides placed 0.4 × ssc 72°c 90?s transferred 2 × ssc containing 0.005% tween 30?s before being left dry dark
+all 20? ? l dapi stain then applied coverslips then gently applied slide after removing air bubbles sealed clear nail varnish
+slides analysed epifluorescence microscope (olympus bx60) where probe signals 20 different cells three different regions tumour tissue counted average number probe signals s.d
+calculated
+we previously described k-ras mutations codons 12 13 61 series 106 unselected colorectal tumours ( smith et al 2002 )
+our k-ras mutation analysis performed direct sequencing k-ras exon 1 (codons 12 13) exon 2 (codon 61) would therefore detected any additional mutations exons
+codon 12 mutations detected 23 tumours (21.7%) codon 13 mutations 6 tumours (5.7%) whereas no codon 61 mutations detected
+mutations codon 19 (g57t leu19phe) b-raf (v600e) found single tumours ( table 2 )
+identify additional k-ras mutations establish relative frequencies individual k-ras mutations human colorectal tumours we used wave analysis followed direct sequencing screen same tumour series mutations k-ras exon 3 exon 4b most common exon 4 splice variant
+four additional sequence changes identified ? c change (lys asn substitution) codon 117 g change (ala thr substitution) codon 146 g change (arg gln substitution) codon 164 ?silent' c t nucleotide substitution did not alter aspartic acid residue codon 173 ( table 2 )
+together k-ras mutations b-raf v600e mutation increase overall ras pathway mutation frequency 27.4 37.8%
+predicted localisation mutation functional domains k-ras protein illustrated figure 2 
+determine whether our reported sequence changes represented tumour-specific mutations single-nucleotide polymorphisms (snps) genomic dna blood tumour tissue compared
+sequence changes codons 19 117 146 164 only detected tumour dna whereas codon 173 sequence change detected both blood tumour dna therefore represented snp ( table 2 )
+determine frequencies codon 117 146 164 k-ras mutations codon 173 snp pcr?rflp assays designed permit rapid screening blood tumour dna ( appendix )
+like codon 19 mutation codon 117 codon 164 mutations found single tumours whereas codon 146 mutation found 7 out 106 (6.5%) tumours
+no tumours codon 19 117 146 146 mutations additional k-ras mutations codons 12 13 61
+codon 173 snp found 39 individuals predicting allele frequency 18.2%
+snp did not lead amino acid substitution k-ras protein not analysed further
+phenotypes associated various k-ras mutations previously not been systematically evaluated
+compare transformation potential k-ras mutants therefore nih3t3 cells transiently transfected plasmids expressing wt k-ras k-ras mutations g12v g12d g13d q61h l19f k117n a146t r164q
+equivalence plasmid loading assessed spectrophotometrically western blotting k-ras (data not shown)
+cells stained crystal violet foci counted 21 days after transfection described materials methods ( figure 3 )
+no foci observed untransfected cells cells transfected wt k-ras whereas abundant foci seen hotspot k-ras mutation ( figure 3a )
+codon 12 mutations slightly greater transforming potential codon 13 mutations consistently greater transforming potential codon 61 q61h mutation ( figure 3c )
+after transfection additional k-ras mutations significant focus formation observed codon 117 146 mutations ( figure 3b )
+contrast codon 164 mutation phenotypically equivalent wt k-ras no evidence foci formation codon 19 mutation generated low but consistent numbers isolated foci ( figure 3c )
+assess k-ras mutations active gtp-bound conformation raf-1 binding assay carried out described materials methods
+raf-1 selectively binds gtp-bound ras (rather inactive gdp-bound form) following immunoprecipitation visualised western blotting
+figure 4 illustrates results our analysis where consistent our focus formation experiments k-ras g12v l19f k117n a146t mutations clearly active gtp-bound conformation
+contrast r164q mutation like wt k-ras not gtp-bound
+further compare contrast phenotypes associated k-ras mutants transcription-profiling experiments carried out described materials methods
+hierarchical clustering analysis revealed presence two major gene clusters ?cluster 1' containing g12v g12c g12d mutants ?cluster 2' containing g13d a146t k117n r164q l19f ( figure 5 )
+interesting note codon 12 mutants most similar wt k-ras whereas k117n a146t mutants clustered activating codon 13 codon 61 hotspot mutants
+l19f r164q mutants formed subcluster within cluster 2 suggesting consistent our foci formation data mutants phenotypically distinct g13d a146t k117n mutants
+presence l19f cluster 2 consistent our ras gtpase assay data whereas contrast our experimental data r164q predicted ?wt' ras phenotype
+presence r164q cluster 2 rather cluster 1 wt k-ras therefore initially surprising but suggests r164q mutation ?activating' phenotype albeit attenuated relative other mutations studied
+further investigate phenotypes associated k-ras mutants expression diverse selection genes associated variety cellular processes including signal transduction cytoskeleton remodelling cell adhesion compared
+although further analysis complex dataset including composite analysis biological pathways processes ongoing will discussed more detail future manuscript representative examples genes showing differential expression following introduction k-ras mutant summarised table 3 
+consistent our hierarchical clustering analysis introduction r164q mutation led relatively few changes gene expression showed reduced pathway activation compared other mutants studied
+however there examples genes induced all mutants studied including protein tyrosine phosphatase ptpre rho gtpase activating protein arhgap6 multiple examples genes induced repressed all mutants exception r164q
+included mapk phosphatases dusp4 dusp6 ereg hbegf btc all involved egfr binding rho guanine-exchange factor ngef cell adhesion molecule ceacam 1 plasminogen activator inhibitor serpinb2 
+consistently novel a146t k117n mutants (and lesser extent l19f mutant) clustered influenced gene expression similarly previously described activating g13d q61h ?hotspot' mutations
+particular interest genes example vegfa pak3 pim1 eii2 differentially expressed cluster 1 but not cluster 2 mutants genes example spry4 igf1r creb1 tcf4 differentially expressed cluster 2 mutants additional genes example jun e2f2 mmp3 glut-1 differentially regulated mutant studied
+investigate whether altered k-ras activity could additionally result gene amplification k-ras gene copy number assay designed carried out described materials methods k-ras copy number compared normal tumour tissues
+total 2 96 tumour pairs analysed (2.1%) showed tumour-specific copy number increases ( figure 6 ) one (study code 1264 wt k-ras ) 4 tumour copies k-ras other (study code 1233 wt k-ras ) 27 copies k-ras gene
+assay reproducibility linearity demonstrated analysis standard curves generated serial dilutions wide concentration range input genomic dna (data not shown)
+k-ras gene amplification confirmed fish analysis described materials methods ( figure 7 )
+figures 7a b illustrate chromosome metaphase spreads confirming fish probe specificities chromosomes 12p 12q respectively whereas figures 7c d show representative colorectal tumour fish analysis
+figure 7c illustrates tumour sample (study code 1271) k-ras gene not amplified (red fluorescence=green fluorescence) whereas figure 7d illustrates colorectal tumour (study code 1264) k-ras gene amplification (red fluorescence>green fluorescence)
+signals red 12p12.1 probe tumour 1264 appear cluster bright dots forming line suggestive homogeneously staining region (hsr) chromosomal region amplified either original chromosome another chromosome opposed double minutes where amplified gene located extra-chromosomal circular dna molecules
+recent clinical data shown compelling association between k-ras b-raf mutation status response egfr blockade cetuximab panitumumab treatment metastatic colorectal tumours ( benvenuti et al 2007 khambata-ford et al 2007 freeman et al 2008 karapetis et al 2008 ramos et al 2008 )
+k-ras mutations colorectal tumours been extensively documented where recent meta analysis more 3000 tumours estimates average k-ras mutation frequency 34.8% ( andreyev et al 2001 )
+majority previous analyses however limited codons 12 13 whereas only minority studies additionally analysed codon 61
+although additional k-ras mutations been reported outwith ?hotspot' codons our knowledge there been no systematic analysis k-ras mutation frequency human colorectal tumours
+our use ?wave' denaturing hplc (dhplc) analysis ( kuklin et al 1997 ) allowed us carry out rapid systematic analysis entire k-ras coding sequence identify colorectal tumours sequence changes nature subsequently confirmed conventional dideoxy sequencing
+our data clearly demonstrates k-ras mutations human colorectal tumours likely significantly underestimated only hotspot codons analysed
+indeed current mutation screening tests based hotspot codons 12 13 likely result mis-classification up one-third patients
+although mutations codons 19 117 164 relatively rare events our data suggests k-ras mutation may differentially influence treatment response
+we would therefore recommend adoption comprehensive k-ras mutation profiling least routine inclusion codon 146 mutation patient selection cetuximab related therapies
+current data cosmic database summarises literature data ongoing sanger cancer-genome project describes 29 k-ras colorectal tumour mutations outwith codons 12 13 61 more 11?800 mutations hotspot codons ( http://www.sanger.ac.uk/genetics/cgp/ ) but does not describe associated phenotypes
+consistent our own data codon 146 most frequently mutated mutations described
+k-ras codon 146 mutations been described human colorectal tumour cell line ( higashi et al 1990 ) mice thymic lymphomas ( sloan et al 1990 ) single human colorectal tumour case report ( orita et al 1991 )
+more detailed molecular profiling studies codon 146 mutations described 4% two independent colorectal tumour series hong kong united states america ( edkins et al 2006 ) chronic myelomonocytic leukaemia ( gelsi-boyer et al 2008 tyner et al 2009 )
+consistent our own data tyner et al (2009) reported oncogenic phenotype associated k-ras 146 mutation leukaemia loupakis et al (2009) recently reported patient metastatic colorectal cancer k-ras 146 mutation resistant cetuximab
+there only single report k-ras codon 19 mutations human colorectal tumours ( akagi et al 2007 ) vitro elevation active ras-gtp levels anchorage-independent growth increased tumourigenicity nude mice demonstrated
+codon 19 mutation additionally been described h-ras human pituitary carcinoma metastases ( pei et al 1994 )
+there two recent reports codon 117 mutations ? first k-ras human colorectal tumours ( wojcik et al 2008 ) second h-ras associated activation ras?mapk pathway mental retardation costello syndrome ( denayer et al 2008 )
+interesting note costello syndrome been associated increased cancer predisposition ( gripp 2005 )
+there no reports k-ras 164 mutations mutations codon not identified sanger cancer genome project investigators
+recent clinical data convincingly associates response anti- egfr therapies k-ras mutation status patients metastatic colorectal cancer where logically response preferentially observed k-ras wt tumours ( lievre et al 2006 benvenuti et al 2007 khambata-ford et al 2007 freeman et al 2008 karapetis et al 2008 ramos et al 2008 loupakis et al 2009 van cutsem et al 2009 ) retain ability respond egfr blockade
+our description k-ras gene amplification subset wt tumours particular interest regard increased k-ras gene copy number may lead more active ?mutation'-like phenotype
+experiments investigate possibility currently underway our laboratory
+interesting note our transcription profiling analysis revealed some similarities but many marked differences gene expression following introduction individual k-ras mutants
+we found codon 117 common codon 146 mutations cluster previously described activating mutations codons 13 61 highlighting differences individual mutation phenotypes
+our analysis k-ras induced gene expression identified number genes previously associated k-ras signalling example mapk dual specificity phosphatases dusp4 dusp6 
+dusps key regulators balance between kinase pathway activation inactivation previously been reported upregulated adaptive response creating negative feedback loop following mapk pathway activation ( keyse 2008 )
+consistent our own data dusp4 expression previously been shown increased pancreatic tumours k-ras mutations ( yip-schneider et al 2001 ) dusp6 expression increased variety tumour types mutations ras raf pathway genes ( croonquist et al 2003 warmka et al 2004 bloethner et al 2005 )
+particular interest however our observation certain signalling cascades including those mediated igf1 vegf differentially activated cluster 1 cluster 2 k-ras mutants suggesting not only presence but specific molecular characteristics individual k-ras mutations may important determinants both tumour progression treatment response
+example recent data suggests glucose deprivation promote acquisition k-ras mutations human tumours reports upregulation glucose transporter glut-1 k-ras mutant tumours ( yun et al 2009 )
+our data confirms hypothesis but shows glut-1 induction restricted codon 12 13 61 117 mutations no change glut-1 expression associated introduction codon 19 146 164 mutations again reflecting phenotypic heterogeneity
+current clinical data sufficiently compelling k-ras mutation testing facilitate selection patients most likely benefit anti- egfr therapy increasingly recommended clinical practise ( mcneill 2008 van krieken tol 2009 ) resulted recent formal recommendation national comprehensive cancer network patients k-ras tumour mutations should not treated cetuximab panitumumab ( mcneill 2008 )
+there increasing interest identification prognostic molecular markers may used select most appropriate patients adjuvant chemotherapy identify colorectal cancer patients increased risk disease progression
+although clinical implications non-hotspot k-ras mutations requires further validation both prognostic markers therapeutic targets our data suggests future analysis k-ras mutations quantitation mutation burden colorectal tumours should not limited previously described mutation hotspots should additionally consider unique molecular signatures associated individual k-ras mutations
+mutations exons 3 4 k-ras gene identified using transgenomic wave denaturing hplc system
+pcr products wave analysis generated using expand high fidelity pcr system (roche welingkar garden uk) incorporating taq polymerase enhanced proofreading activity
+200?bp pcr product encompassing k-ras exon 3 generated using oligonucleotide primers 5?-ttctttcccagagaacaaattaa-3? 5?-agatctgtatttatttcagtgttacttacc-3?
+similarly 261?bp pcr product encompassing k-ras exon 4b generated using oligonucleotide primers 5?-tactttttatgtatttcagggtgttg-3? 5?-gctaacagtctgcatggagc-3?
+assay conditions (acetonitrile gradient temperature profile) optimised wave analysis pcr fragment using transgenomic wavemaker 4.1 software according manufacturer's instructions
+k-ras exon 3 analysed 55°c initial concentration 51% buffer b (0.1? m teaa 25% acetonitrile) exon 4 55°c initial concentration 54% buffer b
+all samples denatured cooled slowly room temperature before wave analysis maximise heteroduplex formation
+k-ras mutations detected wave analysis confirmed direct sequencing pcr products
+analysis performed dna analysis facility department molecular cellular pathology ninewells hospital medical school dundee dd1 9sy uk using 16 capillary abi 3100 genetic analysers (applied biosystems)
+before sequencing all pcr products purified using qiaquick pcr purification kits (qiagen) according manufacturer's instructions
+all sequences obtained aligned previously published sequences (ncbi genbank accession numbers l00047 l00049 k-ras exons 3 4b respectively) presence nature mutation confirmed repeat pcr sequencing
+permit rapid identification k-ras codon 117 mutation pcr?rflp assay designed where presence mutation created recognition site restriction enzyme bsr s1 
+288?bp pcr product amplified using primers 5?-gatcttttgagagagatacaaggtttc-3? 5?-tgttctagaaggcaaatcaca-3?
+following pcr amplification pcr products digested bsr s1 2?h 65°c analysed 8% polyacrylamide gels run 1 × tbe buffer 200?v 2?h
+gels stained ethidium bromide dna bands visualised uv transilluminator
+samples without k-ras codon 117 mutation resistant digestion produced single band 288?bp whereas samples homozygous codon 117 mutation digested produce bands 271 17?bp
+heterozygous samples produced bands 288 271 17?bp
+band sizes determined comparison ?x174 dna size markers (promega)
+similarly pcr-rflp assay designed identify k-ras codon 146 mutation where presence mutation created recognition site restriction enzyme mse i 
+197?bp pcr product amplified using primers 5? tgg aat tcc ttt tat tga aac atc 3? 5? gat taa gaa gca atg ccc tct c 3?
+following pcr amplification pcr products digested mse 1 2?h 37°c analysed 8% polyacrylamide gels described above
+samples without k-ras codon 146 mutation digested produce bands 101 91 5?bp whereas samples homozygous codon 146 mutation produced bands 91 78 23 5?bp
+heterozygous samples produced bands 101 91 78 23 5?bp
+presence codon 164 mutation confirmed using novel rflp assay wherein presence mutation destroyed recognition site restriction enzyme bstb i
+261?bp pcr product generated described above k-ras exon 4b mutation detection
+after pcr amplification pcr products digested bstb i 2?h 65°c analysed 2% agarose gels
+samples without codon 164 mutation digested produce bands 203 58?bp whereas samples homozygous mutation produced single band 261?bp
+heterozygous samples produced bands 261 203 58?bp
+codon 173 snp detected using novel rflp assay where presence mutation destroyed recognition site restriction enzyme bcc i
+261?bp pcr product generated described above k-ras exon 4b mutation detection
+after pcr amplification pcr products digested bcc i 2?h 37°c analysed 2% agarose gels
+samples without codon 173 snp digested produce bands 173 88?bp whereas samples homozygous codon 173 snp produced single band 261?bp
+heterozygous samples produced bands 261 173 88?bp
+b-raf v599e mutation detected using novel rflp assay where presence mutation destroyed recognition site restriction enzyme tsp ri
+224?bp pcr product amplified using primers 5?-tcataatgcttgctctgatagga-3? 5?-ggccaaaaatttaatcagtgga-3? 50?ml reaction containing 1 × pcr buffer (promega) 1.25?m m mgcl2 200?m m dntps 300?n m primers 6% dmso 1.5?u taq polymerase pcr described above
+after pcr amplification pcr products digested tsp r1 2?h 37°c analysed 8% polyacrylamide gels described above
+samples without b-raf v599e mutation digested produce bands 124 78 22?bp whereas samples homozygous v599e mutation produced bands 202 22?bp
+heterozygous samples produced bands 202 124 78 22?bp.

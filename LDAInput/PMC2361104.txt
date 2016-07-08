@@ -1,0 +1,146 @@
+145
+table 2 characteristics colorectal neoplasias braf kras mutations sample location size (mm) histology sequence change codon amino-acid substitution p-mapk braf mutations â??dn 25 dukes' 1796 t â?? 599 v â?? e b â??fn d 10 adenoma 1354 c â?? 452 p â?? t â??fn t 11 adenoma 1763 c â?? t 588 t â?? i c â??dn t 8 adenoma 1354 c â?? 452 p â?? t         1796 t â?? 599 v â?? e                     kras mutations â??pn 12 adenoma 35 g â?? t 12 g â?? v b â??pn 3 adenoma 35 g â?? c 12 g â?? a â??pn d 9 adenoma 35 g â?? 12 g â?? d b â??pn s 8 adenoma 35 g â?? c 12 g â?? c â??pn 32 adenoma 35 g â?? t 12 g â?? v b â??pn s 35 adenoma 35 g â?? 12 g â?? d â??pn 50 adenoma 35 g â?? t 12 g â?? v b â??pn c 40 dukes' 34 g â?? t 12 g â?? c â??pn r 30 dukes' 35 g â?? 12 g â?? d b â??pn 7 adenoma 35 g â?? c 12 g â?? b â??pn t 40 dukes' 35 g â?? 12 g â?? d â??pn t 12 adenoma 35 g â?? 12 g â?? d b â??pn t 30 adenoma 35 g â?? 12 g â?? d b â??pn r 35 adenoma 38 g â?? 13 g â?? d b evaluating systems immunohistochemical staining p-mapk described materials methods p=positive immunostaining n=negative immunostaining fn=flat neoplasia dn=depressed neoplasia pn=protruding neoplasia r=rectum s=sigmoid d=descending t=transverse a=ascending colon c=cecum dukes' a=dukes' carcinoma p-mapk=phosporylated mitogen-activated protein kinase.
+although some molecular differences between flat-depressed neoplasias (fdns) protruding neoplasias (pns) been reported uncertain braf mutations status phosphorylated mitogen-activated protein kinase (p-mapk) different between theses two groups
+we evaluated incidence braf kras mutations high-frequency microsatellite instability (msi-h) immunohistochemical status p-mapk nonserrated neoplasias (46 fdns 57 pns)
+braf mutations detected four fdns (9%) none pns ( p =0.0369 fisher's exact test)
+kras mutations observed none fdns 14 pns (25% p =0.0002 fisher's exact test)
+msi-h detected seven out 44 fdns (16%) one out 52 pns (2%) ( p =0.022 fisher's exact test)
+type b c immunostaining p-mapk observed 34 out 46 fdns (72%) compared 24 out 55 pns (44% p =0.0022 ? 2 test)
+there no significant difference type b c immunostaining p-mapk between fdns without braf mutations
+braf kras mutations mutually exclusive morphological characteristics colorectal nonserrated neoplasia
+abnormal accumulation p-mapk protein more likely implicated tumorigenesis fdns pns
+however abnormality fdns might occur via genetic alteration other braf kras mutation
+total 46 fdns 44 patients who underwent endoscopic ( n =33) surgical resection ( n =13) showa university hospital between april 1998 january 2004 used study
+series 57 endoscopically surgically resected pns used controls
+we excluded patients who familial adenomatous polyposis hereditary nonpolyposis colorectal cancers hyperplastic polyposis patients sporadic sas
+specimen collection procedures genetic analysis approved ethical committee showa university school medicine
+macroscopically neoplastic lesion classified fdn pn according modified criteria described previously ( konishi et al 2003 )
+briefly fdns defined slightly mucosal elevations flat slightly rounded surface height less half diameter lesions usually consisting dysplastic mucosal thickness less twice adjacent nondysplastic mucosa histology
+flat-depressed neoplasias subclassified flat depressed neoplasias depending whether depressed component present
+protruding neoplasias defined protruding lesions without stalks (sessile semipedunclated pedunculated lesions)
+serial sections (3? ? m) cut paraffin blocks prepared hematoxylin?eosin (he) staining immunostaining
+all he-stained sections reviewed single pathologist (yh) who blinded colonoscopic findings
+dysplastic mucosal lesions classified adenomas
+when tumour cells spread through muscularis mucosa submucosa lesion defined carcinoma
+according criteria described previously ( konishi et al 1999 ) tumour location classified three groups: rectum left-colon (left-c) right-colon (right-c)
+other histopathological features determined according general rules japanese research society cancer colon rectum ( japanese research society cancer colon rectum 1997 )
+extract genomic dna five adjacent sections (5- ? m thick) obtained archival block formalin-fixed paraffin-embedded tumour tissue macroscopic type
+one section stained he percentage tumour cells estimated microscopically
+extraction genomic dna described previously ( yamamoto et al 2003 )
+representative tumour samples contained less 80% tumour cells separate samples obtained histological slide tumourous adjacent normal tissue using laser-capture microdissection described previously ( yamamoto et al 2003 )
+dna samples normal colonic mucosa (frozen formalin-fixed tissue) peripheral blood used normal controls molecular analysis
+primers exons 11 15 used evaluate braf mutations ( davies et al 2002 chan et al 2003 )
+primers included region mutation ?hot spots' previously identified gene
+pcr amplification exon kras-containing codon 12 13 performed using previously described primers ( brose et al 2002 )
+mutational screening braf kras genes performed direct sequencing methods previously reported ( makino et al 2000 )
+pcr products separated electrophoresis 2% agarose gels eluted genelute? minus etbr spin columns (sigma saint louis mo usa)
+purified sample sequenced using automated sequencer
+all mutations reconfirmed independent pcr reactions sequencing
+pcr performed amplify dna samples tumours adjacent normal tissues using established pcr protocol ( konishi et al 2004 )
+five microsatellite loci analysed study bat25 bat26 d2s123 d5s346 d17s250 ( boland et al 1998 )
+tumours showing novel peak patterns evaluated msi positive
+single observer (hn) performed msi analysis positive equivocal samples re-evaluated second observer (kn)
+tumour sample considered contain high-frequency msi (msi-h) two more five informative markers demonstrated instability considered low-frequency msi (msi-l) when only one marker unstable ( boland et al 1998 )
+all pcr reactions repeated same sample only consistent changes duplicate reactions scored abnormalities
+deparaffinised rehydrated sections heated microwave oven sodium citrate buffer (ph 6.0) 30?min retrieve antigens
+endogenous peroxidase activity inhibited incubation 3% hydrogen peroxide 5?min
+sections incubated overnight polyclonal anti-phospho-p44/42 mapk antibody (anti-active mapk pab promega madison wi usa) 4°c
+specifically recognises dually phosphorylated active form mapk (p44/erk1 p42/erk2)
+working dilution 1?:?300
+sections then incubated horseradish peroxidase-binding amino-acid polymer 30?min (histofine simplestain max-po kit nichirei tokyo japan)
+colour developed staining diaminobenzidine solution
+sections lightly counterstained haematoxylin
+immunostained section examined under light microscope evaluated nuclear staining ( figure 1a ) twice senior pathologist (mt) who did not any knowledge clinical molecular analysis those samples
+present there no validated criteria evaluating immunohistochemical staining p-mapk therefore we used grading system evaluating p-mapk staining based staining distribution
+dysplastic normal mucosa glands divided three equal areas (upper middle lower)
+p-mapk-positive cells classified three types ( figure 1 ): type localised within upper area only type b localised upper middle type c localised upper through lower
+we analysed immunostaining p-mapk separately tumour adjacent normal tissue
+unfortunately two paired pns adjacent normal mucosa five samples adjacent normal mucosa not informative p-mapk immunostaining because small amounts tissue blocks
+mann?whitney u- test ? 2 test fisher's exact test used statistical analysis
+value p <0.05 considered significant
+there no significant differences gender age family history crc location size histology between two macroscopic types
+incidence accompanying adenoma duke's type carcinomas lower fdns pns (four out 17 12 out 13 respectively p =0.0002 fisher's exact test) ( table 1 )
+braf mutations detected four out 46 fdns (9%) none 57 pns
+difference statistically significant ( p =0.0369 fisher's exact test)
+three braf mutations found exon 15 two exon 11 ( table 2 )
+one tumour braf mutations both exons
+two exon 15 mutations observed depressed neoplasias conversion valine glutamic acid codon 599
+remaining findings novel mutations p452t (exon 11) two tumours t588i (exon 15) one tumour
+four fdns braf mutations no braf mutation detected adjacent normal mucosa
+kras mutations observed none 46 fdns 14 out 57 pns (25%)
+there significant difference incidence kras mutations between fdns pns ( p =0.0002 fisher's exact test)
+all but one kras mutation detected codon 12 kras gene ( table 2 )
+msi analysis msi-h shown seven out 44 fdns (16%) one out 52 pns (2%)
+incidence msi-h differed significantly between fdns pns ( p =0.022 fisher's exact test)
+msi-l shown 16 out 44 fdns (36%) six out 52 pns (12%: p =0.0066 fisher's exact test)
+seven fdns msi-h four adenomas three duke's type carcinomas whereas one pn msi-h adenomas
+braf mutations found one out seven fdns msi-h (14%) three out 37 fdns without msi-h (8%)
+however differences not statistically significant
+no kras mutation observed any pn msi-h
+p-mapk protein detected immunohistochemically all samples variable extent
+type b c immunostaining p-mapk observed 34 out 46 fdns (72%) compared 24 out 55 pns (44%)
+difference statistically significant ( p =0.0022 ? 2 test)
+however about 80% adjacent normal mucosa showed type p-mapk expression
+there no significant difference incidence type p-mapk expression adjacent normal mucosa between fdns pns (34 out 46 42 out 50 respectively p =0.2241 ? 2 test)
+we compared clinicopathological molecular characteristics between neoplasia type type b/c immunostaining p-mapk ( table 3 )
+fdns type b/c expression p-mapk observed significantly more frequently duke's carcinomas adenomas ( p= 0.0338 fisher's exact test)
+we observed no significant difference incidence type b/c immunostaining p-mapk between fdns without braf mutations
+contrast type b/c immunostaining p-mapk detected more frequently large (?10?mm) small (<10?mm) pns
+size-related difference statistically significant ( p= 0.0265 fisher's exact test)
+type b/c immunostaining p-mapk demonstrated more frequently pns kras mutations without kras mutations ( p= 0.0272 fisher's exact test)
+braf status been examined variety human malignancies
+braf mutations been reported approximately 10% crcs ( davies et al 2002 rajagopalan et al 2002 fransen et al 2004 )
+however status braf gene precursor lesions crcs not been thoroughly explored there morphological heterogeneity oncogenesis ( shimoda et al 1989 )
+flat-depressed protruding adenomas may precursors cancers arising de novo polypoid cancers respectively
+our knowledge first study mutational status braf terms morphological characteristics colorectal nonserrated neoplasias
+protruding neoplasias significantly higher frequency kras mutation flat neoplasias despite similarity tumour size ( fujimori et al 1994 minamoto et al 1994a yamagata et al 1994 yashiro et al 2001 )
+we identified four fdns (9%) mutations braf but no pns mutations
+contrast kras mutations observed none fdns 25% pns
+braf kras mutations mutually exclusive morphologically distinct nonserrated neoplasias (fdns pns respectively)
+mutational spots braf gene cluster within activation segment (exon 15) g-loop (exon 11) kinase domain highly conserved among serine/threonine kinases throughout evolution
+our series all mutations exon 15 braf observed depressed neoplasias (dns) involved conversion valine glutamic acid codon 599 (v599e)
+v599e mutation ?hot spot' mutation colorectal cancers well other human cancers ( davies et al 2002 rajagopalan et al 2002 wang et al 2003 yuen et al 2003 domingo et al 2004 fransen et al 2004 koinuma et al 2004 )
+although we need more extensive analysis v599e mutations might contribute tumorigenesis dns
+other non-v559 mutations detected here novel mutations p452t (exon 11) t588i (exon 15) crcs
+t588i mutation may associated increased mapk activity because tumour mutation showed type b c expression p-mapk protein
+continuous activation mapk signalling pathway critical importance development crcs
+p-mapk forms (phosphorylated erk1 erk2) translocate nucleus modulate gene expression through activation transcriptional factors ( peyssonnaux eychene 2001 )
+nuclear staining observed here positive reaction p-mapk protein type b c immunostaining p-mapk frequently observed fdns pns
+incidence type b c immunostaining p-mapk significantly higher fdns pns
+thus abnormal accumulation p-mapk protein more likely associated tumorigenesis fdns pns
+mutational activation braf kras gene signals act through classical mapk cascade promote proliferation ( davies et al 2002 )
+we found type b/c expression p-mapk more frequently observed pns kras mutation
+therefore mutational type kras might activate mapk pathway more strongly wild-type kras ( vojtek der 1998 )
+type b/c immunostaining p-mapk observed more frequently large pns small pns
+kras gene mutation frequency colorectal polyps increases proportion their size ( vogelstein et al 1988 )
+14 pns kras mutations series 11 (79%) adenomas
+thus derangement mapk signalling pathway may early size-dependent event tumorigenesis pns correlates status kras mutation
+other hands there no significant difference incidence type b/c immunostaining p-mapk between fdns without braf mutations
+type b/c immunostaining p-mapk more common duke's carcinomas adenomas fdns
+implies abnormal accumulation p-mapk protein may critical event tumour progression fdns independently braf mutations
+our immunohistochemical data suggest alterations mapk pathway important development fdns but may highlight new therapeutic strategies dealing crcs arise fdns
+more 70% fdns show positive immunostaining p-mapk signalling pathway may play important role tumorigenesis fdns
+many reported crcs arising fdns nonpolypoid neoplasias ( shimoda et al 1989 bedenne et al 1992 iishi et al 1992 kudo 1993 minamoto et al 1994b konishi et al 1999 rembacken et al 2000 kaneko et al 2004 )
+therefore inhibition either p-mapk related molecule might new therapeutic strategy treat crcs
+ci-1040 (pd184352) highly selective inhibitor mapk signalling cascade specifically targeting inhibition mek ( delaney et al 2002 )
+antitumour activity found correlate ci-1040-mediated inhibition phosphorylated erk levels
+however braf mutations infrequent fdns
+moreover no significant mutations araf raf-1 been found crcs ( fransen et al 2004 )
+however raf-mek-erk pathway regulated via interaction modulation function wide range signalling proteins ( english et al 1999 zimmermann moelling 1999 kolch 2000 )
+therefore further investigation required clarify what leads tumour-specific expression p-mapk fdns
+we found msi-h seven 44 fdns (16%) but only one 52 pns (2%)
+seven fdns msi-h four adenomas three duke's carcinomas
+olschwang et al (1998) reported eight out 36 flat colorectal neoplasias showed msi-h (22%)
+frequency msi-h series did not differ regard histological type
+however yashiro et al (2001) observed no significant difference incidence msi-h between flat-type polypoid-type cancers (four out 25 zero out 25 respectively)
+selection tumour samples may explain difference
+our series 41% fdns showed depressed type morphology about two-thirds fdns 10?mm more diameter
+however suggested some flat neoplasias may progress de novo cancers loh chromosome 3p location hmlh1 could explain onset msi-h alternative mechanism hypermethylation promoter hmlh1 
+previous studies ( rajagopalan et al 2002 wang et al 2003 domingo et al 2004 koinuma et al 2004 ) reported braf mutations occur more frequently microsatellite-unstable microsatellite-stable crcs
+however we observed no significant difference incidence braf mutations between fdns without msi-h
+summary braf kras mutations mutually exclusive morphological characteristics colorectal nonserrated neoplasias
+high-frequency microsatellite instability significantly more frequently seen fdns pns
+therefore possible some fdns braf mutation msi-h progress de novo type cancers (ie flat depressed cancers without accompanying adenoma)
+abnormal accumulation p-mapk protein seems more frequently implicated tumorigenesis fdns pns
+however accumulation significantly correlated incidence kras mutations pns but not braf mutations fdns
+derangement mapk pathway fdns might occur via genetic alteration other braf kras mutation.

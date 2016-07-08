@@ -1,0 +1,220 @@
+219
+table 1 prdx1 â??/â?? mefs higher sensitivity pi3k inhibitors h-ras erbb-2 induced transformation wortmannin (nm) h-ras colony number % ly294002 (î¼m) h-ras colony number % erbb-2/neut colony number % 0 prdx1â??/â?? 100±23.3 0 prdx1â??/â?? 100±11.2 100±4.6 5   96.3±5.7 10   38.3±15.2 47.3±6.6 10   97.8±13.5 25   5±10.1 3.2±4.1               0 prdx1+/+ 100±4.1 0 prdx1+/+ 100±11.2 100±4.6 5   55.9±12.5 10   26.3±5.5 25.1±6.6 10   32.7±24.4 25   4±8.7 3.2±4.8 prdx1â??/â??mefs prdx1+/+mefs retrovirally infected constructs carrying genes h-rasv12 erbb-2/neut (erbb-2val644glu) treated after plating soft agar either 10 25 î¼m ly294002 every 2 days wortmannin 5 10 nm every day colonies counted after 21 days decrease colony formation (%) relates untreated same genotype (%) experiment representative three independent studies two different sets mef clones prdx1 littermates.
+widely accepted reactive oxygen species (ros) promote tumorigenesis
+however exact mechanisms still unclear
+mice lacking peroxidase peroxiredoxin1 (prdx1) produce more cellular ros die prematurely cancer offer ideal model system study ros-induced tumorigenesis
+prdx1 ablation increased susceptibility ras-induced breast cancer
+we therefore investigated role prdx1 regulating oncogenic ras effector pathways
+we found akt hyperactive fibroblasts mammary epithelial cells lacking prdx1
+investigating nature such elevated akt activation established novel role prdx1 safeguard lipid phosphatase activity pten essential its tumour suppressive function
+we found binding peroxidase prdx1 pten essential protecting pten oxidation-induced inactivation
+along those lines prdx1 tumour suppression ras- erbb-2-induced transformation mediated mainly via pten
+peroxiredoxins (prdxs) superfamily small non-seleno peroxidases (22?27 kda) currently known possess six mammalian isoforms
+although their individual roles cellular redox regulation antioxidant protection quite distinct all catalyse peroxide reduction balance cellular h2o2 levels essential signalling metabolism ( rhee 2006 )
+prdxs i?iv share common cxxc motif use thioredoxin (trx) electron donor ( chae et al 1994a )
+reaction peroxides prdxs' ?peroxidatic' cysteine (cys51 prdx1) oxidized sulfenic acid intermediate then forms disulfide bond ?resolving' cysteine (cys172 prdx1) other homodimer's subunit
+catalytic reduction peroxides results different oxidation states catalytic cysteine
+lower oxidation states (sulfenic acid) reduced back thiol trx system
+higher oxidation states such sulfinic acid reduced back thiol sulfiredoxin whereas oxidation sulfonic acid irreversible results prdx degradation ( neumann fang 2007 )
+loss prdx1 shortens life span mice due development hemolytic anemia cancer
+analysis cells mice lacking prdx1 suggested not only regulated h2o2 levels but possessed properties tumour suppressor ( neumann et al 2003 ) further supported finding prdx1 interacts c-myc thereby selectively inhibiting c-myc transcriptional activity ( egler et al 2005 )
+peroxides known modify protein tyrosine phosphatases (ptps) oxidation
+ptp catalytic property depends thiolate anion low p k cysteine residue (p k 4.7?5.4) located conserved motif its active site ( zhang dixon 1993 peters et al 1998 )
+highly nucleophilic group makes initial attack phosphate group substrate but renders ptp extremely susceptible oxidation resulting its inactivation
+ptp tumour suppressor pten exhibits phosphatase activity towards phosphoinositides tyrosine phosphates known inactivated through h2o2-mediated oxidation through growth factor signalling including epithelial growth factor (egf) platelet-derived growth factor (pdgf) ( leslie et al 2003 kwon et al 2004 )
+analysis human recombinant pten revealed two five cysteines its n-terminal phosphatase domain (ptd) (cys71 cys124) form disulfide bond after oxidation resulted transient inhibition its phosphatase activity allowed oxidized pten migrate faster non-reducing sds?page ( lee et al 2002 kwon et al 2004 )
+stimulated macrophages pten oxidation led temporary inhibition its phosphatase activity phosphorylation akt serine 473 ( leslie et al 2003 )
+pten deficiency hallmark many human tumours ( keniry parsons 2008 ) accompanied enhanced cell proliferation decreased cell apoptosis increased akt activity ( stambolic et al 1998 )
+akt regulated pi3k pten thus playing central role particularly ras- erbb-2-induced transformation
+akt activity been proven crucial initiation transformation both vitro vivo ( sheng et al 2001 hutchinson et al 2004 lim counter 2005 ) phosphatase inactive pten (pten cys124ser) incapable suppressing ras-induced transformation either vitro vivo ( tolkacheva chan 2000 koul et al 2002 )
+although known pten activity negatively regulated through oxidation existence protective mechanism inhibiting such inactivation not been proposed
+basis our findings we propose here prdx1 promotes pten tumour suppressive function binding pten protecting its lipid phosphatase activity h2o2-induced inactivation
+way prdx1 controls excessive cellular akt activity reduces susceptibility h-ras erbb-2-induced transformation
+we tested first prdx1 peroxidase activity under physiological conditions measured endogenous h2o2 release growing cells over time
+extracellular h2o2 buildup prdx1?/?prdx1wtmefs less compared prdx1?/?mefs during 240 min measured
+contrast prdx1?/?prdx1c51/172smefs resulted excess extracellular h2o2 buildup ( supplementary figure s1a )
+rates calculated extracellular h2o2 buildup (pmol/min) confirmed prdx1?/?prdx1wtmefs released h2o2 30% lower rate prdx1?/?mefs whereas prdx1?/?cys51/172smefs released h2o2-release 1.5-fold more prdx1?/?mefs ( figure 1a left panel)
+western blotting analysis further confirmed prdx1 functioning peroxidase prdx1wt protein formed mostly dtt-reducible (data not shown) h2o2-scavenging dimeric structures ( figure 1a right panel) whereas prdx1cys51/172s did not dimer formation depends cys51 cys172 disulfides ( chae et al 1994b )
+remaining prdx1 monomers not over-oxidized therefore active (unlike prdx1 monomers h2o2-treated prdx1?/?prdx1wtmefs)
+prdx1 peroxidase activity required suppress h-ras-induced tumour suppression prdx1?/?mefs transduced retrovirus expressing h-rasv12 formed two-fold more colonies soft agar compared prdx1+/+h?rasv12mefs ( figure 1b left panel)
+expression exogenous prdx1wt reduced colony formation 50% prdx1?/?h?rasv12mefs 20% prdx1+/+h?rasv12mefs whereas exogenously expressed prdx1c51/172s modestly increased colony formation prdx1?/?h?rasv12mefs prdx1+/+h?rasv12mefs
+western blot analysis ensured re-expression prdx1 proteins prdx1?/?mefs did not exceed those prdx1 levels found prdx1+/+mefs ( figure 1b right panel)
+prdx1?/?h?rasv12mefs appeared more spindle-like prdx1+/+h?rasv12mefs whereas expression prdx1wt prdx1?/?h?rasv12mefs reversed spindle-like morphology
+expression exogenous prdx1c51/172s however promoted spindle-like cell morphology both prdx1?/?h?rasv12mefs prdx1+/+h?rasv12mefs ( supplementary figure s1b )
+analysis prdx1 peroxidase activity h-rasv12-transformed mefs showed prdx1?/?prdx1wth?rasv12mefs released h2o2 26% lesser rate prdx1?/?h?rasv12mefs comparable rate found prdx1?/?evmefs
+contrast prdx1?/?c51/172sh?rasv12mefs 1.5-fold increased rate h2o2 release compared prdx1?/?prdx1wth?rasv12mefs ( figure 1c )
+we investigated now whether prdx1 regulates h-ras effector pathways known promote transformation including pi3k/akt ralgef mapk pathways ( li et al 2004 lim counter 2005 )
+treatment mefs h2o2 (50 ?m) increasing periods time enhanced akt phosphorylation ser473 (paktser473) thr308 (paktthr308) higher level prdx1?/?mefs compared prdx1+/+mefs ( figure 2a )
+finding correlated steady increase pten oxidation over time prdx1?/?mefs whereas prdx1+/+mefs pten oxidation plateaued after 6?8 min ( figure 2b c )
+phosphorylation akt serine 473 (paktser473) pten oxidation increased prdx1?/? mefs compared prdx1+/+mefs when exposed increasing amounts h2o2 ( supplementary figure s2a b )
+similar data obtained inducing h2o2 endogenously through treating cells pdgf led larger increase (1) paktser473 paktthr308 ( figure 2d ) (2) pten oxidation prdx1?/?mefs when compared prdx1+/+mefs ( figure 2e )
+although pten oxidation steadily increased prdx1?/?mefs decreased prdx1+/+mefs over time ( figure 2e f )
+levels paktser473 pten oxidation increased prdx1?/?mefs compared prdx1+/+mefs when exposed increasing amounts h2o2 pdgf ( supplementary figure s2a?d )
+lastly we confirmed lack prdx1 enhanced basal h2o2-induced phosphorylation akt substrates prdx1?/?mefs more prdx1+/+mefs ( figure 2g )
+pten forms complex endogenous epitope-tagged ha?prdx1 ( figure 3a )
+complex regulated oxidative stress co-expressed epitope-tagged myc?pten ha?prdx1 dissociated under increasing concentrations oxidative stress ( figure 3b upper panel)
+contrast increasing dosages h2o2 did not disrupt binding prdx1cys51/72ser pten ( figure 3c )
+immunoblotting confirmed equal expression proteins ( supplementary figure s3a b )
+peroxidatic cys51 may regulate h2o2-induced prdx1:pten complex disruption prdx1c51s prdx1c51/172s proteins bind more wild-type pten prdx1c172s ( figure 3d )
+we further confirmed physical association between prdx1 pten using gst-pull down gst?prdx1 his?pten ( figure 3e )
+mutational analysis suggested prdx1 interacts within c2 domain pten (amino acids 186?274) ( figure 3f supplementary figure s3c d ) pten n terminus prdx1 (amino acids 1?40) c terminus prdx1 (amino acids 157?199) ( figure 3f lower schematic supplementary figure s3g )
+computational analysis allowed us narrow those interaction surfaces ( figure 3g )
+images prdx1 pten generated coordinates protein database 1d5r ( lee et al 1999 ) 2z9s ( matsumura et al 2008 ) respectively
+shown pten region 186?251 consists two double-stranded anti-parallel sheets connected through two flexible loops
+similarly 1?40 region prdx1 consists single double-stranded anti-parallel sheet another surface exposed single sheet strand
+figure 3g prdx-1 protein shown only monomer helical region lies dimer interface residues 183?199 positioned surface exposed position obviously well poised mediate protein?protein interaction
+deleting identified interaction sites pten prdx1 altered enzyme activity both enzymes (data not shown) did not allow us study role physical interaction protecting pten lipid phosphatase activity
+pten lipid phosphatase activity fully protected prdx1 cells under mild oxidative stress (25 ?m h2o2) ( figure 4a ) where prdx1 found bind pten ( figure 3b )
+however under higher oxidative stress treatment (500 ?m h2o2) resulted decreased binding pten prdx1 ( figure 3b ) impaired pten's lipid phosphatase activity
+western blotting confirmed equal amounts pten protein lipid phosphatase assay ( figure 4a lower panel)
+complement those results we exposed recombinant purified his-tagged pten h2o2 absence presence increasing amounts purified recombinant prdx1 assayed pten pi(345)p3 utilization
+expected ( figure 4b ) presence h2o2 we found low molar amounts prdx1 protein weakly protected pten lipid phosphatase activity whereas equimolar prdx1 fully restored further increases prdx1 protein amount did not enhance pten lipid phosphatase activity any more
+pre-incubation pten assay n-and c-terminal prdx1 peptide replica (p1 p2 respectively peptide sequences based prdx1 interaction mapping shown supplementary figure s3g discussed figure 3g ) decreased pten lipid phosphatase activity efficiently 53% comparable pten activity observed h2o2 treatment absence prdx1 (50%) ( figure 4c )
+addition p1 decreased pten lipid phosphatase activity only 65% whereas p2 lowered 57%
+however shown figure 4d addition his-purified pten recombinant prdx1 inhibited prdx1 peroxidase activity
+under our experimental conditions kinetics nadph oxidation nadp+ linear prdx1 inhibition proportional molar amount pten reached saturation (completed inhibition) pten/prdx1=1:1 (mol/mol) ratio
+moreover increase pten ratio lowered velocity prdx1 peroxidase activity ( figure 4e )
+next we examined pten?/?mefs whether prdx1 important function pten-induced tumour suppression
+although prdx1 knock down pten?/?mefs decreased paktser473 levels h2o2 treatment mefs increased equally pten?/?mefs pten+/+mefs ( figure 5a )
+prdx1 neither over-oxidized nor does form less peroxidase active dimers pten?/?mefs compared pten?/?mefs reconstituted gfp?pten suggesting pten-null cells prdx1 activity not compromised after h2o2 treatment ( figure 5b )
+pi3k/akt signalling essential oncogenic erbb-2-induced transformation ( maroulakou et al 2007 ) akt1 deficiency sufficiently suppresses tumour development pten+/?mice ( chen et al 2006 )
+shown h-ras ( figure 1b ) prdx1wt prevented erbb-2/neut-induced transformation depending its peroxidase activity ( supplementary figure s5a )
+using small hairpin (sh) rna targeting prdx1 mrna (shprdx1) pten?/?mefs transformed either h-rasv12 erbb-2/neut we showed prdx1 suppressed transformation mainly regulating pten ( figure 5c?e )
+although shprdx1 expressed pten?/?h?rasv12mefs pten?/?erbb?2/neut mefs did not increase colony formation compared pten?/?h?raspmko1mefs pten?/?erbb?2/neutpmko1mefs pten?/?shprdx1gfp?ptenh?rasv12mefs showed 1.5-fold increase colony formation compared pten?/?pmko1gfp?ptenh?rasv12mefs pten?/?shprdx1gfp?ptenerbb?2/neutmefs 1.35-fold increase colony formation compared pten?/?pkmo1gfp?ptenerbb?2/neutmefs
+furthermore slight increase prdx1 oxidation noted pten?/?pmko1h?rasv12mefs compared pten?/?gfp?ptenh?rasv12mefs pten?/?pmko1erbb?2/neutmefs compared pten?/?gfp?ptenerbb?2/neutmefs
+using minimum dosages two well-known pi3k inhibitors wortmannin (wm) ly294002 (ly) inhibited h2o2-induced akt activity prdx1?/?mefs less efficiently prdx1+/+mefs ( supplementary figure s5b ) we found partial inhibition pi3k/akt activity translates less efficient inhibition h-ras erbb-2-induced transformation prdx1?/?mefs compared prdx1+/+mefs ( table i ): 5 nm wm reduced prdx1?/?h?rasv12mefs colony number <4% 10 nm wm 2.3%
+however 5 nm wm decreased prdx1+/+h?rasv12mefs colony numbers 46% ( p =<0.001) 10 nm wm 67%
+similarly 10 ?m ly decreased prdx1?/?h?rasv21mefs colony number 61% prdx1+/+h?rasv12mefs 73%
+however 10 ?m ly decreased colony number prdx1?/?erbb?2/neutmefs only 53% whereas prdx1+/+erbb?2/neutmefs 75%
+moreover 25 ?m ly decreased colony formation equally prdx1?/?erbb?2/neutmefs prdx1+/+erbb?2/neutmefs 4?5%
+mmtv/v-h-ras mice transgenic mice highly susceptible mammary carcinomas due targeted over-expression activated ras oncogene their mammary glands ( sinn et al 1987 ) akt1 ablation lowers incidence tumours mice ( maroulakou et al 2007 )
+our experiment we confirmed prdx1 plays role ras-induced tumorigenesis vivo ( figure 6a )
+all 60% ras/prdx1+/+ mice remained tumour free during entire observation period 36 weeks
+contrast only 40% ras/prdx1+/? mice remained tumour free during time median survival (t50) 28 weeks indicated loss one copy prdx1 accelerated ras-induced breast cancer
+moreover eliminating both copies prdx1 mmtv/v-h-ras mice (ras/prdx1?/?) t50 breast cancer only 20 weeks
+we then evaluated basal pten oxidation paktser473 mammary epithelial cells (mecs) 16-week-old mice not developed tumours
+lack prdx1 increased basal pten oxidation ( figure 6b ) paktser473 ( figure 6c )
+compared prdxs catalase peroxidase activity decomposes h2o2 >1000-fold higher k m ( chae et al 1994a loewen et al 2004 ) therefore eliminates h2o2 much higher efficiency
+thus we cannot expect prdx1 scavenges h2o2 considerable amounts shown figure 1a supplementary figure s1a 
+yet prdx1's peroxidase activity important preventing h-rasv12 ( figure 1b ) erbb-2/neut ( supplementary figure s5a ) induced transformation
+similar catalase knockout mice all other currently published prdxs knockout mice show phenotypically no increased susceptibility transformation ( ho et al 1997 )
+therefore prdx1 may unique function amongst cellular peroxidases tumour suppression affecting signalling directly through physical interaction target enzymes
+shown c-abl tyrosine kinase ( wen vanetten 1997 ) c-jun terminal kinase ( kim et al 2006 )
+described here pten ( figure 3b ) oxidative stress induced prdx1 dissociate case c-abl ( neumann et al 1998 ) jnk ( kim et al 2006 ) resulted kinase activation
+prdx1:pten heterodimer most likely formed 1:1 molar ratio (1) prdx1 preservation pten lipid phosphatase activity under oxidative stress achieved 1:1 (mol:mol) ratio prdx1 pten could not further increased excess prdx1 ( figure 4b ) (2) prdx1c51/172s unable form dimeric structures ( chae et al 1994b ) bound pten did not dissociate under h2o2 treatment ( figure 3c )
+therefore data provide compelling evidence prdx1 may bind pten monomer
+we further propose prdx1:pten interaction essential protecting pten oxidation-induced inactivation ( figure 4c ) prdx1 c- n-terminal peptide replica designed based our mapping studies computer modelling block pten docking sites prdx1 ( figure 3f g supplementary figure s3e ) resulted after h2o2 treatment 47% reduction pten activity
+comparable pten activity after h2o2 treatment absence prdx1 (50%) ( figure 4c )
+prdx1 n terminus includes cys51 may important function regulating h2o2-induced dissociation prdx1:pten complex cys51 when replaced serine enhances prdx1 binding pten ( figure 3d )
+x-ray crystallography prdxs suggested significant conformational changes such unwinding active site n-terminal helix form disulfides reduced prdxs sulfur atoms n- c-terminal conserved cysteine residues too far apart react other ( schroder et al 2000 matsumura et al 2008 )
+therefore prdx1:pten complex increased h2o2 may oxidize cys51 (prdx1) thus promoting unwinding pten-binding conformation prdx1 consequently inducing dissociation
+over-oxidation prdx1 cys51 occurs during catalysis correlates increasing amounts trx ( yang et al 2002 )
+reduction cys51 trx inhibits folding back cys51 its pocket thereby exposing further oxidation h2o2
+binding pten prdx1 could similar effects prdx1 thereby inhibiting sufficient reduction cys51 trx decreasing prdx1 peroxidase activity ( figure 4c d )
+alternatively been shown trx binds pten inactivates its lipid phosphates activity could under our experimental conditions trx depleted prdx1 scavenging system binding pten ( meuillet et al 2004 )
+seems unlikely though trx added approximately 300-fold molar excess should provide large trx pool reduce oxidized prdx1 proteins
+we defined novel interaction site prdx1 pten c2 domain pten ( figure 3f supplementary figure s3d e ) together n-terminal ptd both required enzyme activity
+surface plasmon resonance analysis revealed c2 domain essential high-affinity membrane binding pten ( das et al 2003 )
+our data support finding been shown recently through chemical proteomic strategy using cleavable lipid baits prdx1 potential novel phosphoinositides-binding protein ( pasquali et al 2007 )
+prdx1 may therefore stabilize pten binding plasma membrane recent analysis using single-molecule tirf microscopy lasts only few hundred milliseconds ( vazquez et al 2006 )
+such short time membrane binding could explain why we ( figure 2b c e f supplementary figure s2b d ) others see only small amounts pten oxidized after cell exposure h2o2 pdgf ( kwon et al 2004 )
+pdgf-induced h2o2 stems either metabolized superoxide released nadph oxidases (noxs) mitochondria considered signalling molecule ( rhee 2006 )
+discussed earlier ( leslie et al 2003 ) such finding may attributed proximity noxs complexes pip3
+over-expression nox1 pdgf-stimulated nih 3t3 cells rapidly increases pip3 levels contrast pi3k activity suggesting nox1-induced superoxide enhances pip3 levels inactivating pten rather activating pi3k
+expression peroxidase inactive prdx2 leads rapid increase pip3 levels growth factor stimulated cells reversed prdx2wt ( kwon et al 2004 )
+our hands however prdx2 did not bind pten we unable detect interaction prdx2 pten immunoprecipitation (data not shown)
+pten lipid phosphatase activity important function tumour suppression ( tolkacheva chan 2000 koul et al 2002 ) akt1 ablation protects (mmtv)-erbb2/neu mmtv-polyoma middle t mmtv-v-h-ras mice breast cancer initiation ( skeen et al 2006 maroulakou et al 2007 )
+here we show loss prdx1 increased basal h2o2 pdgf-induced akt activity ( figure 2a d g ) prdx1 peroxidase activity essential suppressing h-rasv12 erbb-2/neut-induced transformation ( figure 1b supplementary figure s5a )
+along those lines prdx1 ablation accelerated mammary tumorigenesis mmtv-v-h-ras mice increased levels paktser473 pten oxidation mecs mice ( figure 6a?c )
+prdx1 tumour suppression seemed occur largely via regulation pten akt
+knock down prdx1 pten?/?mefs did not significantly enhance h-ras erbb-2-induced transformation ( figure 5c d ) whereas transformed pten-containing mefs decrease prdx1 levels resulted gain transformation: 1.5-fold h-rasv12 only 1.35-fold erbb-2/neut we contributed decreased prdx1 knock down pten?/?shprdx1gfp?ptenerbb?2/neutmefs compared pten?/?shprdx1gfp?ptenh?rasv12mefs)
+lack pten did not result prdx1 over-oxidation nor reduced expression ( figure 5b e ) suggesting pten-deficient cells prdx1 acting peroxidase
+however we consider regulation other phosphatases kinases prdx1 h2o2 akt-driven tumorigenesis
+ship-1 2 known dephosphorylate pip3 ptdins (34)p2 ( vivanco sawyers 2002 )
+however ship2 not inactivated oxidative stress ( leslie et al 2003 )
+pten?/?shprdx1mefs showed decreased paktser473 levels compared pten?/?mefs ( figure 5d ) perhaps due activation ship2 small amounts h2o2
+however h2o2 treatment pten?/?shprdx1mefs increased paktser473 levels comparable pten?/?mefs suggesting maybe h2o2-induced inactivation pp2a ( rao clayton 2002 ) loss prdx1 inactivated pp2a activity ( supplementary figure 2e )
+we cannot exclude regulation pi3k prdx1 h-ras erbb-2/neut transformed prdx1?/?mefs display lesser sensitivity towards pi3k inhibitors ( table i supplementary figure 5b ) compared prdx1+/+mefs
+summary oxidative stress carcinogenesis closely linked however molecular details especially how oxidative stress promotes pro-oncogenic signalling pathways scarce
+our studies shed some light how h2o2 promote oncogenic ras erbb-2 signalling providing evidence first time tumour suppressive function pten prdx1 closely related
+mechanistic details prdx1 pten interaction its regulation terms prdx1 peroxidase activity pten oxidation will important future work
+all chemicals purchased sigma aldrich unless otherwise indicated
+ly294002 wm antibodies against pten (138g6) akt (11-e7) akt-phosphoserine 473 (193h12) akt-phosphothreonine 308 (244f9) phospho akt substrate (110b7e) ha-tag purchased cell signaling antibodies recognizing pten (a2b1) pten (n-19) actin (c-11) purchased santa cruz antibodies against prdx1 prdx1-so2/-so3 purchased abcam ras antibody oncogene erbb-2 antibody biosource
+ha-conjugated agarose beads purchased roche
+amplex red reagent: molecular probes
+dmem fbs glutamax neaa pen/strep sodium pyruvate dmem without phenol red pbs pdgf stem invitrogen gst-sepharose pharmacia
+6his?pten expressed escherichia coli bl21 fusion vector pproex htb pten purified standard protocols
+retrovirus generated after conducting transient transfection retroviral constructs 293t/17 (atcc) ecotropic-packaging cell line
+retroviral infection mefs carried out 4?6 h presence 8 ?g/ml polybrene
+antibiotic selection carried out 24 h later until all uninfected cells eliminated stable polyclonal cell lines generated
+mefs generated prdx1+/? littermate matings c57bl/6j/129sv background
+primary mefs harvested e13.5 embryos described earlier ( neumann et al 2003 )
+primary prdx1 pten mefs (passages 3?4) immortalized retroviral infection pbabe-hygro dd p53 expressing dominant-negative p53 ( hahn et al 2002 ) selected 150 ?g/ml hygromycin 14 days
+total 35 000 mefs plated ( n =6) 24-well plates (costar 24) coated fibronectin
+day assay cells washed pbs repleted serum-free phenol red-free dmem medium
+amplex red reagent horse radish peroxidase (hrp) prepared recommended manufacturer (hrp 0.2 u/ml)
+mefs incubated amplex red/hrp solution 37°c before first reading (t0) 540 nm plate reader (molecular devices spectramax m5)
+plates kept incubator between readings
+resulting fluorescence (flu) compared flu h2o2 standard curves analysed
+p53dd-immortalized mefs (prdx1?/? prdx1+/+) infected retrovirus containing either prdx1wt prdx1c172/51s both subcloned pqcxi-puro (clontech) selected 10 days puromycin 2 ?g/ml
+some clones further infected retrovirus containing either h-rasv12 (pbabe-puro h-rasv12) ( yu et al 2001 ) wild-type erbb-2 (pbabe-puro erbb-2) ( yu et al 2001 ) selected 5 ?g/ml puromycin another 5 days
+mefs then resuspended dmem containing 0.53% agarose (difco) plated onto layer 0.7% agarose-containing medium 3.5-cm plates duplicate (10 000 cells per plate)
+colonies counted after 14?21 days
+mefs (1.8 × 105) plated 10-cm plates serum-starved (0.25% fbs) 48 h
+plates then incubated h2o2 (±ly294002 wm) indicated
+akt pten protein analysis done described earlier ( leslie et al 2003 ) slight modifications
+briefly lysis buffer (50 mm tris ph 7.4 1% triton 100 0.5 mm edta 0.5 mm egta 150 mm nacl 10% glycerol 50 mm naf 100 mm navo4 40 mm ?-glycerophosphate) degassed argon 20 min before adding 1% tritonx-100 2 mm pmsf 5 mg/ml aprotinin n -ethylmaleimide 40 mm bovine catalase 100 ?g/ml
+plates transferred anaerobic/argon cabinet washed twice cold degassed pbs
+cells then scraped lysis buffer lysed ice 20 min before conducting quantitative analysis described above
+measure 65 ?g protein analysed under non-reducing conditions 7.5% sds?page
+ptenwt (addgene) subcloned pqcxi vector (clonetech) n-terminally tagged myc epitope
+prdx1wt prdx1c51/172s prdx1c51s prdx1c172s (generated site-specific mutagenesis) subcloned pcgn vector n-terminally tagged ha epitope
+all constructs transfected 293t/17 (atcc) cells using fugene transfection reagent (roche)
+cells harvested 72 h later protein lysis under anaerobic conditions (as described above)
+measure 1000 ?g protein immunoprecipitated using anti-ha affinity matrix overnight 4°c before washing four times degassed lysis buffer before analysis 4?12% gradient sds?page
+proteins detected described above
+bl21(de3) transformed cultured overnight pgex-4t-2 (amersham) ligated earlier prdx1
+absorbance 0.6?0.8 600 nm gst?prdx1 expression induced addition iptg (200 ?m)
+bacterial pellets re-suspended using fusion protein buffer containing 140 mm nacl 10 mm na2hpo4 1.8 mm kh2po4 2.7 mm kcl 1 mm dtt 50 ?m pmsf 5 mm benzamidine hydrochloride hydrate 3 ?m aprotinin
+lysate then sonicated proteins solubilized addition triton x-100 (2%)
+after incubation supernatant glutathione affinity matrix matrix washed consecutively 500 mm nacl 50 mm nacl gst-tagged fusion protein eluted matrix incubation 30 mm reduced glutathione
+fusion protein then desalted 20 mm tris (ph 7.4) concentrated centrifugation using centricon 30 kd mwc filter (millipore bedford ma)
+incubations equimolar concentrations (100 nm) gst?prdx1 plus his?pten gst?ev (empty vector) plus his?pten performed buffer containing 20 mm hepes (ph 8.0) 150 mm nacl 2 mm mgcl2 1 mm dtt 50 ?m pmsf 5 mm benzamidine hydrochloride 3 ?m aprotinin 1%triton x-100
+mixtures allowed incubate overnight 4°c before pre-washed glutathione agarose beads added
+retained proteins eluted resin addition 35 ?l 4 × loading buffer analysed 10% sds gels
+different lengths cdna fragments encoding human pten amino acids 1?403 subcloned psg5l ha?ptenwt (addgene#10750) psg5l?ha?ptenc124s (#10745) psg5l?ha?pten1?274 (#10740) psg5l?ha?pten1?373 (#10766) psg5l?ha?pten?89?138 (#10924) pgex2t?pten?274?342 (#10739) ( ramaswamy et al 1999 ) restriction sites bamh i/ ecor i
+double-stranded oligonucleotide encoding myc-tag sequence inserted 5? pten generate myc?pten
+inserts tagged myc tag cloned pqcxip generate corresponding pqcxip?myc?pten plasmids pqcxip?myc?pten1?185 pten1?351 pten186?351 pten?244?251 generated pcr mutagenesis confirmed dna sequencing
+prdx1 n- c-terminal truncation mutants generated bal31 nuclease digest fill-in t4-polymerase subcloned pcgn-ha
+prdx1 peroxidase activity studied standard trx/trx reductase (trxr)/nadph-coupled spectrophotometric assay described ( chae et al 1994b )
+briefly nadph oxidation coupled reduction h2o2 monitored 37°c decrease a340 using spectramax m5 plate reading spectrophotometer
+reaction initiated addition h2o2 (500 ?m) substrate reaction mixture containing 50 mm hepes (ph 7.0) 0.15 u trxr 18 ?m trx 25 ?m nadph 680 nm prdx1 (sigma)
+effect pten prdx1 activity studied titration reaction mixture indicated increasing amount pten (0.25?1.25 pten/prdx1 mol/mol ratio)
+all experimental data normalized initial (before addition substrate) absorbency fitted linear regression (sigma plot 10 systat software inc san jose ca)
+quality fit controlled regression coefficient ( r 2?0.9)
+myc?pten expressed 293t/17 cells presence absence ha?prdx1
+cells lysed described above phosphatase inhibitors free lysis buffer
+pten proteins immunoprecipitated lysates anti-pten (santa cruz) o/n described above
+ips then washed twice described ( schwartzbauer robbins 2001 ) followed final wash pten enzyme reaction buffer (10 mm hepes 150 mm nacl 10 mm dtt ph 7.2)
+phosphatase reactions done following manufacturer's instructions (echelon biosciences)
+briefly immunoprecipitated pten proteins incubated pten enzyme reaction buffer appropriate amount time 37°c 96-well plate coated pi(345)p3
+after removal pten proteins plates pi(45)p2 determined according manufacturer's instructions
+absorbance measured 450 nm microplate reader pi(45)p2 produced calculated standard curve
+measure 20 pmol purified recombinant human his?pten incubated different amounts prdx1 (sigma aldrich) 500 ?m h2o2 20 mm tris?cl (ph 7.4) buffer room temperature 10 min
+h2o2 removed bio-gel p-6 chromatography columns (bio-rad) following manufacture's instructions
+protein mixture then loaded onto pten activity assay plates described above (echelon biosciences)
+equal amount pten confirmed western blot pten antibody
+prdx1 peptide interference 20 pmoles purified recombinant human his?pten pre-incubated 20-fold excess amount peptides ice 20 mm tris?cl (ph 7.4) (for peptide 1 scramble peptide 1) 0.2 mm tris?cl (ph 7.4) (peptide 2 scramble peptide 2) 1 h unbound peptides removed microcon ultracel ym-10 filters following manufacture's instructions
+recovered pten?peptide mixtures then incubated 20 pmoles prdx1 (sigma aldrich) 500 ?m h2o2 20 mm tris?cl (ph 7.4) buffer room temperature 10 min further processed described above
+peptide 1: mssgnakighpapnfkatavm scrambled peptide 1: kthpmpsiaakfnagsnamvg peptide 2: pagwkpgsdtikpdvqkskeyfskqk scrambled peptide 2: ikkswkfgpgqptsapkqskevkydd all peptides purity >75% purchased genscript nj
+optimal sequence knock down prdx1 sh (5?-gctcaggattatggagtctta-3?) identified trc consortium ( http://www.broad.mit.edu ) subcloned pmko1 retroviral vector age i/ ecor i digest
+pten?/?mefs infected retroviral supernatant containing either pmko1?prdx1shrna pmko1 ev selected puromycin 2 ?g/ml 1 week
+gfp?pten subcloned pegfp?c2?pten ( leslie et al 2000 ) pqcxip restriction sites age i- ecor i
+pten?/?pmko1mefs pten?/?shprdx1mefs then transduced gfp?pten retrovirus selected 6 ?g/ml puromycin
+infection selection retrovirus expressing either h-rasv12 erbb-2/neut then challenged 10 ?g/ml puromycin
+mmtv-v-h-ras mice ( sinn et al 1987 ) purchased charles river
+prdx1+/?/mmtv-v-h-ras mice intercrossed generate prdx1?/?/mmtv-v-h-ras prdx1+/+/mmtv-v-h-ras mice
+mice monitored twice week tumour appearance
+mouse mammary glands isolated age-matched 16-week-old female mmtv-v-h-ras/prdx1?/? mmtv-v-h-ras/prdx1+/+ ( n =3) mice following earlier described procedures ( fujiwara et al 2005 )
+proteins processed described above
+supplementary figures s1?s5

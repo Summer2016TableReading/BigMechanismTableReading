@@ -1,0 +1,163 @@
+162
+table 2 egfr k-ras status paired primary metastatic tumours   egfr mutation status egfr expression p-egfr expression k-ras mutation status     case primary metastasis primary metastasis primary metastasis primary metastasis gefitinib response 1 wt wt 1+ 1+ 0 2+ wt wt no â?? 2 wt wt 3+ 3+ 1+ 1+ wt wt no â?? 3 wt wt 0 1+ 0 0 wt wt no â?? 4 wt wt 3+ 2+ 0 1+ wt wt no â?? 5 wt wt 0 0 0 0 wt wt no â?? 6 wt wt 1+ 0 0 0 wt wt no â?? 7 wt wt 0 1+ 0 0 wt wt no â?? 8 wt wt 1+ 0 0 0 g12s wt no â?? 9 wt wt 1+ 1+ 0 1+ wt g13s no â?? 10 wt wt 2+ 3+ 0 0 g12v g12v no â?? 11 wt wt nd 2+ nd 2+ wt g12s no â?? 12 wt l692p v717a 1+ 0 nd 2+ wt wt no â?? 13 wt t847a 0 0 0 1+ wt wt no â?? 14 wt wt 3+ 0 1+ 0 wt wt yes pd 15 wt wt 0 2+ nd 2+ wt wt yes pd 16 wt wt 0 0 0 2+ wt g12a yes pd 17 l692p wt 0 1+ 0 0 wt wt yes sd 18 e746v wt 0 0 nd 0 wt wt yes sd 19 g857e wt 0 0 0 1+ wt wt yes sd 20 e746-a750 del e746-a750 del t790m 2+ 3+ 2+ 0 wt wt yes sd 21 wt wt nd nd nd nd wt wt no â?? 22 wt wt nd nd nd nd g12d wt yes pd 23 e746-a750 del wt nd nd nd nd g12c g12c yes sd 24 wt wt nd nd nd nd wt wt no â?? 25 wt wt nd nd nd nd g12c wt no â??
+non-small-cell lung cancer (nsclc) epidermal growth factor receptor ( egfr ) k-ras mutations primary tumour associated responsiveness resistance tyrosine kinase inhibitors (tkis) respectively
+however egfr k-ras mutation status metastases not well studied
+we compared mutation status genes between primary tumours corresponding metastases 25 patients
+epidermal growth factor receptor k-ras mutation status different between primary tumours corresponding metastases 7 (28%) 6 (24%) 25 patients respectively
+among 25 primary tumours three ?hotspot' two non-classical egfr mutations found none corresponding metastases same mutation pattern
+among five (20%) k-ras mutations detected primary tumours two maintained corresponding metastasis
+epidermal growth factor receptor k-ras mutations detected metastatic tumours three (12%) five (20%) patients respectively
+expressions egfr phosphorylated egfr showed 10 50% discordance order
+we conclude there substantial discordance egfr k-ras mutational status between primary tumours corresponding metastases patients nsclc might therapeutic implications when treatment tkis considered
+patients aged >18 years old histologically confirmed nsclc who underwent biopsy surgical excision primary tumour corresponding metastases included retrospective analysis
+histological type determined according world health organization criteria stage disease corresponds time primary diagnosis
+smoking history obtained during patient's first evaluation
+all patients gave their informed consent using their tumour sample molecular pathologic analysis
+study been approved ethics scientific committees our institution
+all tumour samples formalin-fixed paraffin-embedded tissues
+sections paraffin block corresponding one representative area tumour stained haematoxylin/eosin presence tumour tissue verified experienced pathologist
+subsequently tissue samples least three serial sections microdissected (piezo power eppendorf microdissector eppendorf germany) ensure specimens contained least 80% tumour cells sections 5? ? m thickness collected adjacent normal tissue when available extracted xylene ethanol remove paraffin placed 1% sds/proteinase k (10?mg?ml?1) 56°c overnight
+dna extracted using masterpure complete dna/rna purification kit (epicentre biotechnologies madison wi usa) according manufacturer's instructions
+exons 18 19 20 21 egfr exon 1 k-ras sequentially amplified two rounds polymerase chain reaction (pcr) subjected direct sequencing
+pcr primers egfr amplification follows: 155273l23: 5?-tcccaaacactcagtgaaacaaa-3? 155348l22: 5?-tggtctcacaggaccactgatt-3? 154838u22: 5?-tcagagcctgtgtttctaccaa-3? 154899u20: 5?-tccaaatgagctggcaagtg-3? 55634u24: 5?-aaataatcagtgtgattcgtggag-3? 156027l20: 5?-tgtggagatgagcagggtct-3? 156107l22: 5?-gaggccagtgctgtctctaagg-3? 155750u20: 5?-gtgcatcgctggtaacatcc-3? 173160l22: 5?-cagctctggctcacactaccag-3? 173076l19: 5?-catcctcccctgcatgtgt-3? 172656u22: 5?-gcagcgggttacatcttctttc-3? 172747u19: 5?-gct cagagcctggcatgaa-3?
+pcr primers k-ras amplification follows: rasu1: 5?-aggcctgctgaaaatgactgaata-3? rasl1: 5?-ctgtatcaaagaatggtcctgcac-3? rasu2: 5?-aaaatgactgaatataaacttgtgg-3? rasl2: 5?-ctctattgttggatcatattcgtc-3?
+first pcr carried out total volume 10? ? l contained 1/10 extracted genomic dna using 1?u platinum taq dna polymerase (invitrogen corporation carlsbad ca usa)
+initial denaturing step 94°c 15?min followed 35 cycles denaturing step 94°c 20?s annealing step 60°c 30?s extension step 72°c 1?min ending final extension step 72°c 7?min
+nested pcr carried out total volume 20? ? l conditions identical first pcr
+pcr products directly sequenced dye terminator sequencing (abi bigdye terminator kit v3.1 applied biosystems foster city ca usa) purified ethanol precipitation separated capillary electrophoresis abi 3100 avant genetic analyzer (applied biosystems)
+sequence analysis carried out seqscape software (applied biosystems) manually two reviewers (ak av)
+all sequence variations confirmed sequencing both directions independent pcr amplification when sufficient material available
+sensitivity our methodology evaluated determining minimum frequency egfr k-ras mutations required detection our system
+accomplished performing mixing experiments using cell lines without egfr (h2073-wt- egfr hcc827-del19- egfr ) k-ras (h2073-wt- k-ras a549-g12d- k-ras ) mutations
+experiments demonstrated del19 k-ras mutations could detected when present 10 20% cells sample respectively (data not shown)
+paraffin-embedded tissues cut 4? ? m thickness deposited superfrost/plus slides (o.kindler gmbh freiburg germany)
+after deparaffinisation slides egfr treated proteinase k (code s3020 dakocytomation glostrup denmark) 5?min room temperature those p-egfr treated edta ph 8 microwave oven three times 5?min 500?w antigen retrieval
+primary anti-egfr antibody (mouse monoclonal clone h11 code m3563 dakocytomation) used dilution 1?:?50 (v/v) incubated 1?h room temperature
+primary anti-phospho-egfr antibody (rabbit monoclonal py1173-egfr code no
+4407 cell signalling danvers ma usa) used dilution 1?:?200 (v/v) incubated overnight 4°c
+detection antigen-antibody reaction ultravision detection system ap polymer kit (cat no
+tl-125-al lab vision fremont ca usa) used according manufacturer's instructions
+fast red used chromogen 20?min sections counterstained mayer's haematoxylin 3?min subsequently rinsed ammonium finally mounted glycergel
+positive (an nsclc tumour specimen known positivity) negative (omission primary antibody) control used
+stained sections independently evaluated two pathologists (ak es)
+immunoreactions egfr graded 3+ when strong complete membrane staining observed more 10% tumour cells 2+ when more 10% tumour cells showed weak-to-moderate complete membrane staining 1+ when partially faint membrane stain detected more 10% tumour cells 0 when no staining all membrane staining less 10% tumour cells observed
+study we arbitrarily classified egfr expression status two subsets 2+ 3+ signals considered egfr overexpression 0 1+ signals non-expression ( koutsopoulos et al 2007 )
+paraffin block hcc827 lung epithelial adenocarcinoma cell line commercially available positive controls (signalslide phospho-egf receptor (tyr1173) ihc controls code no
+8102 cell signalling) used validate antibody p-egfr
+py1173-egfr immunostaining mainly membranous graded 0 (<5% positive cells) 1+ (5?19% positive cells) 2+ (20?50% positive cells) 3+ (>50% positive cells) ( cortas et al 2007 )
+mcnemar test used compare egfr k-ras status between primary tumours related metastatic sites
+differences considered statistically significant when p -value <0.05
+all statistical tests two-sided
+twenty-two (88%) patients men 22 (88%) active former smokers their median age 55 years (range 41?70)
+eighteen (72%) patients adenocarcinomas (adc) 21 (84%) patients stage iii iv disease
+among 50 samples analysed (25 primary tumours 25 metastases) 26 (52%) samples surgical 24 (48%) biopsies
+primary tumour tissue lung ( n =25 patients) origin metastatic sample lung ( n =9 patients) thoracic wall ( n =5 patients) adrenal gland ( n =4 patients) brain ( n =3 patients) bone ( n =2 patients) liver ( n =1 patient) skin ( n =1 patient)
+metastases metachronous all cases median time elapsed between resection primary tumour corresponding metastatic site 30 months (range 4?143)
+patients' clinicopathologic characteristics presented table 1 
+nine (36%) patients treated gefitinib context expanded access program ( table 2 )
+egfr mutation status primary tumours corresponding metastases presented table 2 
+epidermal growth factor receptor mutations detected primary tumours five (20%) patients three them well-characterised ?hotspot' mutations exon 19 (del746-750 e746v case nos
+20 23 18) remaining two novel point mutations exons 18 21 (l692p g857e case nos
+17 19) respectively
+corresponding metastases del746-750 (case no
+23) e746v (no
+18) l692p (no
+17) g857e (no
+19) mutant primary tumours wild type respect egfr mutation status
+epidermal growth factor receptor mutations detected metastatic tumours three (12%) patients ( table 2 )
+metastasis one patients showed same egfr mutation (del19) primary tumour well additional one t790m exon 20 (no
+20) conversely other two patients carried two novel mutations exon 18 (l692p v717a no
+12) t847a (no
+13) exon 21 could not detected patients' primary tumour samples
+we confirmed non-classical mutations detected our series not single nucleotide polymorphisms mutation analysis matched normal tissue blood (data not shown)
+consequently egfr gene status could classified as: (i) egfr wild type both primary tumour metastasis ( n =18 patients 72%) (ii) egfr mutations detected only primary tumour ( n =4 patients 16%) metastases ( n =2 patients 8%) both ( n =1 patient 4%)
+therefore egfr mutation status showed discordance 28% (7 25 patients) (mcnemar test p =0.688) between primary tumour corresponding metastasis ( table 3 )
+én 19 patients sufficient tumour tissue available immunohistochemical analysis egfr ( tables 2 4 )
+incidence egfr overexpression (grade 2+ 3+) 26.5% both primary metastatic tumours
+concordance between primary tumour corresponding metastases observed 17 (89.5) patients (cohen's kappa=0.729 p =0.001) among them egfr overexpressed four (21.1%)
+discordance observed two (10.5%) patients (nos
+14 15) (mcnemar test p =1)
+evaluable paired tissue specimens p-egfr analysis ihc available 16 patients
+three out 16 (18.8%) primary seven out 16 (43.8%) metastatic tumours expressed phosphorylated egfr (py1173-egfr-positive)
+discordance between primary metastatic tumours observed eight (50%) patients (mcnemar test p =1) ( tables 2 4 )
+there no correlation between expression egfr py1173-egfr
+order confirm our findings we repeated immunohistochemistry serial sections all tumour specimens exhibited egfr-negative p-egfr-positive staining obtained results identical
+epidermal growth factor receptor gene copy number investigated fluorescence situ hybridisation eight patients (nos
+2 5 7 9 10 13 19 24) whom paired tissue specimens available amplification egfr gene not detected any tumour specimens
+primary metastatic tumours assessed k-ras mutations ( table 2 )
+k-ras mutations detected primary tumours five (20%) patients (nos
+8 10 22 23 25) metastatic tumours five (20%) patients (nos
+9 10 11 16 23) respectively
+two patients (nos
+10 23) carried same k-ras mutations both primary metastatic tumours ( table 2 )
+one them (case no
+23) carried del746-750 egfr mutation primary tumour but not metastasis
+confirmed three independent pcrs three genomic dnas extracted serial sections paraffin blocks
+discordance k-ras mutation status between primary tumours corresponding metastases observed six (24%) patients (mcnemar test p =1) ( table 3 )
+nine patients received gefitinib first (nos
+23 18) third (nos
+15 16 19 20 22) fourth (nos
+14 17) line treatment
+three patients received gefitinib before biopsy metachronous metastases (nos
+17 18 20) six received gefitinib after biopsy metastases (nos
+14 15 16 19 22 23)
+five patients (56%) achieved stable disease four (44%) progressive disease ( table 2 )
+all patients who experienced progressive disease gefitinib wild type regarding egfr mutation status both primary tumours metastases (nos
+14 15 16 22) two patients carried k-ras mutations primary tumour (no
+22) metastasis (no
+16)
+all five patients stable disease gefitinib carried egfr mutations their primary tumours (nos
+17 18 19 20 23)
+three patients carried well-characterised activating mutations exon 19 (nos
+18 20 23) two carried egfr mutations unknown function (nos
+17 19)
+patient nos
+18 20 who received gefitinib before metachronous metastasis developed metastatic tumours either wild type respect egfr mutation status (no
+18) acquired resistance because t790m egfr mutation (no
+20)
+patient no
+23 who received gefitinib after metastasis carried both egfr k-ras mutations primary tumour same k-ras mutation metastasis
+several studies shown activating egfr mutations exons 18 19 21 been associated 75?95% objective response rate egfr tkis whereas k-ras mutations associated lack sensitivity agents ( pao et al 2005 sharma et al 2007 )
+epidermal growth factor receptor gene amplification protein expression been considered predictors clinical benefit gefitinib ( hirsch et al 2006 )
+however clinical studies significant percentage patients presented clinical benefit when treated tkis irrespective expression mutational status egfr ( sharma et al 2007 )
+most studies egfr expression mutations determined primary tumour observed clinical benefit patients wild-type egfr absence response tkis patients egfr mutations could due discordance egfr mutation status expression between primary tumour corresponding metastasis
+study demonstrated existence significant discordance egfr k-ras mutations occurring primary tumours their corresponding metastases patients nsclc
+discordance egfr mutation status 28% k-ras 24%
+similarly two other studies paired nsclc tumours showed discordance 32 27% regarding egfr gene copy number ( italiano et al 2006 bozzetti et al 2008 ) whereas another study including six nsclc patients asian ethnicity reported 100% concordance regard egfr mutation status ( matsumoto et al 2006 )
+discrepancy could related different sites metastatic tumours analysed study (five different distant metastases) whereas matsumoto's et al study only tumour samples brain metastases included
+diverse sites metastases nsclc probably represent different clonal outgrowths
+alternatively we cannot exclude different ethnicity patients and/or different types egfr mutations could reason discrepancy ( tsao et al 2006 pallis et al 2007 )
+study including only caucasian patients three classical activating (del19 e746v) four non-classical mutations (t847a l692p-v717a l692p g857e) detected whereas matsumoto's et al study only classical activating del19 l858r mutations reported
+concerning non-classical mutations unlikely represent pcr artifacts l692f t847i g857e egfr mutations been previously reported ( fujimoto et al 2005 tsao et al 2005 hsieh et al 2006 )
+furthermore expression phosphorylated egfr (py1173-egfr-positive) tumour cells metastatic lesions carrying t847a l692p-v717a mutations strongly suggests former might activating egfr mutation
+time elapsed between diagnoses primary tumour corresponding metastasis patients (nos
+13 12) carrying abovementioned mutations 74.5 10 months respectively
+therefore acquisition new mutations may developed during evolution metastatic process
+administration tkis could additional explanation observed discordance egfr mutations
+three out 25 patients received gefitinib before development metachronous metastasis whereas none patients reported matsumoto's et al study exposed tkis
+known nsclc patients egfr-dependent primary tumours when treated tkis develop metastases either egfr signalling negated resistance acquired due secondary egfr mutations like t790m met amplification ( daneshmand et al 2003 gazdar minna 2005 engelman et al 2007 lutterbach et al 2007 )
+interesting note patients who not been exposed tkis before biopsy metastatic lesions 18% (4 out 22 patients) discordance observed between primary tumours related metastases
+however final explanation observed discordance cannot excluded concerns low-frequency intratumoral heterogeneity occurrence egfr mutations ( sakurada et al 2008 )
+our findings concerning k-ras mutation status agreement previous study demonstrating k-ras mutational status primary tumour does not always predict status bone metastasis nsclc ( badalian et al 2007 )
+similar phenomenon reported patients colorectal cancer ( tortola et al 2001 )
+although k-ras mutations seem associated early development nsclc cannot excluded k-ras mutations lost later during tumour progression ( burmer loeb 1989 li et al 1994 )
+may part explain discordance k-ras mutation status between primary tumours metachronous metastases
+another possibility observed discordance egfr k-ras mutation status could related administered chemotherapy
+however shown table 1 among 10 patients who not received any treatment before mutation analysis metastatic lesions 5 developed metastases different mutation status corresponding primary tumours
+thus although tumour clone selection through various treatments could explanation different molecular pattern primary tumour metastatic site our findings suggest metastasis genotype could different corresponding primary tumour irrespectively administered chemotherapy
+previous studies shown egfr k-ras mutations mutually exclusive suggesting presence different pathways lung carcinogenesis
+however previously reported our data show k-ras mutation may coexist egfr mutation ( fujimoto et al 2005 han et al 2006 )
+among five patients egfr mutations primary tumours one patient concomitantly k-ras mutation (g12c deletion exon 19)
+metachronous metastasis only k-ras mutation retained
+patient received gefitinib after biopsy metastatic lesion stable disease lasting 3.5 months
+limited duration response compatible knowledge presence k-ras mutations associated resistance tkis
+study expression py1173-egfr different between primary tumours corresponding metastases eight (50%) patients whereas egfr expression discordant two (10%) patients
+apparent lack correlation between egfr p-egfr expression been previously reported could due different scoring systems different sensitivities antibodies used evaluate egfr p-egfr expressions ( han et al 2005 )
+well known overexpression egfr associated tyr phosphorylation receptor proteins mutations kinase domain may cause constitutive phosphorylation egfr ( chen et al 2006 )
+however biochemical studies shown variable phosphorylation rates associated different tyrosine phosphorylation sites receptor g719s mutant receptor less egf-induced phosphorylation y845 y992 y1068 y1173 did wild-type egfr whereas l858r mutant receptor preferentially phosphorylated y1068 but not y1173 ( sordella et al 2004 chen et al 2006 liu et al 2007 )
+clinical investigations suggested correlation between high egfr gene copy number egfr mutations ( cappuzzo et al 2005 takano et al 2005 )
+our study failed demonstrate such correlation probably due limited number cases analysed
+evaluable paired tissue specimens fluorescence situ hybridisation analysis available eight patients
+among them two (nos 13 19) patients presented different egfr mutation status primary tumours corresponding metastases however two patients harbour non-classical egfr mutations (t847a g857e) did not show different egfr amplification patterns between paired samples
+basis findings present time we consider only genetic differences unequivocally distinguish egfr-dependent tumours likely sensitive tkis tumours could resistant agents ( papadopoulos et al 2006 )
+conclusion our findings indicate substantial discordance egfr k-ras mutations between primary tumours corresponding metastases nsclc underline need consider genotype both primary metastatic tumours selecting patients who will respond therapy tkis.

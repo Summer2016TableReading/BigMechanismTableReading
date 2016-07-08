@@ -1,0 +1,160 @@
+159
+table 3 association lkb1 mutations kras braf egfr mutations nsclc tumours     lkb1 mutation       + â?? p -value* egfr mutation + 1 69 0.002   â?? 33 207   k-ras mutation + 10 39 0.042   â?? 24 237   b-raf mutation + 1 3 0.373   â?? 33 273   *fisher's exact test.
+somatic mutations lkb1 tumour suppressor gene been detected human cancers including non-small cell lung cancer (nsclc)
+relationship between lkb1 mutations clinicopathological characteristics other common oncogene mutations nsclc inadequately described
+study we evaluated tumour specimens 310 patients nsclc including those adenocarcinoma adenosquamous carcinoma squamous cell carcinoma histologies
+tumours obtained patients us ( n =143) korean ( n =167) origin screened lkb1 kras braf egfr mutations using rt?pcr-based surveyor-wave method followed sanger sequencing
+we detected mutations lkb1 gene 34 tumours (11%)
+lkb1 mutation frequency higher nsclc tumours us origin (17%) compared 5% nsclcs korean origin ( p =0.001)
+tended occur more commonly adenocarcinomas (13%) squamous cell carcinomas (5%) ( p =0.066)
+lkb1 mutations associated smoking history ( p =0.007) kras mutations ( p =0.042) almost mutually exclusive egfr mutations ( p =0.002)
+outcome stages i ii nsclc patients treated surgery alone did not significantly differ based lkb1 mutation status
+our study provides clinical molecular characteristics nsclc harbour lkb1 mutations
+nsclc cell lines a549 nci-h1395 nci-h1650 nci-h1666 nci-h1781 nci-1975 nci-h23 nci-h2126 nci-h441 nci-h820 hcc2935 hcc4006 hcc827 purchased atcc (manassas va usa)
+h3255 h3255gr hcc2279 pc-9 been previously described ( ono et al 2004 tracy et al 2004 engelman et al 2006 )
+ma1 ma70 nsclc cell lines harbouring egfr mutations established kinki university osaka japan
+a549 nci-h1395 nci-h1666 nci-h23 nci-h2122 nci-h2126 nci-h460 previously been reported contain lkb1 mutations ( sanchez-cespedes et al 2002 bamford et al 2004 carretero et al 2004 )
+nsclc tumours ( n =310) collected surgical resections patients stages i?iv nsclc when sufficient material rna extraction available
+majority specimens ( n =167) collected samsung medical center seoul korea
+frozen tumour tissues collected 809 out 2442 patients who underwent curative resection nsclc november 1995 february 2007 samsung medical center
+one two pieces periphery tumour masses ? avoiding necrotic regions ? immediately frozen ?80°c until retrieved
+medical records haematoxylin eosin-stained slides specimen reviewed single pathologist
+only frozen tumour tissues adenocarcinoma squamous cell carcinoma (according 2004 world health organization histopathological criteria) included
+only frozen tumour tissues tumour cell content more 70% used further analysis
+addition frozen tumour tissues following patients excluded study: patients who received preoperative neoadjuvant treatments patients double primary lung cancer patients who undergone incomplete resections who not been subjected mediastinal lymph node dissections
+selected frozen tumour tissues used microdissection
+briefly frozen tissues lightly stained haematoxylin?eosin improve visualisation necrotic tumour tissues intervening normal tissues removed
+microdissected tumour tissues tumour cell content more 90% placed 1?ml easy blue reagent commercially available rna isolation kit (easy-spin? total rna extraction kit intron biotechnology gyeonggi-do korea) immediately homogenised vortexing total rna extracted
+quantity quality rna analysed using spectrometer (nanodrop technologies rockland de usa) agilent 2100 bioanalyzer (agilent rna 6000 nano kit agilent technologies inc böblingen germany) respectively
+finally 167 frozen tissues acceptable quality rna (rna integrity number (rin) value over 7.0) used current studies
+all patients provided written informed consent
+tumours caucasian patients ( n =143) collected brigham women's hospital boston ma usa between 1991 1997 been previously published patient characteristics histology expression profile-based clustering tumours ( bhattacharjee et al 2001 hayes et al 2006 )
+frozen samples resected lung tumours obtained within 30?min resection subdivided 100?mg samples snap frozen ?80°c
+specimen associated immediately adjacent sample embedded histology optimal cutting temperature medium stored ?80°c
+six micrometres frozen sections embedded samples stained haematoxylin eosin used confirm postoperative pathological diagnosis estimate cellular composition adjacent samples
+all specimens underwent pathological review two pathologists
+all 109 tumours obtained during same time period excluded because did not meet one more eligibility criteria
+tissue samples homogenised trizol (life technologies gaithersburg md usa) rna extracted purified using rneasy column purification kit (qiagen chatsworth ca usa)
+denaturing formaldehyde gel electrophoresis followed northern blotting using ? -actin probe assessed rna integrity
+samples excluded ? -actin not full length
+all patients provided written informed consent
+us cohort included specimens previously undergone analyses results been published egfr kras braf mutations ( bhattacharjee et al 2001 naoki et al 2002 hayes et al 2006 )
+we reconfirmed mutations 30 specimens using surveyor-based analysis (see section surveyor digestion hplc analysis) found 100% concordance between two methods (data not shown)
+cell line specimens snap frozen stored ?80°c
+rna extracted tumours cell lines using trizol (invitrogen carlsbad ca usa) purified rneasy mini kit (qiagen valencia ca usa) used cdna synthesis using quantitect reverse transcription kit (qiagen valencia ca usa)
+lkb1 gene analysis pcr primers designed amplify cdna two amplicons
+pcr primers first amplicon designed hybridise noncoding area mrna upstream exon 1 (5?-agggaagtcggaacacaagg-3?) exon 5 (5?-ccagatgtccaccttgaagc-3?) generating pcr product 797?bp
+primers second amplicon located exon 5 (5?-aacggcctggacaccttct-3?) noncoding exon 10 (5?-gaaccggcaggaagactgag-3?) generating product 702?bp overlapping part first amplicon
+surveyor-wave analysis kras pcr primers (5?-ggcctgctgaaaatgactga-3? 5?-tcctgagcctgttttgtgtct-3?) designed generate amplicon 407?bp covering codons 12 13 61 codons commonly mutated lung cancers
+surveyor-wave mutation analysis braf cdna amplified two overlapping amplicons (5?-aggatttcgtggtgatggag-3? 5?-gatgacttctggtgccatcc-3? 5?-gacgggactcgagtgatgat-3? 5?-ggtatcctcgtcccaccata-3?) covering codons 387?673
+surveyor-wave analysis egfr pcr amplification done single amplicon (5?-ggagcctcttacacccagtg-3? 5?-aggtcatcaactcccaaacg-3?) covered exons 18?21 gene
+pcr amplification done using jumpstart taq (sigma st louis mo usa) under manufacturer's guidelines
+part specimens ( n =103) previously characterised kras braf egfr mutations using reverse transcritase (rt)?pcr direct sequencing pcr products ( naoki et al 2002 hayes et al 2006 )
+surveyor digestion hplc analysis carried out described previously ( janne et al 2006 )
+brief pcr products digested reaction mixture containing equal volumes surveyor enzyme (transgenomics omaha ne usa) enhancer (transgenomics omaha ne usa) 42°c 20?min followed termination reaction stop solution (transgenomics omaha ne usa)
+specimens then loaded wave hs hplc (transgenomics omaha ne usa) 50°c eluted increasing acetonitrile gradient detected uv detector using dna intercalating fluorescence dye (transgenomics omaha ne usa)
+when cell lines known homozygous specific mutation analysed pcr products mixed 1?:?1 pcr products wild-type cell line denatured heating slowly renatured generate heteroduplexes
+specimens showed altered pattern surveyor tracings purified using qiaquick kit (qiagen valencia ca usa) sequenced bi-directionally molecular biology core facility dana?farber cancer institute
+specimen showed altered pattern surveyor tracing but wild-type sequence direct dna sequencing underwent fractionation wave hs hplc partially denaturing conditions
+running temperatures specific amplicons calculated navigator software (transgenomics omaha ne usa)
+collected fragments amplified pcr using same primers original amplification purified sequenced previously described above
+fisher's exact test used assess association lkb1 mutation status other clinical pathological genetic characteristics
+adjust any difference between ethnic groups association between lkb1 mutation rate characteristic evaluated stratified contingency tables
+we did not reject odds ratios same across ethnic groups we then tested whether common odds ratios unity based stratified mantel?haenszel estimate ( breslow day 1980 )
+overall survival estimated using kaplan?meier method differences between groups compared using log-rank test
+all p -values based two-sided hypothesis p <0.05 considered statistically significant 0.05< p <0.10 considered borderline significant
+impact stability lkb1 mrna detecting lkb1 mutations tested using rt?pcr mrna extracted nsclc cell lines previously been characterised lkb1 mutations
+included nci-h441 (wild type) a549 nci-h1395 nci-h23 nci-h2126 (all containing lkb1 mutations)
+reverse transcriptase?pcr amplification whole coding region lkb1 mrna showed cell lines nonsense (a549 nci-h23) mutations 1?bp deletion (h1395) expressed mrna comparable size wild-type h441 cell line (1460?bp)
+h2126 cell line known homozygous deletion exons 4?6 expressed mrna substantially smaller size (?1000?bp) corresponding deletion 398?bp
+rt?pcr revealed no major difference lkb1 mrna expression levels between lkb1 mutant wild-type cell lines ( figure 1a )
+lkb1 mutant wild-type cell lines expressed comparable amounts lkb1 mrna rt?pcr we studied cdna mutations using surveyor-wave method
+wave hplc provides system analyse dna fragments smaller 900?bp therefore we designed two overlapping amplicons covering exons 1?5 (797?bp) 5?9 (702?bp) amplify whole coding region lkb1 mrna
+pcr products lkb1 mutant cell lines mixed 1?:?1 products wild-type cell lines (h441) generate heteroduplexes lkb1 mutant cell lines previously reported homozygous inactivation gene
+surveyor-wave analysis amplicon covering exons 1?5 revealed novel peaks cdna a549 nci-h1395 cell lines compared wild type nci-h441 ( figure 1b )
+surveyor-wave analysis exons 5?9 showed novel peaks nci-h23 cell line well
+mutations detected surveor-wave confirmed conventional dna sequencing corresponded previous reports ( sanchez-cespedes et al 2002 carretero et al 2004 )
+we could not detect lkb1 mutation h2126 cell line surveyor-wave method using two-amplicon approach because cell line homozygous deletion exons 4?6 reverse primer first amplicon forward primer second amplicon lie deleted part gene (data not shown)
+we next used surveyor-wave method screen nsclc tumour specimens ( n =310) lkb1 mutations
+we detected 34 lkb1 mutations (11%) nsclc tumour specimens ( table 1 )
+majority lkb1 mutations detected deletions insertions ( n =25 74%)
+remainder missense ( n =7 21%) nonsense ( n =2 6%) mutations ( table 2 figure 1c )
+about one-half deletions insertions small covering <15?bp ( n =14 56%) whereas larger deletions ( n =11 44%) covering hundreds base pairs detected remaining specimens
+some mutational hotspots discovered
+areas same mutation more one tumour specimen included deletion exon 4 ( n =4) deletion exons 2 3 ( n =3) d194y ( n =2) p281l ( n =2)
+interestingly significant portion mutations located exon 1 ( n =11 32%) but there no area recurrent mutations exon ( table 2 )
+missense mutations detected current study all except r426w kinase domain protein
+missense mutations codons 176 194 been previously characterised pjs ( launonen 2005 )
+we found four f354l alterations (data not shown) but we did not consider missense mutations alteration previously been reported rare polymorphism gene ( launonen et al 2000 )
+we did not access corresponding normal tissues therefore we could not verify some missense mutations somatic germline
+mutation frequency lkb1 gene significantly higher nsclcs caucasian cohort ( table 1 )
+twenty-five (17% specimens) lkb1 mutations detected nsclcs collected patients united states whereas only nine mutations (5% specimens) detected korean cohort ( p =0.001) ( table 1 )
+lkb1 mutation rate tended higher adenocarcinomas (13%) compared squamous cell carcinomas (5%) ( p =0.067)
+differences histological subgroups relatively modest us cohort mutations 18 out 94 (19%) adenocarcinomas vs 5 out 38 (13%) squamous cell cancers ( p =0.461)
+contrast findings asian patients where all lkb1 mutations detected adenocarcinomas (9 out 113 (8%)) none detected squamous cell cancers (0 out 54 (0%) p =0.032)
+nevertheless higher rate lkb1 mutation adenocarcinomas compared squamous cell carcinomas retains same level statistical significance (stratified p =0.064) after adjusting fluctuation between ethnic groups
+us cohort included nine specimens adenosquamous carcinomas two out nine (22%) lkb1 mutations similar frequency adenocarcinomas population ( table 1 )
+there no association between lkb1 mutations clinical stage nsclc patients
+kaplan?meier survival curves stages i ii nsclc patients showed tendency shorter survival patients lkb1 mutant tumours but however did not reach statistical significance ( p =0.17) ( figure 2 )
+no differences survival observed patients who harboured both lkb1 kras mutations compared those kras lkb1 alone but total number patients both mutations who stages i ii nsclc small ( n =9 data not shown)
+we detected association lkb1 mutations smoking history ( p =0.007) only two mutations detected tumours 72 nsclc patients who either never light (?10 pack years) former smokers ( table 1 )
+after adjusting ethnic group higher rate lkb1 mutation among patients smoking history borderline significant (stratified p =0.067)
+reduction statistical significance likely owing loss power associated overall rarity lkb1 mutations among never light former smokers
+analyses we combined both never smokers light (?10 pack years) smokers frequency mutations other oncogenes such egfr similar two patient groups ( pham et al 2006 )
+there no correlations between lkb1 mutations gender age patient
+previous reports suggested nsclc cell lines lkb1 mutations often occur concurrently kras braf mutations ( sanchez-cespedes et al 2002 carretero et al 2004 )
+furthermore egfr mutations often mutually exclusive kras mutations nsclc ( kosaka et al 2004 marchetti et al 2005 )
+we used combined data previous papers ( sanchez-cespedes et al 2002 carretero et al 2004 ) sanger institute's databases ( bamford et al 2004 ) analyse association lkb1 mutations mutations kras braf egfr 
+analysis lkb1 mutation harbouring nsclc cell lines (a-427 a549 nci-h1395 nci-h1666 nci-h2122 nci-h2126 nci-h23 nci-h460) showed five cell lines (63%) concurrent lkb1 kras mutations two (25%) concurrent lkb1 braf mutations only one (13%) neither kras nor braf mutations
+none cell lines egfr mutations
+our findings nsclc cell lines suggested concurrency kras braf mutual exclusiveness egfr mutations lkb1 mutations we analysed mutational status genes our primary nsclc tumour specimens
+kras mutations detected 49 (16% whole tumour set 25% caucasian 8% asian specimens) tumour specimens 10 (20% kras mutants) occurring concurrently lkb1 mutation ( p =0.042) ( table 3 )
+four braf mutations (1%) found tumour set (g465v n581s l596r t599i) one (n581s) occurred concurrently lkb1 mutation ( p =0.373)
+seventy tumours (23% whole tumour set 9% caucasian 34% asian specimens) egfr kinase domain mutations only one them occurring concurrently lkb1 mutation ( p =0.002)
+tumour concurrent egfr lkb1 mutation missense mutation lkb1 outside kinase domain (r426w)
+no germ line dna available patient
+however recent report suggested r426w fact rare polymorphism gene ( onozato et al 2007 )
+taken together our findings suggest unlike kras mutations egfr lkb1 mutually exclusive nsclc
+previous reports ( sanchez-cespedes et al 2002 carretero et al 2004 ) cancer genome project sanger institute ( bamford et al 2004 ) extensively characterised lkb1 mutations nsclc cell lines kras braf mutations but lkb1 status egfr mutant nsclc cell lines not been extensively analysed
+therefore we analysed lkb1 genotype nsclc cell lines known egfr erbb2 mutations
+twelve egfr mutant one erbb2 mutant cell lines analysed lkb1 genotype
+no lkb1 mutations detected cell lines ( table 4 )
+present study characterised lkb1 mutation frequency nsclc using one largest tumour sets date ( n =310)
+our study analysed tumours different histologies both us korean origin determine potential histological ethnic variation lkb1 mutational frequency
+large size our study enabled us study associations lkb1 mutations clinocopathological factors been incompletely characterised previous studies ( sanchez-cespedes et al 2002 carretero et al 2004 fernandez et al 2004 matsumoto et al 2007 onozato et al 2007 )
+addition we used modification sensitive mutation screening technique we previously developed facilitate rapid detection lkb1 mutations ( janne et al 2006 )
+findings our study confirm high frequency lkb1 mutations nsclc (11%) contrast rare (0?4%) other common solid malignancies ( avizienyte et al 1998 1999 )
+reason behind observations presently unknown but might reflect differences carcinogen exposure lungs compared other tissues
+support hypothesis we find lkb1 mutations significantly ( p =0.007) more common smokers never light (?10 pack years) cigarette smokers ( table 1 )
+male pjs patients (age ?50 years) increased risk developing lung cancer compared general population but relationship smoking increased risk lung cancer pjs unknown ( hearle et al 2006 )
+interestingly lkb1 mutation spectrum found current study very similar those previously published pjs (deletions 34% insertions 15% splice site mutations 14% missense mutations 21% nonsense mutations 12%) ( launonen 2005 ) pjs no clear mutational hotspots detected
+our study demonstrated lkb1 mutation frequency significantly higher cancers derived us population compared those found korean patients (17 vs 5% p =0.001)
+differences track cigarette smoking number never/light former smokers much higher korean cohort compared us cohort patients (38 vs 13%)
+similarly recent study 100 japanese nsclcs found only 3% contained lkb1 mutation ( onozato et al 2007 )
+findings contrast egfr mutations more frequently detected tumours never/light cigarette smokers asian patients ( janne johnson 2006 )
+our studies further highlight ethnic environmental differences origins nsclc
+given differences lkb1 mutation frequencies smokers vs never/light smokers us compared korean patients we further determined whether associated other oncogene mutations known vary subgroups patients
+consistent prior studies we found significant association concurrent kras mutations common smokers ( ahrendt et al 2001 ) one out three nsclc lkb1 mutations ( table 3 )
+contrast there significant inverse relationship lkb1 mutations egfr mutations both nsclc tumours cell lines not previously been described ( tables 3 4 )
+differences may relate biological role lkb1 lung cancer
+possible egfr mutant lung cancers there already maximal activation pi3k/akt/mtor signalling pathway thus lkb1 mutation may not required further potentiate signalling pathway
+contrast kras mutant cancers concurrent lkb1 mutation may required enhance mtor activation
+mice concurrent kras mutations lkb1 inactivation more aggressive tumours shorter survival those only kras mutant cancers ( ji et al 2007 )
+our study we not able detect significant survival difference patients whose tumours contained lkb1 mutations alone concurrently kras mutations (data not shown) likely because limited number tumour specimens
+additional studies needed clarify prognostic impact lkb1 mutations humans nsclc
+present study ?2 out 3 lkb1 mutant tumours kras wild type ( table 3 )
+one possibility such tumours contain concurrent mutation another oncogene activates same signalling pathway kras
+reason we examined our tumours braf mutations found 1?2% nsclc ( naoki et al 2002 )
+we detected concurrent lkb1 mutation one four braf mutant tumours ( table 3 )
+tumour wild type kras (data not shown)
+addition some braf mutant nsclc cell lines (nci-h1395 g469a nci-h1666 g466v) contain concurrent lkb1 mutation ( sanchez-cespedes et al 2002 bamford et al 2004 carretero et al 2004 )
+future studies will help further clarify whether lkb1 mutations occur concurrently other genomic alterations nsclc impact patient outcome
+our study employed mutation scanning technology screen lkb1 mutations cdna level ( janne et al 2006 )
+advantageous entire coding region lkb1 could rapidly screened mutation using just two overlapping cdna fragments
+lkb1 challenging gene analyse genomic dna level because its high guanine?cytosine content
+addition many lkb1 mutations small deletions ( table 2 ) involve deletions entire exons would missed using exon-specific genome sequencing methods
+our method however does limitations would miss deletions site pcr primers whole gene deletions deletions within promoter region all been infrequently detected pjs ( volikos et al 2006 )
+thus our studies may underestimate true lkb1 mutation frequency nsclc
+addition our method limited analysis fresh tumour specimens available only minority nsclc patients
+furthermore techniques isolating mrna formalin-fixed paraffin-embedded tumour specimens continue improve rapid mutation scanning technique used analyse broader populations tumours nsclc patients
+future studies may need employ combination lkb1 mutation detection methodologies including current method mlpa direct sequencing.

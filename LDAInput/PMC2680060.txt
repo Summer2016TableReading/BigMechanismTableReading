@@ -1,0 +1,205 @@
+204
+10.1371/journal.pone.0005563.t001 table 1 k-ras mutations p16ink4a promoter methylation spontaneous lung neoplasm spc-p53(273h) transgenic mice non-transgenic controls cohort tumors analyzed k-ras mutation p16 methylation codons 12 13 codon 61 spc-p53(273h) 4â??12 months 6 0/6 (0%) 2/6 (33%) 1/6 (17%) spc-p53(273h) 13â??24 months 15 4/15 (27%) 4/15 (27%) 12/15 (80%) non-transgenic 13â??24 months 7 2/7 (29%) 2/7 (29%) 6/7 (86%) total 28 6/28 (21%) 8/28 (29%) 19/28 (68%)
+mutations p53 gene among most common genetic abnormalities human lung cancer
+codon 273 sequence-specific dna binding domain one most frequently mutated sites
+investigate role mutant p 5 3 lung tumorigenesis lung specific p53(273h) transgenic mouse model developed
+rates lung cancer formation transgenic animals their littermates evaluated necropsy studies performed progressive age cohorts ranging 4 24 months
+order establish influence other common genetic abnormalities lung tumor formation animals k-ras gene mutation p16ink4a (p16) promoter methylation evaluated total 281 transgenic mice 189 non-transgenic littermates
+age extremes 4?12 22?24 months no differences observed very low prevalence tumors animals younger 12 months relatively high prevalence age 22 months older
+however transgenic mice significant higher lung tumor rate their non-transgenic counterparts during age 13?21 months suggesting age-related shift lung tumor formation induced lung-specific expression human mutant p53
+histopathology suggested more aggressive nature transgenic tumors
+older mice (>13 months) significantly higher rate p16 promoter methylation (17% v 82%)
+addition age related effect observed k-ras codons 12 13 mutations but not codon 61 mutations
+results would suggest mutant p53(273h) contributes acceleration development spontaneous lung tumors mice
+combination other genetic epigenetic alterations occurring after age 13 months intimately linked its oncogenic potential
+lung cancer one most deadly cancers worldwide [1] ? [3] more 160000 deaths per year
+number one cancer killer united states ( seer www.seer.cancer.gov [2] )
+seventy-five eighty-five percent lung cancers categorized non-small cell cancers (nsclc) adenocarcinoma become most prevalent nsclc subtype [1] [3] 
+been reported 50?60% non-small cell lung cancers 90% small cell lung tumors contain p53 mutations thus p53 alterations among most common genetic events malignancy [4] [5] 
+majority p53 mutations missense found within sequence-specific dna-binding domain
+codon 273 one most frequently mutated sites [6] ? [8] 
+human mutant p53(273h) most common substitution (arginine histidine) been shown both dominant-negative gain-of-function properties [9] ? [13] 
+unlike most tumor-derived mutant p53 proteins p53(273h) retains partial sequence-specific dna-binding transcriptional activation functions [14] ? [17] 
+addition p53(273h) been reported interact activate topoisomerase i induce genomic instability [13] [18] promote reassociation single-stranded rna dna double-stranded form [19] 
+thus p53(273h) could conceivably lead increased cell proliferation aberrant dna recombination increased genomic instability reduced chemotherapy efficacy [20] [21] 
+p53270h/+ mice (murine p53 codon 270 correspond human p53 codon 273) develop increased incidence carcinomas b cell lymphomas compared p53+/? mice [22] 
+study role p53 mutation lung tumorigenesis animal models endogenous p53 gene disrupted mutated lung-specific manner mutant p53 transgenes expressed lung-specific manner would considerable value
+particular interest generate lung cancer models reflect closely possible human lung cancer development
+end we developed line transgenic mice expressing human p53(273h) gene under transcriptional control human surfactant protein c (sp-c) promoter [23] 
+human mutant p53(273h) mrna protein demonstrated specifically lung tissue [23] [24] 
+we previously reported development lung adenocarcinomas spcp53(273h) transgenic mice higher rate compared their littermates age range 13?15 months [23] 
+lung cancer onset data up 24 months now been collected summarized report
+given their association p53 mutations human lung cancer we evaluated rates k-ras gene mutation p16ink4a (p16) promoter methylation lung tumors
+?-irradiation tumors performed evaluate functional activity murine p53 spontaneous lung cancers
+lung tumor rate age onset summarized figure 1 
+overall lung tumor rate 23.1% (65/281) 11.6% (22/189) transgenic non-transgenic mice respectively (fisher's exact test p?=?0.01)
+peak differences tumor rate between transgenics non-transgenic mice occurred during age 13?21 months (or: 3.64 p<0.01)
+however no significant differences rate tumor development observed extreme age ranges (4?12 22?24 months)
+no difference found lung tumor rate between transgenic mice non-transgenic controls age range 4?12 22?24 months
+transgenic mice (t) statistically significant (fisher's exact test p<0.01) higher lung tumor rate wildtype controls (c) during age 13?21 months
+histopathologically tumors both transgenic non-transgenic groups well differentiated adenocarcinoma predominantly bronchioloalveolar (bac) pattern ( figure 2 )
+however 13 24 (54%) tumors examined transgenic mice exhibited areas variant histology including areas clear secretory change areas high nuclear grade areas oncocytic change areas solid proliferation
+variant histological patterns evidence dedifferentiation phenomenon human lung tumors readily exhibit
+contrast only 1 11 (9%) tumors examined non-transgenic group showed evidence dedifferentiation (fisher's exact test p?=?0.14)
+lung tumor spc-p53(273h) mice (a)
+light photomicrographs lung tumor 100× magnifications he staining (b)
+immunohistochemical detection human mutant p53(273h) human specific p53 antibody (do-7) lung adenocarcinoma spc-p53(273h) transgenic mouse (c)
+lung tumor cells exhibit pleomorphic nuclei 400× magnification (d)
+well-differentiated bac/adenocarcinoma transgenic (e) contrasts bac/adenocarcinoma showing evidence dedifferentiation solid undifferentiated carcinoma (f)
+other histological patterns evidencing dedifferentiation included secretory (g) oncocytic (h) high nuclear grade (i) observed only transgenic tumors
+immunohistochemical analysis performed using antibodies against surfactant protein c (sp-c) clara cell 10 protein (cc10) commonly used markers distinguish alveolar type ii cells clara cells
+lung tumors collected transgenic mice all sp-c positive suggesting lesions expressed alveolar type ii pneumocyte differentiation ( fig 3a 3c )
+however small percentage lung tumor cells expressed cc-10 protein ( fig
+3b 3d ) indicating evidence clara cell differentiation
+human cancers similarly known express evidence type ii pneumocyte and/or clara cell differentiation
+lung tumor section stained antibody against surfactant protein c (sp-c) commonly used marker alveolar type ii cell (a)
+same tumor stained antibody against clara cell 10 protein (cc10) commonly used marker clara cell (b)
+majority lung tumor cells sp-c positive suggesting lesions arose alveolar type ii cells (c)
+small percentage lung tumor cells cc-10 positive indicating clara cell lineage (d)
+arrows pointed cc-10 positive cells
+one most important functions wild type p53 its anti-proliferation property
+dna damage up-regulates wildtype p53 leads cell cycle arrest provides sufficient time repair [25] 
+ionizing irradiation induces elevation wild type p53 protein results inhibition cell proliferation whereas knocking-out p53 gene abolishes irradiation-induced cell cycle arrest
+p53 point mutation one allele accompanied complete loss second allele p53 commonly reported phenomenon human cancers [26] ? [28] 
+however preservation wild type allele been reported human neoplastic tissue [29] ? [32] 
+evaluate whether murine wild type p53 intact lung cancers collected spc-p53 (273h) transgenic mice we treated transgenic mice using 137cesium ?-source dose 5gy/mouse
+maximize evaluation vivo brdu labeling performed
+mice injected brdu dose 100 mg/kg 22 hr post-irradiation
+non-irradiated controls injected brdu
+both irradiated control mice sacrificed lung tissues harvested 2 hours after brdu injection
+we analyzed 60 pathological images collected six lung tumor bearing mice three been irradiated
+rate brdu positive cells 2.61% non-irradiated tumors average whereas proliferating rate 0.93% irradiated lung tumor samples
+thus compared non-irradiated tumors tumor cell proliferation rate reduced 2.8 fold after ?-irradiation treatment ( fig
+4a 4b 4e )
+normal lung tissues brdu positive cell rate 0.43% without irradiation whereas there almost no brdu positive cells (0.009%) observed normal lung tissues post irradiation ( fig
+4c?4e )
+mice treated ionizing radiation (5 gy/mouse)
+22 hours post-irradiation mice injected (ip) bromodeoxyuridine (brdu) dose 100 mg/kg 0.9% nacl
+lung tissue lung tumors harvested 2 hours after injection then fixed 10% neutral buffered formalin 12 hours
+paraffin embedded tissue cut incubated monoclonal anti-brdu antibody (dako corporation carpinteria ca) immunohistochemical analysis
+cell proliferation lung tumors without irradiation (a) post irradiation (b) normal lung without irradiation (c) well normal lung tissue post irradiation (d) analyzed
+number brdu positive cell slide counted directly under compound microscope
+averaged percentage brdu positive cell obtained according thirty random images taken treatment tissue type group (e)
+bars show mean data ±s.d
+thirty random images three mice per treatment
+arrows pointed brdu positive cells
+above results suggest lung tumors p53(273h) transgenic mice composed mixed population cells
+some lung tumor cells retain murine wild type p53 while others lost functional murine p53 continue proliferate even after irradiation
+long latency period tumor development transgenic mice suggests collaboration other oncogenic events lung cancer development
+given high prevalence k-ras p16 gene deficiencies human lung cancers [33] ? [36] we evaluated k-ras gene mutations p16 promoter methylation spontaneous lung cancers both transgenic non-transgenic animals
+we analyzed 28 murine lung tumors 21 transgenic mice 7 tumors non-transgenic mice
+six transgenic mice 4?12 months fifteen 13?24 months
+all non-transgenic tumors collected age 13?24 months given their rare occurrence earlier age
+been reported k-ras mutations occur mainly codons 12 13 61 murine lung tumors [37] thus we investigated dna sequences exons 2 3 contain codons 12 13 61 using pcr amplification followed dna sequencing
+among 21 transgenic tumors ten tumor samples (47.6%) contained k-ras mutations
+included four exon 2 (codons 12 13) six exon 3 (codon 61)
+among 7 non-transgenic tumors two mutations found exon 2 (codon 12) two codon 61 ( table 1 )
+all cases tumor contained single site mutation second position codon
+age differences type k-ras mutations observed preference codons 12?13 mutations occur 13?24 month group ( fig
+5a ) peak 16?18 months (3/6 transgenics 5/9 transgenic non-transgenic tumors)
+mice younger 15 months no mutations codons 12?13 k-ras found (0/10 tumors)
+rate tumors codon 12?13 mutations higher 16?18 month cohort compared younger age cohort transgenic mice (3/6 vs
+0/10 fisher's exact test p?=?0.18)
+altogether (including non-transgenics) 16?18 month cohort higher rate mutations codons 12?13 k-ras compared younger age cohort (5/9 vs
+0/10)
+similar rate k-ras mutations observed between transgenic non-transgenic animals ( fig
+5b )
+comparison k-ras mutation codons 12?13 codon 61 (a) between 4?12 months 13?24 months transgenic lung tumors (b) between transgenic tumors non-transgenic tumors age 13?24 months
+point mutations (c) k-ras codon 12 (d) k-ras codon 13 (e) k-ras codon 61
+among four mutations codon 12 three g transitions ggt gat one g t transversion ggt gtt ( fig
+5c )
+two mutations found codon 13 both g transitions ggc gac ( fig
+5d )
+among eight mutations codon 61 six mutations g transitions (caa cga) two t transversions caa cta ( fig
+5e )
+p16 promoter methylation (methylation specific pcr) detected 19 28 (68%) lung tumors ( fig
+6 )
+overall 13 21 (62%) transgenic lung tumors 6 7 (86%) non-transgenic lung tumors contained p16 promoter methylation
+only one six (17%) tumors tested age cohorts 4?12 months contained p16 promoter methylation
+contrast among 15 transgenic tumors collected 13?24 month cohorts 12 (80%) found p16 promoter methylation (fisher's exact test p<0.1)
+altogether 18 22 (82%) tumors 13?24 months (including non-transgenics) p16 promoter methylation statistically higher (fisher's exact test p<0.1) 4?12 month group
+similar promoter methylation rate tumors transgenics non-transgenic controls found ( table 1 )
+bisulphite-treated tumor dna amplified primers specific either methylated (m) unmethylated (u) p16ink4a promoter region (a)
+comparison p16ink4a promoter methylational rate between 4?12 months 13?24 months transgenic lung tumors (b) transgenic tumors non-transgenic tumors age 13?24 months (c)
+most important function wild type p53 sequence specific transactivation target genes
+normal cells steady state level p53 protein low half-life p53 very short due presence negative regulators such mdm2 jnk pirh2 [38] ? [44] 
+however dna damage (e.g radiation) induces prominent increase p53 protein levels [45] [46] 
+increase wild type p53 protein response dna damage believed regulate p21 prevent cells genetic lesions proliferate [47] 
+either cell cycle arrest apoptotic cell death remove damaged cell permanently follows [48] 
+mutations p53 vast majority within sequence-specific dna-binding domain protein produce mutant proteins unable bind transactivate target genes mediate tumor suppression [48] ? [50] 
+restoration p53 function leads tumor regression vivo [51] 
+general assumption tumor cells intact p53 will stop proliferating after irradiation whereas tumor cells deficient p53 will proliferate continually post irradiation
+our results demonstrated some tumor cells transgenic animals failed initiate cell cycle arrest post irradiation so 0.93% lung tumor cells brdu positive
+comparison there no brdu positive cells observed normal lung tissues collected same mouse post irradiation
+given even one copy intact p53 could cause complete cell cycle arrest mice lungs post irradiation follows brdu positive cells observed lung tumors lost p53 function completely
+several potential mechanisms p53 mutant induced tumorigenesis been proposed
+one possibility mutant p53 inhibits sequence-specific dna-binding transactivation functions wild-type p53 ?dominant-negative? manner forming hetero-oligomeric complexes [10] [11] 
+alternatively certain p53 mutants may possess intrinsic oncogenic potential their introduction cells lacking endogenous p53 been shown enhance tumorigenicity cells [12] [50] 
+since human murine p53 proteins fully capable forming hetero-oligomeric complexes [52] therefore possible human p53(273h) affected murine wild type p53 function transgenic mice studied through ?dominant-negative? effect leading increased cell proliferation [53] [54] 
+interestingly tumor rate differences observed between transgenics non-transgenic counterparts beginning 13 months equalizes after 22 months suggesting genome instability associated senescence [55] [56] diluting any difference transgene effect could produce
+previously we reported level mouse wild-type p53 protein reduced 10 10 tumor samples compared matched normal lung tissue transgenic mouse [57] 
+reduction level murine wildtype p53 protein may associated overexpression p53 ubiquitin?protein ligase pirh2 ?dominant-negative? effect mutant p53
+one copy wild type p53 sufficient cause cell cycle arrest post irradiation [54] may explain delay tumor development our transgenic animals two murine wildtype p53 alleles addition human mutant
+would suggests p53(273h) weak dominant-negative effect
+previous vitro studies support notion [14] [17] 
+age 13?21 months when additional genetic epigenetic alterations able combine mutant p53 significant difference tumor formation between transgenic non-transgenic mice would then appreciated
+we analyzed 28 spontaneous lung tumors found 27% lung tumors k-ras mutations (all somatic) codons 12?13 age 13?24 months whereas no mutation detected codons earlier age
+thus onset k-ras mutations codons 12 13 murine lung tumor appear age related phenomenon appearing similar rate tumor-developing transgenic non-transgenic littermates
+murine lung tumors been shown contain high frequency k-ras mutation codon 61 [37] 
+type kras mutation extremely rare human tumors especially lung cancer
+among 28 lung tumors eight tumors (29%) contained k-ras mutation codon 61 its frequency similar between transgenics (27%) non-transgenics (29%) between 4?12 months transgenic cohort (33%) 13?24 months transgenic cohort (27%) suggesting its lack association age collaboration p53 mutations (4?15 months vs
+16?24 months: fisher's exact p?=?0.936)
+p16 gene promoter hypermethylation common event lung cancers [36] up 80% lung adenocarcinomas [58] 
+our study demonstrated aberrant methylation p16 gene more frequently 13?24 months cohort 4?12 months cohort (82% vs
+17% respectively)
+results would suggest inactivation p16 methylation its promoter region similar k-ras codons 12?13 mutations late age dependent event contributing lung tumor formation p53(273h) transgenic mice
+summary expression mutant p53 (273h) mice lungs resulted age-related demographic shift lung tumor formation transgenic mice
+latency period tumors develop transgenic mice would suggest mutant p53(273h) combine other age-related genetic epigenetic alterations such mutation codon 12 13 k-ras gene inactivation p16 methylation its promoter region promote lung tumor formation progression p53(273h) transgenics
+our model may recapitulate what occurs human cancer where age specific differences been reported [59] [60] where tumor formation substantially lags behind oncogenic stimulus [61] [62] 
+while p53 k-ras codons 12/13 mutations p16 promoter methylation status well described human lung cancers influence age likelihood abnormalities combine early genetic events not been previously explored
+our study supports multi-step genetic hits process documented other malignancies familial cancer clusters available suggests need evaluate age related differences pattern genetic epigenetic aberrations linked lung cancer patient disease
+relevance treatment efficacy conventional chemotherapy molecularly targeted treatment may demonstrated such studies
+spc-p53(273h) transgenic mice generated microinjection 6.7-kb fragment spc-p53(273h) construct pro-nuclei fvb/n mouse zygotes previously reported [23] 
+all lung samples carefully examined use dissecting microscope
+all tumors observed processed histological analysis
+addition 30% lung samples no visible surface tumors subjected random histological analysis
+all protocols animal subjects approved ohio state university institutional laboratory animal care use committee
+total body irradiation performed using 137cesium ?-source dose 5gy/mouse
+24 h (hours) after irradiation mice sacrificed lung tumors normal lung tissues harvested
+mice injected (intraperitoneally) bromodeoxyuridine (brdu) 100 mg/kg 0.9% nacl
+lung tumor normal tissue harvested 2 h after injection then tissues fixed 10% neutral buffered formalin 12 h
+paraffin embedded tissue cut incubated monoclonal anti-brdu antibody (dako corporation carpinteria ca) immunohistochemical analysis
+number brdu positive cell slide counted directly under compound microscope (400 magnification)
+average percentage brdu positive cells obtained thirty random images (three mice per group)
+one microgram genomic dna denatured naoh (final concentration 0.275 m) 10 min 37°c
+denatured dna then treated 10 µl 10 mm hydroquinone 520 µl 3 m sodium bisulfite 50°c overnight
+bisulfite-treated dna purified qiaquick gel extraction kit (qiagen germany) according manufacturer's instruction
+dna then precipitated sodium acetate (final concentration 0.45 m) isopropanol
+dna eluted dh2o used pcr
+primers used ms-pcr (u3?=? gtgattgggtgggtattgaatttt tgtg u4?=? cacacatcatacacacaa ccctaaacca ) unmethylated (m3?=? cgattgggcgggtattgaattttcgc m4?=? cacgtcatacacacgacccta aaccg ) methylated (w1?=? actgaatc tccgcgaggaaagcg w2?=? gcacacggccctgggccgccg ) unmodified sequences flanking p16 translation start site [63] 
+k-ras mutations identified utilizing polymerase chain reaction (pcr) technique amplify second third exons (genbank accession nc_00072 start codon k-ras located second exon) followed sequence analysis amplified product
+primers used amplify exon 2 5?- aggcctgctgaaaatgactga (forward) 5?- ttcttgcacctatggttcccta (reverse)
+primers used amplify exon 3 5?-ggccaggagtgcattaagac (forward) 5?- tgcaggcataaca attagcaa (reverse)
+primers used sequencing analysis
+immediately following tissue harvesting lung tumors normal lung tissues placed 10% neutral buffered formalin 12 h rinsed water preserved 1× phosphate-buffered saline (pbs)
+paraffin embedded tissue cut 4 microns placed slides stained hematoxylin eosin (he)
+additional sections immunohistochemistry (ihc) placed 60°c oven 1 h cooled deparaffinized rehydrated through xylene graded ethanol solutions water standard fashion
+all slides quenched 5 minutes 3% hydrogen peroxide solution methanol block endogenous peroxidase
+antigen retrieval performed placing tissue sections citric acid solution (dako's target retrieval solution ph 6.1) 30 minutes 94°c using vegetable steamer
+slides then placed dako autostainer immunostaining system ihc
+slides blocked 10% normal goat serum 1 h before application primary antibody
+detection system used labeled streptavidin-biotin complex
+slides then counterstained hematoxylin dehydrated through graded ethanol solutions cover slipped
+antibodies used were: anti-human p53 specific monoclonal antibody (bd pharmingen san diego ca) anti-?-actin monoclonal (sigma st
+louis missouri) anti-sp-c polyclonal (santa cruz santa cruz ca) anti-cc10 polyclonal (santa cruz santa cruz ca) anti-brdu monoclonal (dako corporation carpinteria ca)
+given limited number lung tumors certain age cohorts age cohorts combined three groups 4?12 13?21 22?24 months comparisons between transgenic non-transgenic mice
+order investigate how proportion lung tumors vary between transgenic non-transgenic mice over age cohorts logistic regression models used [64] 
+using model differences between types mice age cohort group tested odds ratios (or) estimated through interaction mouse type age cohort group
+overall comparison tumor rates mouse type compared fisher's exact test
+multiple measurements % cells brdu positive averaged mouse
+summary statistics computed average measurements
+age cohorts k-ras mutation p16 methylation grouped compared via fisher's exact test due limited number tumors
+p-values adjusted multiple comparisons holm procedure [65] [66] 
+briefly holm procedure modified bonferroni type procedure maintains experiment-wise error rate
+adjusted p-values considered significant 0.10 level given exploratory nature studies all tests two sided
+all analyses performed using stata statistical software version 10.0 [67] .

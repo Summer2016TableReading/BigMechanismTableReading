@@ -1,0 +1,150 @@
+149
+table 1 characterisation primary pancreatic cancer xenografts tumor id histological type egfr her2 hgfr igf-1r p-akt smad4 k-ras ocip16 adenocarcinoma ++ ++ + ++ ++ +++ codon 12 mutation ocip17 poorly differentiated â?? â?? â?? ++ + +++ w/t ocip18 adenocarcinoma +++ ++ ++ ++ ++ â?? w/t ocip19 adenocarcinoma ++ + + + + â?? codon 12 mutation ocip21 adenocarcinoma +++ +++ ++ +++ +++ â?? w/t w/t=wild type.
+phosphatidylinositol-3-kinase (pi3k)/akt signalling pathway frequently deregulated pancreatic cancers believed important determinant their biological aggression drug resistance
+nvp-bez235 novel dual class i pi3k/mammalian target rapamycin (mtor) inhibitor undergoing phase i human clinical trials
+simulate clinical testing effects nvp-bez235 studied five early passage primary pancreatic cancer xenografts grown orthotopically
+tumours showed activated pkb/akt increased levels least one receptor tyrosine kinases commonly activated pancreatic cancers
+pharmacodynamic effects measured following acute single doses anticancer effects determined separate groups following chronic drug exposure
+acute oral dosing nvp-bez235 strongly suppressed phosphorylation pkb/akt followed recovery over 24?h
+there inhibition ser235/236 s6 ribosomal protein thr37/46 4e-bp1 consistent effects nvp-bez235 dual pi3k/mtor inhibitor
+chronic dosing 45?mg?kg?1 nvp-bez235 well tolerated produced significant tumour growth inhibition three models
+results predict agents targeting pi3k/akt/mtor pathway might anticancer activity pancreatic cancer patients support testing combination studies involving chemotherapy other molecular targeted agents
+animal experiments carried out using protocols approved university health network animal welfare committee
+establishment primary pancreatic cancer xenografts carried out previously described ( ng et al 2002 yau et al 2005 )
+fresh pancreatic cancer samples superfluous diagnostic needs obtained university health network tumour tissue bank according institutional human ethical guidelines
+tumour fragments initially implanted subcutaneously flanks male scid mice
+primary xenografts established material subsequently transferred orthotopic site 4- 5-week-old mice attaching tumour pieces previous passage surface exposed pancreas small incision under general anaesthesia
+five primary pancreatic cancer xenografts designated ocip16 17 18 19 21 used passage number 4?6 experiments
+once sufficient tumour tissue available typically passage number two three orthotopic tumours rapidly excised divided roughly similar pieces
+one processed protein extraction one snap frozen liquid nitrogen one fixed formaldehyde followed paraffin embedding
+cut tissue sections stained haematoxylin eosin (h&e) morphological assessment immunohistochemistry relevant protein markers including surface receptor tyrosine kinases smad4 using appropriate primary antibodies
+codon 12/13 k-ras mutations determined gene sequencing
+activation intracellular signalling proteins assessed immunohistochemistry using following phosphospecific antibodies: ser473 pkb/akt rabbit monoclonal obtained cell signaling technology (cst danvers ma usa) phosphorylated extracellular-regulated kinase (erk) 1/2 (mouse monoclonal cst)
+signal transduction activator transcription (stat) 3 tyr705 (mouse monoclonal cst) ser727 (rabbit polyclonal cst)
+tumour morphology assessed pathologist intensity immunohistochemical staining tumour markers scored 0 (absent staining) 3+ (strong staining)
+nvp-bez235 ( figure 1 ) obtained oncology department novartis institutes biomedical research basel switzerland
+fresh stock solutions compound prepared daily dissolving 1 volume nmp (1-methyl-2-pyrrolidone sigma-aldrich oakville ontario canada) 100°c water bath then adding 9 volumes peg300 (sigma-aldrich) give final drug concentration 12.5?mg?ml?1
+monitor acute pharmacodynamic effects nvp-bez235 five groups three randomly assigned tumour-bearing mice treated 50?mg?kg?1 nvp-bez235 oral gavage killed 0 2 4 8 24?h
+tumours rapidly excised divided pieces snap frozen liquid nitrogen fixed formaldehyde then paraffin-embedded processed protein extraction
+assess anticancer effects nvp-bez235 dose reduced 45?mg?kg?1 q.d dose schedule been shown efficacious in vivo mouse xenograft human cancer models ( maira et al 2008 )
+two groups 10?12 randomly assigned tumour-bearing mice treated nvp-bez235 vehicle control given oral gavage daily 5 days per week
+treatment commenced when tumours just palpable duration 3?5 weeks according rates tumour growth different models
+mice monitored three times weekly body weight abdominal palpation signs distress killed according animal welfare guidelines showed >10% loss body weight other signs significant distress due tumour growth treatment toxicity
+end treatment animals killed tumours harvested weighed after removal non-tumoural tissues
+tumours then processed further analysis similar acute single-dose series
+pharmacodynamic effects acute single doses investigated western blot elisa analyses tumour lysates
+minced tumour pieces homogenised 1?ml lysis buffer (50?mmol?l?1 hepes (ph 8.0) 10% glycerol 1% triton x-100 150?mmol?l?1 nacl 1?mmol?l?1 edta 1.5?mmol?l?1 mgcl2 100?mmol?l?1 naf 10?mmol?l?1 nap2o7?h2o 1?mmol?l?1 navo4) containing protease inhibitor cocktail tablets (roche canada mississauga ontario canada) 1?h ice
+homogenates clarified centrifuging 14?000?r.p.m
+4°c 15?min
+samples then heated sample buffer 10?min 95°c run 10% sds?polyacrylamide gels transferred pvdf membranes using mini trans-blot electrophoresis transfer cell (bio-rad laboratories mississauga ontario canada)
+membrane blots blocked 1?h room temperature 10% bsa tbs 1% tween 20 then incubated overnight 4°c following primary phosphospecific antibodies: ser473 pkb/akt (rabbit monoclonal cst 1?:?500 dilution) ser21/9 gsk3 ? / ? (rabbit polyclonal cst 1?:?1000) ser235/236 s6 ribosomal protein (cst 1?:?7000) ser240/244 s6 ribosomal protein (rabbit polyclonal (cst 1?:?1000) thr37/46 4e-bp-1 (cst 1?:?1000) ser727 stat3 (cst 1?:?1000) tyr705 stat3 (cst 1?:?1000)
+loading control anti-actin (1?:?7000 abcam cambridge ma usa)
+following overnight incubation primary antibody blots probed either anti-rabbit polyclonal anti-mouse monoclonal secondary antibodies labelled horseradish peroxidase (ge healthcare biosciences inc
+baie d'urfe quebec canada) then exposed supersignal west pico chemiluminescent substrate (fisher scientific ottawa ontario canada) according manufacturer's instructions
+assess effects chronic drug administration angiogenesis proliferation apoptosis paraffin-embedded sections tumour tissues stained immunohistochemistry using antibodies cd31 cyclin d1 p27 cleaved caspase 3
+slides then scanned using scanscope cs (aperio technologies inc vista ca usa)
+digital image analysis carried out using aperio software based 10 fields view tumoural area section × 10 magnification
+quantitative analysis tumour samples bez235 performed hplc/dual mass spectrometry (ms/ms) method
+gram tissue 1?ml phosphate-buffered saline added
+tissues homogenised using ultra-turrax (tp18-10 ika staufen germany) homogeniser keeping material during homogenisation cold possible returning homogenate ice bath between short (approximately 15?s) bursts
+proteins tissue homogenate precipitated addition equal volume acetonitrile processed further chromatographic separation described below
+stock solutions analyte bez235 (mw 469.6) structurally related internal standard (is mw 476.6) prepared fresh daily concentration 10? ? g?ml?1 (analyte) 1? ? g?ml?1 (is) methanol/water (2?:?9 v/v)
+further dilutions prepared same solvent
+calibration samples prepared pooled homogenates corresponding tumours obtained untreated animals
+tumour homogenate (25? ? l) mixed appropriate amounts bez235 deliver nominal final concentration 10?2000?ng?ml?1
+quality control (qc) samples spiked analytes give final concentration nominally 40 100 400 1600?ng?ml?1 respectively
+50? ? l aliquot (1? ? g?ml?1) added calibration standard qc samples mixed vortex mixer 15?s
+after three times repeated protein precipitation addition equal volume acetonitrile followed evaporation dryness samples re-dissolved 100? ? l acetonitrile/water (1?:?9 v/v) containing 0.2% v/v formic acid
+sample injection volume 5? ? l chromatographic separation
+liquid chromatographic separations carried out using agilent 1100 series (agilent palo alto ca usa) hplc system vacuum degasser capillary pump thermostated column compartment (40°c) combined automated injection device (ctc-pal ctc analytics zwingen switzerland)
+chromatographic separation matrix resect ultra cyano reverse-phase hplc column (column size 50 × 1?mm particle size 3? ? m preceded guard column: phenomenex ajo-4304 phenylpropyl size 4 × 2?mm) used
+gradient mobile programming used flow rate 60? ? l?min?1 mobile phase consisted acetonitrile 0.2% formic acid water (95?:?5)
+column eluent directly introduced ion source triple quadrupole mass spectrometer quattro micro (micromass manchester uk) controlled masslynx 4.0 software
+electrospray positive ionisation (esi(+)) multiple reaction monitoring used ms/ms detection bez235
+after esi(+) ionisation molecular?product transitions ( m/z 470.35 ? 443.25 product ion bez235 m/z 477.45 ? 477.30 product ion is) monitored analyte respectively
+calibration curve prepared adding structurally related appropriate amounts analyte mouse plasma tumour tissue extract covering range 2 2000?ng?ml?1 loq set 10?ng?ml?1 plasma 50?ng?g?1 tumour tissue respectively (cv overall bias less 30%)
+regression analysis performed using quanlynx 4.0 (micromass) excel 2002 (microsoft)
+concentrations unknown samples calculated peak area ratio daughter ion analyte daughter ion its (ordinate) against nominal concentration (abscissa)
+assay linearity indicated overall regression coefficient 0.9981
+all values presented mean±s.e
+comparisons between two groups (control vs nvp-bez235) achieved using two-tailed student's t -test
+criterion statistical significance p <0.05
+histological examination h&e sections showed primary xenografts adenocarcinomas features similar original surgical specimens exception oip17 grew sheets poorly differentiated cancer cells
+seen figure 2 histological features more complex those typically seen xenografts established subcutaneous site cell lines been previously noted ( rubio-viqueira et al 2006 )
+tumours tended moderately well differentiated mucin production
+organised glandular structures prominent fibrovascular stroma some cases comprised bulk tumour
+cellular dna content analysis flow cytometry confirmed many tumours normal mouse cells accounted >80% total cell population
+immunohistochemistry phosphorylated akt readily detected all five models ( figure 2 )
+staining ser473 akt observed stroma some xenografts but less intense seen tumour tissue
+immunohistochemical staining various growth factor receptors showed prominent surface membrane staining egfr most cases variable expression her2 (erbb2) c-met (hgfr) igf-1r often marked intra-tumoural heterogeneity staining intensity
+characteristics primary xenografts summarised table 1 
+acute single dose 50?mg?kg?1 nvp-bez235 administered oral gavage well tolerated
+levels ser473 phosphorylated pkb/akt measured elisa showed considerable inter-tumoural heterogeneity reflects complex nature tumours relative subcutaneous implants cell lines but there obvious decrease mean values all five models 2?h followed recovery over 24?h ( figure 3 )
+we observed decrease ser9/21gsk3 ? / ? levels western blot followed similar time course p-akt ( figure 4 ) consistent inhibition pi3k/akt pathway nvp-bez235 models
+we found time-dependent suppression downstream mtor targets ser235/236 s6 ribosomal protein thr37/46 4e-bp1 all five models consistent action nvp-bez235 dual pi3k mtor inhibitor
+similar elisa data shown figure 3 we observed considerable inter-tumoural heterogeneity within triplicate samples some extent tracked differences total protein levels shown supplementary figure 1 
+phosphorylated stat3 readily detected all five models consistent previous reports showing aberrant activation pancreatic cancer cells ( dearmond et al 2003 ) but there no significant decrease levels following treatment nvp-bez235 ( figure 4 ) suggesting mechanisms stat3 activation largely independent pi3k signalling
+tumour concentrations nvp-bez235 measured all acute single-dose samples exception ocip19 where insufficient material available due their small size
+drug concentrations found average higher 2?h 24?h after administration (1.01 vs 0 28.4 vs 0.50 5.5 vs 1.44 2.1 vs 1.20?nmol?g?1 ocip16 18 17 21 respectively figure 4 )
+data show different maximum concentrations achieved four models but all cases compound cleared form tumour tissue time agreement reported mouse pharmacokinetic profile ( maira et al 2008 )
+daily oral administration nvp-bez235 dose 45?mg?kg?1 well tolerated tumour-bearing mice
+loss weight occurred control groups ocip16 17 presumably effect tumours but other groups animals maintained their weight during course treatment there no statistically significant differences body weights treated control animals end treatment any five groups ( figure 5 )
+because location tumour orthotopic pancreas site tumour size not measured until end experiments when animals killed 2?h after final dose
+consequently end 3- 5-week treatment orthotopic tumours dissected free surrounding normal tissues weighed
+shown figure 6 nvp-bez235 treatment tumour models ocip16 17 21 resulted statistically significant delay tumour growth (56 36 46% respectively) when compared vehicle-treated controls
+fourth model ocip19 showed growth inhibition but effect did not reach statistical significance whereas there no significant growth inhibition ocip18
+western blot phosphorylated akt s6 readily detected tumours excised 2?h after final dose nvp-bez235 ( figure 7 ) although should noted sample processing considerably longer acute time course experiment shown figure 4 might affected results
+compound concentrations tumour tissue 2?h after last treatment average 1.11 1.30 0.81 1.16?nmol?g?1 ocip16 18 17 21 respectively
+hence lack efficacy observed model ocip18 cannot accounted lack exposure
+nvp-bez235 did not show accumulation over time all four tumour models tested arguing efficacy likely due similar effects observed after single-dose administration
+investigate mechanisms tumour growth inhibition nvp-bez235 tumours labelled cleaved caspase 3 proliferation markers cyclin d1 p27 immunohistochemistry staining intensities measured using semi-automated image analysis protocols
+cleaved caspase 3 showed low levels staining relative previously observed us xenografts established cell lines there no significant increase staining any primary xenograft groups treated nvp-bez235
+there trend towards reduced labelling cyclin d1 nvp-bez235-treated groups ( figure 8 ) statistically significant ocip17 19 21 whereas non-responsive ocip18 model there non-significant increase cyclin d1 nvp-bez235-treated animals
+no significant effects p27 seen any five primary xenograft models
+examination newly formed blood vessels using cd31 staining showed substantially present surrounding fibrovascular stroma rather invading tumour masses
+we tested several image analysis routines based number cd31-stained blood vessels their size distribution within tumour tissue stroma
+however none yielded significant changes patterns blood vessel formation any drug-treated tumours relative vehicle controls
+importance aberrant pi3k signalling cancer been recognised many years ( hennessy et al 2005 woodgett 2005 vogt et al 2006 workman et al 2006 )
+apart promoting cell growth several signalling pathways diverge downstream activated pkb/akt suppresses apoptosis
+enhancement cell survival pi3k signalling probably major function during early cancer development been linked high levels drug radiation resistance seen patients pancreatic cancer ( ng et al 2001 bondar et al 2002 mackenzie 2004 brunner et al 2005 ) although should noted pancreatic cancers heterogeneous activation additional signalling elements including stat3 nf?b hedgehog pathway likely important determinant biological aggression ( bardeesy depinho 2002 arlt et al 2003 dearmond et al 2003 thayer et al 2003 )
+experimental pi3k inhibitors sensitise resistant cancer cells cytotoxic agents radiation suggesting therapeutic potential clinic but until recently vivo testing limited due their toxicity poor pharmacological properties
+contrast novel agent nvp-bez235 suitable drug-like properties currently been tested phase i clinical trials cancer patients
+given high prevalence genetic changes drive pi3k signalling pancreatic cancers we examined pharmacodynamic anticancer effects nvp-bez235 series five recently established primary pancreatic cancer xenografts
+primary xenografts established immune-deprived mice majority pancreatic cancer resections
+particularly when grown orthotopic site show growth patterns including formation glandular structures embedded dense fibrovascular stroma strikingly resemble those seen surgical samples ( capella et al 1999 ng et al 2002 rubio-viqueira et al 2006 )
+tumours therefore appear provide realistic laboratory setting test novel agents treating clinically intractable problem
+all models tested acute single doses nvp-bez235 decreased phosphorylation pkb/akt well its immediate downstream target gsk3 maximum inhibition 2?h time point followed recovery 24?h consistent pharmacokinetics compound ( maira et al 2008 )
+findings confirm nvp-bez235 able inhibit activation downstream pi3k effectors vivo 
+addition its activity against class i pi3k like other pi3k inhibitors such wortmannin ly294002 ( brunn et al 1996 ) nvp-bez235 blocks catalytic activity mtor
+kinase domain serine/threonine kinase high sequence similarity pi3k
+we observed decreases phosphorylation downstream mtor targets particularly s6 ribosomal protein showed similar time course seen pkb/akt phosphorylation
+findings suggest mtor inhibition occurs vivo drug concentrations comparable those inhibit pi3k
+we tested anticancer effects nvp-bez235 using daily oral dosing similar treatment schedules commonly used clinical trials testing novel molecular targeted agents
+primary end points part study animal body tumour weight end treatment period
+tumour-bearing mice monitored abdominal palpation gave rough indication tumour growth
+pilot study we found daily dose 45?mg?kg?1 nvp-bez235 well tolerated scid mice used xenografts although weight loss occurred more intensive treatment
+finding consistent previously reported vivo efficacy studies novartis group ( stauffer et al 2007 maira et al 2008 )
+using 45?mg?kg?1 daily 5 days per week dose schedule we did not see increased toxicity relative drug vehicle control group during treatment period
+three five primary xenografts we observed statistically significant reduction tumour size weight relative drug vehicle control group consistent impression obtained abdominal palpation oral daily treatment nvp-bez235 inhibited tumour growth
+non-significant growth inhibition seen fourth primary xenograft ocip19
+produced small slow-growing tumours statistically significant effect might been lost due measurement error
+fifth model ocip18 insensitive growth inhibition nvp-bez235
+because acute effects pkb/akt phosphorylation comparable those seen other primary xenografts lack response nvp-bez235 treatment likely explained activity additional oncogenic signalling pathways ocip18 rather failure inhibit drug target
+perhaps relevant levels cyclin d1 regulated several mechanisms downstream pi3k/mtor showed decrease all models exception ocip18 ( figure 8 )
+likely use orthotopically grown early passage primary xenografts provides better prediction clinical activity relative vivo sensitivity testing based pancreatic cancer cell lines
+overall effects nvp-bez235 appear less dramatic models relative those seen xenograft established cell lines ( maira et al 2008 serra et al 2008 ) typically poorly differentiated rapidly proliferating
+we failed show significant anti-angiogenic effects orthotopic primary pancreatic cancer xenografts contrast other groups who reported pronounced anti-angiogenic effects mtor inhibitors used treat xenografts established pancreatic cancer cell lines ( azzariti et al 2008 manegold et al 2008 )
+again we feel might reflect differences growth patterns seen using orthotopic primary xenografts
+interestingly schnell et al (2008) recently shown nvp-bez235 inhibited microvessel permeability syngeneic rat mammary carcinoma model but we did not test effect present study
+nevertheless response rate 3/5 seen present study appears greater recently reported other molecular targeted agents primary pancreatic cancer xenografts ( rubio-viqueira et al 2006 ) suggesting dual pi3k/mtor inhibitors like nvp-bez235 might useful anticancer effects pancreatic cancer patients
+remains determined daily oral dosing schedule nvp-bez235 used study will optimal clinic
+results vitro experiments suggest anticancer effects pi3k inhibitors dependant extent duration target inhibition
+however acute single-dose experiments showed nvp-bez235 dose used did not completely inhibit pkb/akt tumour tissue effect relatively short duration
+furthermore phosphorylated pkb/akt detectable tumour samples obtained 2?h after final dose chronic treatment group indicating incomplete drug target inhibition
+unlikely complete target inhibition could sustained over long periods animal models cancer patients because pi3k signalling critical maintenance normal tissues
+however possible higher doses given intermittently might give better therapeutic ratio producing more complete pi3k inhibition tumour while allowing time normal tissue recovery
+alternative strategy would combine pi3k inhibitor like nvp-bez235 other anticancer agents
+example we previously shown markedly enhance sensitivity standard agent gemcitabine when used intermittent dose schedule ( ng et al 2001 )
+however longer term likely synergistic interactions could obtained combining pi3k inhibitors agents targeting other signalling pathways aberrantly regulated pancreatic cancers
+clinical development treatment protocols incorporating multiple molecular targeted agents problematic because optimum combination would depend specific pattern abnormalities particular cancer patient
+hence we believe long-term strategy needed intractable problem such pancreatic cancer requires closer integration between basic science clinical oncology including preclinical testing based models similar those used present study.

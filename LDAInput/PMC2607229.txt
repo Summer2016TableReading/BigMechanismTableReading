@@ -1,0 +1,179 @@
+178
+table 1 mutational status kras braf genes p-erk1/2 expression ovarian cancer case no histology grade kras braf p-erk1/2 1 serous 1 wt wt n 2 serous 1 wt t1796a/ v600e p 3 serous 2 wt wt n 4 serous 3 wt wt n 5 serous 3 wt wt n 6 serous 2 wt wt p 7 serous 2 wt wt n 8 serous 2 wt wt p 9 serous 3 wt wt n 10 serous 3 wt wt p 11 serous 3 wt wt p 12 serous 3 wt wt n 13 serous 3 wt wt n 14 serous 3 g35t/ g12v wt p 15 serous 3 wt wt n 16 serous 3 wt wt n 17 serous 3 wt wt n 18 serous 3 wt wt p 19 serous 3 wt wt n 20 serous 3 wt wt n 21 serous 3 wt wt n 22 serous 3 wt wt p 23 serous 3 wt wt p 24 serous 3 wt wt n 25 serous 3 wt wt n 26 serous 3 wt wt p 27 serous 3 wt wt p 28 mucinous 1 wt t1796a/ v600e p 29 mucinous 1 g35a/ g12d t1796a/ v600e p 30 mucinous 1 wt wt n 31 mucinous 1 wt t1796a/ v600e p 32 mucinous 1 g35t/ g12v wt p 33 mucinous 2 wt wt n 34 mucinous 2 wt wt n 35 mucinous 2 g35a/ g12d wt p 36 mucinous 2 wt wt n 37 mucinous 2 wt wt n 38 mucinous 2 wt wt n 39 mucinous 2 wt wt n 40 mucinous 2 wt wt p 41 mucinous 3 wt wt p 42 mucinous 3 wt wt n 43 mucinous 3 wt wt n 44 mucinous 3 wt wt n 45 mucinous 3 wt wt n 46 mucinous 3 wt wt p 47 mucinous 3 wt wt n 48 endometrioid 1 wt t1796a/ v600e p 49 endometrioid 1 wt wt n 50 endometrioid 2 wt wt p 51 endometrioid 2 wt wt n 52 endometrioid 2 g35a/ g12d wt p 53 endometrioid 2 g35a/ g12d wt p 54 endometrioid 2 g35t/g12v wt p 55 endometrioid 3 g35a/g12d wt p 56 endometrioid 3 wt wt n 57 endometrioid 3 wt wt p 58 endometrioid 3 wt wt n n=negative p=positive wt=wild type.
+study examined status kras braf mutations relation extracellular signal-regulated protein kinase (erk) activation 58 ovarian carcinomas clarify clinicopathological prognostic significance kras/braf mutations
+somatic mutations either kras braf identified 12 (20.6%) out 58 ovarian carcinomas
+frequency kras/braf mutations conventional serous high-grade carcinomas (4.0%?:?1/25) significantly lower other histological type (32.3%?:?10/31)
+phosphorylated erk1/2 (p-erk1/2) expression identified 18 (38.2%) out 45 ovarian carcinomas
+kras/braf mutation significantly correlated international federation gynecology obstetrics (figo) stage i ii ( p <0.001) p-erk1/2 ( p <0.001)
+no significant correlations between kras/braf mutations p-erk1/2 expression overall survival found patients ovarian carcinoma treated platinum taxane chemotherapy ( p =0.2460 p =0.9339 respectively)
+next clarify roles erk1/2 activation ovarian cancers harbouring kras braf mutations we inactivated erk1/2 ovarian cancer cells using ci-1040
+cl-1040 compound selectively inhibits map kinase kinase (mek) upstream regulator erk1/2 thus prevents erk1/2 activation
+profound growth inhibition apoptosis observed ci-1040-treated cancer cells mutations either kras braf comparison ovarian cancer cells containing wild-type sequences
+evident both vitro vivo studies
+findings study indicate activated erk1/2 pathway critical tumour growth survival ovarian cancers kras braf mutations
+furthermore suggest ci-1040-induced phenotypes depend mutational status kras braf ovarian cancers
+therefore ovarian cancer patients kras braf mutations may benefit ci-1040 treatment
+formalin-fixed paraffin-embedded tissue samples 58 ovarian cancers including 27 serous carcinomas 20 mucinous carcinomas 11 endometrioid carcinomas used study
+samples obtained department obstetrics gynecology shimane university hospital
+diagnosis based conventional morphological examination sections stained haematoxylin eosin (h&e) staining tumours classified according who (world health organization) classification
+tumour staging carried out according international federation gynecology obstetrics (figo) classification
+clinicopathological characteristics patients included study summarised table 1 
+all patients primarily treated cytoreductive surgery adjuvant platinum taxane chemotherapy (cbdca auc5 paclitaxel 175?mg?m?2 docetaxel 70?mg?m?2)
+all cases received 6?12 courses regimen
+acquisition tumour tissues approved shimane university institutional review board
+paraffin tissue blocks organised tissue microarrays made removing 3?mm diameter cores tumour block
+areas coring selected surgical pathologists (mf) basis review h&e slides
+ovcar3 skov3 a2780 mdah2774 (serous carcinoma) es2 (clear cell carcinoma) human ovarian cancer cell lines obtained american tissue culture center (rockville md usa)
+human ovarian carcinoma cell line kf28 (serous carcinoma) kind gift dr yoshihiro kikuchi (ohki memorial kikuchi cancer clinic women saitama japan) ( yamamoto et al 2000 )
+mpsc1 cell line established low-grade serous carcinoma kind gift dr le-ming shih (johns hopkins medical institutions baltimore md usa)
+ovk#18 (serous carcinoma) human ovarian cancer cell line obtained tohoku university (sendai japan)
+omc3 (mucinous carcinoma) jhoc5 (clear cell carcinoma) human ovarian cancer cell lines obtained riken bioresource center (ibaragi japan)
+addition human papillomavirus e6/e7-immortalised primary cultures normal ovarian surface epithelium (ose) included study
+iose27 normal ose cell line obtained american tissue culture center
+ose7 ose10 normal ose cell lines kind gift dr hidetaka katabuchi (kumamoto university kumamoto japan)
+set primary cultures established ovarian cancers including poc-1 poc-2 poc-3
+acquisition anonymous tissue specimens approved shimane university institutional review board
+diagnoses confirmed surgical pathologist before tumour samples harvested experiments
+primary tumour cultures established freshly isolated tumour samples immunosorting trypsinisation
+immunosorting fresh tumour tissues minced incubated collagenase (2?mg?ml?1) 37?°c 40?min
+after filtration through sieve membranes (with 100? ? m pores) tumour cells immunosorted using epithelial specific antigen (ep-cam) antibody bound dynal? beads (dynal oslo norway) following vendor's instructions ( nakayama et al 2006 )
+freshly isolated tumour cells allowed grow culture used experiments within two passages
+genomic dna purified all cell lines formalin-fixed paraffin-embedded tissues using qiaquick polymerase chain reaction (pcr) purification kit (qiagen valencia ca usa)
+pcr then carried out followed nucleotide sequencing using icycler (bio-rad hercules ca usa)
+exon 1 kras exon 15 braf both sequenced mutational hot spots together harbour nearly all published mutations ( davies et al 2002 singer et al 2002 2003 sieben et al 2004 )
+primers pcr sequencing manufactured genelink (hawthorne ny usa) their sequences described earlier report ( nakayama et al 2006 )
+sequences analysed using lasergene programme dnastar (madison wi usa)
+expression active phosphorylated erk1/2 (p-erk1/2) assessed immunohistochemistry western blot analysis
+antibody used study rabbit polyclonal antibody reacted phosphorylated but not unphosphorylated erk1/2 (cell signaling technology)
+immunohistochemistry carried out tissue microarrays dilution 1?:?1000 followed detection en vision+ system using peroxidase method (dako carpinteria ca usa)
+percentage positive cells estimated randomly counting ?500 tumour cells three different high-power fields (× 40) within one specimen
+positive reaction defined discrete localisation brown chromagen nucleus cytoplasm
+cases more 5% tumour cells showed detectable immunoreactivity scored positive
+cell lysates prepared dissolving cell pellets laemmli sample buffer (biorad hercules ca usa) supplemented 5% ? -mercaptoethanol (sigma st louis mo usa)
+western blot analysis performed ovarian cancer/ose cell lines/cultures including ovcar3 skov3 a2780 mdah2774 es2 mpsc1 kf28 ovk#18 omc3 jhoc5 pc1 pc2 pc3 iose29 ose7 ose10
+similar amounts total protein lysate loaded separated 10% tris-glycine-sds polyacrylamide gels (novex san diego ca usa) electroblotted millipore immobilon-p polyvinylidene difluoride membranes
+membranes probed active erk1/2 antibody (ptepy 1?:?5000) (cell signaling technology) followed peroxidase-conjugated anti-mouse anti-rabbit immunoglobulin (1?:?20?000)
+same membrane probed antibody reacted total erk1/2 (1?:?5000) (cell signaling technology) loading controls
+western blots developed chemiluminescence (pierce rockford il usa)
+cell-growth assay cells plated same density (3 × 103 cells per well) 96-well plates
+methyl thiazoyl tetrazorium (mtt) cell-growth assay performed ( nakayama et al 2001 ) 96?h after treating cells ci-1040 (provided pfizer inc new york ny usa) 5? ? m dimethyl sulphoxide (dmso) (control)
+data expressed percentage dmso control
+mean standard deviation (s.d.) obtained three experiments
+apoptotic cells detected 4'6-diamidino-2-phenylindole (dapi) staining
+data expressed mean ±1 s.d
+triplicates
+confirm presence apoptotic cells dapi-stained cells stained annexin v dye
+bromodeoxyuridine (brdurd) uptake staining measured using cell proliferation kit (amersham buckinghamshire england uk) apoptotic cells detected using annexin v staining kit (bio vision mountain view ca usa)
+percentages brdurd-positive annexin v-positive cells determined counting approximately 400 cells well 96-well plates
+data expressed mean ±1 s.d
+triplicates
+confirm findings ci-1040 effect vitro we injected 3 × 106 mdah2774 skov3 cells intraperitoneal tissue nu/nu mice (4 weeks age)
+four weeks balb/c nu/nu mice purchased charles river japan inc
+(kanagawa japan)
+ci-1040 prepared vehicle 10% cremophore el (sigma st louis mo usa) 10% ethanol 80% water
+when model mouse study first designed end point set day when mice began produce ascites acute gain weight due tumour growth reasons ethical origin
+tumours start causing ascites chance developing other malignant characteristics become harmful progressively
+four mice used experimental group
+during study mice killed when discovered abdomen one mice begun distend because ascites
+one week after tumour-cell injection either ci-1040 (ci-1040 150?mg?kg?1 resuspended 10% cremophore el (sigma) 10% ethanol 80% water) vehicle only (10% cremophore el (sigma) 10% ethanol 80% water) injected intraperitoneally (i.p.) once daily 3 weeks
+total dose ci-1040 mouse 63?mg
+four weeks after cell injection (three weeks after ci-1040 injection) abdomens control group mice begun distend
+time termination experiment dictated aforementioned ethical reasons (tumour ascites controls) endpoint observed time
+we anaesthetised mice before rendered moribund experiment
+total tumour weight time around 500?mg
+necropsy carried out all mice assess i.p
+tumour growth tumours excised weighed
+animal experiments carried out accordance regulations institutional ethical commission (shimane university) united kingdom co-ordinating committee cancer research guidelines (workman 1998 )
+overall survival calculated date diagnosis date death last follow-up
+patients either kras braf mutations similar performance status distributions
+data plotted kaplan?meier curves statistical significance determined log-rank test
+data censored when patients lost follow-up
+student's t -test used examine statistical significance difference growth-assay data
+mutational status kras braf all 45 ovarian carcinomas summarised table 1 
+somatic mutations kras identified 8 (13.7%) out 58 ovarian carcinomas
+contrast somatic mutations braf identified 5 (8.6%) out 58 ovarian carcinomas
+somatic mutations either kras braf identified 12 (20.6%) out 58 ovarian carcinomas
+most kras mutations located codon 12 all braf mutations codon 600
+both codons mutation hot spots
+interestingly simultaneous mutations kras braf did not occur tested ovarian carcinomas exception one mucinous case
+panel ovarian cancer cell lines primary cultures first analysed tumour mutation status kras braf genes
+shown figure 1 three ovarian cancer cell lines harboured either kras braf mutations
+frequency either kras braf mutations conventional serous high-grade carcinomas (4.0%?:?1/25) significantly lower other histological type (32.2%?:?10/31)
+immunoreactivity active p-erk1/2 detected both nucleus cytoplasm tumour cells ( figure 2 )
+consistent earlier report ( mizumoto et al 2007 )
+positive active p-erk1/2 identified 27 (46.6%) out 58 ovarian carcinomas
+patients stratified two groups depending mutational status kras/braf 
+relationships between kras/braf mutations clinicopathological factors including p-erk1/2 expression shown table 2 
+there no significant correlation between kras/braf mutations patient's age
+results table 2 show kras/braf mutation correlated significantly figo stage i ii ( p <0.001) p-erk1/2 ( p <0.001)
+addition there significant correlations between kras/bra f mutations pathological grade ( p =0.004) histological subtype ( p =0.014)
+next we examined prognostic effect kras/braf mutations p-erk1/2 expression
+out 58 samples we examined 45 available prognostic analysis
+kaplan?meier estimates overall survival plotted figure 3 
+there no significant relationship between kras/braf mutations p-erk1/2 expression overall survival patients ovarian carcinoma ( p =0.2460 p =0.9339 respectively)
+univariate analysis showed only figo stage iii iv affected overall survival patients ovarian carcinoma significantly( p =0.014)
+panel ovarian cancer cell lines primary cultures ovarian cancer first analysed kras braf gene mutation status
+mutational status correlated growth inhibition apoptosis induction mek inhibitor ci-1040 prevented activation downstream target erk1/2
+western blot analysis showed dose-dependent effect expression active erk1/2 es2 cells active erk1/2 not detectable 6?h after treating cells ci-1040 concentration 5? ? m ( figure 4 )
+shown figure 5 four tumours harbouring either kras braf mutations showed marked reduction (<50% dmso control) cell number ci-1040-treated group compared other 14 tumours containing wild-type kras braf ( p <0.001)
+ci-1040 no significant effect growth normal cells including ose cells
+likely kras/braf mutation not only determinant activating erk1/2
+therefore we analysed p-erk1/2 expression cell lines listed figure 5 
+only four cell lines mdah2774 es2 mpsc1 poc1 strongly expressed p-erk1/2
+skov3 a2780 showed weak expression erk1/2.these results suggest activation erk1/2 may depend kras/braf mutation ovarian cancer cells
+assess mechanisms underlying growth inhibition ci-1040 we measured percentages brdurd-labelled cells annexin v-labelled cells estimate proliferation apoptosis respectively
+we found ci-1040 significantly reduced cellular proliferation induced apoptosis cell lines either kras braf mutations comparison cell lines wild-type sequences ( figure 6 supplementary figure 1 )
+basis above findings we investigated whether ci-1040 growth-inhibitory effect tumour formation development vivo 
+tumour xenografts both mdah2774 ( kras mutant) skov3 (wild type kras braf ) cell lines established nu / nu mouse model
+all mice injected ci-1040 developed significantly smaller intra-abdominal xenograft tumours mice carrying diluent control cells kras mutant cell line madh2774 ( figure 7a )
+there no differences intra-abdominal xenograft tumour weights between ci-1040-treated group control groups transplanted wild-type kras/bra f cell line skov3 ( figure 7b )
+histological examination tumours after ci-1040 treatment showed inactivation p-erk1/2 tumour cells based immunohistochemistry ( figure 7c d )
+significantly higher frequency kras/braf mutations non-serous type carcinomas compared conventional high-grade serous carcinomas study finding great interest
+suggests conventional high-grade serous non-serous tumours may distinguished basis characteristic genetic alterations
+addition observation further supports theory ovarian carcinoma arises multiple pathways ( shih ie kurman 2004 2005 )
+model conventional high-grade serous non-serous carcinomas develop independently one another characterised different molecular genetic changes gene expression profiles ( schwartz et al 2002 marquez et al 2005 )
+we reported earlier kras braf mutations quite common low-grade serous ovarian carcinomas but rare conventional high-grade serous carcinomas ( nakayama et al 2006 )
+our present results showing low frequencies either kras braf mutations conventional high-grade serous carcinoma consistent our earlier reports ( nakayama et al 2006 )
+v600e most common braf mutation ovarian cancer ( singer et al 2003 sieben et al 2004 shih ie kurman 2005 nakayama et al 2006 )
+however mutations e585k g463e been reported ovarian cancer samples cell lines ( davies et al 2002 )
+therefore further studies needed clarify effects other braf mutations ovarian cancer completely describe mutation profile kras-braf signalling established ovarian cancer cell lines
+study we showed erk?mapk pathway activated 15 (33.3%) out 45 ovarian carcinomas activation depended mutational status kras braf 
+contrast recent report showing pathway frequently activated independent status kras braf endometrioid-type endometrial cancer ( mizumoto et al 2007 )
+discrepancy may because differences organ-specific oncogenic pathways
+ras?raf?mek?erk pathway may play important role ovarian carcinogenesis but not endometrial carcinogenesis
+similarly alternative pathways erk activation such crosstalk pi3k pathway exist endometrial cancer but rare ovarian cancer
+indeed pi3k signalling either pik3ca pten mutations occurs 40% endometrial cancers but <5% ovarian cancers ( tashiro et al 1997 oda et al 2005 kolasa et al 2006 nakayama et al 2006 )
+study kras / braf mutations tended favourable but not statistically significant effect overall survival
+our findings contrast recent report showing positive correlation between kras braf mutation clinical aggressiveness colorectal non-small-cell lung thyroid cancers ( lievre et al 2006 lee et al 2007 massarelli et al 2007 )
+difference prognostic significance between ovarian cancer latter types intriguing probably reflects organ-specific roles kras/braf pathway
+study 8 out 9 kras/braf mutations identified early stage (stage i ii) tumours
+may reflect more indolent course tumours kras/braf mutations
+earlier report advanced ovarian cancer patients (stage iii iv) p-erk expression longer overall survival patients low p-erk values ( hsu et al 2004 )
+however we did not find significant correlation between p-erk expression overall survival our study
+difference may because higher percentage early-stage ovarian cancers endometrioid mucinous histology tumours being included study compared earlier study
+although biological roles ras?raf?mek?erk pathways human cancer been thoroughly investigated there been no recent studies
+therefore not known whether activation kras braf mutations alters effects pathways tumour progression
+study we carried out genotype?phenotype correlation ovarian cancer cells using mek inhibitor ci-1040
+study we focussed ci-1040 because inhibited common downstream target ras signalling pathway
+therefore ci-1040 potential developed drug treatment ovarian carcinomas patients either kras braf mutations
+oral formulation ci-1040 already been shown effective mek inhibitor generally well tolerated multicentre phase ii study ( rinehart et al 2004 )
+our results provide compelling evidence biological effects erk signalling pathway depend mutational status its upstream regulators (i.e.) kras braf genes
+ovarian carcinomas mutations either kras braf more sensitive growth inhibition apoptosis induction mek inhibitor ci-1040
+observation suggests ovarian carcinomas mutations either kras braf more highly dependent activation ras?raf?mek?erk pathway cell proliferation survival those without such mutations
+thus inactivation erk1/2 results marked growth inhibition ovarian carcinomas mutations kras braf comparison only modest effect wild-type tumours
+above observations lend strong support view ?kinase addiction' activating mutations kinase pathway confer susceptibility tumours inhibitor ( sebolt-leopold et al 1999 arteaga baselga 2004 )
+microsatellite-unstable colorectal cancer cell lines effect braf inhibition depended whether cell harboured braf kras mutation
+braf inhibition small interfering rna resulted significantly decreased proliferation increased apoptosis braf mutant lines
+contrast effect not seen kras mutant lines ( preto et al 2008 )
+cells carrying braf mutations been shown more sensitive mek inhibitors cells ras mutations ( solit et al 2006 )
+raises possibility kras braf mutant cancer cells might differentially dependent signalling mechanisms involve mek
+difference sensitivity ras?raf?mek?erk pathway between ovarian cancer latter types intriguing probably reflects organ-specific roles kras braf oncogenes
+light our vivo vitro findings we propose ovarian cancer patients kras braf mutations considered mek inhibitor (ci-1040) therapy recur after conventional platinum taxane chemotherapy
+thus far mek inhibitor ci-1040 fared poorly clinical trials breast colon lung cancer ( rinehart et al 2004 )
+however its favourable therapeutic index high selectivity may outweigh its shortcomings kras braf mutant ovarian cancer
+therefore we recommend further clinical trials mek inhibitors ovarian cancer patients stratified basis kras/braf mutational status
+summary we shown phenotypic change ovarian carcinomas response erk1/2 inactivation depends mutational status kras braf 
+findings study provide new insight biological roles ras?raf?mek?erk signalling pathway ovarian carcinomas
+addition our observations important therapeutic implication ovarian cancer patients kras braf mutations
+ovarian carcinomas kras braf mutation clinically low-grade carcinomas serous other histological subtypes often refractory conventional cytotoxic chemotherapy ( bristow et al 2002a 2002b winter et al 2007 )
+therefore detection kras braf mutations ovarian cancers may identify patients who will benefit ci-1040 therapy.

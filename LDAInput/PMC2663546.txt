@@ -1,0 +1,171 @@
+170
+table 3 k- ras gene status response therapy group k12- ras gene mutation/total (%) positive therapy response (%) p value mutant wild type controls 0/75 (0) __ __ __ mgus 1/66 (1.5) __ __ __ mm 20/73 (27.4) 26.9 58.3 0.01 statistical significance k12-ras gene mutation: control vs mgus p = 0.95 control vs mm p = 0.0001 mgus vs mm p < 0.0001 positive therapy response: minor response no change disease (see methods) .
+serum levels igf-i patients affected multiple myeloma (mm) been scarcely studied
+present study aimed explore point comparing 55 healthy subjects 71 monoclonal gammopaties uncertain significance (mgus) 77 overt mm patients
+same subjects basic fgf vegf been detected
+all three mediators analyzed function k- ras mutation melphalan response
+concerning igf-i two representative monitoring examples been added
+cytokine determinations performed commercially available elisa kits while k12- ras mutation investigated genomic dna isolated bone marrow cell specimens rflp-pcr assay
+significant reductions igf-i levels observed mgus mm compared healthy controls
+addition mm subjects showed significantly decreased serum igf-i levels mgus
+conversely increasing levels observed bfgf vegf molecules significantly correlated
+multivariate analysis corrected age gender confirmed significant difference only igf-i values (p = 0.01)
+k12- ras mutation significantly associated malignancy response therapy significantly increased serum bfgf levels
+igf-i reduction transition: controls?mgus?mm changes observed over time suggest igf-i should furtherly studied future clinical trials possible monitoring marker mm
+spite progresses recently registered therapy multiple myeloma (mm) prognosis patients affected disease remains still poor [ 1 ]
+mm demonstrate progressive usually fatal course traditional treatments generally producing only temporary remissions
+5-year survival mm patients about 25% less 5% alive subjects after 10 years [ 1 ]
+among innovative treatments antiangiogenic therapy seems represent promising approach whose rationale based tumour growth inhibition starving cancer cells vital nutrients [ 2 ]
+recent evidences indicate angiogenic processes increased fundamental not only solid tumours but hematologic diseases including mm well [ 3 4 ]
+scarce angiogenic activities been found monoclonal gammopathy undetermined significance (mgus) compared overt malignant forms where marrow neoangiogenesis parallels tumour progression correlates poor prognosis suggesting angiogenesis-dependent regulation disease activity [ 5 - 7 ]
+neoangiogenesis under control various cytokines expressed neoplastic plasma cells so their involvement mm pathophysiology been strongly supported different reports [ 8 ]
+modulators include vascular endothelial growth factor (vegf) hepatocyte growth factor (hgf) basic fibroblast growth factor (bfgf) been extensively investigated biological samples derived mm patients
+however data concerning their potential prognostic power well their reciprocal interactions still conflicting [ 8 - 10 ] remain better elucidated
+vegf major regulator tumour-associated angiogenesis exhibiting various biological activities including regulation embryonic stem cell development local generation inflammatory cytokines [ 11 ]
+vegf gene encodes least five isoforms anchored extracellular matrix through heparin-binding domains
+mitogenic vascular endothelial cells induce vascular permeabilization [ 11 ]
+vegf expression regulated several factors including interleukins (il-1? il-6 il-10) fibroblast growth factor (fgf-4) insulin-like growth factor1(igf-1) [ 12 ]
+bfgf 18 24 kd polypeptide mainly produced cells mesenchymal origin shares key role mediator angiogenesis vegf vitro [ 13 ] vivo [ 14 ]
+molecule normally bound heparin heparan sulphate proteoglycans extracellular matrix particularly basement membranes around vessels stromal cells
+binds family four distinct high affinity tyrosine kinase receptors (fgfr-1?4) stimulates endothelial cell proliferation vitro [ 13 ]
+igf-i mitogen anti-apoptotic cytokine/growth factor/hormone produced several types cells (fibroblasts hepatocytes chondroblasts ..) [ 15 ]
+its potential role growth factor myeloma cells been deeply analyzed data ge nl et al [ 16 ] suggest igf-i significantly contributes expansion mm cells vivo activation two distinct pathways: akt/bad mapk kinase
+moreover been suggested circulating levels igf-i its inhibitory binding proteins (igf-bp 1?6) may associated increasing risk common cancers [ 17 ]
+main circulating component igf-i released liver under gh control while locally different regulatory mechanisms been reported [ 18 19 ]
+free igf-i (molecules unbound igf-bps) acts through specific high-affinity igf-i receptor but insulin receptor igf-ii receptor may used although lower affinities [ 20 ]
+recent data literature seem support idea functional link existing between induction angiogenesis-mediated growth factor expression gene alterations tumour development
+particular c-myc deregulation pdgf-bb been demonstrated either normal [ 21 ] tumour cells [ 22 ]
+moreover existence relationship between activation ras oncogenes regulation vegf/vpf expression been demonstrated experimental [ 23 ] clinical [ 24 ] studies
+regard there several reasons supporting fact ras gene represents interesting case studying impact cancer-associated genetic mutations tumour angiogenesis
+fact activated ras capable triggering several crucial signalling cascades so altering expression some members ras -responsive genes many could relevant triggering contributing tumour angiogenesis [ 25 ]
+although mechanisms governing expression angiogenic cytokines tumour cell dominantly acting oncogenes largely unknown regulatory effect oncogenes angiogenic mediators some potentially important therapeutic consequences needs better investigated especially hematologic malignancies
+aim present study evaluate serum levels panel three cytokines such igf-i plus two angiogenic factors such vegf bfgf 148 patients plasma cell dyscrasias
+seventy-one out total patients affected mgus 77 patients mm latter receiving treatment conventional chemotherapy (melphalan/prednisone)
+two groups patients compared 55 controls represented healthy human blood donors
+addition we tried determine whether serum levels cytokines combined k- ras gene alterations might allow select groups patients different responsiveness chemotherapy
+one hundred forty-eight patients affected plasmacell dyscrasia consecutively admitted regina elena cancer institute rome entered study
+fifty-five healthy blood donors used controls
+none them showed any abnormalities concerning basic laboratory tests no detectable infection observed
+either patients healthy blood donors admitted after giving informed consent
+patient groups whose main clinical features reported table 1 included 71 monoclonal gammapathies undetermined significance (mgus) 77 multiple myeloma (mm) diagnosed staged according durie & salmon criteria [ 26 ]
+mm patients classified stage i ii when analysed onset disease treated conventional therapeutic regimens including melphalan (0.25 mg/kg body weight/day) prednisone (2 mg/kg body weight) 4 consecutive days
+course repeated every 6th week until tumour progression)
+response defined minor response when serum m-protein decreased > 25% but < 50% urinary bj decreased >50% but not < 0.2 g 24 h
+non response group defined serum m-protein levels decreased < 25% urine bj protein levels decreased < 50% initial levels
+intermediate situations categorized no change disease
+main characteristics mgus mm patients healthy controls age given mean ± sd
+mgus vs mm: p = 0.11 mgus vs ctr: p = 0.005 mm vs ctr: p = 0.0001 gender: mgus vs mm: p = 0.30 mgus vs ctr: p = 0.91 mm vs ctr: p = 0.21
+s-m protein concentration expressed mean ± sd
+mgus vs mm: p = 0.0001 (*) according durie & salmon criteria [ 26 ]
+some myeloma patients selected having least 6 subsequent determinations whom venous samples been drawn regular intervals starting diagnosis included detailed analysis igf-i changes during clinical course disease (about 2.5 years)
+two representative examples shown figure 1 serial measurements igf-1 serum m-protein (s-mp) diagnosis (0) last follow-up before death two mm patients 
+serum mp concentrations derived medical records
+first arrow indicates when mp treatment started according protocol described "methods others two arrows indicate repetition new cycles therapy due disease progression
+[symbols: cube = igf-i diamond = s-m protein]
+detection serum cytokines performed peripheral blood samples processed within 1 h after venipuncture centrifugation (1500 gfor 10 min) serum samples collected mgus mm patients well 55 healthy blood donors stored -70°c until testing
+angiogenic factors (vegf bfgf) measured quantitative elisa (quantikine? quantikine® r&d systems minneapolis mn usa) according manufacturer's instructions expressed pg/ml
+all determinations performed duplicate only one analytical set elisa test sensitivity expressed mean minimal detectable dose (mdd) < 5 pg/ml vegf 3 pg/ml bfgf
+coefficients variation (cv) different cytokines obtained repeating 5 times same samples did not exceed 15%
+when necessary samples levels higher maximum standard calibration curve repeated after dilution
+inter-assay cv reported manufacturer varies 6.2% 8.8% vegf 7.4% 9.1% bfgf
+intra-assay cv varies 5.1% 6.7% vegf 3% 9.7% bfgf
+order avoid potential platelet interference vegf concentration patient control subject serum values corrected their relative platelet counts
+igf-i concentration determined serum immunoreactivity using quantitative sandwich enzyme immunoassay (elisa) technique (quantikine® r&d systems minneapolis mn usa) according manufacturer's instructions expressed ng/ml
+test sensitivity igf-i 0.026 ng/ml while inter-assay cv reported manufacturer igf-i vary 7.5% 8.1% intra-assay cv 3.5% 4.3%
+dna extracted bone marrow aspirates using micro-geno dna kit (ab analitica padoa italy) according manufacturer's instructions
+quality isolated dna analyzed through 1% agarose gel electrophoresis
+mutations k- ras codon 12 (g g t?g c t) detected all samples "enriched" restriction fragment length polymorphism-polymerase chain reaction (rflp-pcr) assay according kahn sm et al
+[ 27 ] previously described [ 28 ]
+report primarily employed univariate analysis data means non parametric tests (mann whitman kruskall wallis variance analysis quantitative corrected x square fisher's exact test categorical data)
+besides univariate analysis multivariate logistic regression analysis performed significances adjusted age gender
+logistic regression analysis employed end point four variables subdivided two groups subjects exceeding not cut off value (i.e
+median value relative controls)
+multivariate logistic regression analysis been applied using spss version 6.0 microsoft windows 95/98
+model applies stepwise logistic regression ("spss backward lr method")
+p < 0.05 cut off been employed significance evaluation
+analyze basal characteristics subjects studied report (table 1 ) we tabulated data concerning main clinical features subdivided three groups namely: 55 healthy blood donors 71 mgus 77 mm
+no significant variations registered gender three comparisons while age significantly differed when control subjects compared mgus mm
+median serum levels ranges three cytokine: igf-i bfgf vegf compared those healthy controls reported table 2 
+serum levels igf-i significantly sequentially reduced controls mgus mgus mm
+significances between three groups always < 0.0001
+addition significances more pronounced those observed bfgf vegf
+multivariate logistic regression analysis showed significances observed igf-i concentrations three groups independent age gender relative p 0.01
+serum levels igf-i betafgf vegf control mgus mm statistical analysis been performed both three groups together different couple groups
+cytokine levels given median (range)
+p1 = univariate analysis kruskall-wallis test three groups
+p2 = univariate analysis mann whitney test controls vs mgus
+p3 = univariate analysis mann whitney test mgus vs mm
+p4 = univariate analysis mann whitney test controls vs mm
+igf-i behaviour been confirmed logistic regression analysis after data correction age gender described text
+bfgf presented significantly different serum values among three groups
+particular there statistically significant difference (p = 0.001) between controls mgus patients higher values observed
+similar difference registered between controls mm patients (p = 0.02) while contrast mgus mm showed similar results (p = 0.27)
+multivariate analysis corrected age gender did not reach statistical significance (p = 0.9)
+vegf finally did not show significant variations four comparisons (p least > 0.14) multivariate analysis performed above not significant (p = 0.08)
+correlation matrix using values four variables mgus mm groups only resulted significant vegf vs b fgf (r = 0.37 p = 0.002) mgus patients
+since known gene alterations may linked cytokine modulation we analyzed incidence (%) k- ras mutations mgus mm subjects due emerging role gene plasma cell dyscrasia pathogenesis [ 29 30 ]
+mutations k- ras codon 12 analyzed genomic dna isolated bone marrow cell specimens two groups patients
+due presence low-molecular weight fragments isolated dna 66 out total 71 mgus samples 73 out total 77 mm samples considered suitable genetic analyses
+k- ras gene mutations present only one (15%) mgus subject twenty (274%) mm ones
+expected none control specimens analyzed manifested gene alterations (table 3 )
+fact observed highly significant (p < 0.0001) difference between controls mm between mgus mm while no significance found between controls mgus groups (p = 0.95) means two two comparison three groups (controls mgus mm) concerning distribution k- ras gene mutation k- ras gene status response therapy statistical significance k12-ras gene mutation: control vs mgus p = 0.95 control vs mm p = 0.0001 mgus vs mm p < 0.0001 positive therapy response: minor response no change disease (see methods) 
+interestingly significant increases (p = 0.02) serum bfgf levels observed patients showing k- ras gene mutation (median = 4.6 pg/ml range = 1.2?19.6 pg/ml) compared those gene wild type form (median = 2.2 pg/ml range = 1.0?20.8 pg/ml)
+no statistically significant differences between k- ras gene status serum factor concentrations found igf-i vegf
+seventy-three mm patients showing not k- ras gene mutations analyzed their response therapy
+shown table 3 presence k- ras mutations significantly associated lower response melphalan compared wild type k- ras subjects (p = 0.015)
+statistically not significant trend (p = 0.07) observed serum bfgf concentrations when comparing responders (mean = 1.9 pg/ml range = 1.2?20.8 pg/ml) non responders (mean = 3.8 pg/ml range = 1.3?19.6 pg/ml)
+attempt find link between response therapy (yes/not) k- ras gene status (mutant/wild type) cytokine level (greater lower cut-off) we could only confirm strong influence k- ras gene status rather level four different cytokines determining therapy response mm patients (data not shown)
+several patients followed up during therapy
+figure 1 shows two them presenting least six/seven observation times consecutive serum samples time diagnosis until death analyzed
+first patient (panel a) high serum igf-i (165 ng/ml) level diagnosis
+he showed minor response treatment least 15 months 26% fall serum m-protein concentration concomitant slight reduction igf-i amounts
+then new cycles therapy administered because tumour progression
+patient responded treatment about 10 months (s-m protein = 6 g/l serum igf-i level = 101 ng/ml) then relapsed again
+new treatment then initiated but patient died after about 5 months
+second patient (panel b) normal serum igf-i (51 ng/ml) concentration diagnosis did not respond treatment exception igf-i reduction observed 10 months after starting therapy he showed only slight modifications both serum variables during course disease
+mm evolution been shown strongly conditioned angiogenic mechanisms terms growth therapy sensitivity
+several authors tried explain how angiogenic cytokines [ 4 31 ] may work influencing mm cells consequently recent years presence quantity several angiogenic factors their inducers their signalling mediators been documented effort explore possibility use them diagnostic monitoring prognostic markers disease evolution therapy sensitivity
+despite bulk information clear indications not been completely gained some different contrasting results been published [ 4 8 9 32 - 34 ]
+general angiogenic mediators (vegf basic fgf tgf-beta1 tnf-alpha) been found increased mm patients often significantly correlated others [ 8 ]
+sometimes stage related although not all reports consistent field
+angiogenic factors show different behaviours under treatment
+interestingly while conventional therapy (melphalan plus prednisolone) reduced serum concentrations factors [ 35 ] anti-angiogenic therapy based thalidomide plus dexamethasone accompanied increase same factors responder subjects [ 4 34 ]
+another molecule involved mm biology igf-i mediator cytokine (locally)/hormone (in general circulation) activity [ 36 ] known growth promoter several tumours including mm acting through its anti-apoptotic/proliferative [ 16 19 37 ] effects interaction angiogenic factors such anti-proliferative tgf-beta1 [ 38 ]
+surprisingly serum data regarding igf-i mm very scarce partially contrasting [ 39 40 ] although igf-i suspected able transform mgus mm [ 41 ]
+previous data b-cell chronic lymphocytic leukaemia found clear reduction igf-i sera compared controls [ 42 ] even though studies initially expected exibit increased concentrations due tumourigenic activity igf-i
+not so surprising igf-i determinations obtained sera subjects already affected mm
+known all cancers including mm possess more less strong inflammatory component (in particular proinflammatory cytokines il-6 tnf-alpha produced myeloma cells) inflammation associated reduced igf-i synthesis [ 43 ]
+data literature showed igf-i molecules may modulated socs genes after their activation proinflammatory cytokines [ 37 ]
+present study clearly shows serum igf-i concentrations significantly decreased healthy blood donors mgus mm patients finding not previously described
+result independent age (significantly lower controls) sex confirmed multivariate regression analysis both all subjects when only igg mm patients considered (data not shown)
+similar analysis obtained separately male female patients confirmed our findings (data not shown) indicating gender not cause differences previously described
+findings open possibility igf-i molecule might further studied monitoring marker follow patients over time specific trials
+previous study standal coworkers [ 39 ] failed observe significant differences between mm controls
+such divergence may depend some patient characteristics
+example standal selected only patients 69% advanced tumour stages (iii) while our patients prevalently tumour stages i ii
+previously mentioned chronic b cell leukaemia showed data similar those reported our paper [ 42 ]
+opposite igf-i behaviour vegf bfgf whose concentrations increased mm sera compared control samples
+vegf b-fgf serum concentrations highly correlated (p = 0.002) confirming results previously published other authors [ 8 ]
+another variable considered study k- ras gene whose mutation significantly associated malignancy [ 29 30 ] while no significant difference observed between controls mgus
+k- ras gene alteration previously been associated modulation different biological agents including igf-i [ 23 24 44 45 ]
+reported solid tumours [ 47 ] we found significant increases serum bfgf concentrations mm patients eliciting k- ras gene activation
+moreover same k12- ras mutation significantly associated increased resistance therapy (table 3 )
+trend lower serum bfgf levels observed when responders mm patients compared non responder ones
+when k12- ras mutation levels 3 cytokines under above cut offs combined no significant differences found different subgroups (data not shown)
+therefore therapy effect only dependent k- ras mutation not cytokine levels
+considering results present study we tried evaluate possibility igf-i might used monitoring marker
+therefore we show two representative examples mm patients followed during subsequent courses therapy whose disease behaviour related monoclonal component concentrate serum igf-i levels over time
+results show generally serum igf-i concentrations behave similarly monoclonal component
+some divergences observed may explained fact various eveniences may influence serum igf-i levels: age gender [ 47 ] inflammatory processes [ 48 ] other concomitant diseases [ 49 50 ] endocrine diseases [ 47 ] nutrition [ 47 ] drug administration liver toxicity
+furthermore melphalan therapy hepatotoxic therefore should reduce igf-i synthesis been reported increase igf-i molecules after 4th course [ 40 ] possibly when effective restoring peripheral blood igf-i amounts
+possible speculate cytotoxic effect therapy should release great amount endocellular molecules necrotic cells induction inflammatory processes igf-i drop
+conclusion previously reported other neoplastic diseases [ 42 51 ] serum igf-i concentrations clearly reduced case open disease
+therefore clinical use serum determinations molecule should made very carefully since substance does not show clear specificity mm
+possible role igf-i putative monitoring marker malignant disease seems emerge our study even though specific clinical trials need planned possible interference other factors serum determinations should considered
+all contributing authors declare no actual potential conflicts interest do exist
+cg fa conceived study discussed results wrote manuscript
+gv participated design results discussion elisa experiments
+rv carried out pcr experiments k-ras gene mutation elisa assays gv participated revision manuscript dg performed statistical analysis
+fp collected biological samples patient's clinical data
+mcp participated study design discussion clinical data
+ec discussed results helped draft manuscript.

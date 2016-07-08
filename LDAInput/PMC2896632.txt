@@ -1,0 +1,232 @@
+231
+table 1 consequences oncogenic kras cellular physiology biology ras effector pathways main function ras signalling pathways oncogenic ras perturb intrinsic biochemical properties cell pathways mapk proliferation increase pi3k/akt survival nore1/rassf1 apoptosis deregulation ral-gds membrane vesicle trafficking jak/stat3 growth arrest differentiation tiam1/rac cytoskeletal organization plc îµ /pkc calcium transport signalling af6 cell-cell junctions pkc î¾ transcription pi3k/pdk1 translation
+kras gene (ki-ras2 kirsten rat sarcoma viral oncogene homolog) oncogene encodes small gtpase transductor protein called kras
+kras involved regulation cell division result its ability relay external signals cell nucleus
+activating mutations kras gene impair ability kras protein switch between active inactive states leading cell transformation increased resistance chemotherapy biological therapies targeting epidermal growth factor receptors
+review highlights some features kras gene kras protein summarizes current knowledge mechanism kras gene regulation
+underlines importance activating mutations kras gene relation carcinogenesis their importance diagnostic biomarkers providing clues regarding human cancer patients' prognosis indicating potential therapeutic approaches
+1982 chang der two postdoctoral fellows working geoffrey cooper's laboratory discovered kristen rat sarcoma virus murine sarcoma virus retroviral oncogenes related rodent sarcoma virus genes
+human kras gene homolog two oncogenes [ 1 ]
+normal form human c-ras been called kras kras2 (kristen rat sarcoma viral oncogene homolog alternatively kristen murine sarcoma virus2 homolog)
+1983 der described abnormal form p21 protein expressed colon lung carcinoma cell lines showed gene encoding protein able transform nih3t3 cells [ 2 ]
+finding later confirmed parada weinberg [ 3 ] who described transformation nih3t3 cells activated kras oncogene
+aberrant p21 proteins encoded altered kras gene their expression carcinoma tissue causally linked abnormal state activation [ 2 ]
+since then been accepted kras one front-line sensors initiate activation array signalling molecules allowing transmission transducting signals cell surface nucleus thus affecting cell differentiation growth chemotaxis apoptosis
+signal transduction cascade initiated activated form kras depicted figure 1 
+result effects kras elicits changes cytoskeleton consequently affects cell shape adhesion migration [ 4 5 ]
+following paragraphs kras protein gene oncogenesis cancer therapy reviewed
+kras belongs group small gtp-binding proteins known ras superfamily ras-like gtpases
+more 150 ras-like genes been identified mammalian genomes [ 6 ]
+entire ras superfamily characterised presence catalytic g domain but includes members distinct evolutionary specializations respect different cellular process [ 7 ]
+ras subfamily (ras rho rab arf rac ran) includes most frequently studied proteins such harvey-ras (h-ras) neuroblastoma-ras (n-ras) two variants kristen-ras (k-ras)?one known kras4a weakly expressed human cells dominant form known kras4b much more highly expressed
+kras gene product kras protein contains 188 amino acid residues molecular mass 21.6?kd participates intracellular signal transduction [ 8 ]
+mentioned above kras protein remains inactive until binds gtp depicted figure 2 
+switch inactive active form regulated intracellular signals
+once gtp bound kras protein kras undergoes conformational changes involve two regions protein thus activating it
+two important regions known switch 1 (aminoacids 30?38) switch 2 (aminoacids 59?67) form effector loop controlling specificity binding gtpase its effector molecules
+conformational change kras protein affects its interactions multiple downstream transducers?gtpase-activating proteins (gaps)?which amplify gtpase activity ras protein 100000-fold [ 9 ]
+change affects interactions guanine-exchanging/releasing factors (gefs/grfs) promoting release gtp
+kras protein intrinsic gtpase activity stimulated gaps acts timer associated direct interactions effectors [ 10 ]
+mutations found oncogenic form ras p21 protein impair gtpase activity make kras protein unresponsive gap proteins
+mutated forms p21 rapidly exchange gdp gtp prefers substrate thus inducing active state
+such aberrant forms kras protein deregulate many effectors thus affecting several important cellular pathways
+many gtp derivatives targeting ras raf effectors been developed repair defective gtpase activity influences aberrant ras signalling [ 11 ]
+however little known about specificity transport compounds modified gtps through plasma membrane
+kras contains four domains
+first domain includes 85 amino acids n-terminus identical three forms ras (kras nras hras)
+second domain contains 80 amino acids lower sequence identity (70?80%) among three forms ras protein
+regions important signalling function kras protein jointly form g-domain (amino acids 1?165 figure 3 )
+g-domain kras protein includes gtp-binding pocket where p-loop-phosphate binding loops (aminoacids 10?16 56?59) interact b-phosphate c-phosphate gtp
+residues 116?119 152?165 interact guanine base
+region between amino acids 32 40 (the core effector region) essential interactions between putative downstream effectors gaps
+ras protein contains hypervariable region (hvr) c-terminus (amino acids 165?188/189 third domain) guides posttranslational modification determines plasma membrane anchoring
+region plays important role regulation biological activity ras protein [ 12 ]
+switch regions i ii play important roles binding regulators effectors
+phosphate binding pocket-p loop permits temporary binding gtp ras protein
+region gtpase activity negatively regulates ras protein via ras-gtp hydrolysis reaction binding guanosine diphosphate
+kras protein acts like plasma membrane-localized molecular switch regulating multiple signal transduction pathways [ 13 ]
+synthesized cytosol where farnesylated farnesyl transferase cysteine residue carboxy-terminal motif caax (where c represents cysteine aliphatic amino acid x any amino acid)
+carboxy-terminal motif forms last domain kras protein
+aax amino acid motif cleaved proteases whereas c-terminal carboxyl residue kras protein methylated
+cleavage axx peptide motif methylation occur cytosolic surface endoplasmatic reticulum mediated ras-converting enzyme rce1 [ 14 ]
+c-terminal farnesylation plays important role membrane localization
+splice variant kras4a axx motif undergoes additional palmitoylation palmitoyl transferase resulting proper targeting kras4a membrane
+however there no detectable palmitoylation predominant splice variant kras4b probably reaches plasma membrane via microtubule-dependent mechanism thus avoiding golgi apparatus [ 13 15 ]
+posttranslational farnesylation carboxymethylation believed important oncogenicity ras protein
+treatment farnesyl transferase inhibitors been shown inhibit anchorage-independent growth both kras-transformed mouse fibroblasts human tumour cells containing kras nras mutations
+signal transduction kras protein does not exclusively occur plasma membrane
+activation downstream signalling pathways kras triggered signals subcellular compartments such endoplasmatic reticulum golgi apparatus [ 16 17 ]
+while wild-type kras usually promotes cell cycle progression induce growth arrest apoptosis replicative senescence when increased abnormal levels
+triggered cellular stress ultraviolet ionizing irradiation heat shock some cytokines
+circumstances triggering growth arrest represent defence mechanism against inappropriate activation ras
+been demonstrated wild-type kras gene tumour suppressor frequently lost during tumour progression many types cancer [ 18 ]
+once kras gene mutates acquires oncogenic properties ( table 1 ) seems causally involved development various human cancers [ 19 20 ]
+loss wild-type kras allele been observed both human mouse tumours indicating absence normal allele may facilitate transformation one copy oncogenic kras allele [ 21 ]
+oncogenic mutations kras gene prevent hydrolysis gtp thus permanently activating ras molecules [ 22 ]
+expression mutated kras gene fibroblasts been shown augment metalloproteinase 2 (mmp2) expression matrix enhance invasion cancer cells [ 23 ]
+overexpression mutated form kras inhibits glycosylation integrin ? 1-chain resulting altered polarisation increased adhesiveness colon cancer cells
+addition expression oncogenic form kras protein been shown associated upregulated carcinoembryonic antigen (cea) expression disturbance epithelial cell polarization [ 24 ]
+there two copies kras gene human genome designated kras1 kras2
+mrna encoded main kras2 5.5?kb long differs transcripts transforming kristen murine viral gene only six codons [ 8 ]
+analysis human placental embryonic cdna libraries revealed 900?bp kras1 gene homologous corresponding sequence kristen murine sarcoma virus2 homolog one intervening sequence 300?bp kras2 fully homologous viral counterpart
+kras1 gene pseudogene derived kras2 alternative mrna splicing
+therefore kras1 should officially named kras1p [ 8 ]
+1983 mcbride colleagues found protooncogenes kras1 kras2 localized human chromosomes 6 12 respectively [ 25 ]
+later kras1 kras2 mapped situ hybridization chromosome positions 6p11-12 12p11.1-12.1 respectively [ 26 ]
+sequencing showed kras2 gene six exons
+2 3 4 invariant coding exons
+alternative splicing exon 4 produces two mrna forms known 4a 4b
+exon 5 skipped during alternative splicing giving rise isoforms krasa krasb
+6th exon encodes c-terminal region krasb not translated (the 3?untranslated region 3?utr) krasa
+krasb predominant splice variant kras2 referred briefly kras [ 27 ]
+there indications allelic losses chromosome region 12p commonly occur human cancers frequently deleted region near kras gene position 12p12-13 [ 28 ]
+further recent studies lung adenocarcinoma suggest there association between incidence allelic losses 12p12-13 region kras gene mutation [ 29 ]
+diagnostics kras gene mutations clinical setting limited two factors: first time testing kras mutated tumour cells may minority outbalanced wild type tumour cells wild type non-tumour cells present sample
+second analytically preferable snap-frozen tumour samples rarely available kras mutation testing
+instead formalin fixed paraffin-embedded (ffpe) tissue used
+there integrity dna may severely compromised procedure formalin fixation (especially its long duration low ph)
+all known principles dna polymorphism detection applicable kras mutation detection demand dedicated review outside scope paper
+more 60 methods described divided sequencing methods [ 30 ? 37 ] methods based specific interaction oligonucleotide methods based specific interaction enzyme [ 38 ? 40 ] conformational methods [ 41 ? 47 ]
+while many specificity and/or sensitivity enhancement methods described well [ 48 ? 53 ] analytical validation systematic comparison assessment methods side side lacking
+authors best knowledge only communauté européene (ce) marked kras mutation detection kits supplied dxs (mutations codons 12 13 tested using principle arms-pcr [ 54 ] scorpion primers [ 55 ] vienna-lab (reverse dot blot assay format) tib molbiol (kras lightmix clamped hybridization probes codon 12) invigene (qpcr sequence suppressor agent stopprimer unwanted excess component applicable first two nucleotide positions codons 12 13)
+kras expression regulated both during initiation transcription binding proteins its promoter during transcriptional elongation micrornas affecting kras mrna stability
+both human murine kras gene promoters contain nuclease hypersensitive polypurine-polypyrimidine element (nhppe)
+g-rich strand nhppe located proximal promoter sequence able form intramolecular parallel g-quadruplex consisting three g-tetrads three loops recognizes binds nuclear proteins involved transcriptional repression kras expression
+accordingly been reported sequestration nuclear proteins bind nhpp oligonucleotide mimicking kras g-quadruplex resulted 40% inhibition kras transcription compared controls [ 56 ]
+transcription kras regulated part interaction between promoter region 65?kda esxr1 protein part micrornas (mirnas)
+esxr1 human protein n-terminal homeodomain nucleus c-terminal proline-rich repeat region i cytoplasm
+n-terminal fragment esxr1 binds taatgttatta consensus sequence exon-1 kras gene thus inhibiting its mrna expression [ 57 ]
+mirnas contain 21-22 nucleotide long noncoding sequence able regulate gene expression [ 58 ]
+2005 estimated there more 500 mirnas collectively regulate approximately 30% all human genes including ras gene family [ 59 ]
+regulation gene expression mirnas probably occurs result imperfect hybridization mirna complementary sequences located 3?untranslated region (3?utr) target messenger rna (mrna) species
+interaction between mirna mrna both decreases mrna stability represses protein synthesis preventing access ribosomes [ 60 ]
+interestingly many altered mirnas been identified human cancers [ 61 ? 63 ] including some most thoroughly analyzed mirnas?let-7 [ 64 ] lin-4 [ 65 ] bentam [ 66 ]?all regulate cell proliferation differentiation
+cancer-altered mirnas divided two main groups
+members one group oncomirs upregulated cancer act like oncogenes
+second group anti-oncomirs probably act tumour suppressors targeting oncogenes repressing cell cycle division cancer cells [ 67 ]
+example mirna-let7 oncogene-antioncomir pair negatively regulates ras protein levels decreases cell proliferation rates [ 68 69 ]
+kras nras hras harbour multiple let-7 mirna complementary sites (lcss) their 3?utrs [ 70 ]
+zhang et al
+[ 18 ] found reducing activity let-7 hela cells resulted 70% increase ras protein levels while takamizawa et al
+[ 68 ] found let-7 expression 80% lower 60% lung cancer adenocarcinoma squamous cell carcinoma lines normal lung tissue
+moreover correlation between low levels let-7 mirna significantly higher ras protein expression been found lung squamous cell carcinomas
+results suggest let-7 able downregulate expression ras human carcinomas
+molecular findings provide strong rationale developing novel therapeutic treatments aimed decreasing kras protein expression cancer cells
+many cases kras protein expression dramatically increased due mutations kras gene sequence thus making cells refractory current therapies such those involving use epidermal growth factor receptor inhibitors [ 71 ]
+activating kras gene point mutations been detected many types human tumours [ 72 ]
+such oncogenic forms kras gene prevalent pancreatic carcinomas (>80%) colon carcinomas (40?50%) lung carcinomas (30?50%) but present biliary tract malignancies endometrial cancer cervical cancer bladder cancer liver cancer myeloid leukemia [ 73 74 ] breast cancer [ 75 ]
+mutations kras gene important effects process carcinogenesis depend cells tissues involved [ 76 ]
+mutations found most frequently kras gene cancer cells located positions 12 13 exon 1 less frequently codons 61 63 117 119 146 [ 77 78 ]
+mutations located near gtp binding site
+allelic mutations result amino acid changes namely gly asp ala arg ser val cys codon 12 gly asp codon 13 [ 79 ]
+somatic missense mutations positions 12 13 61 63 enable perturbation intrinsic gtpase activity kras protein resulting reductions gtp hydrolysis capacity
+mutations codons 12 ( figure 4 ) 13 known lead conformational changes kras protein
+mutation codon 12 kras gene causes encoded kras protein ?freeze? its active state much longer duration its nonmutated counterpart [ 11 ]
+mutations resulting substitution amino acids 116 117 119 146 reduce nucleotide affinity kras protein thereby affecting rate gdp/gtp exchange
+oncogenic forms ras protein profound effect downstream effector pathways resulting much higher proliferation rates cancer cells expressing such forms
+transforming ability kras oncogene may result overexpression mutant kras allele deletion wild-type allele [ 80 ]
+overexpression kras induced loss p16ink4 (cdkn2a) p19ink4 (cdkn2d) p53 [ 81 ]
+however studies zhang et al
+(2001) shown wild-type kras allele suppress oncogenic function mutated allele [ 18 ]
+addition radiosensitivity tumour cells altered oncogenic ras expression probably result effect kras mutation several intercommunicating pathways [ 82 ]
+prevalence mutations kras gene time diagnosis highest pancreatic cancers (>80% cases) notably pancreatic adenocarcinomas predominantly harbour kras forms guanine thymine transversion codon 12 [ 83 ]
+wei colleagues examined samples collected 30 patients pancreatic cancer found 24 them showed mutations codon 12 only one codon 13 [ 84 ]
+however concurrent kras mutations frequently occur patients pancreatic cancer [ 85 ]
+positive association been found patients pancreatic cancer between tobacco exposure mutations kras gene [ 86 ]
+similar associations been reported coffee drinking [ 87 ] milk butter alcohol consumption [ 88 89 ]
+however no direct evidence causal relationship between dietary components mutations kras gene been presented
+second highest incidence (about 50% cases) mutations kras gene found colon cancers [ 90 91 ]
+progression colon carcinomas divided least three stages
+first stage characterized development small benign tubular type adenoma polyp sporadically detectable kras mutation(s) [ 92 ]
+second stage more aggressive usually associated patches definitive carcinoma cells may grow invasive cancers characterising third stage
+mutations kras gene been identified tissues both adenoma carcinoma cases but much lower frequencies colon adenoma tissues carcinoma tissues [ 93 94 ]
+incidence mutation kras gene been found low occur mainly small adenomas patients familial adenomatous polyposis who predisposition colon cancer [ 94 ] kras gene associated colon cancer appear most often codons 12 (28%) 13 (8%) exon 1 less frequently codon 61 [ 95 ]
+colorectal cancer main substitution (gly asp) been found occur codon 12
+mutation ggt (gly) gtt (val) codon 12 been observed more frequently primary metastatic carcinoma suggesting mutation may confer more aggressive phenotype colorectal carcinoma [ 96 ]
+mutation codon 13 resulting substitution gly asp observed colon cancer been shown associated reduced survival rates [ 97 ]
+kind kras gene mutation been shown occur more frequently unstable stable colon tumours [ 97 98 ]
+losses kras wild type alleles both mouse human lung adenocarcinomas squamous carcinomas been found many studies notably 67% 100% chemically induced murine lung adenocarcinoma cases harbouring mutant kras
+humans kras mutations appear 10?30% lung carcinoma cases demonstrating strong associations history smoking [ 99 ] poor prognosis [ 100 101 ]
+among both current former smokers kras gene mutations been identified 30% lung adenocarcinoma cases
+further although some researchers found sporadic kras mutations non-smokers early onset cancer smoking history important factor correlated increased occurrence mutations kras gene lung cancer cases [ 102 ]
+mutations kras gene codons 12 13 detected 21% nsclc (non-small cell lung cancer) tumour samples examined tribute iii trial [ 103 ]
+nsclc patients tendency accumulate activating mutations either egfr kras genes
+however clinical study shown mutations two genes general mutually exclusive
+egfr mutations more often found patients who no history smoking
+although higher kras mutational frequency primarily found cancers pancreas colon lung possible links between kras hyperactivity human breast cancer been explored recently
+hollestelle al
+found mutations 12.5% cases [ 104 ] but sanger cosmic database version 28 ( http://www.sanger.ac.uk/genetics/cgp/cosmic/ ) records only 5% incidence [ 105 ]
+lower frequency kras mutations breast cancer cell lines suggests gene mutation may less important breast cancer carcinogenesis other forms cancer although mutations ?hotspot? kras gene been found small subset breast cancers
+many clinical trials shown poorer response chemotherapy shorter time-to-progression worse overall survival consistently associated specific mutations oncogenes
+kras one most frequently mutated oncogenes many cancers one most important predictors resistance targeted therapy using egfr1 tyrosine kinase inhibitors (egfr-tkis) [ 106 ]
+two most important egfr-specific tkis gefitinib (iressa zd1839) erlotinib (tarceva)
+first indications predictive strength association between kras gene therapeutic responses egfr-tki gefitinib originally observed nsclc patients tumours bearing wild-type form kras gene constitutively activated egfr1 gene due activating mutations exons 18 21 high copy number/amplification egfr1 gene
+clinically better responses tyrosine kinase inhibitor treatment observed patients adenocarcinomas well-differentiated tumours female patients non-smokers people asiatic origin [ 107 ? 109 ]
+clinical research data show gefitinib monotherapy well tolerated active against wide range tumour types including colon head neck breast prostate lung cancers especially nsclcs [ 110 ]
+egfr-tkis usually used second line therapy patients after failure chemotherapy
+however gefitinib did not pass registration procedure european union because insufficient clinical benefit demonstrated probably because european clinical trials did not include sufficient ?good responders? (asians women adenocarcinoma patients non-smokers)
+clinical data suggest drug represents new therapeutic option nsclc patients brain metastases [ 111 ]
+after successful tribute talent clinical trials erlotinib (tarceva) approved us fda 2002 second third line treatment nsclc after failure standard chemotherapy
+however molecular analysis revealed patients who activating mutations kras gene (exon 1: codons 12 13 61) without increases egfr copy numbers did not derive benefit therapy about 96% chance disease progression [ 71 ]
+similarly eberhard et al
+first observed relationship between kras mutations outcome erlotinib therapy randomized phase iii clinical trial drug used combination first line ?gold standard? chemotherapy (carboplatin paclitaxel) treat advanced nsclc patients [ 103 ]
+patients kras mutation exhibited shorter time progression (three months) shorter overall survival (four months) when treated combination erlotinib first line chemotherapy such treatment cisplatin compared group wild-type kras whom time-to-progression 12 months
+most nsclc patients erlotinib treatment study expressed wild-type kras their kras status greater prognostic predictive value biomarker [ 112 ]
+however colorectal cancer mutations kras gene important predictive (as well prognostic) biomarkers since effectiveness treatment cetuximab panitumumab impaired tumours activating mutation
+information regarding status kras gene allows selection appropriate therapies patients who do not display activating mutations selection alternative therapies patients mutations
+although results pertaining role kras prognosis clinical outcome prediction therapeutic responses egfr1 tyrosine kinase inhibitors interesting need validated larger prospective trials using standardized sensitive mutation detection techniques
+associations confirmed knowledge mutation status kras nsclc tumours could help physicians decide patients should receive gefitinib and/or erlotinib
+interestingly kras gene mutations seem provide strong predictive indication therapeutic responses other classes tyrosine kinase inhibitors recently demonstrated imatinib mesylate (glivec)
+imatinib standard drug patients chronic myeloid leukaemia (cml) patients gastrointestinal stromal tumours (gists) expressing bcr-abl fusion protein tyrosine kinase receptor c-kit respectively
+further drug resistance imatinib usually attributed mutation imatinib-binding sites proteins [ 113 ] although amplification bcr-abl fusion gene overexpression multidrug resistance proteins may involved some cases [ 114 ]
+however recent study agarwal et al
+demonstrated cml patients resistant imatinib frequently expressed mutated kras proteins [ 115 ]
+colorectal cancer another frequent neoplasia associated activation egfr1 pathway so not surprising novel successful therapeutic strategies condition involve egfr1 protein kinase inhibition
+contrast nsclc two monoclonal antibodies against egfr1 rather small molecular inhibitors egfr1 generally used treating colorectal cancer: cetuximab (erbitux®) panitumumab (vectibix®)
+accordance effect small molecular egfr1 inhibitors nsclc kras alterations play critical role response colorectal cancer patients such therapeutic monoclonal antibodies
+indeed kras mutation status most important predictor resistance cetuximab panitumumab both median progression-free survival cetuximab-treated patients overall survival recently found superior kras wild-type group kras mutant group (31 versus 10 weeks 16 versus 7 months respectively) [ 116 ]
+september 27 2006 us fda approved completely humanized monoclonal anti-egfr1 igg2 antibody?panitumumab (vectibix) clinical use third line treatment patients metastatic colorectal carcinoma who progressed after standard chemotherapy
+kras panitumumab therapy tested randomized study involving 463 patients [ 117 ] results showed wild-type kras gene essential its therapeutic activity
+progression-free survival patients wild-type versus mutant kras gene tumours 12 versus seven weeks while response rates obtained another study 17% versus 0% [ 118 ]
+findings strongly indicate kras gene status should routinely tested critically important diagnostic biomarker determine patients will derive therapeutic benefit egfr1 inhibition
+indeed analysis kras gene status colorectal cancer cases become conditio sinequa non deciding whether not apply cetuximab panitumumab therapy routine clinical practice fda updated vectibix erbitux labels 2009 include information
+surprisingly effects kras gene mutations tumour sensitivity cytotoxic chemotherapies radiation only been explored few studies
+however expression 12 val mutated form kras been shown increase resistance cancer cells radiation therapy [ 119 ]
+similarly presence oncogenic kras been found significantly increase sensitivity cells novel class anticancer agents cucurbitacins p53- p21-dependent manner [ 120 ]
+contrast ovarian cancer cell line tov-21g bearing mutant allele kras reportedly significantly more sensitive cisplatin radiation but not paclitaxel campthotecin corresponding kras wild type line [ 121 ]
+however results clinical studies rosell colleagues (1995) showed patients mutation kras gene poorer clinical responses paclitaxel monotherapy wild type controls suggesting kras gene status predictive marker paclitaxel resistance [ 122 ]
+phase iii retrospective study nsclc patients (tribute) randomly treated carboplatin paclitaxel erlotinib placebo patients kras mutant tumours showed poorer clinical outcomes when treated erlotinib plus chemotherapy compared chemotherapy alone [ 103 ]
+updated clinical trial (crystal) involving 540 metastatic colorectal cancer patients demonstrated cetuximab combination folfiri (folic acid fluorouracil irinotecan) first line therapy highly effective against kras wild type but not mutant tumours
+however further analysis data showed neither response nor progression-free survival patients treated chemotherapy alone significantly affected kras gene status although overall survival patients kras mutant tumours significantly shorter patients kras wild type tumours [ 123 ]
+recently we shown egfr may represent predictive molecular marker poor response preoperative chemoradiotherapy locally advanced gastric carcinoma [ 124 ]
+responses chemoradiotherapy found 60% egfr-negative patients but only 13% egfr-positive patients ( p =??.044) pathologic complete responses observed 29% patients egfr-negative staining but none (of eight) egfr-positive patients ( p =??.16)
+above findings regarding role kras gene tumour responses cytotoxic therapies appear conflict somewhat
+predictive prognostic significance oncogenic kras seems been mixed many studies contributions variations gene clinical outcome appear differ according tumour types therapeutic interventions
+clearly further studies urgently needed confirm clarify findings large prospective biomarker-oriented clinical trials
+other clinical trials demonstrated activating mutations kras gene contribute tumour progression affecting expression vascular endothelial growth factor (vegf) plays critical role tumour angiogenesis
+inhibition kras expression selected kras antisense oligonucleotides been shown associated significantly reduced secretion vegf-a165 medium colorectal cancer cell cultures [ 125 ]
+addition cohort patients pancreatic tumours 25/33 (76%) kras mutations showed higher vegf expression their median survival shorter those tumours expressing wild-type allele [ 126 ]
+similar findings been reported study nsclcs higher vegf expression observed 50% tumours bearing kras gene mutation [ 127 ]
+although studies suggest kras gene status could play important role responses anti-vegf targeted antiangiogenic therapy recent study hurwitz saini [ 128 ] showed groups patients bearing either kras mutant wild-type tumours derive therapeutic benefit first line application anti-vegf monoclonal antibody bevacizumab (avastin)
+furthermore although both groups patients (i.e those wild-type kras mutated kras genes) benefited adding bevacizumab chemotherapy both progression-free survival survival better wild-type kras patients both chemotherapy alone chemotherapy plus bevacizumab
+bevacizumab did not increase percentage patients mutated kras who responded treatment
+optimal therapeutic drug should able specifically target mutated kras gene its product minimal systemic toxicity orally active
+unfortunately drugs like remain developed less efficient strategies need used clinical trials
+however addition cancer therapies mentioned above several therapeutic agents strategies directly suppress activating mutant form kras gene thus improve efficiency chemotherapy biological therapy
+one possible approach inhibiting kras expression use antisense oligonucleotides viral constructs delivering antisense sequences order inactivate mutant oncogene rna message [ 125 ]
+addition synthesis mutated kras protein been repressed applying small interfering adenovirus-mediated rna (sirna) specifically designed sirna shown prolonged anti-proliferative effects against various tumour cancer cell lines expressing mutated kras proteins [ 129 ]
+another similar strategy target mutant kras mrna based designing mrna ribozyme specifically interacts mutated form kras mrna encodes catalytic rna molecules bind mrna substrate base-pair complementation leading translation arrest and/or degradation specific mrna
+kras-specific ribozyme strategy been shown suppress successfully proliferation kras-mutated tumour cells [ 130 ]
+recently interesting novel strategy employing farnesyltransferase inhibitors (ftis) shown inhibit biochemical transactivation initiated mutated kras gene
+farnesyl transferase enzyme primarily regulates zinc metabolism addition farnesyl group cysteine residue protein
+least 30 proteins (including kras) require posttranslational farnesylation reach their membrane positions function properly cell signalling
+farnesyl inhibitors represent novel class biologically active anticancer drugs inhibit cell growth
+after discovery ras proteins farnesylated become functionally active several farnesyl inhibitors developed
+however phase ii phase iii clinical trials conducted date found kras ftis might not sufficient inhibit mutated-overactive forms kras protein
+reason probably incomplete inhibition farnesylation because garnesylation kras protein geranyltransferase i leads suppression effects farnesyltransferase inhibitors [ 131 132 ]
+should noted although kras inhibitory strategies shown promise preclinical trials been partially successful clinical trials there insufficient data their efficacy combination anti-egfr1 strategies recommend their routine use yet
+evidence various studies summarized review demonstrates kras protein important signal transducer involved regulation various cellular responses during cell proliferation differentiation survival
+pivotal function kras protein regulation mapk pi3k/akt pathways its effect proliferation rate both normal cancer cells
+activating mutations kras protein frequently occur cancer cells indicate poorer prognosis increased resistance some cancer therapies
+overall review summarizes novel approaches allowing management cancers without kras mutations highlights importance early identification somatic mutations kras gene cancer biopsies
+latter assists oncologists select best available therapies their cancer patients.

@@ -1,0 +1,57 @@
+56
+table 1 mutation status cell lines used study     lkb1 braf kras pik3ca p53 cdnka egfr cell line histology mutation mutation mutation mutation mutation mutation mutation skmel28 malignant melanoma   c.1799t>a p.v600e     c.434_435tg>gt p.l145r   c.2257c>t p.p753s cal-12t nsclc nos no proteina c.1397g>t p.g466v     c.404g>t p.c135f c.172c>t p.r58*   a549 nsclc nos c.109c>t p.q37*   c.34g>a p.g12s     c.1_471del471 p.m1_*157del   nci-h1734 nsclc adenocarcinoma c.152_153insct p.m51fs*14   c.37g>t p.g13c         nci-h460 nsclc large cell carcinoma c.109c>t p.q37*   c.183a>t p.q61h c.1633g>a p.e545k   c.1_457del457 p.?   nci-h2030 nsclc adenocarcinoma c.949g>t p.e317*   c.34g>t p.g12c   c.785g>t p.g262v     nci-h1563 nsclc adenocarcinoma c.816c>a p.y272*         c.1_471del471 p.m1_*157del   nci-h2009 nsclc adenocarcinoma     c.35g>c p.g12a   c.818g>t p.r273l     nci-h1975 nsclc adenocarcinoma       c.353g>a p.g118d c.818g>a p.r273h c.205g>t p.e69* c.2573t>g p.l858r nci-h1838 nsclc adenocarcinoma         c.818g>t p.r273l c.1_471del471 p.m1_*157del   mutation status oncogenes tumour suppressors known commonly mutated nsclc mutation data taken cosmic ( http://www.sanger.ac.uk/genetics/cgp/celllines/ ) no mutation been found sample sequencing however immunoblot analysis revealed no protein present (data not shown) nsclc nos.=nsclc not otherwise specified.
+lkb1/stk11 multitasking tumour suppressor kinase
+germline inactivating mutations gene responsible peutz-jeghers hereditary cancer syndrome
+somatically inactivated approximately 30% non-small-cell lung cancer (nsclc)
+here we report lkb1/kras mutant nsclc cell lines sensitive mek inhibitor ci-1040 shown dose-dependent reduction proliferation rate whereas lkb1 kras mutations alone do not confer similar sensitivity
+we show subset nsclc sensitised mtor inhibitor rapamycin
+importantly data suggest lkb1 / kras mutant nsclcs genetically functionally distinct subset further suggest subset lung cancers might afford opportunity exploitation anti-mapk/mtor-targeted therapies
+cell lines known genetic background ( table 1 ) grown rpmi (invitrogen life technologies inc carlsbad ca usa) apart cal12t grown dmem (invitrogen) supplemented 10% fbs 1% psg
+statistical analysis co-occurrence lkb1 ras-mapk pathway mutations 87 nsclc cell lines carried out fisher's exact test
+cells seeded six replicates 48-well plates
+after 24?h replaced media containing 0 0.1 0.5 1 5 10? ? m ci-1040 0 0.1 0.5 1 5 10 25 50 75 100?n m rapamycin (sigma-aldrich co st louis mo usa)
+after 72?h proliferation rate measure using cyquant proliferation assay kit (invitrogen) according manufacturers instructions
+statistical analysis carried out using two-tailed unpaired t -tests
+cells seeded 6-well plates 24?h later replaced media containing 0 0.1 0.5 1 5 10? ? m ci-1040 0 1 10 50 100 200?n m rapamycin
+then 8 24?h after addition ci-1040 24?h after addition rapamycin protein harvested ripa buffer containing protease (sigma) phosphatase (roche applied science uk) inhibitors
+samples mixed pre-made sample buffer reducing agent (nupage) transferred pvdf membrane (invitrogen) western blotting
+membranes probed rabbit anti-erk anti-phospho erk (cell signalling 1/1000) anti-cyclin d1 (santa cruz 1/500) p70s6k phosphop70s6k (thr389) (cell signalling 1/1000) followed secondary antibodies (cell signalling 1/2500)
+bands displayed using enhanced chemiluminescence method (pierce biotechnology inc rockford il usa)
+resequencing known cancer genes series 87 nsclc cell lines ( http://www.sanger.ac.uk/genetics/cgp/celllines/ ) found significant association lkb1 inactivating mutations kras mutations ( p =0.03)
+association recently been confirmed independent study ( matsumoto et al 2007 )
+association lkb1 inactivation clustering non-v600 braf mutations ( figures 1a b ) observed
+lkb1 ras/raf/mek (mapk) signalling pathways linked through rheb when active activates mtor inhibits wild-type braf but not mutated form ( im et al 2002 garami et al 2003 karbowniczek et al 2004 )
+recently shown inhibition raf1 (craf) activity rheb prevents heterodimerisation braf raf1 ( karbowniczek et al 2006 )
+lkb1 mutations nsclc may therefore general requirement activation mapk cascade overcome suppression through rheb inhibition
+interdependence suggests inhibition mapk signalling may constitute potential opportunity therapeutic intervention genetic subset nsclc ( figure 1c )
+further explore potential nsclc lines known genetic backgrounds ( table 1 ) treated mek inhibitor ci-1040
+figure 2a shows lkb1/kras mutant cell lines uniform enhanced sensitivity ci-1040 when compared wild-type cell lines lkb1 mutant lines kras mutant lines (labelled control cell lines figure 2b )
+interestingly lkb1/brafg466v mutant cell line (cal12t) insensitive ci-1040 falls top cluster
+mean relative proliferation rate calculated lkb1/kras mutant cell lines compared control cell line cluster statistically significant ( p <0.001 all ci-1040 concentrations >0 figure 2b )
+lkb1/kras mutant cell lines mean ic50 value 5? ? m compared control cell lines mean ic50>10? ? m 
+we next investigated importance mtor signalling genetic subtypes lung cancers under study
+figure 2c shows inhibiting mtor using rapamycin more pronounced affect proliferation lkb1/kras mutant cell lines case sensitive cluster included lkb1/braf mutant cell line cal12t
+ic50 lkb1/mapk mutant cluster significantly different control cluster (40?n m vs >100?n m p ?0.04)
+dual inhibition mek mtor ( figure 2d ) leads statistically significant decrease proliferation rate lkb1/kras mutant cluster versus control cell lines ( p -value: ?0.01)
+effect dual inhibition general did not reach statistical significance additivity nor being synergistic either cluster ( figures 2e f ) although highest concentrations (5? ? m ci-1040 10?n m rapamycin) lkb1/kras mutant cluster data consistent additive model
+however may due combined toxic effects higher drug concentrations
+confirm mek inhibition being achieved cells we carried out immunoblot analysis erk phosphorylated erk cyclin d1 levels 8 24?h following ci-1040 treatment ( figure 3a )
+all cell lines levels phosphorylated erk decreased increasing ci-1040 concentration 8?h however wild-type cell lines both genes lkb1 mutant required higher concentrations ci-1040 prevent phosphorylation erk
+effect mek inhibition cyclin d1 levels did not appear correlate genetic status interestingly kras mutant cell line nci-h2009 showed similar decrease phosphorylated erk perhaps greatest decrease cyclin d1 levels despite inhibitor having little effect proliferation
+altogether data show effects mek inhibition phospho-erk driven presence absence kras mutation independent lkb1 mutation status whereas proliferation effects related lkb1/kras combined mutation status
+there no correlation cyclin d1 levels enhanced sensitivity mek inhibition we carried out immunoblot analysis p70s6k phospho-p70s6k (thr-389) levels phosphorylation residue critical kinase function ( pullen thomas 1997 )
+figure 3b shows ci-1040 treatment no effect total p70s6k protein levels however decrease observed phospho-p70s6k (thr-389) levels specifically lkb1/kras mutant cell lines
+decrease phosphorylation correlated well observed ic50 genetic subset
+figure 3c shows rapamycin treatment no effect cyclin d1 protein levels but potent effect phospho-p70s6k (thr-389) levels all cell lines regardless mutation status
+here we report lkb1 inactivation kras activation non-small-cell lung cancer denotes functionally distinct set lung cancer display sensitivity single-agent treatment mek inhibitor ci-1040 rapamycin
+been previously shown melanomas treatment ci-1040 caused dose-dependent reduction phospho-erk cyclin d1 protein levels brafv600e mutant cell lines but not nras mutant melanomas ( solit et al 2006 )
+our results while showing dose-dependent reduction phospho-erk kras mutant nsclc cell lines show inhibition proliferation only subset both kras lkb1 mutations highlighting importance cross-talk pathways supporting genetic data co-occurrence two mutations non-random
+dose-dependent decrease phospho-erk reduction proliferation rate did not result corresponding decrease cyclin d1 levels suggesting subset nsclc downstream effecter pathways may different brafv600e melanomas
+effects reduced proliferation genetic subset may due reduction activity p70s6k downstream both mtor erk1/2 shown specific reduction phosphorylation thr-389 p70s6k lkb1/kras cell lines following mek inhibition
+data further highlight importance cross-talk between pathways genetic subset
+interestingly cal12t lkb1/braf mutant cell line insensitive ci-1040 yet sensitive rapamycin suggesting additional smaller genetic subset nsclc possibly highlighting difference non -v600 braf mutations found nsclc ( brose et al 2002 )
+despite being sensitised ci-1040 rapamycin dual-agent treatment did not demonstrably additive synergistic effects lkb1/kras cell lines suggesting possible redundancy pathways
+lack additivity may explained observation rapamycin potently inhibits p70s6k phosphorylation thr-389 therefore precluding any additional effect ci-1040 p70s6k activity further confirming redundancy pathways genetic subset nsclc
+mutation status cancers been shown predict response targeted therapies exemplified efficacy egfr inhibitors egfr mutant lung cancer ( lynch et al 2004 paez et al 2004 )
+data presented here suggest lkb1/kras mutated tumours genetic functionally distinct subset nsclc
+further data suggest investigation subset lung cancers respect newer generation inhibitors mapk mtor signalling pathways may provide new opportunity investigation targeted therapeutics common adult malignancy.

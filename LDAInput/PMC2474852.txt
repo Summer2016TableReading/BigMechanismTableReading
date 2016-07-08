@@ -1,0 +1,326 @@
+325
+table 2 up-regulation egfr ligands rasv12- ras edm-expressing hme16c gene v12 s35 g37 c40 epiregulin 2.6 (7.0) 1.9 (1.0) 1.8 (2.4) 1.2 (1.3) tgfa 3.5 (3.4) 2.9 (1.3) -1.1 (-1.4) 1.9 (-1.1) amphiregulin 1.4 (2.4) 2.9 (1.0) 2.3 (1.7) 2.2 (1.0) fold up-regulation egfr ligands epiregulin transforming growth factor alpha (tgfa) epiregulin rasv12- ras edm-expressing hme16c determined real-time rt-pcr quantification (boldface) cdna microarray analysis (in parentheses).
+signaling downstream ras mediated three major pathways raf/erk phosphatidylinositol 3 kinase (pi3k) ral guanine nucleotide exchange factor (ralgef)
+ras signal transduction pathways play important role breast cancer progression evidenced frequent over-expression ras-activating epidermal growth factor receptors egfr erbb2
+here we investigated signal transduction pathways downstream ras contribute egfr-dependent transformation telomerase-immortalized mammary epithelial cells hme16c
+furthermore we examined whether highly transcriptionally regulated erk pathway target phlda1 (tdag51) suggested tumor suppressor breast cancer melanoma might modulate transformation process
+cellular transformation human mammary epithelial cells downstream ras signal transduction pathways examined using anchorage-independent growth assays presence absence egfr inhibition
+tdag51 protein expression down-regulated interfering small hairpin rna (shrna) effects cell proliferation death examined ras pathway-transformed breast epithelial cells
+activation both erk pi3k signaling pathways sufficient induce cellular transformation accompanied up-regulation egfr ligands suggesting autocrine egfr stimulation during transformation process
+only activation erk pathway sufficient transform cells presence egfr inhibition sufficient tumorigenesis xenografts
+up-regulation phlda1 gene product tdag51 found correlate persistent erk activation anchorage-independent growth absence presence egfr inhibition
+knockdown putative breast cancer tumor-suppressor gene resulted increased erk pathway activation enhanced matrix-detached cellular proliferation ras/raf transformed cells
+our results suggest multiple ras signal transduction pathways contribute mammary epithelial cell transformation but erk signaling pathway may crucial component downstream egfr activation during tumorigenesis
+furthermore persistent activation erk signaling up-regulates tdag51
+event serves negative regulator both erk activation well matrix-detached cellular proliferation suggests tdag51 opposes erk-mediated transformation breast epithelial cells
+development progression breast cancer result multiple genetic changes lead complex alterations signal transduction networks breast cancer cells relative their normal epithelial counterparts
+signaling differences between tumor normal cells reflected altered gene expression patterns finding been widely investigated using various molecular techniques
+patterns differential gene expression been used classification prognostication certain cancers may valuable prospectively predicting responsiveness therapeutic treatments [ 1 ]
+addition serving biomarkers some differentially expressed gene products been informative defining physiological differences between normal cancer cells
+order understand impact dysregulated signaling pathways upon gene expression function necessary connect differential gene expression upstream signaling pathways
+ras activation common intermediary signaling pathways initiated variety cell surface receptors signaling pathways downstream ras been implicated repeatedly oncogenesis
+ras proteins frequently mutated activated form human cancers particularly tumors pancreas colon thyroid lung [ 2 ]
+ras mutations rare breast cancer where mutation rate less 5% [ 3 ]
+however ras signaling hyperactive many primary breast tumors [ 4 ]
+most likely due activation growth factor receptors activate ras exchange factors such epidermal growth factor receptors egfr (erbb1) erbb2 (her2/neu) colony stimulating factor-1 (csf-1) receptor c-fms [ 5 6 ]
+egfr erbb2 receptor over-expression occurs one quarter one-half all breast tumors correlates significantly decreased disease-free overall survival rates [ 5 7 ]
+addition ligands egfr such transforming growth factor-a amphiregulin epiregulin betacellulin heparin-binding egf stimulate receptor primary breast tumors enhance local growth progression disease [ 8 ]
+finally activating mutations pi3k pathway immediate downstream effector ras occur subset breast tumors [ 9 10 ]
+taken together findings suggest breast cancer relevant model study biology downstream ras signal transduction
+ras oncogene binds numerous effectors turn activate variety signaling pathways
+most highly characterized raf proteins pi3k ral guanidine nucleotide exchange factors (ralgefs) although ras does recruit activate other potentially transforming effectors [ 11 ]
+dissection individual ras signaling pathways possible using effector domain mutants (edms) ras single amino acid mutations effector binding domain allow binding activation specific effectors but not others [ 12 ]
+ras edms together activated dominant-negative versions downstream effectors been used characterize pathways contribute transformation immortalized cells
+mammary epithelial cells both species- well cell line-dependent differences ras downstream signaling pathways been found induce tumorigenesis and/or anchorage-independent growth measure vitro transformation
+studies using immortalized mouse eph4 mammary epithelial cells implicated raf well pi3k pathways supporting transformation tumorigenesis [ 13 ]
+human immortalized mammary epithelial cells raf pi3k clearly contribute transformation although usually not sufficient tumor formation animal models [ 14 15 ]
+fact immortalized human breast epithelial cell line hmle required simultaneous activation raf pi3k ralgef pathways maximal anchorage-independent growth tumorigenic transformation [ 14 ]
+dissecting physiological consequences individual ras-mediated signaling pathways respect mammary epithelial transformation obvious interest
+ability activated ras raf induce autocrine expression epidermal-like growth factors been implicated protection mcf10a mammary epithelial cells anoikis [ 16 ]
+using hmec16c cells telomerase-immortalized human mammary epithelial cell line we investigated contribution egfr signaling anchorage-independent growth initiated raf additional signaling pathways downstream ras
+we determined erk but not pi3k ralgef activation hmec16c cells supports anchorage independent proliferation independent egfr activation
+we performed functional analysis one gene particular tdag51 whose expression regulated erk through egfr dependent independent mechanisms
+loss tdag51 mrna protein been correlated breast adenocarcinoma melanoma progression clinical samples [ 17 18 ]
+importance tdag51 regulation transformed phenotype ras-infected cells addressed using tdag51-specific interfering small hairpin rna (shrna) reduce tdag51 levels
+consistent tumor suppressor role loss tdag51 increased erk-mediated cellular proliferation
+hme16c human mammary cells [ 19 ] cultured clonetics mammary epithelial basal media (mebm) megm singlequot supplements (cambrex) hek-ht human embryonic kidney epithelial cells [ 20 ] dmem (invitrogen) plus 10% fetal bovine serum (invitrogen)
+all cells maintained 37°c 5% co2
+induction proteins tetracycline-inducible retroviral expression vector plrt 250 ng/ml doxycycline (sigma-aldrich) added culture media
+constructs inducible expression h-ras h-ras effector domain mutants rlf-caax created pcr subcloning sequences ha-tagged h-rasg12v (rasv12) h-rasg12v e37g (rasv12g37) h-rasg12v t35s (rasv12s35) h-rasg12v y40c (rasv12c40) rlf-caax [ 21 ] tetracycline-inducible retroviral expression vector plrt [ 22 ]
+generation retroviruses lentiviruses described [ 23 ]
+polyclonal populations plrt infected cells selected 5 ?g/ml blasticidin
+expression anti-tdag51 shrna 36-1 accomplished sub-cloning anti-tdag51 shrna sequence 5'-ggaactgcacttctccaacttcaagagagttggagaagtgcagttccttttt-3' plvthm lentivirus (kindly provided dr
+d
+trono lausanne switzerland [ 24 ])
+after infection cells integrated lentivirus selected sterile sorting gfp
+three sterile sorts performed acquire polyclonal population cells exclusively expressing gfp subsequently examined tdag51 protein reduction western blotting
+western blots performed using chemilluminescence (pierce)
+antibodies used western blots included anti-ras mab (bd biosciences cat#r02120) rat anti-ha mab (roche cat#1988506) anti-phospho erk mab (santa cruz cat#sc-7383) goat anti- erk2 (santa cruz c14-g cat#154-g) rabbit anti-phospho-akt ser473 (cell signaling technology) goat anti-akt (santa cruz c-20 cat#sc-1618) anti-alpha tubulin mab (clone dm1a neomarkers) followed detection using appropriate anti-mouse rabbit goat hrp-conjugated secondary antibodies (jackson labs) ecl detection
+ral activation assays ral activation assay kit (upstate cell signaling solutions) used according manufacturer's protocol
+cells trypsinized neutralized 1.2 × 104 cells plated per well 0.36% bacto-agar (bd biosciences) w/v growth media 0.6% bacto-agar support 6-well culture plates
+prior cell plating 250 ng/ml doxycycline dmso vehicle anti-egfr compound pd153035 (calbiochem) added agar appropriate
+appropriately-supplememented fresh media added wells every 4 days
+colonies greater 100 ?m diameter counted after 18 days using 2× lens equipped graded grid determine colony size
+cells trypsinized plated 500 ?l appropriate growth media 24-well ultra-low attachment plates (corning) 25000 cells per well
+times indicated 50 ?l alamar blue (biosource international) added well incubated 6 hours under standard culture conditions
+amount alamar blue reduction quantified measuring fluorescence sample 530 nm excitation/590 nm emission corrected background fluorescence wells containing media but no cells
+number cells initial plating alamar blue incubation times determined generating standard curve fluorescence versus cell number incubated alamar blue various times
+plating cells initially 25000/well insures fluorescence measurements will occur linear part curve 6-hour incubation time over course experiment
+determined tdag51-specific shrna did not affect redox potential hme16c various cell numbers
+statistical analysis performed using 2-way analysis variance (anova) bonferroni post-tests using graphpad prism software program (graphpad software inc.)
+tumorigenicity assays done essentially described [ 23 ]
+induce gene expression cells treated 250 ng/ml doxycycline three days prior injection mice fed doxycycline-containing diet (200 mg/kg bioserv inc.) beginning four days prior cell inoculation continuing duration experiment
+total rna extracted using trizol reagent (invitrogen) after treatment cells 250 ng/ml doxycycline 72 hours induce gene expression doxycycline 0.25 ?m egfr receptor kinase inhibitor pd153035 indicated
+twenty micrograms rna used cdna generation cdna labeled cy3 cy5 monofunctional reactive dye amino allyl-modified dutp incorporated cdna using fairplay microarray labeling kit (stratagene)
+labeled cdna hybridized long-oligo (70-mer) cdna microarrays nci/ccr microarray center nci frederick md according standard protocols [ 25 ]
+hybridized arrays analyzed using genepix 4000b array scanner genepix pro 4.0 software (axon instruments molecular devices corporation)
+data genepix pro 4.0 uploaded microarray database nci/ccr microarray center website [ 25 ] further analysis
+signal intensities microarray features calculated subtracting median local background median signal intensity
+features considered analysis signal intensity greater one standard deviation above background least 2:1 signal-to-background ratio
+signal intensities entire microarray normalized 50% percentile median value
+after filtering normalization cy3 cy5 values expressed ratio indicate fold up- down-regulation
+two independent experiments comparison performed dye switch experiment therefore yielding four separate data sets
+determining gene expression changes greater less 2-fold data sets filtered genes containing least two significant values out four array sets
+prior filtering all data points analyzed using statistical analysis microarray (sam) data resultant gene set chosen delta value 0.4 limited false discovery rate (number predicted false positive values/number significant genes) analysis less 1%
+minimal information about microarray experiment (miame)-compliant microarray data been deposited national center biotechnology information (ncbi) gene expression omnibus accession number gse8916 available [ 26 ]
+cdna synthesized rna obtained microarray analysis using superscript? iii first-strand synthesis system rt-pcr (invitrogen)
+quantification relative cdna levels gene accomplished using platinum® sybr® green qpcr supermix udg real-time rt-pcr kit (invitrogen) rotor-gene3000? thermocycler rotor-gene 5.0.37 software (corbett research) calculates relative pcr synthesis rates comparative quantification
+specificity product synthesis verified melting curve analysis rotor-gene 5.0.37 software running real-time pcr products 2% agarose gels verify product size rule out primer-dimer contribution calculated values
+sequence-specific primers used real-time rt-pcr found additional file 2 
+cells grown under anchorage-independent conditions spun down washed once sterile pbs suspended 50% mixture pbs accumax cell detachment solution (chemicon international) 10 minutes 25°c dissociate cell clumps
+after dissociation cells washed once cold pbs then fixed 70% ethanol
+fixed cells treated rnase 20 minutes 37°c nuclear dna stained 50 ?g/ml propidium iodide 4°c
+cell cycle profiles generated using facscalibur flow cytometer (bd biosciences) modeling cell cycle phases cell cycle option flowjo flow cytometry software (tree star inc.) after gating viable single cells
+statistical analysis performed using 2-way anova bonferroni post tests using graphpad prism software program (graphpad software inc.)
+measurement cell proliferation 5-ethynyl-2'-deoxyuridine (edu) incorporation measured using click-it edu cell proliferation assay kit flow cytometry (invitrogen) according manufacturer's protocol
+briefly cells plated 1 × 106 cells per well 6-well ultra-low attachment plates 5 × 105 cells per dish 60 mm tissue culture dishes attached control cells
+attached cells treated either dmso 10 ?m edu 4 hours cells grown low attachment plates treated dmso 10 ?m edu 24 hours
+using flowjo flow cytometry software (tree star inc.) dmso-treated control cells used determine threshold above cells could considered edu positive fraction cells incorporating edu then determined experimental samples
+release lactose dehydrogenase (ldh) cell culture supernatant measured using cytotoxicity detection kit ldh (roche molecular biochemicals) according manufacturer's instructions
+retroviral vectors coding amino terminal ha-tagged activated h-rasv12 h-rasv12 effector domain mutants (edm) h-rasv12g37 h-rasv12s35 h-rasv12c40 constitutively activated version ralgef rlf-caax used infect telomerase immortalized hme16c human mammary epithelial cells
+anti-ras anti-ha western blotting demonstrated approximately equal levels ectopic ras expression among ras-infected cells slightly lower levels hme16c rasv12-infected cells relative edm-infected cells (figure 1a )
+analysis activated gtp-bound ral demonstrated highly elevated levels activated ral only rlf-caax-expressing cells not ras-infected cells grown under standard culture conditions (figure 1b )
+assess activation erk pathway anti-phospho erk western blotting performed showed significantly elevated erk phosphoprotein rasv12- rasv12s35-infected hme16c cells relative control plrt-infected cells (figure 1a )
+elevated levels phosphorylated erk observed rasv12g37- rasv12c40-infected cells although much lower level found rasv12- rasv12s35-infected cells
+assess activation pi3k signaling pathway anti-phosphoakt (ser473) western blotting performed detect activated phosphorylated akt
+cells serum starved 24 hours matrix detached 6 hours elevated levels phosphorylated akt observed rasv12- rasv12c40- rasv12g37-infected hme16c highest levels present rasv12-infected cells (figure 1c )
+protein expression pathway activation hme16c cell lines 
+(a) expression ha-tagged h-rasv12 h-rasv12 effector domain mutants rlf-caax hme16c mammary epithelial cells
+subsequent figures cells infected following vectors indicated follows: plrt control (plrt) h-rasv12 (v12) h-rasv12g37 (g37) h-rasv12s35 (s35) h-rasv12c40 (c40) rlf-caax (rlf-caax)
+cells treated 250 ng/ml doxycycline 72 hours induce gene expression anti-ha (ha tag) anti-ras (ras) western blotting performed
+erk activation determined western blotting phosphorylated erk (phospho-erk)
+blot subsequently stripped probed anti-erk2 antibody (erk2)
+(b) ral activation determined pull-down assay gtp-bound activated ral (gtp-ral a)
+total ral protein lysates used ral activation assay pull-down determined anti-ral western blotting (ral a)
+(c) akt activation cell lysates assessed western blotting phosphorylated akt (phospho-akt)
+membrane stripped probed anti-akt antibody (total akt)
+assess transformation different ras signaling pathways anchorage-independent growth assays performed soft agar ultra-low attachment tissue culture plates
+ras- ras edm-infected hme16c cells formed significantly more soft agar colonies >100 ?m diameter plrt vector-infected cells (figure 2a )
+rasv12-infected cells formed large colonies many exceeding 1000 ?m although total number exceeding 100 ?m typically less ras edm (figure 2b )
+among ras edm-infected cells rasv12s35-infected cells formed largest colonies
+similar but smaller rasv12-infected cells
+colonies above 100 ?m diameter rasv12c40-infected cells most efficient colony formation despite smaller mean size colonies
+rlf-caax-infected cells formed slightly more colonies above 100 ?m vector-transfected control cells but significantly smaller those formed ras- ras edm-infected cells
+anchorage-independent growth hme16c cell lines 
+(a) number soft agar colonies exceeding 100 ?m after 21 days growth hme16c cell lines infected plrt control h-rasv12 h-rasv12g37 h-rasv12s35 h-rasv12c40 rlf-caax-expressing constructs
+(b) representative pictures colony sizes soft agar assays
+bar represents 200 ?m
+(c) anchorage-independent growth cell lines grown ultra-low attachment plates treated dmso vehicle (left) 0.25 ?m pd153035 (right) measured using alamar blue assay
+rfu relative fluorescence units alamar blue product formed
+when grown under anchorage-independent conditions ultra-low attachment plates accumulation cells various infected cell lines roughly paralleled total cell masses seen soft agar growth assays (figure 2c )
+rasv12- rasv12 edm-expressing cells grew well while growth rlf-caax-expressing cells significantly less
+hme16c cells maintained viability but did not increase number
+compare our results others we verified function plrt vector driven ras edm mutants rlf-caax hek-ht cells previously been reported form colonies soft agar upon expression h-rasv12g37 rlf-caax [ 27 ]
+our hands expression h-rasv12 h-rasv12g37 rlf-caax plrt vector induced efficient soft agar colony growth h-rasv12s35 h-rasv12c40 did not (not shown) identical previously reported results [ 27 ]
+expression exogenous h-ras rlf-caax activation endogenous rala cell line similar observed hme16c cells (not shown)
+therefore expression rlf-caax subsequent rala activation did not appear sufficient induce anchorage-independent growth hme16c mammary epithelial cell line contrast hek-ht various other immortalized human cell types [ 27 ]
+anchorage-independent growth often predicts ability cells grow xenografted tumors immuno-compromised mice
+tumor formation assessed following subcutaneous inoculation
+rasv12-infected hme16c cells formed rapidly growing fluid-filled tumors average latency 4 weeks mean tumor volume 808.8 mm3 6 weeks (table 1 )
+approximately one-half tumors aspirated prior sacrifice sero-sanguinous fluid observed average accounting roughly one-third measured tumor volume
+histological analysis h&e stained tumor sections revealed poorly differentiated spindle-shaped tumor cells prominent squamous cell differentiation extracellular keratin deposition (not shown)
+tumors contained strong inflammatory component
+other cell lines tested only rasv12s35-infected hme16c cells formed palpable tumors 50% injected animals average latency approximately 12 weeks mean tumor volume 109.0 mm3 16 weeks considerably smaller rasv12-expressing tumors (table 1 )
+cells within rasv12s35-infected tumors resembled histology rasv12 tumor cells but less keratin deposition without formation fluid-filled spaces (not shown)
+empty vector- rasv12g37- rasv12c40- rlf-caax-infected cells failed form palpable tumors four months after injection
+metastatic potential rasv12- rasv12g37-expressing cell lines tested tail-vein injection nude mice but no metastatic lesions observed histological analysis lungs liver spleen kidneys 16 weeks post injection (not shown)
+growth hme16c tumors nude mice cells infected control ras-expressing rlf-caax-expressing retrovirus injected subcutaneously nude mice examined tumor formation growth
+*for mice injected h-rasv12s35 cells includes only sites formed tumors
+egfr signaling frequently altered breast cancer where egfr erbb2 over-expression common events
+cdna microarray real-time rt-pcr analysis hme16c rasv12- ras edm-infected cells (additional file 1 ) revealed increased levels mrnas egfr ligands including epiregulin amphiregulin tgfa (table 2 )
+addition increased levels phospho-erk unexpectedly seen rasv12g37- rasv12c40-infected cells possibly result autocrine activation endogenous egfr secreted egfr ligands
+presence egfr established using western blots (not shown)
+therefore we sought determine autocrine signaling egfr required anchorage-independent growth ras- ras edm-infected cells
+rasv12- ras edm-infected hme16c cells grown soft agar presence absence egfr-specific inhibitors pd153035 pd168393
+complete inhibition colony formation rasv12g37-infected rasv12c40-infected cells observed 0.25 ?m pd153035 concentration specifically inhibits egfr [ 28 ] whereas both rasv12- rasv12s35-infected cells formed colonies efficiently same concentration inhibitor (figure 3a 3b )
+identical results found egfr-specific inhibitor pd168393 used 0.1 ?m concentration specifically inhibits egfr her-2 receptors [ 29 ](not shown)
+similarly treatment cells grown ultra-low-attachment plates demonstrated egfr inhibition substantially inhibited growth rasv12g37-and rasv12c40-expressing cells relative rasv12- rasv12s35-expressing hme16c (figure 2c )
+western blotting cellular lysates cells treated 0.25 ?m pd153035 showed high levels phosphorylated erk maintained only rasv12- rasv12s35-infected cells but significantly reduced rasv12g37- rasv12c40-infected cells treated inhibitor (figure 3c ) while phoshorylated akt minimally affected (not shown)
+anchorage-independent growth therefore correlated maintenance high erk activity hme16c cells
+consistent observation inhibition mek therefore erk signaling using mek-specific inhibitor pd98059 10 ?m significantly inhibited soft agar colony formation all cell lines (not shown)
+up-regulation egfr ligands rasv12- ras edm-expressing hme16c fold up-regulation egfr ligands epiregulin transforming growth factor alpha (tgfa) epiregulin rasv12- ras edm-expressing hme16c determined real-time rt-pcr quantification (boldface) cdna microarray analysis (in parentheses)
+anchorage-independent growth hme16c cell lines after egfr inhibition 
+(a) cell lines indicated grown soft agar assay 21 days either presence dmso vehicle 0.25 ?m pd153035 egfr inhibitor
+scale bar 200 ?m
+(b) number colonies >100 ?m size cell line treated either dmso vehicle 0.25 ?m egfr-specific inhibitor pd153035
+statistical analysis performed using one-way analysis variance bonferroni post-test analysis
+ns not significant p > 0.05 * p < 0.0001
+(c) activation erk after egfr inhibition
+cell lines grown presence dmso vehicle 0.25 ?m pd153035 48 hours followed western blotting phosphorylated erk (phospho-erk)
+blot stripped probed anti-erk 2 antibody (erk 2) verify equal protein loading
+phospho-erk blot overexposed order reveal minimal levels protein
+activation ras oncogene accompanied stimulation multiple signal transduction pathways leading activation repression numerous transcription factors well changes mrna translation stability thus modulation gene expression
+determine gene expression changes accompany transformation hme16c human epithelial cells activated ras we examined our transformed hme16c cells cdna microarray analysis
+do rna isolated h-rasv12 h-rasv12 edm expressing cells after treatment doxycycline fully induce gene expression compared rna identically treated plrt vector-infected control cells
+statistical analysis microarray (sam) data analysis performed datasets delta value 0.4 chosen dataset maintains estimated false discovery rate (fdr) below 1% each
+summary genes up- down-regulated greater 2-fold h-rasv12- ras effector domain mutant-infected hme16c cell lines presented additional file 1 organized according broad categories gene function
+validate gene expression changes identified cdna microarray analysis quantitative rt-pcr performed using rna same samples used microarray analysis presented additional file 2 
+results 22 26 genes chosen reflect genes up- down-regulated both strongly weakly showed strong agreement microarray data demonstrating microarray dataset represents reliable quantification gene expression changes
+evaluate effect egfr inhibition gene expression rasv12- rasv12s35- rasv12g37-infected cells induced doxycycline subsequently incubated either presence absence 0.25 ?m pd153035 microarray analysis comparisons made vehicle-treated plrt-infected cells
+almost all ras ras edm-induced upregulated transcriptional responses blocked pharmacological inhibition egfr consistent previous reports inhibition raf-regulated transcription [ 30 ]
+our analysis identified phlda1 up-regulated gene both vehicle-treated pd153035-treated rasv12 rasv12s35 cells although relative fold increase reduced following egfr inhibition
+comparison phlda1 down-regulated pd153035-treated rasv12g37 relative vehicle-treated cells (not shown)
+therefore phlda1 represents raf/erk-responsive gene whose expression parallels egfr-independent hme16c mammary epithelial cell transformation
+phlda1 gene interest been suggested tumor suppressor breast adenocarcinoma melanoma [ 17 18 ]
+we further analyzed signal dependent expression phlda1 gene its protein product tdag51
+microarray analysis identified phlda1 gene being dramatically up-regulated rasv12- ras edm-infected cells levels correlated level erk activation extent anchorage-independent growth (additional file 1 )
+western blotting confirmed tdag51 upregulated similar manner (figure 4a )
+phlda1 gene elevated pd153035-treated rasv12- rasv12s35-infected cells but significantly dependent upon egfr tyrosine kinase activity upregulation rasv12g37- rasv12c40-infected cells (not shown) expression encoded tdag51 protein approximately paralleled phlda1 rna expression (figure 4b )
+shown figure 3c egfr inhibition significantly reduced erk signaling rasv12g37- rasv12c40-infected cells without affecting rasv12- rasv12s35-infected cells
+confirm tdag51 up-regulation induced specifically erk activation we treated plrt- rasv12- rasv12s35-infected cells mek-specific inhibitor pd98059
+pd98059 used 20 ?m appears specific mek1 does not nonspecifically inhibit variety other protein kinases been assayed
+[ 31 ]
+tdag51 up-regulation attenuated mek inhibition (figure 5 )
+tdag51 therefore represents erk-inducible gene whose up-regulation hme16c correlated egfr-independent erk-mediated transformation
+expression tdag51 hme16c cell lines absence presence egfr inibition 
+western blotting tdag51 hme16c cell lines
+(a) twenty-five micrograms protein hme16c cellular lysates resolved sds-page probed anti-tdag51 monoclonal antibody (tdag51)
+equal protein loading verified stripping blot probing alpha tubulin monoclonal antibody (alpha tubulin)
+band intensities determined using image j software (nih bethesda md) tdag51 values normalized using alpha tubulin values
+fold expression band relative hme16c parental: hme16c parental 1.0 plrt 1.0 v12 3.0 g37 2.3 s35 2.4 c40 1.3 rlf-caax 0.9
+similar experiments shown performed 2 additional times similar results
+(b) hme16c cell lines treated dmso vehicle 0.25 ?m pd153035 egfr-specific inhibitor 48 hours cell lysates prepared
+twenty five micrograms protein resolved sds-page western blotted anti-tdag51 mab (tdag51)
+blot subsequently stripped probed alpha tubulin mab (alpha tubulin)
+band intensities determined using image j software (nih bethesda md) tdag51 values normalized using alpha tubulin values
+dmso-treated cells indicated - pd1535035-treated cells indicated +
+fold expression relative dmso-treated plrt: plrt -(1.0) +(0.2) v12 -(2.3) +(2.6) g37 -(0.8) +(0.3) s35 -(1.4) +(0.9) c40 -(1.1) +(0.6) rlf-caax -(1.6) +(1.0)
+similar experiments shown performed 2 additional times similar results
+tdag51 expression induced erk pathway activation 
+hme16c cell lines infected plrt empty vector (plrt) rasv12 (v12) rasv12s35 (s35) treated 0.2% dmso vehicle 20 ?m pd98059 24 hours followed western blotting tdag51
+blot stripped probed alpha tubulin monoclonal antibody (alpha tubulin) demonstrate equal protein loading
+band intensities determined using image j software (nih bethesda md) tdag51 values normalized using alpha tubulin values
+fold expression pd98059-treated relative dmso-treated contols: plrt (0.6) v12 (0.6) s35 (0.3)
+similar experiments shown performed 1 additional time similar results
+analyze role tdag51 erk-dependent growth we reduced tdag51 expression rasv12- rasv12s35-infected cells level comparable non-transformed vector-infected control cells using stably expressed tdag51-specific shrna (figure 6a )
+cell proliferation attached cells grown tissue culture plastic unaffected lowered tdag51 protein levels (not shown)
+however cell growth under anchorage-independent conditions ultra-low attachment plates significantly enhanced tdag51 knock-down rasv12s35-infected cells (figure 6b )
+likewise results rasv12-infected cells stably infected tdag51-targeting shrna showed enhanced growth relative vector-infected control cells although lesser extent seen rasv12s35-infected cells (figure 6c )
+suggests ras signaling pathways other erk compensate partially negative growth effects tdag51 rasv12-infected cells already close maximally transformed under anchorage-independent growth conditions
+reduction tdag51 expression ras v12 ras v12s35-infected cells their anchorage-independent growth 
+(a) western blotting tdag51 protein (tdag51) 5 ?g cellular lysates non-silencing vector control (plvthm) anti-tdag51 shrna (36-1) -expressing cell lines indicated
+blot subsequently stripped probed anti-alpha tubulin mab (alpha tubulin)
+band intensities determined using image j software (nih bethesda md) tdag51 values normalized using alpha tubulin values
+fold expression band relative hme16c plrt plvthm: plrt plvthm (1.0) 36-1 (0.4) v12 plvthm (2.3) 36-1 (1.0) s35 plvthm (1.5) 36-1 (0.7)
+similar experiments shown performed 2 additional times similar results (b) growth plvthm vector control tdag51 shrna-expressing rasv12s35-transduced cells either presence 0.2% dmso control (left) 0.25 ?m pd153035 (right) low-attachment plates assessed alamar blue growth assay
+rfu relative fluorescence units
+(c) growth plvthm vector control tdag51 shrna-expressing rasv12-transduced cells either presence 0.2% dmso control (left) 0.25 ?m pd153035 (right) ultra-low-attachment plates assessed alamar blue growth assay
+rfu relative fluorescence units
+characterize effect tdag51 cell proliferation under anchorage-independent conditions cell cycle analysis cell proliferation assays rasv12s35- rasv12-infected cells performed
+both rasv12s35- rasv12- tdag51 shrna-expressing cells demonstrated increased s-phase fraction versus plvthm vector control cells various time points during anchorage-independent growth (figure 7a )
+concordance results rasv12s35 rasv12 cells expressing tdag51-specific shrna showed enhanced incorporation 5-ethynyl-2'-deoxyuridine (edu) cell proliferation assays indicating higher rate dna synthesis cells reduced tdag51 protein (figure 7c )
+cell proliferation increased ras-transformed cell lines reduced tdag51 expression 
+(a) s phase fraction rasv12s35-expressing (left panel) rasv12-expressing (right panel) hme16c infected plvthm non-silencing vector control anti-tdag51 shrna 36-1 after 48 72 96 120 hours growth ultra-low attachment plates determined cell cycle analysis propidium iodide-stained nuclei
+* p < 0.05 **p < 0.01 ***p < 0.001
+(b) incorporation nucleoside analogue edu cellular dna measured rasv12s35-expressing (left panel) rasv12-expressing (right panel) hme16c infected plvthm non-silencing vector control anti-tdag51 shrna 36-1 after 48 72 96 120 hours growth ultra-low attachment plates
+incorporated edu quantified detection alexa fluor 488-labeled edu viable single cells flow cytometry analysis
+since cell growth under anchorage-independent conditions balance between cell proliferation cell death we sought evaluate effect upon cellular death tdag51 knock-down
+we used assay cellular cytotoxicity measures release lactose deydrogenase enzyme ldh
+ldh release increased tdag51 shrna-expressing rasv12s35 cells relative plvthm-infected cells various time points after initiation matrix-detached growth (figure 8 )
+difference ldh release tdag51 shrna-expressing rasv12 cells minimal rarely approached statistical significance
+sub-g1 peaks indicative dead cells sometimes seen cell cycle analysis late time points but varied experiment experiment
+therefore rasv12s35-infected cells differences cell growth after tdag51 reduction under anchorage-independent conditions resulted enhanced rate cellular proliferation exceeded concomitant increase cell death
+ldh release ras v12s35- ras v12-expressing hme16c infected plvthm vector anti-tdag51 shrna 36-1 
+(a) relative ldh activity released plvthm- anti-tdag51 shrna 36-1-infected rasv12s35 cells measured culture media cells grown under anchorage-independent conditions ultra-low attachment plates times indicated
+* p < 0.05 **p < 0.01 ***p < 0.001
+(b) relative ldh activity released plvthm- anti-tdag51 shrna 36-1-infected rasv12 cells
+* p < 0.05
+reducing tdag51 protein levels erk-driven cellular transformation enhanced cell growth under anchorage-independent but not attached conditions
+test whether tdag51 might affect proximal erk signaling we examined activation status erk cells expressing tdag51-specific shrna
+interestingly levels phosphorylated erk enhanced when tdag51 protein levels reduced rasv12s35 rasv12 cells grown under anchorage-independent but not attached conditions (figure 9 )
+fact activation status erk unchanged cells grown under attached conditions suggests reducing tdag51 expression no selective effect regard erk activation cells
+rather enhanced activation erk specific anchorage-independent growth conditions
+erk pathway activation ras v12 ras v12s35 cells infected plvthm anti-tdag51 shrna 36-1 
+rasv12 rasv12s35 cells infected either plvthm vector control anti-tdag51 shrna 36-1 grown 72 hours attached tissue culture plastic (attached) ultra-low attachment plates (anchorage-independent) presence 250 ng/ml doxycycline
+erk pathway activation measured determination phosphorylated erk1/2 levels western blotting using anti-phosphorylated erk mab (phospho-erk)
+blot stripped subsequently probed anti-erk2 mab (erk2)
+ras common signaling node various cell surface receptors contribute epithelial cell transformation [ 14 ]
+study we used htert-immortalized human mammary epithelial cell line hme16c examine ras signaling pathways sufficient transformation identify transcriptional targets downstream those pathways might modulate phenotype
+transduction hme16c pathway-discriminating ras effector domain mutants demonstrated multiple downstream ras signal transduction pathways contribute anchorage-independent growth including raf- ralgef- pi3k-mediated signaling
+transformation hme16c rasv12g37 effector domain mutant but not activated rlf-caax suggest rasv12g37-binding effectors other ralgef contribute mammary epithelial transformation
+microarray analyses rasv12 ras effector domain mutant transduced cells demonstrated common upregulation egfr ligands among transformed cell lines
+suggested autocrine egfr ligand secretion important component ras-mediated cellular transformation
+following blockade egfr signaling egfr-specific inhibitor pd153035 only pathway downstream ras promoted anchorage-independent growth raf/erk suggesting raf activation able substitute egfr activity cell line
+contrast previous studies mcf10a cells demonstrated egfr tyrosine kinase activity necessary inhibit anoikis upon matrix detachment even cells expressing activated raf [ 16 ]
+contrast under matrix detached conditions parental hme16c cells non-proliferative but do not actively undergo anoikis
+studies here measure proliferative response raf/erk activation absence strong apoptotic component
+addition blockade mek activity mek-specific inhibitor pd98059 prevented transformation rasv12- rasv12s35-expressing cells
+taken together finding rasv12- rasv12s35-transduced hme16c cells able form tumors nude mice indicates raf-mek-erk axis plays crucial role mediating transformation tumorigenesis model
+however should noted ras-transformed hme16c well similar hmler [ 32 ] give rise squamous metaplasias not adenocarcinomas
+been hypothesized hmle human mammary epithelial cells represent distinct precursor population those mammary epithelial cells give rise glandular adenocarcinomas predominant form breast cancer [ 32 ]
+significantly reduced tumorigenicity rasv12s35- compared rasv12- expressing cells emphasizes importance cooperation between ras signal transduction pathways fully transformed phenotype
+following egfr inhibition rasv12c40- rasv12g37- transduced lines lost anchorage-independent growth suggesting non-erk signaling pathways contribute cellular transformation through egfr dependent mechanism
+indeed one consequence egfr activation erk pathway activation may explain role egfr cooperating rasv12g37- rasv12c40-mediated cell signaling promote anchorage-independent growth
+microarray analyses identified up-regulation phlda1 gene product being correlated erk-mediated cellular transformation
+likewise protein product phlda1 gene tdag51 displayed identical expression pattern
+expression phlda1 mrna tdag51 protein breast cancer recently been described [ 17 ]
+using tdag51 immunohistochemistry tissue microarrays 699 individual primary invasive breast tumor specimens examined loss tdag51 found correlate poorer disease-free overall survival rate multivariate analysis
+similar results been found small series melanomas where tdag51 immunoreactivity found decrease during progression melanocytic nevi primary melanomas finally metastatic melanoma [ 18 ]
+studies suggest tdag51 suppressive effect tumor progression prompted us evaluate cell biological function tdag51 hme16c transformation model
+phlda1 gene member pleckstrin homology-related domain family includes ipl/tssc tih [ 33 ]
+phdla1 been described immediate early gene transcriptional activation resulting engagement receptors such fgf igf tyrosine kinase receptors t-cell receptor [ 34 - 36 ]
+strong tdag51 induction rasv12s35 transformation mammary epithelial cells suggests erk activation may least partially explain tdag induction previous reports
+vitro studies suggested role tdag51 control cellular proliferation induction apoptosis response variety stresses including proteotoxic cellular stresses such lung cancer cell responses chemotherapy[ 35 37 - 39 ]
+overexpression tdag51 been shown reduce cell proliferation induce cell death variety cell types including t cells neuronal endothelial melanoma cervical carcinoma cell types [ 34 35 38 ]
+contrast tdag51 functioned anti-apoptotic factor downstream insulin-like growth factor receptor (igfr) signaling tdag51 required protect nih3t3 cells apoptosis upon igf-1 withdrawal [ 36 ]
+reduction tdag51 levels rasv12 rasv12s35 cells enhanced cell proliferation under anchorage-independent conditions
+suggests tdag51 expression limits cellular proliferation
+addition enhancing cellular proliferation reduction tdag51 protein levels increased absolute amount cell death transformed rasv12s35 cells under same conditions
+therefore tdag51 loss context oncogene activation may indirectly promote cell death consequence enhanced cell cycling
+however overall increased cell numbers anchorage-independent conditions showed enhanced cellular proliferation exceeded enhanced cell death
+interestingly decrease tdag51 expression during ras-mediated cellular transformation promoted growth cells under anchorage-independent conditions but did not affect growth attached cells
+suggests tdag51 might act conjunction both cellular stress case matrix detachment proliferative signal case oncogenic activation
+other studies implicated tdag51 functioning during cellular stress survival particularly endoplasmic reticulum stress associated unfolded protein response [ 37 38 ]
+mechanism action tdag51 not known
+preliminary finding tdag51 binds proteins involved protein translation been used suggest tdag51 may play role regulating protein synthesis response proteotoxic stress [ 40 ]
+reduction tdag51 expression resulted increase erk activation cells grown under anchorage-independent conditions
+how tdag51 expression might suppress erk signaling not known but appears represent negative feedback pathway directly indirectly limits erk activation
+not likely due inhibition erk protein synthesis tdag51 since erk2 levels unaffected reduced tdag51
+however another important component erk activation dual specific erk phosphatases highly regulated class proteins whose relative level activity may affected tdag51 protein levels
+understanding mechanisms tdag51 regulates erk pathway activation balance between cellular proliferation apoptosis transformed cells represents future challenge
+finally tdag51 acts suppressive manner during matrix-detached growth hme16c cells
+taken together identification tdag51 stress-induced gene variety cell lines growth inhibitor melanoma cell lines reasonable suggest loss tdag51 may act promote progression breast cancer through intrinsic growth regulatory mechanism
+expression activated ras effector domain mutants bind raf pi3k ralgef sufficient induce anchorage-independent growth human mammary epithelial cell line hme16c associated up-regulation egfr ligands
+however only erk pathway capable supporting transformation absence egfr signaling supporting tumorigenesis nude mice
+up-regulation tdag51 occurs during ras-mediated transformation erk-dependent fashion but opposes erk-mediated transformation suppressing erk signaling decreasing cellular proliferation under matrix-detached conditions
+therefore model mammary epithelial cell transformation tdag51 acts growth inhibitor erk-driven proliferation may help explain why loss tdag51 expression been found correlate progression human breast cancer melanoma
+egfr: epidermal growth factor receptor erbb2: epidermal growth factor receptor family member b2 erk: extracellular regulated kinase phdla1: pleckstrin homology domain-like family member 1 pi3k: phsphatidyl inositol 3-kinase pik3ca: phosphatidyl inositol 3-kinase catalytic alpha polypeptide pten: phosphatase tensin homologue deleted chromosome 10 ral: ras-like gene ralgef: ral guanidine nucleotide exchange factor rlf: ralgef-like factor shrna: small hairpin ribonucleic acid tdag51: t-cell death associated gene 51 kda
+authors declare no competing interests
+final text reviewed approved all listed co-authors
+all contributed intellectual content experimental work honest manner
+contents not been published submitted any other journal
+no part text been included any other paper
+conception design: mdo kk
+provision study materials: mdo jjy yw kk
+collection assembly data: mdo sjb lz
+data analysis interpretation: mdo kk
+manuscript writing: mdo kk
+final approval manuscript: mdo sjb lz jjy yw kk
+pre-publication history paper accessed here: selected microarray data hme16c cell lines 
+fold up-regulation down-regulation genes identified microarray analysis indicated genes where value exceeded two-fold organized categories according broadly defined gene functions
+phlda1 categorized up-regulated gene under "miscellaneous." click here file real-time rt-pcr confirmation selected microarray data 
+results transcripts identified up- down-regulated microarray analysis cdna rasv12- rasv12g37- rasv12s35- rasv12c40- rlf-caax-infected hme16c
+numbers represent fold expression changes transcript levels relative vector-infected plrt control cells
+parenthetical numbers indicate mean fold expression changes cdna microarray analysis (see additional file above)
+sequences primers used real-time rt-pcr analysis follows: amphiregulin forward 5'-cgccggtggtgctgtcgctctt-3' reverse 5'-tcactcacaggggaaatctcactc-3' anterior gradient 2 forward 5'-ggggtgaccaactcatctggactcag-3' reverse 5'-gacatactggccatcaggagaaaggtgt-3' cd24 forward 5'-gctcctacccacgcagatttatt-3' reverse 5'-cacgaagagactggctgttgact-3' c-met forward 5'-aaatggccacgggacaacacaa-3' reverse 5'-tgggctggggtataacattcaaga-3' ctgf forward 5'-ctgcccgggaaatgctgcgaggagt-3' reverse 5'-ctgcaggaggcgttgtcattggtaa-3' cyr61 forward 5'-cggcccaagtactgcggttcct-3' reverse 5'-attggcatgcgggcagttgtagtt-3' decorin forward 5'-acttctgcccacctggacacaaca-3' reverse 5'-atggcagagcgcacgtagacaca-3' dicer-1 forward 5'-caggaaatacccgtgcaaccaacta-3' reverse 5'-gcattacggccatcacaggacttc-3' e-cadherin forward 5'-ggtatcttccccgccctgccaatcc-3' reverse 5'-aaccgcttccttcatagtcaaacacgag-3' epha2 forward 5'-ccccttccgccccacactacctcacagc-3' reverse 5'-acacggcccgcattccccagactcg-3' epiregulin forward 5'-ttgtatttttagtagaggcggggtttca-3' reverse 5'-tcgggcacagatgttcaagtcac-3' ets-1 forward 5'-actcgggggccaggactcttttgaa-3' reverse 5'-cacggtcccgcacatagtccttgaa-3' ets variant gene 5 forward 5'-tcggggacgtctacggtttctact-3' reverse 5'-aagactgtaaacggctaccattga-3' fat-2 forward 5'-gctggacatcaaacgggctaacat-3' reverse 5'-accgcatctgaacccccactgaat-3' hmga-1 forward 5'-gctcaccctgcccgctcccaacc-3' reverse 5'-gccccagcccctcttccccacaaa-3' hmga-2 forward 5'-ctgataagcaagagtgggcgggtgagaa-3' reverse 5'-acagggagtgggttggggtggtatttga-3' secreted frizzled-related protein 1 forward 5'-cccgctccctttccctccata-3' reverse 5'-gctctcactttccgcccaatcc-3' tenascin c forward 5'-gcggcccagagcgaggaa-3' reverse 5'-tattgcgatgttgtcactgggagatttt-3' tgf-a forward 5'-ccgccttggtggtggtctcc-3' reverse 5'-agggcgctgggcttctcgtg-3' tgf-?2 forward 5'-cccgcccactttctacagaccctact-3' reverse 5'-cattcgccttctgctcttgttttcac-3' tgf-? receptor 2 forward 5'-acagtggcagtcaagatctttccctatg-3' reverse 5'-caactccgtcttccgctcctcag-3' trim29 forward 5'-atgcatgcgccacgttgagaagat-3' reverse 5'-ggtgaagcggccaggagacgag-3'
+click here file research supported intramural research program nih national cancer institute center cancer research.

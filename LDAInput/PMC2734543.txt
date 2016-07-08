@@ -1,0 +1,323 @@
+322
+table 2 protein expression levels primary immortalized tumorigenic cell populations prim-mef imm-mef tbx2-mef ras-lp ras-hp ras-tum glycolysis aldolase 1.0 1.1 1.1 1.0 1.0 1.1 gapdh 1.0 0.9 1.0 1.4 1.4 1.5 pyruvate kinase 1.0 0.8 0.8 1.0 1.1 1.0 ldh-a 1.0 0.8 0.8 1.0 1.1 1.2 oxphos porin 1.0 1.3 1.3 1.4 0.9 1.0 b39 1.0 0.7 0.7 1.3 1.5 1.5 pdh-e2 1.0 1.0 1.2 1.2 1.0 1.2 pdh-e1a 1.0 1.0 1.1 1.3 1.4 1.2 nad metabolism cmdh 1.0 0.6 1.2 2.4 3.3 2.9 mmdh 1.0 0.9 0.9 1.3 1.1 1.1 nampt* nd nd nd 1.0 1.9 2.6 semi-quantitative western blot performed described material methods protein expression levels prim-mef arbitrarily set 1.0 glycolytic mitochondrial enzymes do not show upregulation protein level immortalized transformed cell populations two enzymes involved cellular nadh metabolism mdh1 nampt showed increased protein levels *indexed ras-lp (1.0): protein levels prim-mef extremely low could not reliably quantified (nd: not detectable).
+warburg phenotype cancer cells been long recognized but there still limited insight consecutive metabolic alterations characterize its establishment
+we obtained better understanding coupling between metabolism malignant transformation studying mouse embryonic fibroblast-derived cells loss-of-senescence h-rasv12/e1a-transformed phenotypes different stages oncogenic progression
+spontaneous immortalization induction senescence-bypass only marginal effects metabolic profiles viability
+contrast h-rasv12/e1a transformation initially caused steep increase oxygen consumption superoxide production accompanied massive cell death
+during prolonged culture vitro cell growth rate increased gradually along tumor forming potential in vitro anchorage-independent growth assays vivo tumor formation assays immuno-deficient mice
+notably glucose-to-lactic acid flux increased passage number while cellular oxygen consumption decreased
+conversion metabolic properties associated change mitochondrial nad+/nadh redox indicative decreased mitochondrial tricarboxic acid cycle oxphos activity
+high rate oxidative metabolism newly transformed cells marked contrast high glycolytic rate cells later tumor stage
+our experimental system cells growing under ambient oxygen conditions nutrient-rich media shift towards warburg phenotype occurred step-wise adaptation process associated augmented tumorigenic capacity improved survival characteristics transformed cells
+we hypothesize early-transformed cells potentially serve founders new tumor masses may escape therapies aimed metabolic inhibition tumors fully developed warburg phenotype
+carcinogenesis multi-step process not only involves activation oncogenes and/or inactivation tumor suppressor genes [ 1 ] but alterations energy metabolism
+growth viability malignant cells strongly dependent their ability adopt altered metabolic profile fulfills synthetic bioenergetic requirements fast uncontrolled growth
+metabolic phenotype characterized shift oxidative phosphorylation (oxphos) towards aerobic glycolysis main source atp production phenomenon first described otto warburg [ 2 ]
+increased dependency cancer cells aerobic glycolysis well-recognized hallmark [ 3 ] but still relatively little known about factors control during early phases transformation process
+issue whether not metabolic phenotype absolute prerequisite advanced cancer progression subject debate [ 4 ]
+carbohydrate metabolism must warrant sufficient supply atp cell growth but maximize macromolecular biosynthesis [ 5 ]
+intriguingly cancer cells develop ability escape senescence apoptosis processes glycolysis mitochondrial pathways actively engaged [ 6 ]
+furthermore tumor cells maximize antioxidant capacity via glutathione system coupled increased flux through glycolysis-coupled pentose phosphate pathway (ppp) [ 7 ]
+question why tumor cells relatively high glycolytic rate compared oxphos activity therefore goes well beyond basics two processes more efficient terms atp production
+carbohydrate metabolism been studied extensively context oncogene-induced cellular signaling mutations metabolic enzyme-encoding genes themselves rarely direct cause cancer [ 8 ]
+example increased glycolysis triggered activation pi3k/akt signaling pathway [ 5 9 ] p53 pathway [ 10 ]
+important aspect been less well studied how metabolism changes dynamically transforming cell population
+warburg phenotype solid tumors vivo thought result multiple adaptive changes metabolism response both cell-internal -external cues
+hence conversion dysplasic cell towards full-blown cancerous state [ 11 ] not just caused genetic changes alone
+step-wise development associated metabolic adjustments patient tumor cells difficult monitor virtually impossible obtain population founder cells tumor originally evolved
+we therefore developed populations mouse embryonic fibroblasts (mefs) investigate how adaptations glycolytic-mitochondrial capacity accomplished during oncogenic transition
+specifically we studied cells immortalized state directly after oncogenic transformation mutant h-rasv12 e1a
+latter cells followed during step-wise conversion fully cancerous state vitro passage through immune-deficient mice vivo gave us opportunity analyze metabolism broad window tumor stages
+we focused sequential order adaptations glycolytic-mitochondrial capacity accomplished under constant extrinsic conditions culture medium oxygenation
+our data show sharp increase oxygen consumption high rate formation reactive oxygen species (ros) directly after h-rasv12/e1a transformation smooth transition towards higher glycolytic rates later during tumorigenic development
+we hypothesize immediate increase oxygen consumption oxphos activity sets new delicate balance cell fate specification driving cells "adapt-or-perish" regime
+subsequent escape situation associated gain survival characterized glycolytic switch even under ambient oxygen levels adaptation typical warburg phenotype
+we set up new cell model system study metabolic characteristics immortalized tumorigenic cells all derived one defined genetically stable founder cell population mouse embryonic fibroblasts (prim-mef table 1 )
+immortalized cells fulfill one early hallmark cancer namely limitless replicative life span [ 1 ]
+spontaneously immortalized population (imm-mef) established passaging pool prim-mefs through replication bottleneck [ 12 ]
+transition likely associated random acquisition one more genetic alterations such mutation p53 loss p19arf [ 13 ]
+second pool cells senescence-bypass phenotype (tbx2-mef) thus genetically distinct spontaneously immortalized pool generated overexpression tbx2 prim-mef passage 2
+characteristics primary immortalized tumorigenic cells panel cell diameter doubling time vitro vivo tumorigenic characteristics analyzed
+values represent average ± sem (n)
+cell diameter cell doubling time decrease significantly h-rasv12/e1a-transformed cells
+primary immortalized cells do not form tumors vitro vivo whereas tumorigenic capacity h-rasv12/e1a-transformed cells increases passage number
+1for cell diameter analysis approximately 120 cells per population analyzed independent experiments
+2soft agar assays carried out duplicate independent experiments
+3 vivo tumor assays conducted total nine animals described material methods
+4for cell growth analysis cell doubling time calculation least six independent experiments duplicate conducted
+cells seeded 128000 (prim-mef imm-mef tbx2-mef) 200000 (ras-lp -hp -tum) cells per well 6-well plate
+statistics: **: p < 0.01 ***: p < 0.001 compared prim-mef (one-way anova/bonferroni) ?: p < 0.05 compared ras-lp (one-way anova/bonferroni) ?: p < 0.05 ??: p < 0.01 compared ras-lp (student's t-test) #: p < 0.10 comparison prim-mef ? ras-lp (student's t-test) co-expression mutant rasv12 adenovirus e1a primary mouse cells constitutes model multistep tumorigenesis establishment oncogenic cell populations [ 14 ]
+we used principle establish mef populations different phases oncogenic transition towards malignant phenotype via retroviral transduction plpc-e1a-ires-h-rasv12 prim-mef cells passage 2
+resulting cell pool studied (i) directly after selection vitro cultivated cells (ras- l ow p assage: 5?10) (ii) after prolonged passage vitro (ras- h igh p assage: > 25) (iii) after injection ras-hp (p25) cells subcutaneously flank immune-deficient mice re-establishment tumor cell populations in vitro culture (ras-tum between +3 +10 passages after re-culturing)
+population propagated mixed pool cells distinct viral dna integration sites genome possibly differences expression levels transforming transgenes
+thus we avoided clonal analyses excluded possibility one few selective integrations transgene would dominate phenotypic outcome
+cell morphology prim-mef imm-mef tbx2-mef populations largely similar but introduction h-rasv12/e1a induced prominent morphology changes resulted marked reduction cell diameter (table 1 additional file 1 : fig
+s1 fig
+s2a)
+notably cellular protein concentration (additional file 1 : fig
+s2b-c) decreased immortalized cells while tended increase h-rasv12/e1a transformed cells
+effects immortalization h-rasv12/e1a expression growth rate studied
+cell doubling rates prim-mef (between passage 3?8) tbx2-mef (between passage 15?25) did not differ (20 hrs table 1 ) but imm-mef (between passage 20?30) grew slower (+4 hrs)
+doubling rate reduced three hours ras-lp cells eight hours ras-hp five hours ras-tum cells
+our analyses revealed cultures ras-lp cells contained high percentage detached mostly dead cells culture medium assayed tryphan blue staining (fig
+1 )
+indicates we underestimated cell division time cells because reduced viability population
+transition ras-lp ras-hp associated greatly improved survival chance drastic reduction amount non-adherent cells culture
+we subsequently determined anchorage-independent growth characteristics our cell populations soft agar colony formation assays evaluated tumor forming potential immune-deficient mice
+after nine days 5 7-fold more colonies formed ras-hp ras-tum soft agar assays compared ras-lp whereas imm-mef prim-mef tbx2-mef cultures gave no colonies all (table 1 )
+subcutaneous injection cells immune-deficient mice revealed ras-hp-derived tumors four times larger ras-lp tumors after four weeks (table 1 )
+we conclude capacity h-rasv12/e1a-transformed cells form tumors increases cell culture passage number
+viability ras-lp ras-hp cells standard culture conditions 
+adherent non-adherent cells harvested after 72 hours culture stained using tryphan-blue counted
+: data presented percentages total amount cells
+***: p < 0.001 (n = 5)
+ras-lp cultures contain relatively more detached cells medium majority dead
+b : data presented (a) absolute counts (n = 5)
+***: p < 0.001 (n = 5)
+ras-hp cell cultures contain relatively absolutely more viable cells
+because all analyses performed cells growing ambient oxygen condition nutrient-rich culture media we analyzed impact low (2%) oxygen levels cell growth survival soft agar under conditions where diffusion limitation restricts nutrient supply
+under both high low oxygen tension colony forming capacity ras-hp cells soft agar higher ras-lp cells
+however ras-lp cells cultured 2% oxygen formed 3-fold more colonies 21% oxygen whereas ras-hp formed only 1.3-fold more colonies 2% oxygen (fig
+2a?b )
+ambient environmental oxygen supply extrinsic parameter thus plays important negative role fate specification cells immediately after h-rasv12/e1a transformation
+anchorage-independent growth soft agar different oxygen conditions 
+a: growth ras-lp cells soft agarat 2% 21% environmental oxygen
+lowering external oxygen levelsresults 3-fold increase number colonies per cm2
+*:p < 0.05 (student's t-test)
+b: growth ras-hp cells soft agar at2% 21% environmental oxygen
+lowering external oxygen levels inras-hp soft agar cultures results only marginal 1.3-fold andnon-significant increase colony number showing glycolyticshift relatively glycolytic cells does not result largeincrease viability colony formation cells soft agar
+we further concentrated question cell-intrinsic metabolic parameters play role h-rasv12/e1a-initiated tumor cell development
+increased lactic acid production hallmark change intermediary metabolism tumor cells [ 15 ] we determined lactic acid levels culture medium 24 48 72 hours after seeding cells alongside cell counts (see above)
+enabled calculation lactic acid production per average cell time interval analyzed (additional file 1 : fig
+s3a)
+because protein content per cell not stable cells different size volume (additional file 1 : fig
+s2b-c) we corrected protein content per cell enable accurate comparison between cells different composition morphology
+results presented fig
+3a show lactic acid production ? moles/mg protein equal prim-mef imm-mef tbx2-mef but increased 1.5-fold ras-lp cells 2.5-fold ras-hp 3.5-fold ras-tum cells compared prim-mef
+prolonged passaging h-rasv12/e1a transformed cell populations induced gradual shift towards higher glycolytic rate
+lactic acid production oxygen consumption proton production rate 
+: lactic acid production ? moles/mg protein (mean ± sem)
+lactic acid production measured media samples taken cell cultures used obtain cell doubling time data table 1
+six independent experiments duplicate conducted all cell populations except ras-hp (n = 8) ras-tum (n = 7)
+lactic acid production increases passage number h-rasv12/e1a-transformed cells
+***:p < 0.001 compared prim-mef
+#:p < 0.05 ##:p < 0.01 ###:p < 0.001 ras-lp ? ras-hp ? ras-tum intercomparisons (one-way anova/bonferroni)
+b : oxygen consumption nrfu/min/mg protein measured bd oxygen biosensor plates (mean ± sem)
+experimental value represents n = 3 (prim-mef imm-mef tbx2-mef) n = 6 (other cell populations) independent assays carried out triplicate
+cells seeded 200000 cells per well 384-well plate
+oxygen consumption peaks immediately after h-rasv12/e1a transformation then decreases passage number
+***:p < 0.001 compared prim-mef
+###:p < 0.001 ras-lp ? ras-hp ? ras-tum intercomparisons (one-way anova/bonferroni)
+c : proton production rate (ppr) oxygen consumption rate (ocr) per cell measured seahorse xf24 analysis 48 hours post seeding (mean ± sem n = 6 except ras-hp n = 4)
+prim-mef imm-mef tbx2-mef cells seeded 25000/well
+ras-lp ras-hp ras-tum cells seeded 30000/well
+ppr: **:p < 0.01 compared prim-mef
+ocr: ##:p < 0.01 compared prim-mef (one-way anova/bonferroni)
+data confirm gradual increase cellular acidification decrease oxygen consumption described (a) (b) real time analysis
+oxygen consumption rate determined normalized relative fluorescence units analyzing trypsinized cells bd oxygen biosensor multi-well plates subsequently corrected protein content per cell (fig
+3b see additional file 1 : fig
+s3b)
+parameter relatively low prim-mef immortalized cell populations but h-rasv12/e1a expression immediately induced 5.6-fold increase basal oxygen consumption rate per mg protein
+ras-hp cells showed 2.8-fold reduced oxygen consumption compared ras-lp while oxygen consumption ras-tum cells reverted level found prim-mef cells
+measurement maximum oxygen consumption after uncoupling fccp revealed mitochondria ras-lp cells function 66% their maximum respiratory capacity compared only 25% prim-mef immortalized cells (additional file 1 : fig
+s4a-b)
+oxygen consumption all cell types almost completely blocked complex v inhibitor oligomycin (additional file 1 : fig
+s4c) indicating fully coupled atp production
+moreover oxygen consumption completely blocked complex iii inhibitor myxothiazol only marginally affected extracellular supplementation nadh indicating vast majority oxygen consumption occurred mitochondria not due membrane oxidase activity (additional file 1 : fig
+s4d) significantly contributes cellular oxygen consumption variety tumor cell lines [ 16 ]
+verify findings independent setting allow direct calculation fmoles oxygen consumed we determined proton extrusion rate (indicative anaerobic glycolytic rate) oxygen consumption rate (indicative mitochondrial oxphos) cells adherent culture conditions using real time extracellular flux analysis [ 17 ]
+accordance lactic acid production normalized proton production rate (ppr fig
+3c ) per cell increased step-wise transition prim-mef ? ras-lp ? ras-hp ? ras-tum
+analysis oxygen consumption rate adherent cells (ocr fig
+3c ) real time showed drastically increased oxygen consumption ras-lp cells compared prim-mef again appeared diminished ras-hp ras-tum
+thus h-rasv12/e1a transformation directly induced high oxphos activity gradually diminished during prolonged culture vitro passage through immune-deficient mice
+shift balance between aerobic anaerobic metabolism may associated abundance several key enzymes glycolytic mitochondrial pathways altered metabolite flux through reactions [ 18 ]
+table 2 additional file 1 (fig
+s5a-b) show levels glycolytic pathway enzymes mitochondrial enzymes surprisingly constant (variations less 50%) all cell populations suggesting altered flux rates responsible increased glycolytic flux ras-hp ras-tum cells
+we considered possible altered glycolytic flux regulation level ldh isoenzyme expression but found only marginal changes ldh isoenzyme profile (data not shown)
+protein expression levels primary immortalized tumorigenic cell populations semi-quantitative western blot performed described material methods
+protein expression levels prim-mef arbitrarily set 1.0
+glycolytic mitochondrial enzymes do not show upregulation protein level immortalized transformed cell populations
+two enzymes involved cellular nadh metabolism mdh1 nampt showed increased protein levels
+*indexed ras-lp (1.0): protein levels prim-mef extremely low could not reliably quantified (nd: not detectable)
+setting cytosolic nad+/nadh ratio determines enzymatic rate gapdh reaction ldh reaction shuttling nadh towards mitochondria via malate-aspartate shuttle therewith important determinant pyruvate flux
+we investigated alteration flux through glycolytic mitochondrial pathways associated changes enzymes determine nad+/nadh redox couple
+cytosolic malate dehydrogenase (mdh1) levels two-fold higher h-rasv12/e1a transformed non-transformed cells
+contrast mitochondrial mdh (mdh2) levels appeared similar all cell populations (table 2 additional file 1 : fig
+s5c)
+furthermore expression level nampt key enzyme nad+ salvage pathway one main regulators total cellular nad level increased immediately after h-rasv12/e1a expression
+induction mdh1 nampt could important implications pyridine nucleotide balance
+steady state levels redox state pyridine nucleotides important indicators regulators cell state metabolic signaling activity [ 19 ]
+we studied pyridine nucleotide levels hplc reveal adjustments balance between glycolysis oxphos indeed reflected changes steady-state levels total cellular atp nad+ nadh nadp nadph (see additional file 2 additional file 1 : fig
+s6)
+analysis showed 30?40% increase total cellular nad(h) (nad+ plus nadh) levels but not nadp(h) (nadp+ plus nadph) levels rasv12/e1a transformed populations relative unchanged total cellular atp level
+unfortunately neither two hplc analysis methods used allowed reliable quantification nad+/nadh nadp+/nadph redox status due methodological constrains
+more detailed information levels compartmentalization non-protein bound nad(p)h obtained autofluorescence microscopy [ 20 ]
+nad(p)h signals majority nadh largely confined mitochondria nucleus
+two three-fold brighter autofluorescence signals recorded mitochondria nuclei cells ras-hp ras-tum pools (fig
+4a ) suggesting increased nad(p)h levels populations
+however quantitative interpretation finding may complicated deviant morphological appearance mitochondria two populations compared prim-mef cells
+we therefore studied mitochondrial nad+/nadh redox state specifically concentrating relationship between autofluorescence levels complex i (ci) activity electron transport chain (etc) oxphos system parameter independent cell morphology
+treatment ci inhibitor rotenone blocks nadh consumption elicits direct increase mitochondrial nadh level
+measurement difference nadh fluorescence before after rotenone administration thus indicative fraction cellular nadh actually used turnover oxphos activity
+fig
+4b 4c convincingly show nadh-signal set point 66% maximum rotenone-value ras-lp compared 78?84% all other cell populations
+results strongly suggest ras-lp cells intrinsic properties force them use larger fraction their nadh content flux through oxphos ras-hp ras-tum cells explaining relatively high oxygen consumption our ras-lp cells
+ras-lp cells switched passage six galactose containing medium condition used further maximize flux through mitochondrial oxphos [ 21 ] initially grew slower died around passage fourteen (data not shown)
+us observations suggest impossible reach high passage stage solely aerobic metabolism
+ras-hp cells did not survive switch galactose containing medium died within few days indicating their aerobic metabolic capacity not sufficient meet cellular growth demands
+final control our assays we forced use mitochondrial oxphos tbx2-mef cells subjecting them growth galactose/pyruvate medium 6 days
+regime resulted 2.5-fold stimulation mitochondrial oxygen consumption rate (additional file 1 : fig
+s7a) induced decrease intramitochondrial nadh-signal set point 85% 65% maximal rotenone value (additional file 1 : fig
+s7b)
+analysis nadh autofluorescence 
+: mitochondrial nuclear nadh autofluorescence levels (mean ± sem minimum 3 independent experiments) expressed absolute grey levels
+note signals obtained cells clearly distinct morphology makes intercomparison prim-mef imm-mef tbx2-mef one hand ras-transformed populations other difficult
+absolute nadh autofluorescence increases gradually passage number h-rasv12/e1a-transformed cells
+b : representative recordings nadh autofluorescence ras-lp ras-tum cells before after rotenone application
+rotenone inhibition complex i results differential increase nadh autofluorescence
+percentage nadh autofluorescence indicative different rates mitochondrial respiration
+data confirm relatively higher respiration rates ras-lp cells
+c : cumulative data n = 3 nadh autofluorescence/rotenone analyses carried out separate days minimum 3 coverslips per day
+note parameter cell morphology-independent
+**:p < 0.01 compared prim-mef ##:p < 0.01 ras-lp ? ras-tum intercomparison (one-way anova/bonferroni)
+d : superoxide levels expressed fluorescence signal het oxidation products per cell
+ras-lp levels arbitrarily set 100%
+oxygen consumption data per cell available additional file 1 fig
+s4b fig
+s4d
+het fluorescence ras-lp hp tum cells determined three independent experiments duplicate least 20000 cells per assay
+prim-mef imm-mef tbx2-mef het fluorescence determined one experiment duplicate
+superoxide levels correlate respiration rates measured (b) (c)
+##:p < 0.01 compared ras-lp student's t-test
+increased oxygen consumption rate altered mitochondrial nad(h)-redox setpoint mitochondria prompted us test superoxide levels indicators mitochondrial respiratory activity higher ras-lp cells
+superoxide levels per cell monitored het conversion ethidium
+subsequent facs analysis revealed two-fold higher levels ras-lp cells compared ras-hp ras-tum cells per cell basis (fig
+4d )
+based absence significant membrane oxidase activity (additional file 1 : fig
+s4d) we concluded majority superoxide generated mitochondria
+control experiment we showed switch galactose tbx2 cells similar inducing effects het fluorescence (additional file 1 : fig
+s7c)
+we performed comprehensive analysis sequential metabolic changes occur panel cell populations loss cell-cycle arrest increased tumorigenic potential
+analyses gave us new insight relation between oncogenic transformation development typical warburg phenotype
+direct relatedness different cell pools ? all pools derived same primary mefs ground state cell population ? gave us unique opportunity do comparative profiling highlight early-late order adaptive metabolic changes energy metabolism occur during solid tumor development
+two genetically independent immortalization procedures only minor effects cell size morphology carbohydrate metabolism yielded metabolic phenotypes strong similarity original prim-mef cells
+contrast h-rasv12/e1a transformation caused prominent change flattened spherical appearance smaller volume (see [ 22 ])
+similar changes been reported before other transformed cell types [ 23 24 ]
+one most conspicuous observations our study metabolic phenotype initially switched aerobic oxphos-based immediately after transformation
+augmented oxphos rate ras-lp cells associated increased total cellular nad(h) levels altered mitochondrial nad+/nadh setpoint increased oxygen consumption increased superoxide production
+we think oxphos induction early transformed cells may general concept precedes well-documented warburg effect shift aerobic glycolysis
+initial switch aerobic metabolism been reported after oncogene-mediated transformation human mesenchymal stem cells [ 25 ] human epithelial cells [ 26 27 ] human breast cancer cells [ 28 ]
+stage however difficult draw direct comparison between our findings mouse cells findings different human systems panels related human cells lines comparable our panel do not exist generated via use increasing numbers oncogenes [ 27 ]
+future work involving analyses metabolic fate specification panels human cells mesenchymal epithelial progenitor-stem cell origin will therefore needed verify prediction high oxphos activity early transformed cells
+importantly our results indicate environmental factors exert strong influence viability tumor cells during early phase transformation process
+anchorage-independent growth capacity ras-lp cells increased under low oxygen conditions presumably direct suppressive effect high intrinsic "unbalanced" mitochondrial activity simply better coupling glycolytic-mitochondrial pathways
+better explanation discrimination between possibilities detailed comparison relative mitochondrial glycolytic pathway activity cells colonies formed under ambient oxygen hypoxia would imperative
+unfortunately such pathway analysis relatively small numbers cells soft agar situ currently technically not possible so we leave analysis future work
+we may extrapolate findings vivo situation we would predict nutrient levels environment including oxygen levels may determine fate early dysplastic cells tissues
+light our results we predict low oxygen hypoxia would enhance their capacity grow tumors already proposed model gatenby gillies [ 29 ]
+later trajectory oncogenic transformation displayed our cell panel involved gradual shift towards higher anaerobic glycolysis rates over 20 passages vitro passage through immune-deficient mice accompanied clear gain survival ability
+we demonstrate here pools cells progress towards tumorigenic phenotype go through distinct series adaptational changes
+although metabolic rewiring may controlled specific mutations regulatory genes become dominant entire pool we consider more likely cell-intrinsic metabolic signaling mechanisms acting within windows set culture conditions (i.e
+nutrient o2 supply) used our experiments drive gradual shift oxphos glycolysis
+we draw conclusion because we observed similar stepwise drift metabolic phenotype parallel series cell populations independently derived mefs mice combined defect phosphotransfer enzymes ck-b ak1 [ 30 ]
+point important note entire transition trajectory occurred continuous presence 21% environmental oxygen under constant medium conditions
+strikingly h-rasv12/e1a expression only marginally affected protein expression levels glycolytic tca oxphos enzymes all stages after transformation implying altered flux rates dominate underlie observed metabolic effects
+shift mitochondrial nad+/nadh ratio we observed support model ratio sets flux rate key metabolic reactions
+adaptive changes mitochondrial function without further genetic programming may provide growth- survival advantage conferring resistance apoptotic cell death [ 31 ]
+cells electron flow through etc enhanced glycolytic flux may perform best properties associated reduced ros production increased ros scavenging ability respectively
+ros induced damage well-known factor cell viability control [ 7 ]
+indeed h-rasv12/e1a cells mitochondria primary ros source we observed direct relationship between oxygen consumption superoxide production
+indirect support relationship provided our finding glucose-galactose shift effects tbx2-mef cells
+we would like emphasize mechanisms other those based mitochondria-derived ros effects could explain apparent coupling between tumor progression increased glycolytic rate
+firstly metabolic infrastructure cells could changed due ras-induced alterations cell morphology cytoarchitecture
+cell surface changes cell clustering attachment movement processes coupled actin cytoskeleton rearrangements
+bereiter-hahn co-workers [ 32 ] showed changes energy metabolism may result rearrangements f-actin network conversely energy demand motile actin-based structures supplied predominantly atp derived glycolysis
+same time mitochondrial dynamics determined complex interplay between inner membrane-matrix complex cytoskeletal elements outside possibly via f-actin dynamin-related protein drp1 [ 33 ]
+upregulation glycolysis alteration mitochondrial properties may thus directly coupled ras-induced cytoskeletal remodeling fulfill new needs development anchorage independent growth other essential prerequisites tumorigenic progression
+another speculative possibility there may connection between cell cycle progression balance between glycolytic oxidative metabolism
+h-rasv12 induces cell cycle progression via enhanced g1 s phase transition [ 34 ] e1a oncoprotein induces s-phase via induction p300/cbp c -myc [ 35 ]
+recently reported slowly growing yeast cells low glucose environment exhibit periodic metabolic cycle alternates between glycolysis respiration where cell division cycle constrained reductive non-respiratory phase cycle dna replication taking place only during glycolytic phase [ 36 37 ]
+extrapolation yeast model situation mammalian cells valid our findings may suggest glycolysis default metabolic pathway adapted ras-transformed cells enhanced proliferation capacity
+finally our findings explained early alterations nad+/nadh setpoint acting driver subsequent changes tumorigenic conversion
+we consider interesting possibility because we observed changes set point level nad(h) (nad+ plus nadh) metabolites upregulation nampt protein levels parallel immediate early effects h-rasv12/e1a transformation our ras-lp-hp-tum series
+van der veer et al
+[ 38 ] reported overexpression nampt results increased life span resistance oxidative stress
+our data show total cellular nad(h) levels increase upon cellular transformation may relate simultaneous upregulation nad-salvaging enzyme nampt protein level
+evidence now accumulating nad+ levels and/or redox state nad+/nadh couple cytosol nucleus mitochondria key factors transcriptional regulation [ 39 40 ] modulation growth-differentiation decisions dividing cells [ 41 ] survival control [ 42 ]
+moreover need nad+ nadh essential co-factors regulation metabolic flux rates already long known
+while we regard our work first proof-of-concept clear more study regulatory circuits ? including those human cells different tissue origin ? necessary draw definite conclusions about control over early late events warburg transition
+we show h-rasv12/e1a transformation cells causes instantaneous dramatic upregulation mitochondrial etc-oxphos activity not aerobic glycolysis
+brings newly transformed cells dangerous metabolic balance reflected high rate cell death
+early stage cells limited capacity anchorage independent growth
+based our findings we hypothesize cells then traverse "adapt-or-perish" period
+those develop enhanced glycolysis relatively low mitochondrial activity increased survival chances adapt further commonly develop warburg phenotype tumorigenic cells
+our data predict early-transformed cells high oxphos activity potential serve founders new tumor masses may missed positron emission tomography images escape therapies aimed metabolic inhibition tumors fully developed warburg phenotype
+routine propagation cells all stages kept under identical culture conditions high nutrient oxygen supply exception ras-tum cells in vivo tumor environment four-week period
+cells grown dmem (25 mm glucose invitrogen breda netherlands) supplemented 4 mm glutamine 1 mm pyruvate 10% fetal calf serum (fcs greiner bio-one alphen aan den rijn netherlands) 21% environmental oxygen conditions 2% oxygen conditions where indicated
+primary mefs derived e12.5?14 dpc mouse embryos [ 43 ] heterogeneous c57bl/6/129ola background frozen passage 1
+we subsequently derived all other cell populations pool mef cells described results section
+some experiments cells cultured glucose-free dmem (invitrogen) supplemented 10% dialyzed fbs 10 mm galactose stimulate oxidative phosphorylation [ 44 ]
+details retroviral transduction available additional file 2 
+protocols equipment microscopy cell size analysis available additional file 2 
+procedures analysis anchorage-indepent growth characteristics tumor growth immune-deficient mice adopted vasseur et al
+(2003) [ 14 ] described additional file 2 
+simultaneous determination cell growth rate lactic acid production cells seeded 6-well plates
+medium harvested cells counted 24 h 48 h 72 h
+lactic acid levels determined using amplex red glucose/glucose oxidase kit (molecular probes leiden netherlands) lactate oxidase (sigma-aldrich) reaction instead glucose oxidase
+growth curves cell doubling time average cell number per hour calculated exponential growth phase (24?72 hrs) obtain metabolite production/consumption per average cell culture
+numbers converted metabolite production/consumption per mg
+cells trypsinized counted resuspended culture medium transferred bd oxygen biosensor 384 multi-well plates (becton dickinson erembodegem-aalst belgium)
+cellular oxygen consumption determined culture medium medium supplemented fccp (2 ?m) oligomycin (2.5 ?m) myxothiazol (1 ?m) nadh (1 ?m all sigma-aldrich)
+fluorescence (485 nm excitation 612 nm emission) recorded polarstar optima fluorescence polarization plate reader (bmg labtech ijsselstein netherlands) 2-min intervals 37°c 4 hrs
+maximum slope fluorescence units/min calculated converted normalized relative fluorescence units (nrfu/min)
+simultaneous multiparameter metabolic analysis cell populations culture performed seahorse xf24 extracellular flux analyzer (seahorse bioscience billerica ma usa) described wu et al
+[ 17 ]
+all six cell lines cultured growth medium 48 hours plate before real-time metabolic analysis
+start assay growth medium removed replaced dmem medium containing 5% fbs (free bicarbonate)
+basal ocr (oxygen consumption rate) ppr (proton production rate) cells measured repeatedly 30 minutes
+after xf assay cells harvested trypsin-edta treatment counted vicell (beckman coulter fullerton ca usa)
+number cells per well used normalize ocr ppr
+semi-quantitative western blot analysis performed described de groof et al
+[ 45 ]
+details available additional file 2 
+hplc analysis six 10 cm dishes (prim imm-mef tbx2-mef) 6-cm dishes (other cell lines) cultured
+experiment three plates used cell counts other three metabolite extraction using sample preparation method fiehn (meoh/chcl3 extraction method see additional file 2 )
+we repeated entire experiment using perchlorid acid extraction sample preparation method
+method allowed parallel protein quantification using pierce bca kit (pierce etten-leur netherlands)
+further details hplc instrumentation experimental procedures available additional file 2 
+nad(p)h autofluorescence levels measured experimental setup described verkaart et al
+[ 46 ]
+detailed description available additional file 2 
+cell cultures incubated hepes-tris medium containing 10 ?m hydroethidine (het molecular probes) 10 min 37°c [ 46 ]
+reaction stopped thorough washing cells pbs remove excess het
+after trypsinization fixation 2% paraformaldehyde cells washed transferred facs tubes
+ethidium fluorescence elicited excitation 488 nm emission signal detected 540?600 nm > 670 nm using facscan equipment (becton dickinson)
+statistical analyses performed one-way anova bonferroni's multiple comparisons test
+pairwise comparisons made between prim-mef all other cell populations between ras-lp other two ras-transformed populations
+other statistical analysis methods mentioned text
+ci: mitochondrial complex i etc: electron transport chain fccp: carbonyl cyanide-p-trifluoromethoxyphenylhydrazone gapdh: glyceraldehyde-3-phosphate dehydro-genase het: hydroethidine ldh: lactate dehydrogenase mdh: malate dehydrogenase mef: mouse embryonic fibroblast nampt: nicotinamide mononucleotide phosphoribosyl transferase nrfu: normalized relative fluorescence units ocr: oxygen consumption rate oxphos: oxidative phosphorylation ppp: pentose phosphate pathway ppr: proton production rate ros: reactive oxygen species
+min wu amy smift mike winer employed seahorse biosciences
+bw responsible project planning
+adg bw conceived designed experiments
+cell populations generated maintained mtl maw mvd adg
+metabolic parameters analyzed mtl mvd maw ncmls miwi miwu seahorse biosciences (fig
+3c )
+fo performed hplc measurements
+nadh autofluorescence microscopy performed mvd jf
+hp jf performed sem analysis
+adg jf bw analyzed data wrote paper
+all authors read corrected paper added suggestions
+additional figures 1?7 
+file contains supplemental figures 1?7 referred main article
+click here file additional material methods results supplemental figure legends 
+file contains supplemental material methods results referred main article
+click here file retroviral vector plpc-e1a-ires-h-rasv12 kind gift dr
+m
+serrano spanish national cancer center madrid spain
+retroviral vector pbabe-tbx2 kind gift dr
+m
+van lohuizen netherlands cancer institute amsterdam netherlands
+we thank dr
+helma pluk performing scanning electron microscopy
+study supported grant kun 2004-3125 dutch cancer society kwf kanker bestrijding b.w.

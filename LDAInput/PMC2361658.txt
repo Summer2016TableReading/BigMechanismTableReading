@@ -1,0 +1,80 @@
+79
+table 1 bmp methylation k-ras mutation nsclc   bmp3b methylation bmp6 methylation concurrent bmp3b bmp6 methylation   nm m p -value nm m p -value nm m p -value overall prevalence nsclc (n (%)) 68 (44%) 88 (56%)   96 (60%) 63 (40%)         k-ras mutation (codon 12) â??not mutated (%) 62 (91) 69 (78)   82 (87) 49 (78)   93 (89) 30 (70)   â??mutated (%) 6 (9) 19 (22) 0.03b 12 (13) 14 (22) 0.12b 11 (11) 13 (30) 0.003b nm=not methylated m=methylated b ï?2 test.
+bone morphogenetic proteins (bmps) integral component tgf ? superfamily responsible regulation cell proliferation differentiation migration programmed cell death variety cell types
+bmps transduce their signals directly through smad family proteins but been reported interact mapk erk pathways
+inactivation bmp pathway genes been implicated important several cancers
+recent work shown bmp3b epigenetically inactivated cancer suggests bmp6 epigenetically inactivated
+we investigated whether bmp6 epigenetically inactivated cell lines whether bmp3b bmp6 epigenetically inactivated non-small-cell lung cancer (nsclc)
+we studied relationship between bmp methylation k-ras mutation
+here we demonstrate bmp3b bmp6 genes common targets epigenetic inactivation nsclc significantly more likely concurrently inactivated ( p =0.009)
+furthermore coinactivation bmp3b bmp6 significantly associated mutation k-ras codon 12 lung cancer ( p =0.003) those k-ras mutation six times more likely concurrent methylation bmp loci
+hence data suggest concurrent inactivation bmp activation ras signalling pathways important lung carcinogenesis
+eligible cases consisted all newly diagnosed patients resectable lung cancer who received treatment massachusetts general hospital thoracic surgery service november 1992 december 1996 ( nelson et al 1999 )
+all patients involved provided written informed consent accordance appropriate institutional review boards
+patients recurrent disease nonoperable tumours excluded
+tumours snap-frozen liquid nitrogen stored ?80°c until genomic preparation
+there 155 cases fresh tumour dna available tested bmp3b bmp6 methylation
+demographic epidemiologic data including all data tobacco use occupational asbestos exposure obtained self-administered questionnaire completed patients subsequently reviewed single reviewer during hospitalisation thoracic surgery
+asbestos exposure defined having any occupational asbestos exposure (yes/no) assessed previously described ( nelson et al 1999 )
+lymphoblastic wtk1 ht cells small-cell carcinoma shp77 cells non-small-cell carcinoma h322m a549 cells maintained rpmi-1640 medium supplemented 10% fetal calf serum
+prostate carcinoma du145 cells lung fibroblast imr90 cells maintained minimum essential media (eagle's) supplemented 10% fetal calf serum
+wtk1 cells (2 × 105) 10?ml media treated 1? ? l 5-aza-deoxycytadine pbs pbs alone 3 days then harvested
+total rna isolated using qiagen rneasy kit
+cdna synthesised rna using superscript iii kit invitrogen
+reverse transcription pcr (rt?pcr) amplification bmp6 cdna performed using primers designed primer3
+bmp6 primers used follows: 5?-aca gca taa cat ggg gct tc-3? (sense) 5?-ctc ggg gtt cat aag gtg aa-3?
+b-actin cdna amplified using primers supplied superscript iii kit
+approximately 50?ng dna used template
+pcr mixture contained 10 × pcr buffer dntps (200? ? m each) primers (1? ? m each) 0.25? ? l taqgold
+cdna amplified using annealing temperature 60°c over 35 cycles
+pcr product visualised ethidium bromide-stained agarose gel
+two sets primers specific bmp6 promoter region designed using primer3 amplify bisulphite-modified dna one specific dna methylated (m) promoter region other specific unmethylated (u) dna
+primers used follows: (m) 5?-ggt ttg ttg ggt agt cgg g-3? (sense) gcc cct ccc caa atc g-3? (antisense) (u) 5?-ttg ggt agt tgg gtg att gtt-3? (sense) 5?-aca ccc ctc ccc aaa tca-3? (antisense)
+approximately 50?ng sodium bisuphfite-modified dna used template
+pcr mixture contained 10 × pcr buffer dntps (200? ? m each) primers (1? ? m each) 0.25? ? l taqgold
+product amplified using annealing temperature 60°c over 38 cycles
+nontreated sss i methylase-treated lymphocytes used controls
+pcr products separated electrophoresis visualised ethidium bromide staining
+sas software used statistical analysis
+wilcoxon rank sum test fisher's exact test (or ? 2 test) used continuous categorical variables univariate analysis respectively
+multivariate logistic regression conducted estimate relationship between methylation bmps k-ras mutation covariates statistically significant univariate analysis important biologically
+effort determine whether transcription bmp6 gene inhibited promoter methylation we first examined transcriptional status bmp6 cell lines using rt?pcr ( figure 1a )
+bmp6 mrna absent wtk1 normal human lymphoblastoid cells
+following treatment 5-aza-deoxycytadine dna methyltransferase inhibitor transcription reactivated demonstrating loss transcription bmp6 due epigenetic inactivation ( figure 1b )
+using primers designed specifically differentiate between methylated nonmethylated dna bmp6 gene promoter we demonstrated wtk1 cells methylated bmp6 gene promoter ( figure 1c )
+we evaluated bmp3b bmp6 gene promoter methylation status 155 nsclc cases
+consecutive case series we found 57% (88 out 155) 43% (67 out 155) nsclcs methylated bmp3b bmp6 gene promoters respectively
+since both bmp3b bmp6 signal same pathways we tested whether there relationship between inactivation two genes
+we found 52% (46/88) cases bmp3b methylation positive bmp6 methylation 31% (21/67) cases without bmp3b methylation positive bmp6 methylation
+statistically significant association between concurrent methylation bmp3b bmp6 ( p =0.009) indicates epigenetic silencing genes does not occur independently lung cancer
+we next investigated relationship between bmp epigenetic inactivation k-ras mutation
+we previously reported k-ras mutation status cases ( nelson et al 1999 )
+subset cases both k-ras bmp data 16% (24/147) mutated codon 12 k-ras gene bmp3b methylation significantly associated k-ras mutation ( table 1 p <0.03)
+those bmp6 methylation more likely k-ras mutation but not statistically significant
+however concurrent methylation both bmp3b bmp6 strongly associated k-ras mutation ( table 1 p <0.003)
+k-ras mutation previously been associated asbestos exposure patients ( nelson et al 1999 )
+addition pulmonary interstitial fibrosis (a condition associated asbestos exposure) associated activation bmp/smad signalling pathway ( matsuse et al 1996 rosendahl et al 2002 )
+therefore we examined relationship between tobacco use asbestos exposure k-ras mutation epigenetic silencing bmps ( table 2 )
+logistic regression analysis controlling histology gender showed tumours k-ras mutation six-fold more likely concurrent bmp3/6 silencing (or=6.0 95% confidence interval (ci) =2.0?17.9) asbestos exposure significantly decreased likelihood concurrent bmp3/6 methylation (or=0.2 ci 0.1?0.9 table 2 )
+there no statistically significant relationship between bmp methylation tobacco exposure ( table 2 )
+bmps well recognised play multiple crucial roles development diverse tissues
+believed play role genesis many tumour types their inactivation allowing dysregulated cellular proliferation
+there multiple bmps overlapping substrate specificity ( stott et al 1998 )
+our data showing epigenetic inactivation bmp3b (at frequency similar previously reported ( dai et al 2004 )) bmp6 tend occur together lung cancer suggests nsclc multiple bmps may need silenced order abrogate their antigrowth signalling
+increasing evidence shows there crosstalk between tgf ? /bmp antigrowth signalling ras/map-k progrowth signalling likely interaction pathways cell type tissue specific
+some evidence suggests ras inactivates smad signalling while other evidence suggests ras activates smad signalling ( kretzschmar et al 1997 yue et al 1999 )
+further inhibitory smads been shown upregulated coordination k-ras mutation epithelial cancer ( liu et al 2003 )
+although exact relationship between bmps ras signalling unclear our data consistent mounting evidence relationship important solid tumours
+finding asbestos exposure associated significantly different pattern signalling dysregulation nsclc supports notion clonal selection important nodal points influenced pattern carcinogen exposure
+current work suggests ras bmp pathways part complex network inter-related interacting signalling proteins where multiple factors including carcinogen exposure determine precise character somatic genes inactivated particular tumour nsclc
+case bmp inactivation there no apparent association methylation silencing tobacco exposure
+however we identified inverse relationship between asbestos exposure bmp methylation
+asbestos exposure been associated cytogenetic damage humans ( dusinska et al 2004 )
+hence asbestos may selecting pathway inactivation via large-scale genetic changes
+example smad4 effector protein bmp pathway been identified mutated deleted lung cancer ( nagatake et al 1996 et al 2002 )
+asbestos associated induction smad4 inactivation lung cancer one would expect inverse association bmp silencing we observed
+balance between antigrowth progrowth signalling imperative normal cell development homeostasis reliant upon multiple feedback signalling pathways
+k-ras mutation been described relatively early event cancer ( nelson et al 1999 ) constitutively activates protein leading active growth signalling
+our data show bmp pathway antiproliferative selected inactivation preferentially k-ras mutant tumours nsclc likely direct means potentiating progrowth signalling
+direct experimental investigation interaction human cells description effects different carcinogens different tissues upon disruption signalling clearly indicated
+will more precisely define aetiologic effects carcinogens (such asbestos) delineate interlocking pathways dysregulated solid tumours potentially open avenues prevention treatment often-fatal cancers.

@@ -7,7 +7,20 @@
 *.jar
 *.war
 *.ear
+
+# Data Files #
 *.html
+*.xls
+*.xlsx
+*.XLS
+*.XLSX
+*.nxml
+jatsSpec*
+files*
+tables*
+papers*
+annotationLogs*
+
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*

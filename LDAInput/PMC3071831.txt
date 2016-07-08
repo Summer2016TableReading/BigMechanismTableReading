@@ -1,0 +1,186 @@
+185
+10.1371/journal.pone.0018424.t001 table 1 targeted morphoproteomic profiling ewing sarcoma patients treated insulin-like growth factor-1 receptor (igf-1r) inhibitor: pretreatment specimens ras/raf kinase/extracellular signal-regulated kinase (erk) pathway * mtorc2 pathway * stat3 pathway nestin patient no cd99 (plasmalemmal) p-erk ½ thr 202/tyr 204 [nuclear] p-akt ser 473 [nuclear] p-mtor ser2448[nuclear] p-stat3 ** tyr 705 [nuclear] (cytoplasmic) 1 present (1+) present (1â??3+) +/â?? 1+ <10% 0 2 present (2+) present (0â??3+) 2+ 2+ >50% 1 *maximum scoring intensity graded scale 0 (no signal) 3+ (high intensity) **percentage positive tumoral nuclei.
+insulin-like growth factor 1 receptor (igf1r) targeted therapies resulted responses small number patients advanced metastatic ewing's sarcoma
+we performed morphoproteomic profiling better understand response/resistance mechanisms ewing's sarcoma igf1r inhibitor-based therapy
+pilot study assessed two patients advanced ewing's sarcoma treated igf1r antibody alone followed combined igf1r inhibitor plus mammalian target rapamycin (mtor) inhibitor treatment once resistance single-agent igf1r inhibitor developed
+immunohistochemical probes applied detect p-mtor (ser2448) p-akt (ser473) p-erk1/2 (thr202/tyr204) nestin p-stat3 (tyr 705) original recurrent tumor
+initial remarkable radiographic responses igf1r-antibody therapy followed resistance then response combined igf1r plus mtor inhibitor therapy both patients then resistance combination regimen one patient
+patient 1 upregulation p-akt p-mtor tumor relapsed after initial response igf1r antibody might explain resistance developed subsequent response combined igf1r plus mtor inhibitor therapy
+patient 2 upregulation mtor seen primary tumor perhaps explaining initial response igf1r mtor inhibitor combination while resistant tumor emerged showed activation erk pathway well
+morphoproteomic analysis revealed mtor pathway activated two patients advanced ewing's sarcoma who showed response combined igf1r mtor inhibition erk pathway patient whom resistance combination emerged
+our pilot results suggests morphoproteomic assessment signaling pathway activation ewing's sarcoma merits further investigation guide understanding response resistance signatures
+ewing's sarcoma second most common malignant bone tumor children adolescents young adults
+despite using multimodal approach combining surgery chemotherapy radiation therapeutic plateau been attained no change overall survival [1] [2] [3] [4] [5] 
+attempts improve clinical outcome through collaborative trials beginning early 1970s sought optimize care through ever more mechanistically-diverse chemotherapies
+strategies included increasing duration treatment dosage per cycle decreasing treatment interval (i.e interval dose compression) using high-dose myeloablative chemotherapy followed peripheral blood stem cell transplant [3] 
+however survival remains poor patients metastatic disease
+metastatic ewing's sarcoma diagnosis risk refractory recurrent disease approaches 80% after initial therapy outcome recurrent disease poor event-free survival less 20% [3] 
+treatment options patients refractory recurrent ewing's sarcoma limited
+early phase clinical trials frequently combine targeted agents optimize benefit
+two challenges outset 1) deciding agents combine given heterogeneity tumors their various underlying resistance pathways feedback loops 2) how translate findings bench bedside directly bedside [6] 
+morphoproteomics (morphology+proteomics) involves immunohistochemical assessment activation signaling pathways cancer cells predicting susceptibility small-molecule inhibitors specific chemotherapeutic agents possibly differentiating agents [7] 
+some cases drugs fail early disease trajectory produce renewed tumor regression later particularly rational addition another drug [8] 
+morphoproteomics potentially identify targeted combinations drugs appropriate prospective testing [9] 
+insulin-like growth factor 1 receptor (igf1r)-targeted therapies shown early promise [10] responses small number patients ewing's sarcoma [4] [11] [12] [13] 
+currently available igf1r antibodies recognize different epitopes receptor therefore may exert different biological/clinical responses [14] [15] 
+even so phase i studies different igf1r antibodies demonstrated remarkable responses subset ewing's sarcoma patients [11] [12] [13] 
+while response rates phase ii studies not yet been reported clear while some responses been dramatic occurred only minority patients
+mechanisms underlying primary secondary response resistance unknown
+herein we report our experience two index cases ewing's sarcoma initial positive response igf1r inhibitor followed resistance
+both patients subsequently responded combination igf1r inhibitor mammalian target rapamycin (mtor) inhibitor
+we performed morphoproteomic profiling elucidate functional signaling pathways both patients
+we reviewed medical records two patients ewing's sarcoma who seen phase i clinical trials program university texas md anderson cancer center initially treated igf1r inhibitor alone then subsequently igf1r mtor inhibitor combination
+patients manuscript given written informed consent (as outlined plos consent form) publication their clinical details
+treatment consent investigational trials data collection morphoproteomic analysis performed accordance guidelines university texas md anderson cancer center institutional review board (irb)
+patients manuscript derived two different phase i studies phase ii study using different igf1r inhibitors all studies been registered www.clinicaltrials.gov 
+scope studies current status clinical trial registration identifiers follows: 1
+multiple ascending dose study r1507 patients advanced solid tumors (now closed not actively recruiting patients) nct00400361 (phase i) 2
+study determine activity sch 717454 subjects relapsed osteosarcoma ewing's sarcoma (study p04720am3) (now closed not actively recruiting patients) nct00617890 (phase ii) 3
+imc-a12 combination temsirolimus (cci-779) patients advanced cancers (study closed ewing's sarcoma cohort) nct00678769 (phase i)
+after initiation investigational therapy patients evaluated clinically 3- 4-week intervals
+visit history taken physical examination performed along comprehensive metabolic hematologic panels
+patients assessed onset new symptoms compliance investigational therapy
+tumor response determined using response evaluation criteria solid tumors (recist) version 3.1 positron emission tomography/computed tomography (pet/ct) scans ct scans obtained about every six eight weeks
+sections original recurrent tumor available analysis
+morphoproteomic analysis reported manuscript not part original phase 1 trial protocols carried out separate subsequent analysis
+patient consent md anderson irb approval obtained morphoproteomic analysis outlined above
+immunohistochemical (ihc) probes used detect following phosphorylated (p) antigens published previously [16] : p-mtor (ser 2448) p-akt (ser 473)and p-extracellular signal-regulated kinase (erk) 1/2 (thr 202/tyr204) [cell signaling technology beverly ma] p-signal transducer activator transcription (stat)3 (tyr 705) [santa cruz biotechnology santa cruz ca]
+addition ihc probes specimens two patients applied detect expressions cd99 (dakocytomation carpinteria ca) nestin (abcam cambridge ma)
+chromogenic signals evaluated brightfield microscopy semi-quantified regard percentage cells stained (0?100%) staining intensity (0: non-staining 1+: weak staining 2 +: moderate staining 3 +: strong staining)
+subcellular compartmentalizations assessed plasmalemmal cytoplasmic and/or nuclear
+concurrently run positive negative ihc controls reacted appropriately
+methods been published previously [7] [9] [16] [17] performed laboratory certified under clinical laboratory improvement amendments 1988 (?clia?) qualified perform high-complexity clinical testing
+patient outcomes chemotherapy targeted therapy summarized below
+twenty-four year old caucasian woman presented three-year history back pain left lower extremity pain
+magnetic resonance imaging (mri) revealed sacral mass determined ewing's sarcoma following pathological assessment md anderson
+tumor cells positive cd99 negative chromogranin keratin desmin
+she underwent six cycles intravenous chemotherapy through central line vincristine (2 mg intravenous [iv]on day 1) adriamycin (37.5 mg/m2/day iv 2 days) ifosfamide (2500 mg/m2 iv 4 days) mesna uroprotection followed resection tumor confirmed being ewing's sarcoma
+fluorescent situ hybridrization showed positive result clone ewsr1 gene rearrangement
+patient received postoperative radiation therapy followed six cycles adjuvant chemotherapy irinotecan
+after six months follow-up lung metastases discovered
+she started etoposide after five months her tumors progressed
+liposomal doxorubicin (doxil) initiated but stopped after tumor progression
+patient then underwent thoracotomy removal tumor followed erlotinib followed another lung resection
+she then referred phase i clinic md anderson cancer center
+ct scan showed enlargement numerous pulmonary metastatic lesions largest measuring 5.9 cm×5.1 cm
+she treated three sequential phase i trials continued disease progression
+december 2006 patient started phase i study r1507 (roche nutley nj) fully human igg1 type monoclonal antibody against igf1r
+within six weeks she dramatic response near complete tumor regression ( figure 1 previously described [12] )
+no toxicity noted
+after 20 months continued treatment small focus growing residual disease found followed surgical resection
+therapy continued another 15 months followed progressed disease patient's lungs
+she started another study using different anti-igf1r antibody (imc-a12 imclone san diego ca) [18] combination mtor inhibitor temsirolimus (nct00678769)
+she tolerated combination without any major side effects except decrease platelet counts
+after 14 months treatment both pet/ct chest ct scans show no disease (complete response) ( figure 2 ) she continues treatment
+ct thorax patient 1 ewing's sarcoma response igf1r antibody (r1507) alone [12] 
+left panel shows pre-treatment ct scan thorax showing metastatic ewing's sarcoma lung
+right panel: six weeks after igf1r antibody (r1507) therapy shows regression tumor
+ct thorax patient 1 ewing's sarcoma response igf1r antibody (imca12)+ mtor (temsirolimus) combination
+left panel shows pre-treatment ct scan thorax showing metastatic ewing's sarcoma lung
+right panel: nine months after igf1r antibody+ mtor inhibitor (imca12+ temsirolimus) therapy showing continued response
+twenty-one year old caucasian man presented back pain radiating left leg december 2006
+mri revealed large left iliac mass extending sacroiliac joint
+biopsy showed ewing's sarcoma t(1122) translocation
+presentation he large left iliac primary lesion bilateral pulmonary nodules no evidence bone marrow disease
+he enrolled children's oncology group study aews0031 (nct00006734) received standard q 3 week regimen consisting vincristine (2 mg/m2 iv push day 1
+maximum dose 2 mg.) doxorubicin(75 mg/m2/course continuous iv infusion over 48 hours beginning day 1) cyclophosphamide (1200 mg/m2 iv infusion over 1 hour mesna uroprotection day 1) alternating ifosfamide (1800 mg/m2/day iv infusion over 1 hour days 1?5 cycle
+(9000 mg/m2 max total dose) etoposide (100 mg/m2/day iv infusion over 1 2 hours days 1?5 cycle (500 mg/m2 total dose)
+his pain improved after one treatment he excellent response
+he then received 55.8 gy radiation 31 fractions pelvis local control unresectable disease well whole lung radiation therapy his pulmonary nodules end chemotherapy
+he completed therapy no evidence disease
+eight months later he developed recurrent pulmonary nodules
+pet/ct scan showed activity only lungs
+he received topotecan cyclophosphamide although his tumors responded initially eventually progressed
+patient then received temozolomide irinotecan without response followed enrollment igf1r inhibitor study using sch 717454 (schering kenilworth nj) igf1r antibody (19d12) [4] [19] 
+he near complete response (18 19 nodules improving disappeared) following 7 cycles
+however after 4 months solitary left lung nodule began grow he taken off study progressive disease recist
+thoracoscopic biopsy done confirmed ewing's sarcoma
+subsequently he started etoposide but disease continued progress
+he then presented md anderson phase i clinic enrolled protocol imc-a12 igf1r antibody combination temsirolimus mtor inhibitor (nct00678769)
+three out four nodules showed near complete response one nodule remained stable
+however after four months one nodule began grow he removed study ( figure 3 )
+non-responding tumor biopsied ewing's sarcoma confirmed
+subsequently patient treated high-dose ifosfamide received proton radiation therapy lung nodule
+fdg pet /ct patient 2 ewing's sarcoma response imca12+temsirolimus combination then emergence resistance
+left panel shows pre-treatment fdg pet/ct scan thorax showing metastatic ewing's sarcoma lung
+middle panel shows fdg pet/ct response after 8 weeks treatment
+right panel shows re-emergence resistance 16 weeks after igf1r antibody+ mtor (imca12+ temsirolimus) therapy
+pre-treatment similarities differences between patient 1 2 shown table 1 
+*maximum scoring intensity graded scale 0 (no signal) 3+ (high intensity)
+**percentage positive tumoral nuclei
+limited number sections metastatic tumor following time points available 1) before igf1r antibody therapy 2) resistant recurrence emerged during igf1r antibody therapy ( figure 4 )
+constitutive mtor pathway activation noted pre-anti-igf1r specimen ( figure 4 ) reflected p-mtor (ser2448) expression both cytoplasmic plasmalemmal nuclear compartments
+similar findings been reported ewing's family tumors [16] 
+there cytoplasmic plasmalemmal expression p-akt (ser473) but almost no nuclear expression more consistent p13k/akt/mtorc1 signaling pathway activity
+contrast there apparent upregulation analytes specimen igf1r-resistant tumor emerged during igf1r antibody therapy predominant nuclear expression both p-mtor (ser2448) p-akt (ser473) consistent mtorc2 pathway activation [17] [20] [21] 
+both biopsies only endothelial cells immunopositive nestin neural precursor/differentiation marker whereas tumor cells immunonegative
+notably p-stat3(tyr705) detected very minor component tumoral nuclei initial biopsy variably expressed post-anti- igf1r treatment biopsy ranging up approximately one-half tumor cells one microanatomical region
+schematic history patient 1 depicting time line first biopsy(biopsy a) second biopsy (biopsy b)
+immunohistochemistry patient 1
+pre-igf1r treatment (specimen a) post ?igf1r treatment (specimen b) p-mtorp-aktp-stat3 nestin probes
+pre-treatment digital images (left hand frames specimen a) reveal: primarily cytoplasmic plasmalemmal expression p-mtor (ser 2448) p-akt (ser 473) consistent preponderance mtorc1 pathway occasional p-stat3 (tyr 705) tumoral nuclei (up ?20%) absence cytoplasmic nestin
+post-treatment digital images (right hand frames specimen b) reveal: primarily nuclear p-mtor (ser 2448) p-akt (ser 473) consistent mtorc2 pathway preponderance moderate increase number tumor cells nuclear p-stat3 (tyr 705) (from 0 up ?50% some regions) absence cytoplasmic nestin (endothelial cells serve internal control)
+original magnifications x400
+sections tumor before igf1r antibody therapy after igf1r antibody combined mtor inhibitor therapy available analysis ( figure 5 )
+greater number sections available patient 1 permitting more extensive pathway evaluation ( figure 5 )
+schematic history patient 2 depicting time line first biopsy (biopsy c) second biopsy (biopsy d)
+immunohistochemistry patient 2
+pre-igf1r treatment (specimen c) post ?igf1r+ mtor (specimen d) p-mtorp-aktp-stat3 nestin probes p-erk1/2
+pre-treatment digital images (left hand frames specimen c) reveal: primarily cytoplasmic but some nuclear expression both p-mtor (ser 2448) p-akt (ser 473) indicative both mtorc1 mtorc2 pathways nuclear p-stat3 (tyr 705) majority tumoral nuclei faint but detectable constitutive nestin expression
+post-treatment digital images (right hand frames specimen d) reveal: preponderance nuclear p-mtor (ser 2448) p-akt (ser 473) consistent upregulation mtorc2 pathway persistence p-stat3 (tyr 705)expression tumoral nuclei increase cytoplasmic nestin expression latter consistent temsirolimus therapy
+constitutive activation ras/raf /erk pathway noted both specimens p-erk 1/2 (thr202/tyr204) expression showing nuclear translocation
+original magnifications x400
+there constitutive activation mtor patient's original recurrent tumor evidenced phosphorylation (p) mtor putative site activation ser2448 predominantly nuclear distribution most likely indicating mtorc2 complex (rictor + p-mtor) [20] correlative activation akt ser473 consistent presence both mtorc2 dominant expression p-akt (ser473) tumoral nuclei [17] [20] [21] 
+constitutive activation ras/raf /erk pathway noted both specimens p-erk 1/2 (thr202/tyr204) expression showing nuclear translocation [9] 
+expression appeared generalized uniform recurrent tumor lesser degree original (primary) tumor
+signal transducer activator transcription (stat)3 pathway constitutively activated both primary recurrent tumor evidenced expression nuclear translocation p-stat3 (tyr 705) vast majority tumor cells
+neural endothelial precursor marker nestin weakly expressed original (primary) tumor (0?1+)
+however recurrent tumor nestin expressed approximately 25% 50% tumor cells (up 3+ cytoplasmic plasmalemmal expression) ( figures 5 6 )
+neural differentiation markers cd56 synaptophysin expressed recurrent tumor plasmalemmal cytoplasmic compartments (not shown)
+post-igf1r+ mtor inhibitor therapy specimen patient 2 higher magnification (600x) showing brown chromogenic signal nestin predominantly cytoplasmic staining top panel mtor (ser 2448) predominant nulclear staining bottom panel
+there no effective therapy advanced ewing's sarcoma patients advanced metastatic disease succumb their disease
+two patients ewing's sarcoma who responded but then progressed after igf1r inhibitor therapy alone showed consistently high mtorc2 expression their tumors
+both patients responded after treatment combined igf1r mtor inhibition
+time interval between first second igf1r based therapy 1 month patient 1 4 months patient 2
+one patient continued response remained igf1r-based therapy more 50 months last 14 months been igf1r inhibitor combined mtor inhibitor
+patient's last imaging scans showed no disease
+unfortunately second patient acquired resistance
+preclinical studies shown mtor bypass pathway igf1r targeting
+similarly combined inhibition igf1r mtor may circumvent counterproductive rapamycin-induced upregulation akt occur within 6 hours treatment [3] [22] 
+several phase i/ii clinical trials currently investigating potential synergy advanced malignancies
+(clinicaltrials.gov identifiers: nct00678769 nct00880282 nct01016015)
+context our finding upregulated p-akt (ser473) p-mtor (ser2448) patient 1's resistant tumor emerged following igf1r antibody therapy consistent resistance mechanism could related upregulation torc2
+patient however treated successfully termsirolimus torc1 inhibitor
+although short-term inhibition torc1 drives torc2 formation results akt activation long-term torc1 inhibition abrogates akt expression through activation s6k pkd1 blocks torc2 assembly [23] [24] 
+activated s6k down-modulate akt acting against insulin receptor substrate 1 proteins p13k [23] 
+although pathways often been depicted linear clearly there complex interplay among signaling elements ( figure 7 )
+ews-fli1 fusion protein hallmark ewing's sarcoma downregulates insulin-like growth factor binding protein 3 igfbp3 upregulates igf-1 expression resulting enhanced igf1r [25] 
+therefore treatment igf1r inhibitor may counteract ews-fli1-mediated upregulation insulin receptor (ir) /igf1r machinery
+temsirolimus ?rapalog? rapamycin been shown downregulate ews-fli1 fusion protein [26] possibly lessening ir/igf1r signaling therefore providing additional pathway molecule might operative patient
+insulin receptor substrate 1 (irs1) phosphatidylinositol 3-kinases (pi3k) activated insulin and/or igf1 signaling insulin receptor level
+pdk1 akt recruited plasma membrane products pi3k pip2 pip3 (phosphatidylinositol 345 trisphosphate phosphatidylinositol 34 bisphosphate)
+after event there phosphorylation activation akt mtorc2 complex (mtor + mlst8+ rictor)
+leads chain activation numerous targets akt
+tsc1/2 complex phosphorylated fashion
+mechanism inactivation tsc2's gap activity small g protein rheb initiated
+now mtorc1 complex (mtor + mlst8+raptor) activated gtp-bound rheb phosphorylates proteins like s6k
+starts negative feedback loop modulate auto-activity through s6k-mediated pathway decrease activation pi3k
+igf1r antibody inhibits igf1r signaling rapalogs (temsirolimus case) inhibit mtorc1 short term eventually inhibit mtorc 2 chronic exposure suppresses ews-fli1 drives tumorigenesis ewing's sarcoma
+ews-fli1 suppresses nestin
+patient 2 constitutive activation akt mtor similar patient 1's recurrent tumor seen baseline pre-treatment tumor tumor resistant igf1r mtor combination treatment
+observations suggest possibility torc2 pathway role primary recurrent tumor [17] ( figures 5 6 7 )
+after igfr treatment alone response followed resistance
+similarly initial response followed re-emergence resistance following treatment igfr-mtor inhibitor combination
+mechanism response igfr mtor combination may similar patient 1 through akt mtor suppression occurs chronic temsirolimus exposure [23] [24] 
+biologic activity mtor inhibitor temsirolimus further confirmed upregulation nestin seen patient's igfr/mtor resistant tumor since temsirolimus down-modulates ews-fli1 would expected upregulate nestin [26] [27] ( figure 7 )
+however other pathways operative patient's tumor including ras/raf /erk stat3 ( figure 5 ).the relative overexpression cd99 patient consistent activation pathway (not shown)
+addition p-akt s6k not downregulated combined igf1r mtor inhibition perhaps due ras/raf/erk activation
+signals might account tumor resistance [26] 
+interest addition nestin patient's recurrent tumor showed propensity toward differentiation along neural lines demonstrated increased expression other neural markers such cd56 neural cell adhesion molecule synaptophysin
+we demonstrated resistance/response mechanisms morphoproteomics two patients advanced ewing's sarcoma
+needs analyzed retrospectively validated prospectively larger dataset allow more robust conclusions
+next generaration whole exome sequencing patients ewing's sarcoma responding igf1r based treatment reverse phase protein array analysis patients acquiring resistance underway will help decipher unidentified mechanisms perhaps unravel novel mutations genetic aberrations response resistance pathways
+our observations suggest rational combinations targeted therapy modulate multiple relevant pathways may useful overcoming resistance patients ewing's sarcoma
+inhibition igf1r and/or igf1r mtor resulted significant clinical activity patients ewing's sarcoma
+study igf1r inhibitor combined mtor inhibitor currently underway
+our pilot results suggests morphoproteomic assessment signaling pathway activation ewing's sarcoma merits further investigation guide understanding response resistance signatures.

@@ -1,0 +1,181 @@
+180
+table 2 kras treatment response cetuximab-containing regiments chemotherapy-naïve patients colorectal carcinoma study treatments kras n (%) rr n (%) ttp (months) os (months) remarks bokemeyer 2008 folfox + ctx wt 61 37 (60.7%) 7.7 na kras mt worse rr ttp cetuximab may detrimental effects kras mt mt 52 (46.0%) 17 (32.7%) 5.5 na folfox wt 73 27 (37.0%) 7.2 na mt 47 (39.2%) 23 (48.9%) 8.6 na cervantes 2008 ctx wt 29 8 (27.6%) na na patients treated ctx first then combination chemo kras mt worse rr ttp mt 19 (39.6%) 0 na na ctx + folfiri wt 29 16 (55.2%) 9.4 na mt 19 (39.6%) 6 (31.6%) 5.6 na punt 2008 capoxbev+ctx wt 153 na 10.5 22.2 kras mt worse ttp os cetuximab may detrimental effects kras mt mt 93 (37.8%) na 8.6 19.1 capoxbev wt 152 na 10.7 23.0 mt 103 (40.4%) na 12.5 24.9 van custem 2008 folfiri + ctx wt 172 102 (59.3%) 9.9 na kras mt worse rr ttp cetuximab may detrimental effects kras mt mt 105 (37.9%) 38 (36.2%) 7.6 na folfiri wt 176 76 (43.2%) 8.7 na mt 87 (33.1%) 35 (40.2%) 8.1 na abbreviations: ctx = cetuximab pan = panitumumab iri = irinotecan ox = oxaliplatin cap = capcitabine bev = bevacizumab bsc = best supportive care wt = wild type mt = mutant type na = not available not applicable rr = objective response rate (complete response + partial response) ttp = time progression os = overall survival.
+individualized therapies tailored patient's genetic composition will tremendous value treatment cancer
+recently kirsten ras (kras) status emerged predictor response epidermal growth factor receptor (egfr) targeted therapies
+article we will discuss targeted therapies colorectal cancers (crc) based egfr signaling pathway review published data about potential usefulness kras biological marker response therapies
+results relevant studies published since 2005 unpublished results presented national meetings retrieved summarized
+studies reflected response (or lack response) egfr-targeted therapies patients metastatic crc function kras status
+become clear patients colorectal cancer whose tumor activating mutation kras do not respond monoclonal antibody therapies targeting egfr
+should now become standard practice any patients being considered egfr targeted therapies their tumors tested kras status only those wild-type kras being offered such therapies
+over past decade we witnessed important development field cancer treatment: therapy targeted specific pathways involved tumor growth progression
+mechanistic target-based approach adding treatment options cancer treatments should less toxic normal cells thus improve therapeutic index
+date however overall effectiveness targeted therapy solid tumors not been robust achieved example gleevec (imatinib) treatment chronic myelogenous leukemia (cml)
+difference targeted therapy effectiveness cml compared solid tumors explained part genetic etiology diseases
+cml caused single genetic alteration results bcr/abl fusion gene
+gene produces chimeric protein strong tyrosine kinase activity effectively blocked gleevec
+most solid tumors other hand although may appear morphologically similar microscopic examination molecular studies identify different genetic alterations tumors different patients
+due heterogeneity agent targeting one particular pathway unlikely effective all patients
+clearly there need identify those patients who most likely respond specific therapy
+identification specific subgroups patients who may benefit particular targeted therapy been most successful patients breast cancer
+anti-estrogen treatment early type targeted therapy mainly benefits patients estrogen receptor-positive breast cancer
+trastuzumab her2-targeting monoclonal antibody most beneficial patients tumors overexpress her2
+recent data suggest genetic profiling predict patients may benefit adjuvant therapy after resection their breast cancers (e.g genomic health's oncotype dx® test profiles expression 21 genes makes prediction about likelihood disease recurrence)
+findings show great promise identifying patients eligible treatment specific targeted therapies well making decisions about dosage length treatment
+individualized therapies tailored patient's genetic composition tests predict therapy he/she will respond will tremendous value colorectal carcinoma (crc)
+despite significant progress development new therapies over last decade crc remains one top three causes cancer death united states where estimated 148810 patients will newly diagnosed crc 2008 49960 deaths disease [ 1 ]
+many patients will receive one more lines chemotherapy but not everyone responds regimen
+example targeted agent cetuximab single agent response rate only about 10% patients irinotecan-refractory crc [ 2 3 ]
+other words majority people receiving cetuximab may not benefit while incurring all associated cost toxicities
+considering large number cases crc translates millions dollars spent significant toxicities experienced no benefit
+article we will discuss targeted therapies crc based epidermal growth factor receptor (egfr) signaling pathway review published data about potential usefulness downstream oncogene kirsten ras (kras) biological marker response therapies
+results relevant studies published since 2005 unpublished results presented national meetings retrieved summarized
+studies reflected response egfr-targeted therapies patients metastatic crc function kras status divided three groups: (1) previously treated patients who received cetuximab therapy (2) previously treated patients who received panitumumab therapy (3) chemotherapy-naïve patients who received cetuximab therapy
+data retrieved included kras status (wild type [wt] mutant type [mt]) outcome (objective response rate [rr complete response + partial response] time progression [ttp] overall survival [os])
+descriptive statistics used compare outcomes three treatment groups function kras status
+egfr member her (erbb) family human epidermal growth factor receptors promote tumor cell proliferation variety epithelial malignancies
+egfr molecules 170 kd transmembrane glycoproteins: extracellular domain ligand binding site contains specific sequences involved dimerization while intracellular domain catalytic site tyrosine kinase activity
+egfr binds soluble ligands including epidermal growth factors (egfs) transforming growth factor-alpha ligand/receptor complex then signals formation receptor dimers (either homodimers heterodimers other members her family)
+dimerization triggers intracellular phosphorylation cascade transmits original ligand-generated signal cell surface nucleus causing downstream changes gene expression affect cell proliferation migration differentiation apoptosis
+overexpression egfr been detected many human cancers including crc
+monoclonal antibodies target egfr effective anticancer therapy several ways
+block ligand binding receptor aborting process dimerization phosphorylation allows downstream signal transduction
+some cases antibody/receptor complex may immunogenic leading antibody-dependent cellular cytotoxicity (adcc)
+two monoclonal antibodies target egfr clinical activity against crc: cetuximab panitumumab
+cetuximab recombinant chimeric igg1 monoclonal antibody while panitumumab fully humanized igg2 antibody
+because their differing isotypes possible two antibodies may differ their mechanism action but not been documented
+cetuximab been demonstrated improve response rate time progression overall survival when added irinotecan patients irinotecan-refractory metastatic crc [ 2 ]
+both cetuximab panitumumab been shown improve outcomes patients chemo-refractory metastatic crc compared best supportive care [ 4 5 ]
+kras encodes membrane-associated gtpase early player many signal transduction pathways
+kras acts molecular on/off switch recruitment activation proteins necessary propagation growth factor other receptor signals such c-raf pi 3-kinase
+when activated kras involved dephosphorylation gtp gdp after turned off
+rate gtp gdp conversion sped up dramatically accessory protein guanine nucleotide activating protein (gap) class example rasgap
+kras facilitate release bound nucleotide binding proteins guanine nucleotide exchange factor (gef) class example soverall survival-1
+hras subsequently released gef quickly re-binds now available gtp resulting hras activation
+when egf ligand binds extracellular part egfr receptor receptor dimerizes its enzymatic activity activated resulting phosphorylation intracellular domain
+subsequently cellular effectors bind phosphorylated residues intracellular domain activated mainly through relocalization plasma membrane
+when activating mutation occurs kras gene ras g-protein activates mitogen-activated protein kinase (mapk) signaling cascade downstream egfr
+may bypass need ligand binding egfr conferring resistance therapies like cetuximab panitumumab target egfr extracellularly
+activating mutations kras gene been widely studied markers cancer prognosis
+gene mutations principally codons 12 13 occur up one-half crcs population-based studies suggested mutations might associated some tumor phenotypes [ 6 ]
+table 1 summarizes results 12 studies previously treated patients metastatic crc received treatment cetuximab alone cetuximab part multi-drug regimen (in combination either irinotecan oxaliplatin) [ 7 - 18 ]
+kras treatment response cetuximab panitumumab previously treatment patients colorectal cancer
+2006 2008 studies lievre coworkers based independent patient series
+b all patients (ctx pan) average ttp 3.7 months patients wild type kras versus 1.7 months patients mutant kras
+abbreviations: ctx = cetuximab pan = panitumumab iri = irinotecan ox = oxaliplatin cap = capcitabine bsc = best supportive care wt = wild type mt = mutant-type rr = objective response rate (complete response + partial response) ttp = time progression os = overall survival na = not available not applicable
+across all studies approximately one-third patients (median 36% range 24% ? 44%) kras mt tumors
+10 studies reported objective tumor response cetuximab-containing therapy median rr patients kras wt tumors 35% (range 12% ? 42%) compared 0% (range 0% ? 6%) patients kras mt tumors
+ttp reported 6 studies median ttp 6.1 months (range 1.8 months ? 7.9 months) patients kras wt tumors compared 3.0 months (range 1.8 months ? 3.7 months) patients kras mt tumors
+os reported 6 studies median values 11.5 months (range 9.5 months ? 16.3 months) compared 6.9 months (range 4.2 months ? 10.1 months) associated kras wt kras mt respectively
+summary all studies discussed above using cetuximab either monotherapy combination either irinotecan- oxaliplatin-based chemotherapy previously treated metastatic crc patients showed kras mutational status clearly predicts unresponsiveness cetuximab
+study reported di fiore colleagues [ 11 ] underscores importance using sensitive molecular methods ensure efficient mutation detection
+study 59 patients previously treated metastatic crc treated cetuximab plus either irinotecan- oxaliplatin-based chemotherapies
+using direct sequencing dna extracted tumor samples investigators detected kras mutation 16 out 59 (27%) patients
+16 patients 13 progression disease three stable disease
+no kras mutation found 12 patients complete partial tumor response
+investigators then screened tumors without detectable kras mutations using two sensitive methods able specifically detect kras exon 2 mutations: multiplex snapshot assay based primer extension able detect different kras mutations simultaneously single tube fluorescent pcr-lcr assay
+two analyses performed samples 11 out 12 patients either complete response partial response 15 out 16 patients stable disease 15 patients disease progression all whom no mutations revealed direct sequencing tumor dna
+five additional kras mutations detected both methods one mutation detected only pcr-lcr assay
+six additional mutations found two patients stable disease four patients disease progression
+snapshot pcr-lcr assays confirmed absence kras mutations cr/pr patients
+therefore series 59 patients metastatic crc sequencing analysis supplemented snapshot multiplex pcr-lcr assays led detection kras mutation 22 samples (37%) rather 11 samples (27%) direct sequencing alone
+several studies suggested predictive value kras determining response cetuximab-containing regimens may improved combining other predictive factors
+[ 15 ] determined kras mutation status mrna expression levels egfr ligands amphiregulin epiregulin 95 patients primary crc treated cetuximab irinotecan correlated variables response overall survival
+found amphiregulin epiregulin expression influenced rr os patients kras wt tumors but not patients kras mt tumors concluded combined use markers may allow improved prediction outcome cetuximab plus irinotecan
+khamabata-ford colleagues [ 12 ] attempted systemically identify markers associated disease control patients treated cetuximab monotherapy
+trial enrolled 110 patients metastatic crc who received least one prior therapy
+transcriptional profiling conducted rna mandatory pretreatment metastatic biopsies identify genes whose expression correlated best clinical responses
+consistent findings tejpar et al found patients kras wt tumors patients tumors express high levels epiregulin amphiregulin more likely disease control increased ttp cetuximab
+stoehlmacher colleagues [ 16 ] evaluated predictive value kras mutations polymorphisms egfr igg-fc-receptor 40 patients metastatic crc receiving cetuximab-containing chemotherapy (in combination irinotecan folfiri folfox)
+found both kras egf-a16g polymorphism significantly predicted response cetuximab-containing treatment combinations regardless specific regimen selected
+outcomes 4 studies previously treated patients metastatic crc received treatment panitumumab monotherapy similar those reported above cetuximab (table 1 )
+two largest studies [ 19 20 ] no patients kras mt tumors showed objective tumor response panitumumab
+case kras mt associated reduced ttp os
+data reported benvenuti colleagues [ 9 ] showed two-fold increase rr associated kras wt status compared kras mt status (20% vs
+10% respectively)
+kras mt status did not show impact tumor response report moroni colleagues [ 7 ] but patient numbers study very low only 5 patients showing kras wt kras mt status
+report amado colleagues [ 19 ] patient outcomes panitumumab treatment compared outcomes matched population patients who received best supportive care only
+interesting note here kras status did not effect ttp absence treatment egfr-targeting therapy although kras mt appeared associated reduced os both treatment groups
+most recently interim results precept study reported 2008 asco annual meeting (data final analysis not available inclusion table 1 ) [ 21 ]
+phase ii open-label single-arm trial designed prospectively estimate efficacy panitumumab plus folfiri treatment function tumor kras status patients undergoing second-line treatment metastatic crc
+total 110 patients metastatic crc progression after first-line oxaliplatin-based chemotherapy plus bevacizumab enrolled study
+patients received panitumumab folfiri every 2 weeks until disease progression intolerability
+efficacy endpoints included objective response rate progression-free survival overall survival kras status
+data reported interim analysis supported previous studies showing patients kras mt tumors do not respond panitumumab therapy
+summary cetuximab all available studies (with exception very small data set reported moroni et al
+[ 7 ] panitumumab monotherapy combination other agents previously treated metastatic crc patients show kras mutation status clearly predicts response panitumumab
+aforementioned studies demonstrated predictive value kras outcomes egfr-targeted monoclonal antibody therapy patients metastatic crc who received previous chemotherapy
+does predictive value kras apply chemotherapy-naïve patients? 2008 asco annual meeting least four studies confirmed does
+(table 2 ) [ 22 - 25 ] three studies presenting results phase iii crystal cairo2 trials phase ii opus trial compared outcomes patients treated standard chemotherapy regimens (folfiri capoxbev folfox) without addition cetuximab [ 22 24 25 ]
+fourth study compared every-2-week schedule cetuximab approved weekly regimen [ 23 ]
+kras treatment response cetuximab-containing regiments chemotherapy-naïve patients colorectal carcinoma
+abbreviations: ctx = cetuximab pan = panitumumab iri = irinotecan ox = oxaliplatin cap = capcitabine bev = bevacizumab bsc = best supportive care wt = wild type mt = mutant type na = not available not applicable rr = objective response rate (complete response + partial response) ttp = time progression os = overall survival
+across all treatment arms shown 4 studies table 2 median 40% patients (range 33% ? 46%) kras mt tumors
+patients kras wt tumors compared kras mt tumors median rrs cetuximab-containing treatment regimens (4 study arms reporting) 58% (range 28% ? 61%) 33% (range 0% ? 36%) respectively median ttp values (4 study arms reporting) 9.7 months (range 7.7 months ? 10.5 months) 6.6 months (range 5.5 months ? 8.6 months) respectively
+os reported only one study [ 24 ] noted small increase os associated kras wt compared kras mt (22.2 months versus 19.1 months respectively)
+summary under controlled conditions studies first-line treatment metastatic crc kras mutation found predictive marker lack response cetuximab treatment either alone combination irinotecan- oxaliplatin-based chemotherapies
+should noted least first line setting there concern cetuximab may actually detrimental effects patients kras mt tumors
+three studies designed compare outcomes standard treatment without cetuximab [ 22 24 25 ] patients kras mt tumors showed decrease ttp cetuximab-containing arm compared standard treatment arm although difference individual study did not reach statistical significance
+caro2 study compared capoxbev without cetuximab patients whose tumor mt type kras did worse did reach statistical significance [ 24 ]
+thus not only does cetuximab appear no benefit patients kras mt tumors may negative effect outcome particularly combination bevacizumab chemotherapy first line treatment metastatic colorectal cancer
+long before kras emerged predictive marker responsiveness egfr monoclonal antibody targeted therapy well known skin rash very good surrogate marker responsiveness egfr targeted therapies
+obvious question whether skin rash kras independent predictors
+recent analysis kras data everest study shed some light question [ 17 ]
+study patients grade 0/1 skin reactions after 22 days treatment irinotecan standard-dose cetuximab randomized receive standard dose (250 mg/m2) (arm a) escalated doses (up 500 mg/m2) (arm b) cetuximab
+results demonstrated patients metastatic crc after failure irinotecan-based therapy treatment efficacy could improved escalating dose cetuximab combination standard-regimen irinotecan compared standard-dose cetuximab patients grade 0/1 skin reactions
+determine whether dose escalation able induce response patients mutated kras authors analyzed kras mutation status using archived tissue 77 89 randomized patients
+patients arm who received standard dose cetuximab response rates 21.1% 0% wild-type kras mutant kras respectively
+patients arm b who received escalated doses cetuximab response rates patients wild-type kras mutant kras 46.4% 0% respectively
+therefore improved response mainly seen patients wild-type kras tumors while increased dose cetuximab did not overcome reduced response mutant kras tumors
+although patients originally selected randomization 0/1 skin reaction after 22 days standard treatment continued treatment some patients developed more severe cutaneous response medication
+skin reaction predicted clinical outcomes patients both kras wt kras mt tumors grade 2/3 reaction associated improved progression-free survival (pfs) compared grade 1/2 reaction group
+however overall range pfs values significantly higher kras wt group 200 days average pfs associated grade 2/3 reaction 60% wild-type kras group compared approximately 34% mutant kras group
+ability skin reaction distinguish subgroups kras wt mt patients differing outcomes argues skin reaction kras status independent predictors response cetuximab-based treatment
+recent developments individualized therapies crc having significant impact current clinical practice future development treatments disease
+date clinical activity been assessed over 2500 patients treated cetuximab/panitumumab either single agent combination both fofiri folox chemotherapy both chemotherapy-refractory chemotherapy-naïve settings
+there strong evidence mutated kras tumors predicts unresponsiveness egfr-targeted antibody therapies
+furthermore data crystal opus cairo2 studies showed evidence addition cetuximab chemotherapy (both oxaliplatin- irinotecan-based) may detrimental effects patients kras mt tumors
+therefore important test kras status tumors all patients being considered egfr-targeted antibody therapies only those patients kras wt tumors should receive such treatments
+randomized prospective trials not needed nor ethical prove concept further
+fact european medicines agency (emea) approved panitumumab only patients kras wild-type tumors
+likely verification kras wild-type status will required united states food drug administrative (us fda) cetuximab panitumumab treatment near future
+several commercial dna sequencing-based kras tests tumor tissues available
+developing validating more sensitive reproducible affordable kras tests used clinic important task industry government should undertake order maximize value biomarker individualized therapies crc
+moving forward there several issues both immediate long term need addressed: least two large randomized phase iii trials u.s
+need modified
+calgb/swog 80405 study compares bevacizumab cetuximab either alone together combination folfiri folfox chemotherapy patients untreated metastatic crc
+study initially designed enroll 2289 patients already accrued about 1400 patients
+while modification plan still being formulated almost certain kras testing will required only patients wild-type kras would allowed randomization
+second study ibet trial developed based brite data tests whether continuing bevacizumab beyond progression first line therapy would beneficial
+however second line therapy while patients randomized study arms without bevacizumab all patients receive cetuximab
+probably forward-thinking design when conceived because epic study showed activity cetuximab second line therapy irinotecan-naïve patients
+more convincing kras data undoubtedly requires modification
+one option would completely drop cetuximab component only test question whether continuation bevacizumab beyond progression first line therapy beneficial
+however cetuximab continued component trial kras testing should required
+addition given clear predictive value kras status all future trials involving egfr-targeted monoclonal antibodies should incorporate kras testing
+egfr monoclonal antibodies target extracellular domain receptor
+therefore tumors kras mutations confer constitutive activation intracellular downstream pathways may not respond monoclonal antibody-targeted therapies
+may not apply small molecule inhibitors specifically target intracellular downstream protein kinases
+present small molecule inhibitors not shown significant benefit crcs
+however when more potent agents type developed will need determined whether their efficacy influenced presence kras mutations tumor
+emerging kras data leaves open question what do patients kras mutant tumors
+egfr monoclonal antibody-targeted therapies being taken away patients left only two lines therapy either folfox foliri along bevacizumab
+there pressing need develop novel therapies group patients
+future trials novel biologically rational agents should developed patients
+while data clearly indicate kras mt predicts unresponsiveness egfr-targeted monoclonal antibody therapies kras wt does not necessarily predict response: median response rate wild-type kras tumors studies reviewed here only 35%
+obviously other markers combinations markers better predict response chosen treatment urgently needed
+markers currently under study include egfr copy number egfr ligands microsatellite instability (msi) pten pi3k others
+however more data will needed incorporate other novel markers clinical practice
+breast cancer data shown genetic profiling may predict patients benefit adjuvant therapy after resection their breast cancers
+quite possible certain genetic signatures will predict response (or lack response) certain regimens crc
+studies field being actively pursued
+we made significant progress management crc some degree we been successful converting metastatic crc chronic disease state
+targeted therapy been hot topic past decade now plays key role treatment crcs
+how use available agents maximize benefit minimize associated cost toxicity critical question
+undoubtedly future oncology lies individualized treatment based person's genetic composition
+end we taken huge step forward kras within next decade likely we will see more more biomarkers come clinical practice direct individualized treatment
+authors declare no competing interests
+dzc vk ym kl assembled analyzed data
+sk contributed discussion
+all authors contributed writing manuscript
+all authors read approved final manuscript
+authors wish thank lorraine cherry her editorial help preparation manuscript.

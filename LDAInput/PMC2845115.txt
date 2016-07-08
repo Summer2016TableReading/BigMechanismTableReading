@@ -1,0 +1,252 @@
+251
+table 4 single double mutations c-07 double mutation frequencies kras pik3ca all other single actual expected actual expected actual expected kras 43.70% na na 10.40% 8.70% 14.60% 7.21% pik3ca 20.10% 10.40% 8.70% na na 15.50% 8.06% braf 11.80% 0 5.10% 1.80% 2.40% 2.50% 5.71% met 3.30% 1.67% 1.44% 0 0.66% 1.67% 2% nras 3.80% 0 1.66% 0.42% 0.40% 1.30% 2.14% all mutations 60.20%
+increasing number studies show genetic markers aid refining prognostic information predicting benefit systemic therapy
+our goal develop high throughput cost-effective simple methodology detection clinically relevant hot spot mutations colon cancer
+maldi-tof mass spectrometry platform oncocarta panel sequenom used profile 239 colon cancers 39 metastatic lymph nodes nsabp clinical trial c-07 utilizing routinely processed ffpet (formalin-fixed paraffin-embedded tissue)
+among 238 common hot-spot cancer mutations 19 genes interrogated oncocarta panel mutations detected 7 different genes 26 different nucleotide positions our colon cancer samples
+twenty-four assays detected mutations more 1% samples reconfigured new multiplexed panel termed here colocarta
+mutation profiling repeated 32 mutant samples using colocarta results identical results oncocarta demonstrating methodology reproducible
+further evidence demonstrating validity data fact mutation frequencies most common colon cancer mutations similar cosmic (catalog somatic mutations cancer) database
+frequencies 43.5% kras 20.1% pik3ca 12.1% braf 
+addition infrequent mutations nras akt1 abl1 met detected
+mutation profiling metastatic lymph nodes their corresponding primary tumors showed 89.7% concordant
+all mutations found lymph nodes found corresponding primary tumors but 4 cases mutation present primary tumor only
+study describes high throughput technology used interrogate dnas isolated routinely processed ffpet identifies specific mutations common colon cancer
+development technology colocarta panel may provide mechanism rapid screening mutations clinically relevant genes like kras pik3ca braf 
+clinicaltrials.gov: nsabp c-07: nct00004931 recent evidence suggests mutation profiling assist prognosis prediction colon cancer
+kras pik3ca braf mutations frequent tumors colon been associated poor prognosis [ 1 - 6 ]
+however results remain controversial because other studies shown mutations genes not prognostic
+large study meta analysis kras mutations found only kras g12v bad prognostic marker other kras mutations not associated bad prognosis [ 2 ]
+evidence demonstrated kras mutations potential markers prediction because tumors kras mutations significantly associated resistance egfr antibody based therapies [ 7 - 11 ]
+publications reported same phenomenon braf pik3ca mutations although observations still not well established [ 12 13 ]
+published study suggesting braf mutant tumors resistant egfr therapies small study [ 13 ]
+predictive value pik3ca mutations remains controversial other publications shown mutations no predictive value [ 14 15 ]
+inconsistencies together two other factors limited impact mutation profiling prognosis prediction standard care colon cancer
+large sample size required establish gene mutation significant impact patient prediction prognosis
+another limitation until recently conducting such large studies standard sequencing technologies too time consuming too expensive practical clinical studies
+moreover while high frequency kras braf pik3ca mutations colon cancer well documented other potentially important mutations not been profiled large number clinical samples
+whole genome sequencing small number colon samples demonstrated somatic cancer mutations consist few genes occur frequently many more mutations occur very infrequently many different genes [ 16 17 ]
+mutations infrequently mutated genes could similar effect synergize mutations kras pik3ca braf 
+given considerations our goal find cost-effective high throughput methodology would detect frequent infrequent cancer mutations genes large number samples
+furthermore essential methodology would work degraded dnas isolated ffpet
+mass spectrometric snp genotyping technology based sequenom platform provided ideal choice mutation profiling address several criteria
+been shown work small amounts degraded dnas (5 ng) high multiplexing capacity minimizes use irreplaceable clinical samples
+addition variety studies demonstrated sensitivity mass spectrometric methods exceeds traditional sanger sequencing highly concordant sanger sequencing pyrosequencing allele-specific pcr [ 16 18 19 ]
+furthermore sequenom recently developed oncocarta panel oncogene panel offers rapid parallel analysis 238 simple complex cancer mutations across 19 genes
+oncocarta panel includes assays most colon cancer mutations clinically relevant genes braf (99%) kras (98%) pik3ca (78%) addition contains assays other cancer mutations genes intersect same pathways kras braf pik3ca such akt1 egfr hras nras met others
+frequency kras pik3ca braf mutations national surgical adjuvant breast bowel project (nsabp) trial c-07 similar frequencies colon samples listed cosmic data base
+observation provides evidence mutation data obtained sequenom platform accurate
+our results demonstrate majority colon cancer samples aberrant pik(3) - ras/raf network similar results been seen previously [ 6 ]
+mutations abl1 met not previously identified colon cancer identified 13 other genes screened found not mutated hot spot locations
+furthermore study identified most frequent colon cancer mutations oncocarta providing necessary information reduce number assays 187 24 creating smaller more specific economical panel requiring less dna thus conserving precious clinical samples
+samples used study nsabp clinical trial c-07
+trial enrolled patients between 02/2000 11/2002 compare oxaliplatin bolus 5-fu/lv bolus 5fu/lv alone resected stage ii iii colon cancer [ 20 ]
+tissue samples obtained surgery before patients received any treatment routinely processed ffpe
+c-07 approved institutional review board informed consent obtained subject
+pathologist categorized tumors poor moderate well differentiated signet cells carcinoma according world health organization (who) criteria
+samples graded mucinous character based amount mucin retained within tumor (1 = no mucin 2 = < 50% mucinous volume/total tumor volume 3 = >50% mucinous volume/total tumor volume)
+only grade 3 tumors considered mucinous tumors carcinoma accordance who criteria
+dna isolated ffpe tumor blocks collected patients participating nsabp clinical trial c-07
+ffpe tumor blocks cut sections slide containing most tumor cells defined pathologist isolated macrodissection
+genomic dna extracted 4 five ?m unstained sections
+after attempting several extraction procedures variety manufacturers (machery negel qiagen ambion) determined ambion recoverall? total nucleic acid isolation kit (applied biosystem foster city ca) yielded best dna based quality quantity performance mass spectrometer (data not shown)
+extraction performed recommended manufacturer two exceptions protease digestion extended overnight elution volume increased 150 ul maximize total amount dna recovered
+additional protease added samples incompletely digested after overnight treatment
+dna measured fluorescence using quant-it ? picogreen® dsdna assay kit (invitrogen carlsbad ca) infinitef200 fluorometer (tecan mannedorf switzerland)
+positive control known mutations test performance platform annotated cell line dnas (a2058 hs578t hl60 mcf7 mdamb231 nci-h1299 nci-h1395 uacc-893) purchased american type culture collection (atcc manassas va us)
+two cell lines skbr3 mcf-7 grown culture cell pellets fixed formalin andembedded paraffin dnas isolated described clinical samples
+mutation detection sequenom platform oncocarta mutation panel used protocol provided sequenom (san diego ca) followed minor modifications
+schematic procedure shown fig
+1 
+tecan evo liquid handler used normalize dna samples set up pcr reactions
+amount dna added pcr reduced 15 ng less
+dnas amplified using oncocarta pcr primer pools unincorporated nucleotides inactivated shrimp alkaline phosphatase (sap) single base extension reaction performed using extension primers hybridize immediately adjacent mutations custom mixture nucleotides
+salts removed addition cation exchange resin
+multiplexed reactions spotted onto spectrochipii mutations present resolved maldi-tof compact mass spectrometer (sequenom san diego ca)
+methodology mutation detection 
+genomic dna samples amplified pcr resulting copies both mutant wildtype alleles
+shrimp alkaline phosphatase removed excess nucleotides sample wells
+primer extension performed using terminator nucleotides c t g distinct masses
+linear amplification results sequences proportional alleles distinguished mass spec (maldi-tof separation)
+oncocarta? panel v1.0 (sequenom san diego ca) consists 24 pools primer pairs 24 pools extension primers capacity detect 238 mutations 19 genes listed table 1 
+pool consists 5-9 primer pairs pcr reaction
+two types assays been designed oncocarta panel referred simple complex
+simple assays those single assay able detect amino acid changes codon
+complex assays those require more one assay identify codon changes deletions insertion thus able detect multiple different amino acid substitutions deletions
+example complex assay kras_ 1 kras _2 interrogate 2 different nucleotide positions within codon 12 together identify all codon 12 amino acid changes
+much more complex assays included oncocarta interrogate insertions deletions within egfr gene
+mutations detected oncocarta data analysis performed using massarray typer analyzer software 4.0.4.20 (sequenom) facilitates visualization data patterns well raw spectra
+mutations identified two different ways
+typer automates identification mutants comparing ratios wild type peak all suspected mutants generates onco mutation report detailing specific mutations ratios wild type mutation peaks
+addition raw data exported excel in-house macro used duplicate analysis
+area under peaks allows quantification allele giving direct evaluation proportion mutated wildtype (wt) allele sample [ 18 ]
+all mutations both onco mutation report in-house excel report reviewed manually 3 investigators (df pgg kpg)
+manual review mutations necessary identify "real" mutant peaks salt peaks other background peaks
+selected reviewed mutations onco mutation report in-house macro compared concordant
+previously described mutations control cell lines detected
+braf _v600e hras _g12d nras _q61l pik3ca _e545k kras _g13d nras _q61k egfr 1_s125l pik3ca _h1047r detected appropriate cell lines (a2058 hs578t hl60 mcf7 mdamb231 nci-h1299 nci-h1395 uacc-893 respectively)
+appropriate mutation found mcf-7 ( pik3ca _e545k) both intact dna dna isolated ffpet
+dnas clinical samples control cell lines cell lines formalin-fixed paraffin-embedded cell lines showed same rates primer extension performance mass spectrometer
+proportion mutated alleles cell line observed area under mutant peak spectra ranged 0.4-0.6 expected pure clonal population heterozygote mutation
+spectra cell line uacc-893 equal fractions mutant wt alleles (fig
+2a )
+one exception distribution among cell lines seen a2058 showed spectra consistent 2 copies wt allele one mutant braf mutant allele (fig
+2b )
+3 alleles braf a2058 consistent observation there 3 copies chromosome 7 cell line (cosmic snp array based loh copy number analysis data base) [ 21 ]
+spectra cell lines uacc-893 a2058 
+expected positions unexteneded primer (uep) extension products (mutant wt) assays pik3ca _9 braf _15 cell lines uacc-893 a2058 respectively indicated red dashed lines
+proportion peak areas specific base shown
+assays pik3ca _9 braf _15 detected mutations pik3ca amino acid position 1047 braf amino acid position 600 respectively
+other peaks included spectra result multiplexing but not part designated assays indicated grey dashed lines
+pilot studies demonstrated assays worked little 1 ng dna (fig
+3 )
+fraction unextended primer .09 even when input dna between 1-3 ng when concentrations amount dna between 3-14 ng fraction unextended primer similar .07
+thus assays worked well even when only 1 ng dna used
+fractional unextended primer versus input dna 
+range average percent unextended primer different amounts input dna pcr reactions shown
+number samples used category 4 1-3 ng 9 3-9 ng 13 9-13 210 14 ng
+clinical samples some assays possible detect mutations only represented 5% total 2 peak areas
+spectra fig
+4 show small but clear peak expected size pik3ca 1047r mutation lymph node
+we able demonstrate sensitivity platform performing cell mixing experiment
+mutation analysis done using mcf-7 cell line dna alone mixed skbr3 various percentages
+mcf-7 cells contain pik3ca mutation skbr3 cells do not
+fig
+5 demonstrates mutation detectable even when mcf-7 cells represented only 5 10% total dna only 5 2.5% alleles
+sensitivity important mutation detection clinical cancer samples usually contain some amount normal tissue dilutes number tumor cells
+particular concern when profiling lymph nodes may contain minority tumor cells
+sensitive detection mutations clinical ffpe samples sequenom platform 
+small mutant but definitive peak illustrating pik3ca -1047r mutation approximately 5% sample dna shown
+quantification sensitivity cell line mixing experiment 
+spectra mcf-7 cells (mutant) alone mixed skbr3 cells (wt) shown
+percents based ng amounts dna
+assay detects e545k mutation pik3ca
+preliminary assessment feasibility using sequenom platform do large-scale mutation profiling colon cancer samples isolated ffpet essential determine our data yielded frequencies typical what been seen previously
+table 2 shows mutation frequencies obtained here cosmic (catalog somatic mutations cancer) database [ 21 ]
+cosmic frequencies seen table 2 based only those mutations detectable oncocarta
+oncocarta assays interrogate 99% 98% 78% known colon cancer mutations braf kras pik3ca respectively based large number colon cancer samples been sequenced braf (n = 4628) kras (n = 858) pik3ca (n = 247)
+oncocarta panel found most frequent mutations c-07 kras (43.5%) pik3ca (20.1%) braf (12.1%) similar what seen cosmic
+nras mutations while infrequent detected codons 12 13 61 represent sizable minority c0-7 samples (3.8%)
+data suggest ffpet samples interrogated technology described here yield accurate data
+frequency colon cancer mutations *% c-07 samples mutation
+?data cosmic colon adenocarcinoma limited same mutations interrogated oncocarta
+mutations listed only ones found c-07
+some cosmic amino acid changes not shown here not mutated c-07
+?% samples mutation gene shown least one other mutation c-07 samples
+§cosmic data large intestine not specific colon
+while most specific amino acid mutations mirror what seen cosmic database some unique colon cancer gene mutations found include abl1 -f359v akt1- e17k met- r970c met -t992i
+other amino acid changes not cosmic database amino acid changes r88q h701p c420r pik3ca braf -594v/g kras -q61r several nras including g12c g12d g13r g13v q61h q61k (table 2 )
+met mutations found 3.3% c-07 samples
+interestingly mutations not only unexpected their appearance within colon cancer population but frequency within samples unexpected
+four eight samples met mutations mutant alleles present 58-70% suggesting amplification mutant allele loss wt gene (fig
+6 )
+amplification may represent best explanation amplification met genomic region 7q31 been observed progenetix cgh database 23% colorectal cancers [ 22 ] met mutation amplified 
+proportion position (blue dashed lines) mutant wt alleles shown
+met _1 assay detects r970c mutations met 
+most assays oncocarta panel did not detect mutations frequency mutations very low (below 1%) our colon cancer samples
+oncocarta assays interrogate mutations 19 genes listed table 1 
+reduce cost time amount dna required profiling only 24 assays detected mutations frequency 1% greater c-07 selected resorted 6 pools included new panel termed colocarta (table 3 )
+mutation profiles 32 mutant samples 41 mutations repeated colocarta
+mutations detected 2 panels (oncocarta colocarta) identical demonstrating reproducibility methodology
+colocarta panel * hras _6 included panel but occurred < 0.1% samples
+majority tumors (64%) contained least one more mutations following genes: braf kras nras met pik3ca 18% 2 more mutations
+most common double mutation kras pik3ca followed pik3ca braf (table 4 )
+most samples pik3ca mutations (80%) mutations other genes most frequent kras other mutated genes braf met nras second pik3ca mutation (table 2 last column)
+tumors met nras mutations unexpectedly high frequency co-occurring mutations suggests occur second mutation perhaps later etiology tumor
+many tumors contain only kras braf mutation consistent previous reports finding mutations earlier stages colon cancer [ 23 24 ]
+multiple mutation frequencies tumors kras pik3ca pik3ca braf slightly higher lower respectively expected based their individual frequencies (table 4 )
+conversely expected double mutation frequency braf kras would 5.1% based our data but combination not found agreement previous reports [ 24 ] (table 4 )
+single double mutations c-07 samples co-occurring mutations ratios kras mutation ratio ( kras mutation peak area/total peak area) pik3ca mutation ratio ( pik3ca mutation peak area/total peak area) determined
+twenty-two out 31 samples (71%) kras / pik3ca ratios above 1.25 (table 5 )
+pik3ca mutations more prevalent only 2 out 31 samples
+differences demonstrate majority primary tumors double mutations kras pik3ca kras mutations more prevalent pik3ca 
+unequal distribution mutant alleles within tumor may due fact majority tumor cells only kras mutation cells pik3ca mutation minority could due copy number variations kras pik3ca loci
+kras/pik3ca ratio mutation frequencies within primary tumors frequency mutations kras pik3ca braf tested correlation degree differentiation prevalence mucin tumor
+braf mutations found 26.2% poorly differentiated tumors 8.2% moderate well differentiated
+frequencies significantly different chi square test (p value = 0.001)
+braf mutations associated mucinous tumors: braf mutations occurred 28% grade 3 mucinous tumors (>50% mucinous tumor cells) but only 9.4% non-mucinous tumors (grade 1 2)
+significant chi square test p value = 0.006
+similar data been reported previously [ 25 26 ]
+kras pik3ca mutations did not correlate either degree differentiation prevalence mucinous cells
+lymph node metastases not routinely collected c-07 but pilot study determine feasibility using lymph nodes mutation profiling conducted
+we isolated dna 39 lymph nodes containing tumor cells their corresponding primary tumors
+primary lymph nodes samples profiled entire oncocarta panel
+majority lymph nodes their corresponding primary tumors (89.7%) concordant
+total 26 mutations detected lymph nodes including kras braf pik3ca nras 
+thirty-five out 39 lymph nodes identical mutation profiles but 4 cases mutations primary tumors not found corresponding lymph nodes ( braf [ 2 ] pik3ca [ 1 ] kras [ 1 ])
+peak area evaluation tumors 2 mutations metastatic lymph node available demonstrated differences between primary lymph node samples
+table 6 details frequency mutant wt alleles based peak areas 5 such samples
+allele frequencies primary tumors two mutations metastatic lymph nodes kras pik3ca ratios demonstrated there more kras mutations pik3ca mutations 4 4 primary samples 3 4 lymph node samples
+however notable ratio kras /pik3a lower lymph node compared their primary tumor 3 out 4 samples
+sample 0940 kras / pik3ca mutation decreased almost 1/2 lymph node tumor compared primary
+thus samples there either loss kras mutations accumulation pik3ca mutations suggesting pik3ca mutations may impart selective advantage lymph node
+contrast two other samples less frequent occurrence their pik3ca mutation lymph node primary tumor
+sample 2244 pik3ca mutation undetectable lymph node (table 6 )
+fact there selection both mutations lymph node then pik3ca mutation frequency would been same kras mutation (0.15)
+other hand pik3ca / kras ratio same primary lymph node tumor then pik3ca mutation frequency would been .08 still detectable technology (fig
+3 )
+thus sample 2244 there fewer pik3ca mutant alleles lymph node primary tumor
+sample 1837 mutations both braf pik3ca detected braf / pik3ca ratio 1.67 but increased 4.4 metastatic lymph node
+sequenom platform provides superior technology screening many hot spot mutations cancer samples
+sanger sequencing would require amplification least 60 different fragments per sample many reactions would require optimization thus adding considerable time expense
+multiplexing use oncocarta panel allowed us skip time consuming step
+thus conservatively sanger sequencing would 40 times more expensive require least 2 times more dna
+other sequencing technologies employ differential melting mutant wt sequences such hrma still require pcr product sequenced
+would add significant cost time procedure because 60% colon samples contained one more mutations
+addition sequenom platform more sensitive sanger sequencing able detect mutations represented only 5% dna
+pyrosequencing represented potential alternative sequenom platform but our hands assays needed optimized lack multiplexing made procedure more time consuming demanded more dna
+sequenom methodology focuses only those nucleotides known cancer mutations thus makes review sequence information considerably faster sanger
+next-generation sequencing cost prohibitive not been shown work dnas isolated ffpet
+thus sequenom platform oncocarta panel provided simplest most rapid sensitive cost-effective method detecting hot spot cancer mutations degraded dnas isolated archival routinely processed ffpet
+colocarta panel provides more specific panel colon cancer mutation detection greatly reduces amount dna needed mutation profiling
+frequencies specific amino acid mutations detected here similar cosmic database other publications [ 6 ]
+small variation frequency between our data other reports may attributed differences stage samples analyzed number samples considered sensitivity technology [ 18 ]
+observations combined perfect match we obtained between expected detected mutations our control cell lines both fresh ffpe fact mutations detected oncocarta colocarta identical suggest technology reliable reproducible dnas isolated ffpe samples
+our study majority tumors (60.3%) one more mutations kras pik3ca braf 
+mutations genes likely perturb many different overlapping signaling pathways including pi3k/akt erk/mapk sapk/jnk nfk? others
+we able detect other less frequent mutations likely perturb same pathways may cause resistance egfr-targeted therapies reported kras pik3ca braf 
+example akt1 nras molecules downstream mediators egfr signaling pathway mutations genes likely affect response drugs target egfr
+mutations abl akt1 met detected here but not listed cosmic probably due small number samples analyzed
+akt1 -e17k mutation initially identified snp rs34409589 but recent publication found somatic mutation found 3 51 colon cancers [ 27 ]
+frequency mutations small study (51 samples) 6% much greater c0-7 samples (0.4%)
+difference frequencies may because carpten et al [ 27 ] samples more advanced stages those c-07 trial
+moreover selected large tumors (>100 mg) containing more 60% tumor cells
+no such selection done our study samples stages ii iii exclusively
+significance abl1 akt1 mutations patient prediction prognosis our study questionable given found only one sample represented only 0.4% cases
+our knowledge first report met mutations primary colon cancer but different met mutation (n1118y) found lung metastasis large intestine [ 28 ]
+met mutations r970c t992i detected 8 out 239 c-07 colon cancers
+mutations correspond met -r988c met -t1010i respectively long form met isoform referred cosmic database [ 29 ]
+r970c t992i mutations located juxtamembrane segment protein detected lung carcinoma [ 30 ]
+mutations when introduced lung cell line increased focus formation formation colonies soft agar cell motility migration
+mutations resulted constitutive tyrosine phosphorylation several cellular proteins including paxillin key tyrosine residues may account increased motility cells mutation
+another critical amino acid location ser 985 when phosphorylated been found diminish met signaling [ 31 ]
+phosphorylation thr residue 992 (1010) reduces signaling then r992i mutation would inhibit negative feedback may result constitutive signaling [ 30 ]
+met mutations confer alternative activated signaling pathway then mutations could confer resistance anti-egfr-based therapies provide new target directed therapies
+therapeutic drugs been developed specifically target met including small molecule kinase inhibitors anti- met monoclonal antibodies inhibitors hgf met ligand
+invitro assays demonstrated number met targeted therapies able prevent met signaling decrease cell viability limit cell motility migration vitro [ 32 ]
+small molecule arq 197 kinase inhibitor entered phase ii clinical trials so may represent possible therapeutic strategy some colon tumors
+our knowledge one most exhaustive analyses mutation profiling metastatic lymph nodes their corresponding primary colon tumors
+our analysis showed majority samples concordant (89.7%) but few samples mutations detected only primary tumor not metastatic lymph node
+samples 2 co-occurring mutations ratio double mutations varied primary lymph node tumors
+discordance genetic profile between primary tumors metastatic lymph nodes been observed [ 33 ]
+such data may indicate tumor cell migration selects different cell populations one primary tumor
+however possible mutational differences between lymph node primary tumor result tumor heterogeneity
+another interesting observation our study braf mutations significantly correlated poorly differentiated tumors prevalence mucin similar observations been reported [ 25 26 ]
+characteristics both associated worse prognosis consistent other reports associating braf mutations bad prognosis [ 3 ]
+however our study we found there 2 metastatic lymph nodes did not maintain braf mutation present corresponding primary tumor suggesting braf mutations not essential metastatic spread lymph node all tumors
+clearly additional studies would required understand apparent inconsistencies additional lymph node samples not currently available but could subject further studies when samples become available [ 3 ]
+sequenom platform provided superior technology screening 238 common hot spot cancer mutations 19 genes
+frequent occurrence kras pik3ca braf confirmed mutations not detected before colon cancer found met abl1 
+twenty-five assays oncocarta replexed form new panel termed colocarta will used screen additional 800 tumors nsabp clinical trial c0-7 purpose identifying prognostic predictive markers stage ii iii colon cancer
+note added proof: although met-r988c met-t1010i mutations listed cosmic somatic cancer mutations nucleotide changes correspond snps rs34589476 rs56391007 ncbi snp data base respectively
+frequency snps unknown so whether nucleotide changes associated cancer unknown
+authors declare no competing interests
+df pgg designed carried out experiments participated drafting manuscript
+yt graded tumors regard degree differentiation mucin content defined tumor regions s-ik carried out experiments
+h-jc defined tumor regions sp participated coordination study klp-g designed coordinated study drafted manuscript
+all authors given final approval version published
+pre-publication history paper accessed here: http://www.biomedcentral.com/1471-2407/10/101/prepub authors would like thank melanie finnigan bill hiller theresa oeler help cutting cataloging slides hema liyanage sequenom replexing assays
+study supported public health service grants u10-ca-37377 u10-ca-69974 u10-ca-12027 u10-ca-69651 national cancer institute national institutes health department health human services
+project funded part under grant pennsylvania department health
+department specifically disclaims responsibility any analyses interpretations conclusions
+authors retain right provide copy final manuscript nih upon acceptance journal publication public archiving pubmed central soon possible but no later 12 months after publication journal.

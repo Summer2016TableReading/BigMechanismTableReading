@@ -1,0 +1,258 @@
+257
+table 4 mutations egfr her2 their transducers found samples patients sample egfr kras exon 2 pi3k exon 9 pi3k exon 20 braf exon 15 pten 1 wt wt wt wt wt wt 2 wt wt wt wt wt wt 3 wt wt wt wt wt wt 4 wt wt wt wt wt wt 5 wt wt wt wt wt wt 6 wt wt wt wt wt wt 7 wt wt wt wt wt wt 8 wt wt wt wt wt wt 9 wt wt wt wt wt wt 10 wt wt wt wt wt wt 11 wt wt wt wt wt wt 12 wt wt wt wt wt wt 13 wt wt wt wt wt wt 14 wt wt wt wt wt wt 15 wt wt wt wt wt wt 16 wt wt wt wt wt wt 17 wt wt wt wt wt wt 18 wt wt wt wt wt wt 19 wt wt wt wt wt wt 20 wt wt wt wt wt wt 21 k757r wt wt wt wt wt 22 wt g13d wt wt v600e wt 23 wt g13d e545k h1047r wt t202i/e235g 24 wt wt wt wt wt wt 25 wt wt wt wt v600e wt 26 c775y wt wt wt wt wt 27 wt wt wt wt wt wt 28 wt wt wt wt wt wt 29 v843i wt q546l wt wt f271l 30 wt wt wt wt wt wt 31 e872k wt e545a wt v600e wt 32 wt wt wt wt wt wt 33 wt wt wt wt wt wt 34 wt wt wt wt wt wt 35 wt wt wt wt wt wt 36 t790m wt wt wt wt wt 37 wt wt wt wt wt wt 38 wt wt wt wt wt wt 39 w817stop wt wt wt wt wt 40 wt wt wt wt wt wt 41 wt wt wt wt wt wt 42 wt wt wt f1059l wt wt 43 wt wt wt wt v600e wt 44 wt i24f wt wt wt wt 45 a864t wt wt wt wt wt 46 wt wt wt wt wt wt 47 wt wt wt wt wt wt 48 wt wt wt wt wt wt 49 wt wt wt wt wt wt wt: wild type.
+advanced biliary tract carcinomas (btcs) poor prognosis limited therapeutic options
+therefore crucial combine standard therapies molecular targeting
+study egfr her2 their molecular transducers analysed terms mutations amplifications over-expression btc case series
+furthermore we tested efficacy drugs targeting molecules single agents combination gemcitabine standard therapeutic agent against btc
+immunohistochemistry fish mutational analysis performed 49 btc samples intrahepatic (iccs) extrahepatic (eccs) gallbladder (gbcs) origin
+effect cell proliferation different egfr/her2 pathway inhibitors single agents combination gemcitabine investigated btc cell lines
+western blot analyses performed investigate molecular mechanisms targeted drugs
+egfr expressed 100% iccs 52.6% eccs 38.5% gbcs
+p-mapk p-akt highly expressed iccs (>58% samples) lower extent eccs gbcs (<46%) indicating egfr pathway activation
+her2 overexpressed 10% gbcs (with genomic amplification) 26.3% eccs (half genomic amplification)
+egfr its signal transducers mutated 26.5% cases: 4 samples bear mutations pi3k (8.2%) 3 cases (6.1%) k-ras 4 (8.2%) b-raf 2 cases (4.1%) pten but no loss pten expression detected
+egi-1 cell line highly sensitive gemcitabine tfk1 tgbc1-tkb cell lines responsive huh28 cell line resistant
+egi-1 cells combination gefitinib further increases antiproliferative effect gemcitabine
+tfk1 tgbc1-tkb cells efficacy gemcitabine increased addiction sorafenib everolimus
+tgbc1-tkb cells lapatinib synergic effect gemcitabine
+huh28 becomes responsive treated combination erlotinib
+moreover huh28 cells sensitive lapatinib single agent
+molecular mechanisms confirmed western blot analysis
+data demonstrate egfr her2 pathways suitable therapeutic targets btcs
+combination gemcitabine drugs targeting pathways gives encouraging results further clinical studies could warranted
+biliary tract carcinomas (btcs) rare primary malignancies originating epithelium biliary tree lead intrahepatic (iccs) extrahepatic (eccs) gallbladder cancers (gbcs)
+most patients diagnosed when disease unresectable survival poor less 5% patients surviving beyond 5 years [ 1 2 ]
+chemotherapy limited impact natural history disease several drugs drug combinations been tested response rates ranging 0% 40%
+phase ii studies demonstrated best results obtained gemcitabine (gem) reaching 36% response rate 15.4 months median survival [ 3 ]
+more recently multicenter randomized phase iii trial (the uk abc-02 trial) recruiting 410 patients advanced btcs demonstrated median progression free survival greater association gem cisplatin gem alone (8 vs
+5 months) [ 4 ]
+effective therapeutic agents based better comprehension cellular molecular pathogenesis btcs required
+preclinical studies suggest epidermal growth factor receptor (egfr) her2 their pathways crucial role tumor growth [ 5 ]
+egfr/her2 signaling pathway exerts its biological effects via multiple signaling cascades including phospholipase c ca2+/calmodulin-dependent kinase (camk/pkc) ras/raf/mitogen/activated proteine kinases (mapk) phosphatidylinositol 3'-kinase (pi3k)/akt/mammalian target rapamycin (mtor) pi3k/akt/gsk janus-associated kinase (jak)/signal transducer activator transcription protein (stats) [ 6 - 8 ]
+addition egfr signaling regulates synthesis secretion several different angiogenic growth factors tumor cells including vascular endothelial growth factor (vegf) interleukin-8 (il-8) basic fibroblast growth factor (bfgf) [ 9 ]
+cholangiocarcinoma well normal cholangiocytes bile acids activate two main signaling pathways (ras/raf/mapk pi3k/akt/mtor) via tgf-?-dependent mechanism
+bile acid mitogenesis may facilitate progression cholangiocarcinoma blocking tgf-?/egfr autocrine pathway attenuates bile acid-stimulated growth cholangiocarcinoma cell lines [ 10 - 12 ]
+bases several lines evidence may point usefulness egfr targeting adjuvant therapy cholangiocarcinoma
+we previously reported 15% biliary tree gallbladder carcinomas egfr gene mutations tyrosine kinase (tk) domain mutations led activation one both egfr signal transduction pathways [ 13 ]
+some mutations identical those previously reported confer sensitivity some tk inhibitors like erlotinib gefitinib non small cell lung cancer (nsclc) [ 14 ]
+however inhibitors ineffective used presence mutations egfr downstream transducers such k-ras b-raf pi3k phosphatase tensin homolog deleted chromosome 10 (pten) [ 15 ]
+nsclc increased copy number her2 gene associated gefitinib sensitivity egfr-positive patients thus supporting use her2 fish analysis selection patients tk inhibitor (tki) therapies [ 16 ]
+somatic mutations pi3k gene been frequently identified colon gastric carcinoma glioblastoma but rarely other cancers [ 17 ]
+functional analyses revealed mutations increased kinase activity induced transformation
+addition vitro experiments demonstrated pi3k oncogenic mutations promote sustained pi3k signaling conferring resistance gefitinib-induced apoptosis [ 18 ]
+tumor suppressor gene pten counteracts activity pi3k frequently mutated high-grade glioblastoma melanoma prostate endometrium cancers [ 19 ]
+mutations caused loss pten expression constitutive activation akt resistance gefitinib [ 20 ]
+vitro models demonstrated re-establishment pten expression restores sensitivity gefitinib [ 21 ]
+all data derived vitro studies different series patients only single aspects studied therefore not allowing evaluation findings whole
+due prior experience anti-egfr treatment lung colorectal cancer patients become clear only minority patients specific molecular abnormalities benefit therapies
+philip coworkers reported some clinical activity erlotinib single agent cholangiocarcinoma showing 17% patients progression free after 24 weeks treatment [ 22 ]
+however lack immunohistochemical molecular studies did not allow determination subgroups patients would benefit most treatments
+strategies based egfr pathway targeting showed promising results [ 23 - 28 ]
+based premises we decided careful investigation egfr- her2-related pathways btcs should preliminary clinical studies targeted molecules facilitating guide monitor parameters predictive response
+therefore objectives current study investigate egfr her2 pathway expression activation histological sections patients evaluate vitro efficacy selective inhibitors pathways single agents combination gemcitabine btc cell lines
+study conducted archival formalin-fixed tissues derived 49 italian patients btcs diagnosed institute cancer research treatment (ircc) 2002 2005
+tumor specimens obtained along prior informed consent before any systemic treatment
+approval ethical committee not needed study
+histological type determined according world health organization criteria tumor stage time diagnosis determined according tnm classification system [ 29 30 ]
+patient characteristics including sex age tumor origin stage histological grading summarised table 1 
+clinicalpathological parameters btc case series icc: intrahepatic cholangiocarcinoma ecc: extrahepatic cholangiocarcinoma gbc: gallbladder carcinoma * tnm staging (see ref
+[ 30 ]) erlotinib gefitinib gifts roche astrazeneca respectively
+reversible selective inhibitors tyrosine kinase domain epidermal growth factor receptor (egfr)
+act competitively atp-binding site egfr order inhibit ligand-induced tyrosine phosphorylation thereby blocking ligand-induced activation receptor downstream pathways
+lapatinib sorafenib everolimus purchased sequoia (sequoia research products pangbourne uk)
+lapatinib inhibits receptor signal processes binding atp-binding pocket egfr/her2 protein kinase domain preventing self-phosphorylation subsequent activation signal mechanism
+sorafenib multikinase inhibitor blocks tumor cell proliferation angiogenesis inhibiting serine/threonine kinases (c-raf mutant wild-type b-raf) well receptor tyrosine kinases vascular endothelial growth factor receptor 2 (vegfr2) vegfr3 platelet-derived growth factor receptor (pdgfr) flt3 ret c-kit
+been reported sorafenib induces apoptosis through inhibition translation down-regulation myeloid cell leukemia-1 (mcl-1) bcl-2 family member
+everolimus signal transduction inhibitor targeting mtor (mammalian target rapamycin) all drugs dissolved dmso (sigma-aldrich st
+louis mo usa)
+gemcitabine (gemzar) lilly usa nucleoside analog interferes dna replication
+four human cell lines different histotype used: two ecc cell lines- tfk1 egi-1 (wt mutated k-ras respectively) kindly provided scherubl institute physiology charité-universitätsmedizin berlin germany one icc cell line- huh28 (mutated pi3k) one gbc cell line- tgbc1-tkb (deleted pten) obtained cell bank riken bioresource center tsukuba japan
+all cells cultured rpmi 1640 +10% fbs 100 u/ml penicilline/streptomicine
+cells plated 96 multiwell plates concentration 3000 cells/well incubated 1:5 scalar doses drugs (from 10 ?m 16 nm) 72 hours
+combination experiments drugs administered concomitantly
+proliferation assays performed cell titer glo luminescent cell viability assay acquired dtx880 (beckman coulter inc)
+drug interaction assessed fixed 1:1 concentration ratio gemcitabine gefitinib/erlotinib/sorafenib/lapatinib/everolimus
+median dose (dm) inhibiting 50% cell proliferation its 95% confidence interval isobologram analysis dose-effect curves calculated calcusyn software (biosoft cambridge uk) based chou - talalay method
+general equation classic isobologram given by: combination index ci = (d)1/(dx)1 + (d)2/(dx)2 where (dx)1 (dx)2 denominators concentrations d1 (gemcitabine) d2 (targeted drug) alone give x% inhibition whereas (d)1 (d)2 nominators doses gemcitabine targeted drug combination induce same effect (inhibit x%)
+ci<1 ci = 1 ci > 1 indicated synergistic additive antagonistic effects respectively
+cell lines showing dm>10 ?m considered resistant drug treatments
+all tests performed quadruplicate repeated three independent experiments
+genomic dna extracted qiaamp dna mini kit (qiagen milan italy) following manufacturer's instructions
+tumor portion surrounding normal tissues obtained laser microdissector (vsl-337nd-s spectra-physics mountain view ca)
+table 2 shows exons amplified pcr relative specific primers
+pcr products purified using qiaquick pcr purification kit (qiagen milan italy) sense antisense sequences obtained using forward reverse primers respectively
+exon sequenced using bigdye terminator cycle sequence following pe applied biosystem strategy applied biosystems abi prism3100 dna sequencer (applied biosystem forster city ca)
+all mutations confirmed two independent pcr experiments their somatic origin demonstrated whenever possible excluding presence same mutation surrounding normal tissues
+sequences forward reverse primers (5'-3') used pcr sequencing egfr her2 expression evaluated using pharmadx (dakocytomation carpenteria ca) herceptest (dako) kits respectively following manufacturer's instructions
+egfr intensity scored 1+ 3+ threshold positivity 1+ staining intensity 1% tumor cells
+her2 staining scored 0 3+ using scoring system outlined dako herceptest
+anti-human tgf-? monoclonal antibody (clone 213-44 oncogene research products cambridge ma) used tgf-? expression established semiquantitatively percentage tgf-?+ cells staining intensity
+tumors graded negative (0 less 10% positive cells) + (?10% < 25% positive cells) ++ (>25% < 50% positive cells) +++ (> 50% positive cells)
+percentage immunopositive cells calculated counting least 1000 cancer cells contiguous fields greatest immunopositivity
+egfr downstream signaling detection rabbit polyclonal antibodies anti-p-mapk/thr 202/thr 204 anti-p-akt/ser 473 (all cell signaling technology) used
+positive immunostaining scored + when present more 40% cells attributed nuclear staining p-mapk cytoplasmatic faint membranous staining p-akt
+pten expression detected primary antibody anti-pten (clone 28h6 neomarkers fremont ca 94539ts 106) quantified using visual grading system based intensity staining percentage positive nuclei calculated counting 1000 cells 3 different optical fields 40× magnification
+pten immunostaining scored four groups 0 3 tgf-? scoring
+cells lysed boiling buffer (sds 2.5% tris hcl 0.125 m ph 6.8) scraped boiled 5 minutes 100°c centrifuged 14000 rpm 30 minutes 40 ?g proteins electrophoresed sds-page transferred 0.45-?m pvdf membranes (ge healthcare)
+nonspecific sites blocked 5% non-fat dry milk (biorad laboratories munchen germany) membranes immunoblotted specific primary antibodies overnight followed 1 ?g/ml horseradish peroxidase conjugated secondary antibody
+antibodies against akt phosphorylated-erk1/2 (thr202/tyr204) phosphorylated-akt (ser473) phosphorylated mtor (ser 2448) mtor anti-mouse anti-rabbit antibodies linked horseradish peroxidase cell signalling technology (beverly usa) antibodies erk1/2 her2 egfr santa cruz biotechnology anti-pten ?-actin millipore (temecula ca) antibody anti-vinculin sigma (sigma-aldrich st
+louis mo usa)
+tissue sections (4-6 ?m) placed silane-coated slides deparaffinised dehydrated enzymatically digested commercial kit (vysis downers grove il usa) denaturated 75°c 5 minutes
+spectrum-orange-labeled her-2 spectrum-green-labeled centromere 17 references (pathvysion? vysis-abbott) denaturated 5' 75°c applied slide
+slides incubated 5' 79°c codenaturation placed humidified chamber 37°c overnight hybridisation step
+after washing chromatin counterstained dapi ii (vysis downers grove il usa)
+average 40 nuclei analysed five different target areas using h&e-stained sections histotopographic reference
+our criteria her2 gene amplification her2/centromere 17 ratio ?2
+chromosome 17 numerical status referred polysomic when multiple 17 centromeric signals present >20% cancer cell population
+r statistical language adaptation fisher exact test non 2 × 2 contingency tables performed order detect any significant association between histotype categorical variables describing presence mutations egfr specific signal transducers expression egfr her2 tgf-? p-mapk p-akt pten
+mean quantitative values compared using student's t-test
+significance difference between groups assessed pearson correlation analysis
+p value less 0.05 considered significant
+all p values two-tailed
+immunoreactivity egfr detected all normal cholangiocyte hepatocyte membranes
+egfr expression present all 17 iccs: intensity 3+ 13/17 (76.5%) 2+ 3/17 (17.6%)
+one icc neuroendocrine differentiation scored 1+ (5.9%)
+19 eccs expression pattern more heterogeneous 10/19 (52.6%) egfr+ cases: only 5/19 (26.3%) scored 3+ 3/19 (15.8%) 2+ 2/19 (10.5%) 1+ 9/19 (47.4%) negative
+gbcs 5/13 (38.5%) expressed egfr 4/13 (30.8%) scored 3+ 1/13 (7.7%) 1+ 8/13 (61.5%) negatives
+egfr+ cancers significantly more frequent iccs eccs gbcs (table 3 )
+no correlation found between egfr expression histological grading different btc subgroups
+figure 1 shows representative egfr immunostaining
+expression biomarkers her2 gene status btc samples patients
+nd: not determined* her2 fish analysed described "methods" section pattern egfr expression biliary tumors 
+egfr expression typical cell membrane immunostaining: weak (1+ score a) moderate (2+ score b) strong (3+ score c)
+magnification x400
+werneburg et al [ 10 ] demonstrated egfr activated bile acids tgf-?-dependent manner
+basis we decided investigate pathological upregulation ligand might occur cholangiocarcinoma cells
+expression ligand analysed immunohistochemistry 49 btc samples patients
+twenty nine out 49 btc (59.2%) resulted positive tgf-? expression particular 14 out 17 iccs (82.4%) 10 out 19 (52.6%) eccs 5 out 13 (38.5%) gbcs tgf-?+
+twenty seven out 49 (55.1%) carcinomas displayed positive immunostaining both tgf-? egfr
+there significant relationship between egfr tgf-? expression btcs (p < 0.001)
+her2 expression performed 10 iccs 19 eccs 10 gbcs according sample availability
+membranous expression present cancer cells while normal cholangiocytes stromal cells negative
+seven 39 cases (17.9%) her2+ particular 1/10 (10%) icc scored 1+ 1/10 (10%) gbc 3+
+positive immunostaining her2 detected 5/19 (26.3%) eccs
+figure 2 shows representative her2 expression btc samples herceptest
+pattern erbb2 expression herceptest biliary tumors 
+scoring 0 3+ (a b negative c 2+ d 3+)
+magnification x200
+phosphorylation status downstream transducers mapk (erk1/2) akt analysed immunohistochemistry all 49 btcs
+shown table 3 10/17 iccs (58.8%) presented p-mapk 13/17 (76.5%) positive p-akt co-expression two phosphorylated signaling proteins detected 10/17 (58.8%)
+contrary eccs p-mapk p-akt only detected 7/19 (36.8%) co-expression 4/19 (21%)
+gbcs pattern activated proteins similar ecc: 5/13 (38.5%) 6/13 (46.1%) showed p-mapk p-akt expression respectively while co-activation found 3/13 (23.1%)
+p-mapk p-akt expression higher iccs compared eccs gbcs (p < 0.05)
+pten expression observed all btcs normal cholangiocytes
+cancer cells showed moderate strong immunostaining while normal cells presented weak immunostaining (score 2+ 3+ vs 1+)
+determine overexpression her2 protein attributable gene amplification fish analysis performed samples scored 2+ 3+ herceptest
+two samples scored 3+ herceptest presented her2 gene amplification
+particular her2/centromere 17 ratio 10 6.9 respectively
+one out 3 specimens overexpressing her2 (scored 2+ herceptest) showed her2 gene amplification ratio 5.9
+remaining samples scored 2+ presented multiple 17 centromeric signals more 20% tumor cells
+results fish analysis shown table 3 
+mutational analysis exons 18 21 egfr series been published previous work [ 13 ] results together nine additional cases summarised table 4 
+study we performed systematic mutational analysis her2 pi3k k-ras b-raf pten signal transducers
+sample number 39 showed novel egfr mutation (tgg tag) consistent nonsense substitution (w817stop) leading production truncated protein lacking intracytoplasmatic tail contains interaction sites signal transducer pi3k
+mutations egfr her2 their transducers found samples patients
+wt: wild type
+no mutations her2 tk domain detected 40.5% samples displayed silent point mutation codon 902 (cag caa) both homo/hemizygous heterozygous status (data not shown)
+mutational analysis egfr/her2 intracellular effectors identified mutations k-ras pi3k b-raf pten (table 4 )
+five hotspot mutations helical catalytic domain pi3k found 4/49 specimens (8.2%): two codon 545 (id 763 id 12458) 1 codons 546 (already described substituted other non synonymous codons id 766 id 767 id 6147 id 12459) 1047 (id 775) 1059
+three samples (6.1%) point mutations k-ras (2 previously described g13 d substitution id 532 third novel mutation i24f) 4 (8.2%) v600e mutation (id 476) b-raf
+exons 5 6 7 8 pten been sequenced 3 mutations found 2 samples
+namely sample 23 thr ile substitution codon 202 exon 6 glu gly substitution codon 235 exon 7 sample 29 phe leu substitution codon 271 exon 8
+all pten mutations involved codons previously found other tumors bearing single base deletions mutations (id 5856 id 5292 id 5821)
+4 cases mutations multiple transducers present simultaneously: sample 22 mutated b-raf k-ras sample 23 mutated k-ras pi3k pten sample 29 mutated egfr pi3k pten sample 31 mutated egfr pi3k b-raf (table 4 )
+percentage pten labeled nuclei tumor samples activating egfr pi3k mutations higher tissues egfr pi3k wild type displaying 62%+31 (score 3+) vs 39%+26 (score 2+) respectively (p = 0.032)
+particular cases activating mutations involving egfr and/or pi3k not pten mean pten+ cells 80+19 (score 3+) (p = 0.002 vs wild type) suggesting compensatory change level phosphatase might counteract egfr pathway activation
+agreement sample 39 harboring egfr stop codon mutation presumably associated inactive pathway low pten expression (9% score 0)
+test association between histotype analysed biomarkers generalization fisher exact test applied
+no association found between histotype presence egfr mutations whereas highly significant association (p = 0.00004) detected between histotype egfr expression (high iccs eccs low gbcs)
+slightly significant association found between cholongiocarcinoma p-akt expression (p = 0.01) tgf-? expression (0.03)
+tgf-? p-mapk more expressed high grade tumors (p = 0.03058 p = 0.04 respectively)
+egfr mutations more frequently observed female gender (p = 0.04)
+other parameters tested did not give significant associations histotype
+expression egfr her2 proteins well their molecular pathways evaluated western blot analysis four btc cell lines
+shown figure 3 all cell lines expressed egfr her2 receptors
+particular egi-1 cell line expressed high levels egfr her2 proteins low levels pten
+tgbc1-tkb cell line expressed high level phosphorylated akt mtor mapk suggesting sustained activation pathways
+addition her2 membrane expression evaluated immunocitochemistry
+icc cell line huh28 showed highest her2 membrane expression scored 3+ ecc cell lines egi-1 tfk-1 scored 1+ while gbc cell line tgbc1-tkb showed lowest her2 expression (additional file 1 figure s1)
+western blot analysis egfr/her2 expression phosphorylation related signal transducers btc cell lines 
+after 72 h treatment everolimus able inhibit mtor phosphorylation all btc cell lines but did not influence akt mapk phosphorylation (additional file 2 figure s2)
+sorafenib down-regulated mapk phosphorylation all cell lines did not influence mtor akt phosphorylation (additional file 3 figure s3)
+lapatinib slightly down-regulated akt phosphorylation all btc cell lines but not mapk nor mtor (additional file 4 figure s4)
+gefitinib down-regulated akt phosphorylation only egi-1 cell line (additional file 5 figure s5) while erlotinib no evident effects akt/mtor mapk phosphorylation (additional file 6 figure s6)
+antiproliferative effect different molecular targeted drugs blocking egfr/her2 receptor pathways revealed broad range response btc cell lines (table 5 figure 4 )
+icc cell line huh28 resistant all drugs except lapatinib (dm = 2.02 ?m)
+lapatinib inhibited proliferation egi-1 (dm = 4.02 ?m) tfk1 (dm = 5.25 ?m) while tgbc1-tkb cell line resistant
+egfr tkis significant effect ecc cell lines (gefitinib dm = 1.8 ?m tfk1 2.48 ?m egi-1 whilst erlotinib dm = 2.59 ?m tfk1 5.72 egi-1) but no effect revealed gbc cell line tgbc1-tkb
+multi-kinase inhibitor sorafenib high efficacy egi-1 (dm = 2.06 ?m) slight effect tfk1 tgbc1-tkb (6.2 ?m 5.9 ?m respectively)
+reduction 50% cell growth obtained relatively low median doses m-tor inhibitor everolimus tfk1 (dm = 200 nm) egi-1 (dm = 500 nm) tgbc1-tkb (dm = 400 nm)
+median dose relative confidential interval values egfr/her2 pathway inhibitors btc cell lines
+median doses (dm) relative confidential interval (ci) targeted therapies affected 50% proliferation four cell lines (tfk1 egi-1 huh28 tgbc1-tkb) calculated after 72 hrs drug treatment
+dose effect curves gemcitabine (gem) combined egfr/her2 pathway targeted therapies tfk1 (a) egi-1 (b) huh28(c) tgbc1-tkb (d) 
+after 72 h treatment 1:5 scalar doses (10 ?m 2 ?m 400 nm 80 nm 16 nm) gem alone combination targeted therapy fixed 1:1 ratio antiproliferative effect evaluated using viability test chou-talalay equation calcusyn software described methods section
+chemotherapeutic agent gemcitabine highly efficient egi-1 (dm = 0.74 nm) moderate efficient tfk-1 tgbc1-tkb (dm = 100 nm dm = 280 nm respectively) ineffective huh28 (dm > 10 ?m) (table 6 )
+median dose relative confidential interval values gemcitabine alone combination egfr/her2 pathway inhibitors btc cell lines
+*ci = combination index indicates synergism when <1 combination targeted drugs gemcitabine allowed significant reduction median dose
+interestingly erlotinib conferred sensitivity gemcitabine huh28 resistant same drug single agent all other combinations
+other cell lines best result obtained chemotherapeutic agent everolimus highly efficient extrahepatic cell lines (dm = 0.13 nm tfk-1 dm = 0.57 nm egi-1) gallbladder cell line (dm = 1 nm)
+other combinations responsiveness depended cell lines
+increasing global incidence poor prognosis lack effective therapy make management btcs further emphasize need effective therapeutic agents
+gene status protein expression egfr her2 their pathways may potential biomarkers predicting response egfr/her2 inhibitors
+we observed presence 100% egfr expression iccs 52.6% eccs 38.5% gbcs
+mutations egfr tk domain present 15% cases [ 13 ]
+furthermore incidence k-ras mutation particularly low (6.1%)
+interestingly changes involving codon 12 frequently mutated other tumor types not found our series
+previous studies k-ras mutations cholangiocarcinoma revealed divergent results [ 31 - 35 ]
+higher occurrence k-ras mutations found japan germany (ranging 39% 54%) relative other areas such thailand (from 0% 8%) tumor occurred high frequency
+geographical differences etiology carcinogenesis btcs might explain variability
+we observed lower incidence b-raf mutations compared reported tannapfel coworkers (8% vs
+21% respectively) [ 36 ]
+we identified pi3k mutations 4 cases (8.2%) pten mutations 2 cases (4.1%)
+multiple mutations egfr transducers observed some samples
+namely total 14 mutations found 8 tumor samples only 3 samples single point mutation
+consistent previous reports [ 37 38 ] k-ras egfr mutations not present same sample but contrast another report [ 36 ] k-ras b-raf mutations simultaneously present one case
+however due genetic heterogeneity tumor subclones we cannot exclude mutations would present two distinct cell populations
+we observed rare frequency pten mutations we did not find any loss pten protein expression comparison normal cholangiocytes rather stronger labeling intensity high percentage labeled cells significantly present tumor cells compared normal counterparts
+particular samples displaying egfr pathway activation due transducer mutations highest percentage pten-labeled cells suggesting preserved pten function might counteract egfr downstream pathway activation
+her2 overexpressed only small group patients accordance results obtained others [ 39 ] no mutations tk domain observed
+inhibition egfr/her2 pathways btcs cell lines demonstrated broad range response egfr tkis being more efficient ecc cell lines
+k-ras-mutated egi-1 cells dm drugs twice dm k-ras wt tfk1
+furthermore presence pi3k mutation pten deletion huh28 tgbc1-tkb cells respectively could probably explain resistance treatments [ 18 20 21 ]
+sorafenib more effective k-ras-mutated ecc cell line mapk pathway high level activation [ 40 ]
+lapatinib more effective icc cell line high levels her2 expression
+other hand lapatinib less effective ecc cell lines
+furthermore gbc cell line considered resistant (dm >10 ?m)
+fact tfk-1 egi-1 cell lines expressed low level her2 gbc cell line negative
+results consistent data obtained breast cancer pancreatic preclinical models [ 41 - 44 ]
+addition phase ii study breast cancer patients revealed all responders showed high level her2 expression while her2 negative patients non responders [ 45 ]
+our study dual inhibition egfr her2 induced lapatinib less effective treatment erlotinib gefitinib ecc cell lines
+indeed study wiedmann et al treatment nvp-aee788 egfr/her2/vegfr-2 more effective erlotinib gefitinib [ 46 ]
+direct inhibition vegfr-2 could gain function drug compared egfr her2 inhibition
+fact vegfr-2 expressed ecc cell lines [ 47 ]
+moreover vegf overexpressed icc ecc samples patients regulated metastasis development [ 48 ]
+inhibition vegfr egfr/her2 signaling nvp-aee788 vandetanib (zd6474) might another interesting alternative approach management btcs
+everolimus effective all tested cell lines but not huh28
+nonetheless everolimus inhibited phosphorylation mtor all cell lines
+seems reasonable huh28 mechanism resistance overcomes mtor inhibition may active
+moreover egfr/her2 pathway inhibitors synergistic effect gemcitabine treatment
+mtor inhibition gave rise strong synergistic effect combination gemcitabine extrahepatic cell lines
+chung et al demonstrated more 80% extrahepatic btc displayed mtor activation [ 49 ] correlated poor prognosis
+interestingly egfr inhibitor erlotinib able overcome resistance gemcitabine intrahepatic cell line huh28 fact intrahepatic specimens showed highest egfr expression
+surprisingly result not obtained gefitinib
+deepening study gene expression profiling cell lines will contribute comprehension different mechanisms involved drug response
+conclusion our preclinical results demonstrated blocking egfr/her2 signaling resulted considerable antiproliferative effects in vitro models btc
+employment targeted therapies may useful cholangiocarcinoma treatment analysis egfr/her2 pathways patients could orientate clinicians identification appropriate therapeutic approach
+authors declare no competing interests
+yp: designed study carried out experiments drafted manuscript mr: performed analysed immunohistochemical data critically revised manuscript cpn: performed vitro experiments mutational analysis drafted manuscript gc: supervised study supported data interpretation lc performed fish analysis gm jyp performed mutational analysis gc3: conducted statistical data analysis ma ab: participated design coordination study fl conceived study
+all authors read approved final manuscript
+pre-publication history paper accessed here: http://www.biomedcentral.com/1471-2407/10/631/prepub f igure s1: her2 expression btc cell lines 
+a) huh28 scored 3+ b) egi-1 scored 1+ c) tfk-1scored 1+ d) tgbc1-tkb her2 negative click here file f igure s2: western blot analysis mtor akt mapk phosphorylation after 72 h treatment everolimus btc cell lines 
+click here file f igure s3: western blot analysis mtor akt mapk phosphorylation after 72 h treatment sorafenib btc cell lines 
+click here file f igure s4: western blot analysis mtor akt mapk phosphorylation after 72 h treatment lapatinib btc cell lines 
+click here file f igure s5: western blot analysis mtor akt mapk phosphorylation after 72 h treatment gefitinib btc cell lines 
+click here file f igure s6: western blot analysis mtor akt mapk phosphorylation after 72 h treatment erlotinib btc cell lines 
+click here file authors wish thank radhika srinivasan phd careful revision manuscript
+work supported "ricerca finalizzata regione piemonte"
+y
+p funded "assegni di ricerca-regione piemonte".

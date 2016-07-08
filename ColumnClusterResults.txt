@@ -1,0 +1,301 @@
+500 tables processed...
+1000 tables processed...
+1500 tables processed...
+2000 tables processed...
+2500 tables processed...
+3000 tables processed...
+3500 tables processed...
+4000 tables processed...
+4500 tables processed...
+5000 tables processed...
+5500 tables processed...
+6000 tables processed...
+6500 tables processed...
+7000 tables processed...
+7500 tables processed...
+8000 tables processed...
+8500 tables processed...
+9000 tables processed...
+9500 tables processed...
+10000 tables processed...
+10500 tables processed...
+11000 tables processed...
+11500 tables processed...
+12000 tables processed...
+12500 tables processed...
+13000 tables processed...
+13500 tables processed...
+14000 tables processed...
+14500 tables processed...
+15000 tables processed...
+5 iterations done
+10 iterations done
+15 iterations done
+20 iterations done
+25 iterations done
+30 iterations done
+35 iterations done
+40 iterations done
+45 iterations done
+50 iterations done
+55 iterations done
+60 iterations done
+65 iterations done
+70 iterations done
+75 iterations done
+80 iterations done
+85 iterations done
+90 iterations done
+95 iterations done
+100 iterations done
+Type 0 (2959): 37.4| 37.5| 37.7| 11.5| 11.4| 11.3| 11.2| 11.1| 11.8| 11.6| 
+Type 1 (905): ?41.49±0.78| ?41.14±0.61| 25.19(0.24)| 19.59±3.06*| 3.19×10?11| 2.25?10-15| 6.65×10?11| 0.157(139)| 4.25×10?15| 2.51×10-11| 
+Type 2 (189): Regulation of transcription| No histologic abnormalities| Synthesis of prostaglandins| Strategy for identification| Other clonal abnormalities| Cell cycle; Cell proliferation.| Prostaglandin E biosynthesis| 8 Peritoneal carcinomatosis| Regulation of MT stabilization| Temsorolimus + tranbectedin| 
+Type 3 (96): 5'-GCTTTCTGCCATTCTCATCG-3'| 5?-CTTGGCATACATCAGGTCAA-3?| 5'-TTTCAGGAGCTCGGTACCAC-3'| 5?-GGACTTCGAGCAAGAGATGG–3?| 5?-AGCACTGTGTTGGCGTACAG-3?| 5'-GGTTACCAGGGCTGCCTTCT-3'| 5?-TGCTTTCCATCGGCCYAAAA-3?| 5?-CACCCACTCCTCCACCTTTG-3?| 5?-CACCGTCAAGCAGCGTGTAC-3?| 5?-GGGATTAGAATTTTTTTATG-3?| 
+Type 4 (540): Network building| Astacin protease| Grifola frondosa| Pleural effusion| Epstein syndrome| Choline chloride| Shimada category| Spindle assembly| Gelatin hydrogel| Frontal regionsb| 
+Type 5 (36): DVL3; LATS1; FZD4; TP73; TCF7L2| (iii) PRKCB* : HIST1H3I : CUL4A : CUL1| ATG5; ATG7; ATG12; MAP1LC3B; BECN1| CAMA-1 (R280T)MDA-MB-231 (R280K)| VEGFR-1, VEGFR-2, and VEGFR-3| IL-1R IL-6R (CD 126) CXCR-1 CXCR-2 IL-11R| PPAR-?, p53, CHOP-10, CREB, CRE-BP2| RA/RARS (37) RAEB/RAEB-t (51) CMML (11)| P2 (MEK1 siRNA-7811 + MEK2 siRNA-914)| 21 LILSCICL 8 LILSCICL ********| 
+Type 6 (288): Naito et al. ( 2014 )| Costa et al. ( 2011 )| Leigh et al. ( 2013 )| Zhang et al. ( 2012 )| Sivan et al. ( 2013 )| Campos et al. ( 2012 )| Lakner et al. ( 2012 )| ( Craig et al., 2012 )| ( Atefi et al. , 2011 )| Tsuji et al. [ 114 ]| 
+Type 7 (5): cgaagcttttatcttagtcttttatatttctttaataaag| atgactgaatataaacttgtggtagttggagctggtgXcgta| https://basespace.illumina.com/home/index| ggttaattttagttagttatttattgggagtttt| 5’-ctataaaaggggtgatataacgctctccaag-3’| 
+Type 8 (266): SOD2/GAPDH| ABCG2/BCRP| GYPGQV-NH2| USO1_HUMAN| IL3B_HUMAN| PTEN/MMAC1| pGEX-RACK1| KIF5B->RET| MHH-TALL-1| EGFR/HER-1| 
+Type 9 (3): CGAGCTCAAGCTTCGAATTCTGATGTTTCGTAAAGCAACCAGG| CCTGGTTGCTTTACGAAACATCAGAATTCGAAGCTTGAGCTCG| AAAAGCAAATAAGGCTAGACAAAGTTCGCTTTGTCTAGCCTTATTCTGC| 
+Type 10 (189): Delivers exocytic vesicles to plasma membrane| Transcription factor Tubby signaling pathways| Deletion strain collection research genetics| Protein folding_Response to unfolded proteins| Percentage of contigs functionally annotated| Details about receptor expression not provided| Demehtylation of Histone or non-histone proteins| Zinc-finger nuclease to target steroid receptor| Housekeeping gene used as internal reference| Growth inhibition and induction of apoptosis| 
+Type 11 (188): IL-22 induces senescence in HSCs| Allosteric inhibitor of LOX-L2| Glial cells (expressing GFAP)| Santa Cruz Biotechnology (CA)| Gastric carcinoma SNU-5 cells| Differential response to CT/RT| MiR microarray profiling; qPCR| RAB10, member RAS oncogene family| GATA3 (dichotomous, low vs. high)| Add during perfusion with EGTA| 
+Type 12 (94): Immunoglobulin-like| Radiation-resistant| Medroxyprogesterone| Multiphosphorylated| Ubiquitin-proteasome| advanced/pretreated| relapsed/refractory| Tetrathiomolybdate| Isopentenyladenine| Cholangiocarcinoma| 
+Type 13 (258): PI3K & HDAC| CDH13 / RIL| STAT1???GBP1| CDDP + GEM| STIL / SIL| PTEN + FAK| LET + BEV| AOM + DSS| PAF + CFW| CPT + CTX| 
+Type 14 (1068): Ferritin| Afatinib| Allergen| Melanoma| Diabetes| deepBase| Matching| Antibody| Squamous| Apigenin| 
+Type 15 (161): Epidermal growth factor receptor (EGFR)| Homodimer or heterodimer with C/EBP?/?| Development: EGFR signaling pathway| Over-expressed in BPH and PCa vs benign| IFN?-treated murine BV-2 microglia cells| collagen II; MOG petide; islet lysate| BRCA1 associated ring domain protein| Detect the presence of BAP-1 mutation| Ozone-induced neutrophilia COPD Asthma| Containing an open reading frame (ORF)| 
+Type 16 (15): IL28B [ 230 , 232 , 233 , 238 , 289 ]| [ 47 , 49 , 147 , 178 , 213 – 219 ]| [ 231 , 249 , 250 , 251 , 252 , 253 , 261 ]| [ 142 , 148 , 149 , 155 , 156 ]| [ 102 , 167 , 172 , 280 – 282 , 296 – 298 ]| [ 257 , 255 , 256 , 259 - 258 ]| [ 245 , 251 , 252 , 253 , 254 , 255 , 256 ]| 33 , 164 , 165 166 31 167 67 209 210| FGF-1, 2, 4, 6, 8, 9, 16, 17, 18, and 19| 3, 5, 7, 8, 17, 19, 24*, 32, 34, 35, 36, 37| 
+Type 17 (8): www.clinicaltrials.gov/NCT00617890| rno-mir-181a-2//mir-181a-1(MSub)| 20,22-epoxyeupha-24-ene-3-one| age-1(lf);daf-18(lf);let-60(gf)| 1–18:2-Lysophosphatidylglycerol| IPR017441:Protein_kinase_ATP_BS| polyhomeotic_like protein 1 - PHC1_HUMAN| http://mint.bio.uniroma2.it/mint/| 
+Type 18 (351): 293.11 ± 90.44| 50.739 ± 2.145| 236.11 ± 29.05| 173.05?±?16.47| 242.86 ± 70.15| 2.282 ± 0.617| 16.43?±?10.58| 55.58 ± 10.12| 2.917 ± 0.818| 52.32 ± 10.11| 
+Type 19 (5): GR212046GR212052GR212105GR212131| AJ927925AJ927897AJ927925AJ927925| NT_034772.6(22829799-22829407)| FOSL2.PLB1..chr2.28628327.28860856_AMP| 14967450,16680569,11349215,11344033| 
+Type 20 (92): 3? UACGGG AAAAU UGU AACGUGA C| GTT CGC GTG GCG TAA GAG TAC| GCA TAA TGG GAA ACC GTG TAG| TTG CTC AGA ACT TAT ACC ACG| CAA TAG TGA TGA CCT GGC CGT| CTT CTT GCA CAC CAT CTC GTT| GTT TGG GGC ACA ACA CGT CAG| FP: 5' GCAGATCGACCCCAATTTTG 3'| TGC TTC ACC ACC TTC TTG AT| GTA ACC CGT TGA ACC CCA TT| 
+Type 21 (530): Normal tissue| Gallus gallus| Carica papaya| Normal marrow| Breast cancer| Animal models| Gingko biloba| Buccal mucosa| Paired domain| Glomus tumour| 
+Type 22 (266): Cathepsin B preproprotein-like protein| Accessory calcium channel beta-2 subunit| Natural Killer cell activating receptor| Follicular fluid Granulosa cells Oocyte| Impaired T-dependent antibody response| Infarction and creatine kinase release| Zinc finger X-linked Duplicated protein| One-carbon compound metabolic process| Maxillary diastema Mutants with 4 molars| Colorectal cancer and Prognostic factors| 
+Type 23 (127): Wild K-RAS (n = 48)| Late DOWN (n = 29)| GC for PAR-2 [ 57 ]|  LI?<?32% vs. LI???32%| NSAIDs ( n ?=?22)| High CD63 (n?=?81)| 5-day SLP ( n ?=?8)| 3-year DFS 65% OS 83%| FINHer ( N = 232)| 15% vs. 8% DeTC 36% MTC| 
+Type 24 (332): High cholesterol gr 3–4| Complete remission 17%| Pressure cooker, 2?min| Germline tumors at 25°C| Sartore-Bianchi et al.| ribosomal protein L26| ribosomal protein L22| Ring finger protein 160| Kruppel-like factor 10| Ran-binding protein 10| 
+Type 25 (26): hsa-miR-20aSTAR-4395548| hsa-miR-409-3p-4395443| hsa-miR-30aSTAR-4373062| hsa-miR-374aSTAR-4395236| hsa-miR-337-5p-4395267| hsa-miR-768-3p-4395188| scaffold_56:13693-16737| GgaAffx.3294.1.S1_at| gene11999-v1.0-hybrid| AC204864.2-Contig55| 
+Type 26 (15): F:TTAAATGGTGCAACTCTG R:TGGATGGTACTAAGAAGAAC| GGGTGGGAGGTGGGAGGG ATCCCCACTCTCCTATCTAAT| F: CTGTTCGCGCTCTCGGCAG R: CCAGTAGCCACAGCAGCGG| F: TACCAGATCGCGCCCATCTA R: GATGGCCTCGATGCGCTTC| F: ACCAGATGCCCTACACTACC R: GTGCATAAATGGAGAGTGTG| F: CAACGTCATCTACCGTGACC R: AAATACTCCGGTGTCCCACA| F: ACCACAGTCCATGCCATCAC R: TCCACCACCCTGTTGCTGTA| TACATCACTGGTAAGAGCAAAGA TACACCACCTCAAAGCCCCG| CGCGGTGGCTGTCATCA AGGGTTGGGTCCCAGGAAT| KEGG_COMPLEMENT_AND_ COAGULATION_CASCADES| 
+Type 27 (1137): Fabp5| Abcf2| Ireb2| Htr2b| Oasl2| Irgm1| Akap6| Sirt7| Tgfb1| Dauv1| 
+Type 28 (10): 5?-CGCACAAGCTTCAAT AATGGAGCTGAGGAG-3?| DIAPHANOUS HOMOLOG 1 (DROSOPHILA)| MASCOT;UNIPROT KB/SWISS-PROT;COGS| SIG_PIP3_SIGNALING_IN_B_ LYMPHOCYTES| VFLENVIR(34) AVTYTEHAK(33) ISGLIYEETR(40)| GGTGCAGCATTT AGT ACACCCAGAGCC| CTCCTGCGGGCGTCT TCCTTGGCAAC| 5?-CCGCGCACTAGTTCAA AATGTATTAGAGATCCC-3?| L1CAM INTERACTIONS (REACTOME)| CCCCCTGCCCCTCCC ATATTCTCCC| 
+Type 29 (178): siRNA for RSV (viral gene)| Two-component GAP Byr4| Arp2/3 complex; actin; VASP| Histology (AO versus AOA)| The virus itself (PAMP)| Etoposide ? c-PARP | Total| UNG activation 2 min, 50°C| Placental Weight (SDS)| alcA::pkcA ?cnaA , cho1| Upregulation of FOXD3| 
+Type 30 (26): chr9:99086401–99122485| 145268084-149114686| chr9:21967751-21994490| X:53224324:53225545| chr7: 73605528-73605624| chr6:31695894-31698245| 45758758–45770619| 22890122-25024973| 59257566/56499445| Chr. 8: 11,728,105–11,835,219| 
+Type 31 (819): 1.03±0.08| 1.03±0.10| 0.34±0.09| 0.09–0.44| 0.45±0.05| 0.45±0.03| 0.45±0.10| 0.04–0.22| 0.86±0.06| 10.60±0.7| 
+Type 32 (439): In atropic endometrium| Cortex and hippocampus| Cell cycle progression| Inducible conditional| Diffusion coefficient| Structure undisclosed| Cetuximab monotherapy| Neisseria gonorrhoeae| Signal of degradation| Nutrient deprivation| 
+Type 33 (987): OVE26-L| Q61L/WT| CH2-CH2| TOAD-64| SENP5-7| SUP-B15| GLUT-12| 5PP-IP5| LFM-A13| 4E-ASO4| 
+Type 34 (1266): 10 (77%)| 40 (2/5)| 10 (31%)| 50 (77%)| 60 (17%)| 20 (43%)| 17 (30%)| 57 (50%)| 54 (50%)| 13 (30%)| 
+Type 35 (1): 5?-FAM-(TA)2GC(TA)2AGAT6TCT(TA)2GC(TA)2-TAMRA-3?| 
+Type 36 (73): 76 months (95% CI 55–97 months)| Arm 1: 1.7 mg/m2 Arm 2: 1,6 mg/m2| ?-Actin (121, 122) ruvB-like 2 (89)| miR-192 miR-29c miR-26b miR-200b| Ser339 (2 H bonds), Val335| sd::Gal4/+; corto 07128b /rho EP3704| miR-42, miR-70, miR-77, miR-229, miR-273| miR-16, miR-34c, and miR-199a| T820fs*7 and P1439fd*34 ( n =1)| Uehara-Y et al. Nature 373: 702 (1995)| 
+Type 37 (55): Pentose and glucuronate interconversions| Involvement in adipocyte differentiation| Contact and delayed type hypersensitivity| Native albumin and probably modified-albumin| Alphav integrin inhibitor, antiangiogenesis| Neurotoxicity, fatigue and thrombocytopenia| Transfection with anti-miR-92b oligonucleotide| Abdominal pain, fatigue and thrombocytopenia| Hydrocephalus, 50% mortality, Hyperinsulinemia| Ipilimumab after adjuvant chemoradiation| 
+Type 38 (33): BST2, DGKG, GAS1, PDCD4, TGFBR3, VEZF1| CETS168, CMYB, IK1, MYCMAX, NRF2, TFIII| INADL, NRK, ODZ2, PPAP2C, RAB21, RLIM| CHEK1, CDC2, SERPINE1, STEAP3, CCNE2| F11, LGALS3, CTGF, PGLYRP1, LGALS9, FN1| HSPB6, SLIT2, CPXM2, EFEMP1, CHODL| CDKN2A/B , ETV6 , IKZF1 , CREBBP , NT5C2| SGMS1, PTEN, ALOX12, PRKAG3, PLCD4| APAF1, EP300, EDNRA, CFL2, NOS1, SOX4, SOX11| ADAMTS8, MMEL1, TIMP3 , TLL1, USP46| 
+Type 39 (70): 165.1 (103.4, 289.2)| 36,476,724 (81.93%)| 418/2,335 = 17.90%| 12,368,292 (7.96%)| 171, 172, 174-176| 30361298 - 30787250| 8.6 (95% CI: 1.909 - 15.291)| 93 (32.2)/196 (67.8)| 0.557 (0.197 - 1.575)| 8.4 (95% CI: 2.163 - 14.637)| 
+Type 40 (200): XM_003640893.1| NM_001025242.1| XM_002711016.1| NM_001128204.1| NM_001031733.1| XM_001714660.1| ?5.03/1.59E-06| Mm00446973_m1*| 4.32±0.84×10?6| XP_002577487.1| 
+Type 41 (133): Msx1d/dMsx2d/d| hsa-miR-675_st| hsa-miR-34a-3p| hsa-miR-762_st| Sydh_Ntd1_Znf274| hsa-miR-548c-3p| hsa-miR-199a-3p| mmu-miR-125b-5p| hsa-miR-125b-5p| hsa-miR-181a-3p| 
+Type 42 (98): Humans: 150?mg?IM every 3 months [ 122 ].| No risk factors (>50% of all PTBs) 29| Leung-Hagesteijn et al. 2013 [ 77 ]| CoQ10 (5 mM) and simvastatin (240 µM)| 15 (12.3%) More common in exon 20 Lower RR| Microcephaly ( Sir et al., 2011 )| Fabbri et al. (2007a ), Mott et al. (2007 )| ?Average cell length > 129? ? m, (%)| Chawla (in press), Chawla 2011 88 , 89| Survival rate at 2 years (95% CI)| 
+Type 43 (388): % inhibition 5 µM| Frank-Raue et al 55| forkhead box M1| Kitahara et al . 41| Breast cancer 90| Super active p53| Seligson et al. 60| Pecorelli et al 97| Vermorken et al 78| Massimino et al 35| 
+Type 44 (27): [Swiss Prot:ANXA2_HUMAN]| Grx1/GSH/SAM/Selenite| [Swiss Prot:HNRPD_HUMAN]| MAT? ras1::ade2+pG7RAS1-NAT| TrxR/Trx/SAM/Selenite| RT-PCRMassARRAYTaqMan| DAC+TSA+Paclitaxel| shRB-HRasV12-HA-hMDMX| uPA-Nox1/Nox4; PDGF-Nox1-cofilin| MZ (IgD?IgMhiCD21hi)| 
+Type 45 (27): V4 = 2.3 × 106 K4 = 3 × 104 kint = 0.19| c1?=?69; c3?=?14; c4?=?50; c5?=?0.78| F (1, 27) = 0.019; P level = 0.892| F (1, 9) = 0.463; P level = 0.513| 62% ( n = 41) ?24.2% ( n = 16)| 95°C 30?s; 59°C 30?s; 72°C 30?s| 10.7% ( n = 7) ?3.1% ( n = 2)| F (1, 7) = 0.011; P level = 0.920| AL: [ 119 - 122 ] ?C: [ 120 - 122 ]| yes 72.7% ( n = 48) ?no 27.3% ( n =18)| 
+Type 46 (129): OVA + siRNA SOCS3| FHIT, WWOX or FUS1| ARHGEF10 (Rho GEF)| RASSF1A , PRSS3| ?CT TGF-?1 mRNA| ZN-FINGER, C2H2| IL8, POTEH, IGF2| MIF, PRAME, GGT1| CHIP (HEG vs. LEG)| VEGFR2; RET and MET| 
+Type 47 (328): A549-Snail| miR-30a-5p| Tal-1?/E47| Ma-Mel-123| mGluR4/6/7| miR-590-3p| miR-490-3p| miR-487a?| miR-17-5p| Smad1/5/8| 
+Type 48 (389): Similar to Sec-type pathways| Abdominal pain and diarrhea| Number of germline chimeras| Reduction in blood pressure| Median duration of response| Inhibition of cell invasion| mDC from asthmatic patients| Diffuse large B-cell lymphoma| G-protein coupled receptor| Regular physical activity| 
+Type 49 (67): CTCAACTACATGGTCTACATGTTCCA| AGAGGATCCATGCAAATGGACGTACG| R-CCATACAGTCTTATCTGATCATGC| CAACACCCTGGCCGAGTTGGTTCAT| TCAGTGCCTTCGGACTGTCTATTTG| CCGGAGUGGCAUCUCAACUCGGAUU| AAAAAACCAATACCCTATCTCTACC| ATACTCACAAAACCCCAAACTAAAC| CCTGAGAGAAACTAACCTGGAGTCA| GTCCTTATGCTCTTTCTTCCACTTC| 
+Type 50 (267): Small proline-rich protein 2A| ?Insulin-like growth factor 1| Fatty acid-binding protein 1| Keratin, type I cytoskeletal 19| AT-rich interactive domain 3B| Collectin sub-family member 10| Percentage exome covered at 20×| Hepatocellular carcinoma [ 28 ]| myocyte enhancer factor 2C| Apale and B spermatogonia (n)| 
+Type 51 (11): RIKEN cDNA 5330437I02 gene (Mm.183576, NM_177028)| BTT02607_1, BTT4508_1, BTT20259_1, BTT40693_1| MTHFRC677T , MTRR (rs1801394, rs162049, rs10380)| BMS-936559, MSB0010718C, MPDL3280A| C634R; C634W; C634Y; E632_L633del; M918T; A664D| [ 307 ] NCT01632306 NCT01287520 NCT01214603| C634R, C634W, C634Y, E632_L633del, M918T, A664D| ANKFY1, FHL2, KIAA0133, LOC144097, C14orf150| CD63 FLJ20559 GP2 AB065858| PD168368; PD176252; A-716223| 
+Type 52 (552): BMS-204352| EHI_164430| PKF118–310| RP11-107B3| BMS-690514| GO:0043565| GO:0031684| GO:0016892| GO:0051186| GO:0051329| 
+Type 53 (135): Hugl2 shRNA (MH2C)| 30 (SRS after WBRT)| IDC stage I–III| SphK1 siRNA -AuNP| Phase II (HRPC)| ?IGFBP-3 IHC score| NOD/SCID mouse| ID8 (EOC, mouse)| ECM/MEM genes| GBM_TGF Cancer| 
+Type 54 (66): 131I-TM601 (scorpion venom peptide), CC-8490| Ixodes scapularis : XP_002411967 (tick)| MM-121 (SAR256212) + irinotecan + cetuximab| 16q24: MC1R (melanocortin receptor)| RO-4929097 + Paclitaxel + Carboplatin| lte1-8N-3HA ; under GAL1-10 promoter control| Vacuolar protein sorting 35 (VPS35)| HCT116 cells p53+/+ without DNA damage| Tumor protein D52-like 2(Tpd52l2)| Slice culture (CA1 region at DIV9–11)| 
+Type 55 (1): TRGC2///TRGV9///LOC442532///LOC442670///TARP| 
+Type 56 (443): Increased drug efflux| No significant lesion| Advanced solid tumors| Sponge plasmid vector| Tumor necrosis factor| Yeast suicide protein| Total patient numbers| Toxic thyroid adenoma| Pooled normal tissues| Diabetes with aspirin| 
+Type 57 (313): Phosphorylated| Downregulation| Geranylgeranyl| Hyperkeratosis| Ubiquitylation| Overexpression| Immunogenicity| Hypomethylated| Renoprotection| Pancreascancer| 
+Type 58 (68): Homo sapiens forkhead box D1 (FOXD1), mRNA.| NF1 and MET; double hit on RAS pathway| HDAC4 DHFR and Thymidylate synthase| MED12 knockdown in NB7 and SK-N-SH cells| MGCD0103, Methylgene (Montreal, QC, Canada)| ERK activation is frequent in GEP-NENs| HEK293T/stable PLZF overexpression (pCEP4)| Transition from BFU-E to CFU-E stage| Genome Data Analysis Centers (GDACs)| association with FEV1 and FEV1/FVC| 
+Type 59 (3): Reverse: 5'-cccaagcttGGGGATTGGGATAGGACGAG-3'| POPE/DOPC/DOPS/DOPI/cholesterol/Rhod-PE| N-Myristoyl-RKRQRAMRRRVHQING156-171| 
+Type 60 (211): Leukocyte recruitment via P-selectins| Cultured T-lymphocytes and macrophages| PM blebbing by actomyosin contraction| Antigen processing and presentation| Poor prognosis Metastasis development| H3 hyper-phosphorylation & acetylation| Cholesterol/fatty acid biosynthesis| Produces changes in Golgi polarization| Erlotinib or gefitinib monotherapy| Central nervous system myelination| 
+Type 61 (1373): 20.10%| 0.045*| 0.046*| 0.061*| 0.066*| 0.018*| 0.019*| 100.7%| 0.034%| 0.036%| 
+Type 62 (99): BEL7402/ADM+CsA| TAF1B/mKIAA1093| MDA-MB-157+siTBX2| pERK1/2/TERK1/2| AS-KTC021-HER2TK| CD95-CD45RO-CD8+| H446AR-shKCNJ2-2| U266/pcDNA3-AGO2| PP1PP2B?PP1+PP2B| 1-G0CLBUI04IPTV3| 
+Type 63 (8): -0.38±0.74 -0.38±0.78 -0.23±0.74 -0.21±0.78| PFS: 0.95 (0.78–1.14) OS: 0.93 (0.77–1.13)| PFS: 0.99 (0.73–1.36) OS: 1.02 (0.75–1.39)| -0.40±0.76 -0.42±0.83 -0.21±0.77 -0.21±0.86| -0.35±0.72 -0.34±0.73 -0.24±0.70 -0.21±0.69| PFS: 1.29 (1.04–1.62) OS: 1.24 (0.98–1.57)| 3.24 (1.06–17.58) ( P =0.0001)| v1.06393; v1.13003; v1.08735; v1.04261| 
+Type 64 (113): A disintegrin and metalloprotease domain 10| Myeloid ecotropic viral integration site 1| Insulin-like growth factor binding protein 1| Localized production by Nox regulated via Ca2+| Complex with complete/partial loss of ch5| Mitogen-activated protein kinase kinase 5| Mitogen-activated protein kinase kinase 3| Multidrug resistance associated protein 3| V-akt murine thymoma viral oncogene homolog 3| Localized production by Nox regulated via Src| 
+Type 65 (664): Synchronous| Pravastatin| Pirfenidone| Bevacizumab| Fibronectin| Development| Progression| Accelerated| Consequence| Centromeric| 
+Type 66 (221): ? Binding of RNA| Various in CNS| Mutated in TSC| EGFR wild type| KRAS wild type| GI-I0I cell line| Obese Class III| ?Hdm2 nucleus MQS| Exposure to ROS| Solid tumor, GBM| 
+Type 67 (72): photolyase, 3e-13, (BAA12067.1)| W303-1A Ifh1-myc13 ptc6::nat1| NCT01758575 (recruiting)| NCT01914484 (nilotinib)| Birinapant (TL32711)21| ZR75-1, BT474 (orthotopic)| Neuronatin (Mm.233903, NM_010923)| syIs12; lin-15B(n744)| mTH ?2707/?2749 antisense| PI3 kinase (p110a/p85a)| 
+Type 68 (651): 0.59 ± 0.04| 0.59 ± 0.06| 0.83 ± 0.10| 0.74?±?0.04| 0.74?±?0.05| 1.00 ± 0.43| 0.96 ± 0.01| 0.97 ± 0.01| 0.18?±?0.03| 0.18?±?0.01| 
+Type 69 (478): Vitamin D3| Histone H4| Annexin A5| Annexin A2| 1?g/mL oil| Class 3b| clone D4| clone E5| Cyclin T1| Cyclin D1| 
+Type 70 (22): Rat: AGTCCATGCC ATCACTGCCA| ACAGAGGAATCCG CTGCATTC| GLYCOGEN SYNTHASE 1 (MUSCLE)| GPYLGPPHSR SSS LPDILGQPEP| CTGGTAATCTGAC ACAATGTCCT| TGTTCATCTGCAAA ATGGAAT| 63) REACTOME P2Y RECEPTORS| L1CAM INTERACTIONS (REACTOME)| GTGTCGAGTGGG metCGGAAGAA| ALCOHOL METABOLIC PROCESS| 
+Type 71 (978): 25 (27.5%)| 48 (68.6%)| 77 (62.1%)| 51 (15.1%)| 21 (33.3%)| 23 (23.7%)| 87 (33.1%)| 95 (57.5%)| 12 (52.2%)| 54 (67.5%)| 
+Type 72 (19): 5' - CGCTGGACCTGTGTGAACTGATGGGCCAGATC - 3'| 5' AACTCGAGGGTTTAAACTCAATGGTGATGGTG 3'| 5?-CTTGCCTACG CCACCAGCTC CAGCTCCAAC TACC-3?| 5?-GGTAGTTGGA GCTGGAGCTG GTGGCGTAGG CAAG-3?| Rev: 5' TCCAGGCCCGTTTCGTTCACCTCGATACG 3'| OXIDATIVE STRESS REGULATING PROTEINS| 3 ' - GAACTAAAGCGCCGC CACCAGGACGAAGAC-5 '| FAM-AGC TGG GCG GTG TAC GAA GTC G-TAMRA| PCGEM1 CUDR uc.73A(P) SPRY4-IT1 PANDA LUST PINC| [BCL2_DOWNREGULATES] ? [CYCS_INDUCES RELEASE OF]| 
+Type 73 (10): 6FAM-ACCACCACCCAACACACAATAACAAACACA-TAMR| ACTGAACCTGACCGTACATACATGGACATCTTCTGCAC| CGTCTGTTGTGGCCAAAGCAGCAGGTTTTCTTCCACGAC| AACCAACGATTTAAAAGCTACAGTTTCTGTACTTTATTG| VALINE_LEUCINE_AND_ISOLEUCINE_DEGRADATION| CAGCAGTATCGACTGGATAAAGTCAGTGCAAATGT| CCCTCGAGTTACGTCGGGGTGCCCACCAGTCCCGC| 5?-CCTTTGGGAGAGCGGCCAAAGCCCTATTCACCTCG-3?| AATAGAATTCGATATGCTTATAGAAATAGTTGTG| CGAGCTCAAGCTTCGAATTCTGATGTTTCGTAAAGCAACCAGG| 
+Type 74 (27): magnesium-dependentphosphatase-1| 5’-ttgttctcctacacacatagatagggtaa-3’| 5?-aaactcgagttatcgggtcatgggtgcca-3?| Pemetrexed+carboplatin+vandetanib| Cetuximab/Capecitabine/Oxaliplatin| Cephalosporin-mustard-carbamate| N-acetylglucosamine-6-sulfatase| 5'-caactgggacgacatggagaagatctggca-3'| 5'-gaggatcttcatgaggtagtctgtcaggtc-3'| Monocyte/macrophage-activation| 
+Type 75 (54): Survival/neuroprotection| Cell growth/differentiation| tgggatcataggaatgagacctg| tgccagagtctcgttcgttatcg| Glioblastoma-multiforme| tactcctctagtcctatcacctcg| Renin-angiotensin_system| cccuucaguccaaucggcgggc| gatgaaacccagacacatagca| ucccugagacccuaacuuguga| 
+Type 76 (84): [ 36 , 52 , 90 – 92 ]| [ 14 - 16 , 24 , 34 ]| [ 14 , 106 , 145 ]| [ 149 , 190 , 191 ]| [ 32 , 34 , 39 , 40 ]| [ 52 , 67 , 70 , 71 ]| [ 30 , 31 , 49 , 58 ]| [ 51 , 68 , 80 , 81 ]| [ 34 , 123 , 124 ]| [ 21 , 151 , 159 ]| 
+Type 77 (942): 2.46 × 103| 1.79?×?104| 2.74 × 105| 6.19 × 104| 3.59 × 104| 6.49?×?104| 54.04 ± 1.6| 488.1 ± 0.3| 244.2 ± 0.4| 322.8 ± 0.3| 
+Type 78 (277): 5.91 (2.08–16.75)| 1.88 (0.28–12.59)| 6.45 (1.21–34.40)| 7.22 (0.91–57.45)| 16.50 (6.82–39.88)| 12.82 (5.08–32.37)| 69 (19.8-118.6)| 4.9 (1.27-18.85)| 1.731 (1.02-2.94)| 20.39 (11.9–34.9)| 
+Type 79 (1827): BBC3| DHX9| XBP1| MCF7| BCL2| FPR2| MDH2| BDL5| DKK1| MED6| 
+Type 80 (391): COP-I ?1| N6L: 10 ?M| N6L: 20 ?M| HIF-1 ?| XPR-1 b| c-KIT 3| CD8+ SP| FGFR 3c| TIG3 Rv| PTC# 46| 
+Type 81 (211): Zinc finger E-box binding homeobox 2| T-cell acute lymphocytic leukemia 1| PolyA binding protein, cytoplasmic 1 b| Kdm2b lysine (K)-specific demethylase 2B| Opioid growth factor receptor-like 1| Gemcitibine, Erlotinib vs. placebo [ 15 ]| Increased levels of ganglioside GD2| Cysteine catalysis dependent on IP6| Tumor protein p53-inducible protein 3| Tissue factor pathway inhibitor-2 ?| 
+Type 82 (233): GTTGAGGGCCAGACCCAGT| CTGACTCCTTCCTCACCCT| GATCCCCCTGCATTTCAGG| ATGATGTCCTTGGATGGAC| ATGGGACTTTGAGAAGAGG| GAUACAAGCUUGGCUGCUA| GACAUCUUCUGGUCAGAGA| GGUCGUGUCUGUCAAGUGC| GGGCCCCTACCTCCCTACA| AGCATCAGGCAACTCAAGC| 
+Type 83 (331): Druz et al. (2013)| Yuan et al. (2014)| Bock et al. (2013)| (Tian et al., 2012)| Sicca et al. (2011)| Galio et al. (2012)| Rocha et al. (2012)| Smith et al. (1997)| Olsen et al (1992)| Frank et al (1997)| 
+Type 84 (181): ?6.98±0.13 ( n =8)| ?6.65±0.16 ( n =10)| ?6.69±0.12 ( n =10)| 50 (18/36) rs = 0.68| 705 ± 146 †† (7)| 7.26±0.27 (n?=?5)| 7.55±0.15 (n?=?9)| 7.13±0.24 (n?=?5)| 7.46±0.14 (n?=?5)| 81.08 ± 0.18 ( n = 7)*| 
+Type 85 (127): GGCCAAAAATTTAATCAGTGGA| ATCCCAGGTATTGGTAGGACTG| TGTTGCCATGGAGATAGCATCT| ATGCCGAGGGTGAGCCTGTATG| GACTGTGAACTGCCCATCGTTT| TAACCACCACCCAACACACAAT| CTTTGGTATCGTGGAAGGACTC| TCAGAGTCAGATGCAGGATACA| AGTGCACCTGGTACACCAAAAA| ATCTCCCACCCCTTCTTCAATG| 
+Type 86 (73): ?pGEX-6P-3 Gpb1 (BamHI and NotI)| Zhou et al, “OPTIMAL” 39 (Phase III)| Occasional in AML MDS 7% MPN 3–13%| HER3/Rluc8 + Grb2/Venus + EGFR| pros- GAL4; UAS- mSox2 EnRep| ARR 2PB - hepsin / ARR 2PB-myc| pACT2-GAL4-HA-IQG1 gene fusion| TMPRSS2-ERG negative ( n =23)| Examples: Xist, APOA1-AS, GLl1AS.| AJCC (stage III/IV vs. stage I/II)| 
+Type 87 (133): ?Muscle contraction (BP00173)| Overnight at 4°C 1:50 dilution| tubulin, alpha 3A (Tuba3a)| Rajab and Handam 2002, Jordan(64)| mRNA catabolic process (0.00769)| Cell proliferation (HT-29)| 85 (localised disease) 18 (HRPCa)| Laminar flow(12 dyne/cm2)| Ca2+ channel (?2? subunit)| Unc-5 homolog C (C. elegans)| 
+Type 88 (3): V10 · [MAPK-P]/(K10 + [MAPK-P])| Y [T/A/S][K/R/Q/N][M/I/V/R]| GAA[A/T][C/T]G[C/T][C/g/t][A/T][C/T/g]| 
+Type 89 (89): APOE, CR1, INPP5D, PTK2Ba| AKT1, AKT2, PIK3CA, PTEN| ACTB, ACTN4, RAB3B, YES1| XRCC6, HNRNPA2B1, XRCC5| OGG1, XRCC1, APE1, PARP1| PLCZ1, FOS, JUN, PLCL2| CFDP1, DGKG, GAS1, PAX6| IL1B, HSPA5, PRNP, IL1A| BST2, PDCD4, TGFBR3, VEZF1| LOC, DGCR6, PRODH, DGCR5| 
+Type 90 (2969): 124.1| 999.7| 125.8| 95.13| 83.33| 95.39| 95.58| 95.59| 365.3| 95.67| 
+Type 91 (231): IGF-1 Signaling| HIF-1 Inhibitors| CTLA-4 receptor| STAT3 inhibitor| TGF-?1 receptor| BRCA 1/2 mutation| JAK1/2 inhibitor| E/ER Repressed| Pasireotide (SOM230)| FLT3+AML untreated| 
+Type 92 (336): Time of recurrence-free survival| Genes overexpressed in leukemia| Involved in chromosome cohesion| Increased likelihood of relapse| Retinoic acid metabolic process| Glutamate molecules per vesicle| Toll receptor signaling pathway| T-cells activation and motility| Crossover for placebo patients| ?Promotes endothelial function| 
+Type 93 (1830): 0–1174.2| ?2.08471| ?0.25464| 0–1428.9| -0.66472| 165±30.5| 114±0.66| 114±0.23| 115±0.22| 3.46E-25| 
+Type 94 (1349): 2C| 2D| 3B| 3K| 4A| 4N| 4X| 5B| 5R| 6X| 
+Type 95 (45): 5'-CACAAAACTAAACATATCTAAACCCT-3'| 5?-AUAUGUAGAGGCUGUGAUCAUGAGG-3?| 5?-GGCTCTTATCACGTTCTTCAAGTTT-3?| 5'-GGCAGGAGGCAGACGUUGGCAGUGGCA-3'| 5?-AGTCGCCAAGCGCAAGAGATCAGCGCC-3?| 5?-TGGGGAGGGTGGGGAGGGTGGGGAAGG| (FAM)-GGCGCCTGGTCACCAGGGCTGCTTT| RNTQPVLNLHPAAAPT(ph)NDAGLAVVDGK| AGAGAACGTGACACGTTCGGAGAATT-3?| 5?-TGTGCCCATCTACGAGGGGTATGC-3?| 
+Type 96 (1021): [ 168 ]| [ 141 ]| [ 167 ]| [ 144 ]| [ 143 ]| [ 169 ]| [ 146 ]| [ 122 ]| [ 121 ]| [ 147 ]| 
+Type 97 (98): GDC-0941 (PI3K p110?)| STK15/BTAK (20q13)| BHP18-21v (TTF1)| TF-1, KU812, MEG01| M2. PIK3CA -H1047R| cTNF-RI aa 206–426| D12Z1x8–12, MDM2>20| MYD88 L265P (91%)| XY244 ( CAP1 ?P2)| EGFR mut T790M, G719A| 
+Type 98 (261): PaCO2 (mmHg)| A R-neur| Others (IC50)| Lm -dd-TV| Ca2+ -ATPase| NS/S ratio| KRAS [utr3]| Iota (1GIQ)| BH3 Domain| Stage T1–T3| 
+Type 99 (6): (10.4%/20%/22.6%/47.0%)| –0.78 × 10–4–1.4 × 10–4| –0.45 × 10–4–1.8 × 10–4| 30–50/12–32/15/2.5/0–40/0.25| Chr:17?8023908:8027410:-1| ?18q21.2<48.99–51.05>[0.55]| 
+Starting to cluster headers....
+500 tables processed...
+1000 tables processed...
+1500 tables processed...
+2000 tables processed...
+2500 tables processed...
+3000 tables processed...
+3500 tables processed...
+4000 tables processed...
+4500 tables processed...
+5000 tables processed...
+5500 tables processed...
+6000 tables processed...
+6500 tables processed...
+7000 tables processed...
+7500 tables processed...
+8000 tables processed...
+8500 tables processed...
+9000 tables processed...
+9500 tables processed...
+10000 tables processed...
+10500 tables processed...
+11000 tables processed...
+11500 tables processed...
+12000 tables processed...
+12500 tables processed...
+13000 tables processed...
+13500 tables processed...
+14000 tables processed...
+14500 tables processed...
+15000 tables processed...
+5 iterations done
+10 iterations done
+15 iterations done
+20 iterations done
+25 iterations done
+30 iterations done
+35 iterations done
+40 iterations done
+45 iterations done
+50 iterations done
+55 iterations done
+60 iterations done
+65 iterations done
+70 iterations done
+75 iterations done
+80 iterations done
+85 iterations done
+90 iterations done
+95 iterations done
+100 iterations done
+Type 0 (5055): No. of genes in pathway| BAC number| Chrom.| c-Met| Pediatric| Charge| Peps| Chimpanzee| Number§| Eye Score| 
+Type 1 (864):  | Normal| Response| +| Expression| All patients| Experiment| (A)| Controls| Proliferation| 
+Type 2 (1183): RR (%)| CM| Tissue weight (mg)| Rate ratio| SD (%)| Microarray Fold Change| TTP months| MCF-10A| I. vs IC.| Total Expression (mg / l)| 
+Type 3 (473): Patients characteristics| Adverse event| Clinicopathological Features| Clinicopathological variables a| Host| Characteristic at initial diagnosis| Functional Group| Orientation| Ethnicity| Clinicopathological factors (N = 56)| 
+Type 4 (40): 31| Complexes| Relevant Gene Ontology Biological or Molecular Designations| Functions of non-septins| Kind of approach| Biological consequence| Viral Agents| Combination therapy| Plant biological pathway| Replication participants| 
+Type 5 (461): Published biochemical IC50 (nM)| Biennial gFOBT| YFC| IE network| 10.5 hpf| Validation Set (FRA)| K M (? m )| ISEL| Allele frequency c| K d,AZ-AZI (µM)| 
+Type 6 (320): Event frequency, (%)| Mc(Hs)| 1O2G(%)| Milk fat percentage1 (×100)| anti-P25 positive (%)| CLP| Percent of S cells (SD) *| rs17849071G/T, n/N (%)| C. sinensis sequences (%) a| Obese ( n = 9)| 
+Type 7 (49): KOG Information| BOND2| Total patients| Etiology| GO term| B. subtilis Obg as template| Functional annotation| Data Type| term| Mechanism| 
+Type 8 (661): Ratio H/L Normalized| Proposed binding site residue| Ad5| myrArf1| Number of cells screened per selection| Plasma or Sera| Day 8 Notch OFF versus Day 5| CI(ED50)| Fold log(AD/N)| Class II| 
+Type 9 (63): Effects of the miR-34/chemo combination| Clinical applicability of PARP inhibition| Duration of post-transplantation experiments| Putative Biomarkers| Tumor cell line| miR-Mask| Incubation time and temperature| Usual dose (daily unless mentioned)| Pros| Estradiol Regulated Genes| 
+Type 10 (259): 10-CV| F344_Sal| Macrophages positive (%)| Probe set id| dbSNP 1| Number of aberrant crypt| IR6+FA| NgBR Score| %S| MTT (OD value)| 
+Type 11 (148): Pham et al. [ 15 ]| Role/Function| HOPX expression| Expressing tumor type| Gene prediction| GO categories| Measurements| Mushroom species| Mutations induced in E.coli only (%)| Attributes| 
+Type 12 (156): GenBank #| Genbank Accession Numbers| GB a accession #| Affymetrix gene| Gene (Location)| AccessionNo.| Clone accession no.| Name/ID| Search key| Assay code| 
+Type 13 (232): 1990–2008| Probe IDs| D 0| Vehicle ( in vivo )| ABW ( n  = 12)| LH (ng/ml) N.S.| 1w| FPAs| 6w| DMI| 
+Type 14 (51): Reaction class| Transfection reagent| Substrates/targets| Tumor State| Model name| Macro-parameter definition| Viral Proteins| Known AS Event 2| Significant TFBS present in all promoters of a given cluster 1| Significant TFBS present in all promoters of a given cluster 2| 
+Type 15 (490): Gene Name a| Region on protein| Deletion pool source 3| Candidate Cancer Related Genes| End-Point| Gene name b| Pathway(s)| Biopsy origin| Differentiating group| Cluster 4| 
+Type 16 (347): ALT (U/L)| Phase III 6 Ipi and DTIC (Ipi at 10 mg/kg) 250| CRF| % G2/M| Diet-induced obese rats (DIO)| Reference ranges| Number of patients (n=100)| Case 13| Mean fluorescence intensity| Risk-matched Control group ( n = 33)| 
+Type 17 (1699): Ratio (C3/C5)| # amino acids| OR $| Whole Cell| DA mimic| Fold changeearth| Control vs. acid| sequence coverage (%)| MW(kDa)| Survival Rate| 
+Type 18 (540): E2197 NNN vs PXN| Adjusted P-value d| P value ( vs. benign meningioma)| significant p-value <0.05| Average MediaSpot %| Freq CIMP?| AverageMY Spot %| Raw p-value| Control D5W| Number of samples of heavy smokers with mutations (Mutation frequency in 17 samples)| 
+Type 19 (198): Clinical study| Trial stage| Acute GVHD| Current use| Inhibitor (company) commercial name| Mutation/ polymorphism| NS d| Clinical trails| Sizes (kDa, or disachharide)| RAR?2 region| 
+Type 20 (177): Model| Description| Regimen| Type of Cancer| Name| Names| Gene set| (B)| Purpose| Pathway| 
+Type 21 (75): Structural element| Nanosystem| Mating yeast strain| Dietary Factors| Annotation c| Experimental Conditions| 1st Key node| EGFR peptide sequence| Cancer model| Synonyms, mouse| 
+Type 22 (48): Primer sequence (5?>3?)| Forward Primer (5' to 3')| Sense (5? to 3?)| Oligonucleotide sequence (5'-3')| Forward Sequence| Primer sequence 5?–3?| Reverse Primer (5' to 3')| Forward primers (5?-3?)| Reverse 3?-5?| Reverse primer 5 ? ?>?3 ?| 
+Type 23 (82): Potential genes| Gene_id| CKA| KA| Methylated sugars| Database entry| Best Hits with miRNAs in miRBase| Unigene_ID| Nanomaterials| hsa-miR| 
+Type 24 (1719): Patient| No. of patients| Fungal Strain| Aga| SD (g/kg diet)| pEGFR| ESCC (n=27)| EGFR| Tiam2 Native I| KKAy-Vehicle| 
+Type 25 (417): GNAQ mutation| Localization of primary| 17q-gain| 11q-del| Other tissues affected| FXFP motif| C. elegans homolog| Site(s) with the consensus PX(S/T)P sequence| Human gene| gene:| 
+Type 26 (70): Name of the encoded protein| Author (reference)| Metastasis sites| Author and reference number| Fraction number| Known or proposed functions| Injection/ Lens treatment| Source of Organisms| TBK1| Tannin| 
+Type 27 (287): Reference number| [35S]GTP?•Rac1 (cpm) (% of control)| Results of patient studies| ?log ( P value)| Apc| Iron-loaded rats| CKD| Lon protein expression| Heart rate (beats/min)| Number of GFPhi leukocytes d| 
+Type 28 (22): Drug (clinical trial sponsor)| Num. of novel genes & stages where these are identified| Treatment (line)| Notes/Company| Epigenetic changes in CRC| Major genetic alterations| reservoir solution| Transfections| Inclusion criteria| Multiple target| 
+Type 29 (30): Genes of cytochrome subunits| targets and subjects| MRI| Primary Endpoint(s)| Mast Cell Type/Origin| Animal protein [g/y]| Data sources and data types| Pollen tubes and root hairs| Knockout mouse phenotypes| Effect of ZA| 
+Type 30 (467): Clone #| Adenylyl cyclase activity (pmol of cAMP/mg/min) a| MS Mass| Extended 24 h| Time ?=?12h| SHANK3| rs11599672 (cases/controls)| ?Ct in qRT-PCR ( Mean ±SD)| Significance (hypergeometric distribution)| GT counts controls| 
+Type 31 (140): PPI subnetwork| Interventional scenario| Therapeutic Agent| TF Matrices| 18| Immunotherapy group| Seed sequence| Uniprot Accession| Traits 2| Adapter molecules| 
+Type 32 (107): Reverse Primer Sequence (5?-3?) [RP]| Primer sequences (5? to 3?)| Forward primer (5'...3')| Sequence 3| 3? GSP Sequence| phosphopeptide| Forward primers (5?–3?)| Sequences (5?3?)| Primer Reverse (5'-->3')| Phosphorylated peptide 1| 
+Type 33 (223): Permutation R 2(2)| 95% Confidence Interval of Hazard ratio| Ad-36 positive| WT-CTRL (n?=?6)| Phase-III 5 Ipi monotherapy (3 mg/kg) 131| Particle Associated HIV (248)| k obs (min-1)a| Phospho site a| Succinate (n?=?8)| TNF +LOS| 
+Type 34 (36): Isoform targeted| DNA Analyzed| Radiosensitization| Cell-line| CLO segment length| Tipifarnib a dose-schedule| Immune measures| KRAS genotype| First name STUDY| PDGF| 
+Type 35 (201): Selected by EGFR positive| Angiogenesis| Mets in animial| Organ/tissue/cell type| Compartment| 2. Extent of conformational change at the substrate site| Cancers| Sequencing strategy| Cancer Examined| Salivary gland| 
+Type 36 (71): Domains a| Clusters a| Matrix protein coating concentration| Tumors/Injections Nude Mice (?T cells)| Cluster (genes)| Author [reference]| Docking Score (kcal/mol)| Prognostic indices/covariate model ( n )| Dilution and incubation time| Author, Reference, Year| 
+Type 37 (418): Fold Change: Differentiating group vs. other groups:| Primary Resistance, Median (Range)| Active GSK-3? Positive (%)| p (%)| CRC n = 30 (%)| Fold change (log 2 mean)| Control (n=8)| Loss of Stent| C40| Frequency (Percentage)| 
+Type 38 (216): Direct TPG| Lymphoma**| RTKs| MODULATED BY 5-AZA-CdR| Pearson's correlation| Rodent| KRAS Mutationc| Target antigen| Pfam Domain| IgG| 
+Type 39 (77): Air| Reverse PDS (ATCCCT)| WCC(x109/L)| Adjusted OR(95% CI) a| Taqman Assay ID| Assay reference| Fitted parameter q1 [ml O2/(105 cells min)]| Control (MAF)| Conserved gene in A. thaliana (E-scroe)| Nucleotide change a| 
+Type 40 (119): SOD (U/mg protein)| Control ( n = 32)| Total number of fragments| Mgat5?/?| Promoter sequence| Apoptotic cells (% of total)| BJ + AOM 4.1? ? L/g + 10?mg/kg| Plasma triglycerides (mg/dl)| G1%| DH rat| 
+Type 41 (80): Nucleotide Alteration| Motif (BR)| 5'| Function and tag sequences| Tag sequences| Profibrotic Signalling Pathways| MDR-related ABC transporters involved| FDR < 0.05| SEQUENCE| predicted to connect to gene(s)| 
+Type 42 (37): EPOR expression as PF (method)| Overlapping entities| Prostaglandin| BRCA| Diabetes/renal| SYNDROME| Targets: notes| Nearby expressed coding and non-coding RNAs| Mode of actions/targets| MS/MS fragment| 
+Type 43 (19): cell type/intervention 1| cell type/intervention 2| Analyzed samples| Gene Family| Perturbation| Modeling Approach &Methodology| Used cells| Centre Name| Gene Title (Target Description/Symbol)| Study results| 
+Type 44 (22): Homologous Human Genomic Segment (Human Chromosome Number: From Base Pairs to Base Pairs)| MMP-9 (ng/ml)| cv-SMSE (0.05, 0.5,0.95 quantile)| Target scan's Context percentile/Mami score(in decimals)/miTG score ( in italics )| Trial Reference Number| Papillary carcinoma ( n =31)| Position [UMD 3.1]| OR, 95% CI a| Fold change (6, 24, 72, 120 h)| LVI, n (%)| 
+Type 45 (63): XRCC1-| ERCC2-| Testing stage a| Strain or plasmid| Tool name| Dose (range)| Green Label| Treatment Cell Line| pMyr| Structure match| 
+Type 46 (144): Cell of origin| Function (Species)| Expression levels in GC tissues| Dir| miR-34| Macrolide| Modification of Smad7| Relevant histological subtypes| Deregulation| Effector T cell| 
+Type 47 (96): Amino-acid substitution| Given| List of primers| HDAC Isoforms| Distribution patternb| Candidate binding factor for TRE| Character| Media VEGF Protein| Mismatch ¥| Sequenom's Assay Name| 
+Type 48 (46): mechanism| Inducer| Phyllanthus ?species| miRNA target and its role in cancer| Kinetic law| Sex of patients| Recipient Mice*| Pro-angiogenic effect| E/ER sensitivity| VDR Phenotype| 
+Type 49 (55): Functions in Membrane Trafficking| Circumstances| Ghrelin| GEP| Cell line derived from| The anti-HCC effects| T3SS Description| common SE| Operation| Recommendations| 
+Type 50 (69): Clinical associations| Parameters/Rat groups| Translocation effect| WHO-EORTC| Hereditary breast and ovarian cancer syndrome| Effect in PCA| Sampling size| Activity/TCR-dependent signaling pathway| Outcome Measures| Protein interaction| 
+Type 51 (37): Tumor + COX-2 siRNA State| Target name| Cause of over and underexpression| Sequence (5??3?)a or description (Restriction sites are underlined)| Primary antibody incubation| Label/time point| Heavy metals| Second antibody| Protein Identification| Processes(p-value)| 
+Type 52 (83): Net displacement (µm)±SD| T3| ORhet(95%CI) b| Rectal prolapse (n=6)| 4–10| Sequenced bases on target| Specificity (95% CI)| Univariate analysis HR (95% CI)| Hazard Ratio (95% confidence interval)| Probe ID (Agilent 44 k)| 
+Type 53 (48): Method for measuring ROS production| PATIENTS pre-treatment| Observation in PCOS| Expression level and modification of Schwann cell proteins| Different categories| Screening Modes| REACTOME Pathways| Cell Types| Effect on PML| GOTerm, DAVID-level3| 
+Type 54 (44): Source of PCSCs| Pfam Domain, Remarks| Form of Silk| Characteristicsa| Clinical association (References)| Gene name (some shortened to fit)| Phenotype and latency (non-infected versus infected with M-MuLV)| Cell line (Transfectant or treatment)| Cell Stimulus| Purpose of analysis| 
+Type 55 (104): Probeset| OSt| OSm| Ground Control| Cell cycle distribution (% ± SE)| Geom mean of intensities in chordoma| Voltage dependence of inactivation| the phosphorylation of Akt| 95% CI| SNP| 
+Type 56 (270): Polyphen g| Wilcoxon Test| Fold change (MA:MB) *| <CC>| AKT2| NF1 patients| 3 weeks| Interactions| Spot number| H3K27me3| 
+Type 57 (68): Identification method| Activated Pathways| Associated cancer types| Human tumors| Ingenuity canonical pathways| Regulated pathway| Protein type| Clinical trials| Product name| Associated Tumors| 
+Type 58 (53): phenotype| Downstream consequences| Authors, year of publication| Variables *| Residue| Trial type| Author, year| Method: Enzymatic| Experimental localization *| Cellular function| 
+Type 59 (64): Aim| Family PDB chain| MGUS| Tumor selectivity| Targeting mechanism| miR-21 expression in human tissues/cells| Description b (SGD)| Type of Peptide Evidence| Genes overexpressed in the tumour:| Possible mechanisms of anti-HCC| 
+Type 60 (293): TO30.01| Endo-cardium| Invasion front| Mean severity| NaCl followed by oxaliplatin| Oxaliplatin followed by NaCl| Fold Change c| LBFC| CHISQ| FC microarray| 
+Type 61 (468): Effect of somatic mutation| Swiss-Prot hit| Country/ethnic group| Model type| Tumor localization| Country Loa Acquired| Chromatin State at TSS| Representative homologous protein(s)| Arf| Primary location| 
+Type 62 (95): Disease B| information| Effects on HBV transcription and replication| Associated disease| Type of injury| Descriptive title| Type of particles| Immune effector response| Recommended dose modification| Type of alterations| 
+Type 63 (12): genes presumably up-regulated proteins| Genes identified| Gene_Symbol| Target genes in DEGs| Transcriptome study 13| NGF induced molecules| Gene/mutation*| DDX18 -associating proteins| COAD| Molecular Pathways 1| 
+Type 64 (16): Patient numbers (treated/control)| webpage| Signaling cascade/effect| Mature miR sequence| Predicted Mature miRNA *| Ab type| Right Primer| Oligonucleotide Primers| Source ofcontrols| Sequence (5?- 3?)| 
+Type 65 (34): HT| peptide| Hub genes| supported by data?| CBM location| Growth factors and cytokines| Markers used| Consensus binding motif| Kb binding peptides| entry name| 
+Type 66 (61): Pathways and gene sets enriched by up-regulated genes| Discovery cohort size| Correlation with overall survival and outcome| DLT| Annotations| Functional annotation by DAVID| Oncogene classification according to their functions| Type of cell death| Classical Analysis by GeneSifter| Differences compared to sporadic tumours| 
+Type 67 (605): Name| Pathway| Treatment| Tumor type| Model| Cell type| Classification| Description| Function| Disease| 
+Type 68 (68): Table Name (Size)| Other Aliases| G4| gene(s)| Approach using HA-binding peptide| Genes Identified in GO Terms| Responses to cytokines| Trials [Reference]| HHV-8 genes| Alteration type| 
+Type 69 (41): Microarrays plataform| Template structure (PDB accession code) #| Molecular mechanisms of action| Genetic aberration| MSigDB annotation (Source)| Example cases of Mutation disambiguation dictionary records and patterns| Gene symbol//gene title (ref #) – functional categories| Drug manufacturer| Parameter description| Blood/bone marrow| 
+Type 70 (56): BMP3b Meth| TFA| IC50| Concurrent BMP3b and BMP6 Meth| MXR| VEGF-D/VEGFR2| Initial TM Dimer Structure| Pt| Kras gene codon 12None/Either/Bothp-value| RASSF1A geneNone/Either/Bothp-value| 
+Type 71 (239): p -value of overlap| Chromosome location| Cytoband| End| Molecular weight| 6 h| Mutation rate| T4| GenBank ID| Chromosome Location| 
+Type 72 (35): MMTV-Wnt1/p53 +/-| Standard conditions| Disease and number*| treatments| Agents (dosage/day)| GI>50 (?M ± SD)| Phosphate-limited medium| (1) Animal models of colorectal carcinogenesis| Coadministered drug| Other names for the drug| 
+Type 73 (20): GENOTYPE| Category name (Accession)| Case 14| Genotyped samples| Case 3| Insert Gene| Name of oligonucleotide| SNP a| MEFs’ Genotype| Endothelial Cell Surface Receptors/Activator| 
+Type 74 (37): Pretreatment HGF level (cutoff value: median)| Pretreatment EREG level (cutoff value: median)| Event-Free Survival| Overall death| Ouabain| Weight (g)| OSCC-specific death| Hazard ratio (95% confidence interval)| Pretreatment HGF level| OR 95% CI| 
+Type 75 (322): Biological intervention| Effect of neuropeptide treatment on LH release in vivo| Role of autophagy| Rat parathyroid| Newly Dx vs Progression| Effect on IRES activity| Activatory| Disease Group| Cytogenetic risk group| Consequence of alteration| 
+Type 76 (51): Example(s)| Participants or cells/treatment| Gene Description:| tissue| Tumor latency| Official gene symbol| Tumors (estimated penetrance)| Rosuvastatin dosage regimen| Fungal species| Proposed Functional Effect| 
+Type 77 (26): Direction and strength of correlation (R value range) c| H2052| C51S| Holding time at 17 ° C| C80S| H-RasV12C40| Group EAM (n=6)| Upper versus lower lobe| V max (pmol/min per mg)| Expression of TET2| 
+Type 78 (114): KEGG Pathway Name| Biological Function| Functional Class| Phenotype investigated| Clinical parameter| Lesion| Genetic abnormality| Gene function| EASE Term| GO biological process| 
+Type 79 (105): Real-time experiment| HUVEC| Fold change ( P value)| BMP6 Meth| Heat-induced unfolding| 60 min| p -Value| Luteolin| Hazard Ratio(95% CI)| MCD-V (n=7)| 
+Type 80 (43): FACS, cerebral astrocytes*| Growth Traits b| FACS or otherwise identified cerebral neurons*+| Study and year| First AutorYear [Reference]| Author, reference, year| First author (reference)| REFs| Published/author| Study ID| 
+Type 81 (35): Reverse primer sequence (5'?3')| 5?-sequence-3?| Reverse Primer 5?-3?| NCBI Accession number| Reverse (antisense) primer| Results: neuroimmune| Antisense primer sequence (5?–3?)| Reverse 5??3?| Human GenBank accession number Sequence 5?–3?| ???????? Reverse primers| 
+Type 82 (26): STAGE/PATIENTS| Rev Primer Seq| Address| Fwd Primer Seq| Main BioPAX Classes Used| Oxysterols| Result of GO TERMFINDER & DAVID level 3| Type of attenuator| Myeloma patients| Hormonal profile| 
+Type 83 (144): References| Reference| Fisetin| GDC-0941/PD0325901| Refs| Flux (% Control)| REF| Galangin| Ref| REF.| 
+Type 84 (23): Ras Proteins| Native peptide sequence| Gene Name/ID| TFBM| Cell Phenotype| Sequence(5? to 3?)| Primers used in real-time PCR| ArrayExpress or GEO accession| Bm_CDS| EST No.| 
+Type 85 (408): Duration| Binding partner| Mouse Homology| Follow-up| Number of changes a| Country| Fusion| Confidence level| Tumour type(s) screened| Quercetin (pure)| 
+Type 86 (21): Sequence of forward and reverse primers| Incident of Genetic/Epigenetic Cell Cycle Alterations| Cohort size| Phase of experimentation| Experiment source scenario| Study participants| GO term (bp)| Nuclear a| Percentage (%) of cases found| Observations and Inferences| 
+Type 87 (12): 76| KD Expression| IC 50 (?g/ml) ± SEM| SD Expression| COPD ( n = 48)| 76.2| 76.4| Conidial Volume (?m3)| AUC (days)| AX2| 
+Type 88 (3): Sequence (5? –3?)| Sequence (5?–3? for DNA or N to C for PNA)| 5?-3? nucleotide sequence| 
+Type 89 (145): Vector| Fusion protein| Kinase(s)| Sample name| Protein target| Official symbol a| TKR| Assay method| Cell lines 2 )| Vertebrates| 
+Type 90 (158): Set7| Ensembl ID| CNE-2| PVal 116?114| Protein (% of control) a, b| 4 d| Adj. pvalue| Core Haplotype Frequencies| 29| LZR| 
+Type 91 (424): Gene| Molecule| Genetic marker| Target protein| Diagnosis| Target| Human homolog| Proposed substrate| Gene names| Gene symbol| 
+Type 92 (8): Diagnosis (n)| Implementation| Developmental stages investigated| Extracellular and Ligands| HUGO gene symbol| Subnetwork| Genes (Number of Mutations)| Binding Site on ROCK| 
+Type 93 (291): Day 5| HWE| v4| RRM1 p| Folds (Al vs control)| Basal situation| Publication bias| Predicted values for an additive effect| FDR:| DC| 
+Type 94 (79): Translocations| OS mt KRAS: control vs. EGFRI (Hazard ratio)| 8?hr reperfusion| cell diameter (?m)| Centrosome proteins| Frequency of missense mutations in breast cancer (# most frequent in breast cancer); in other tumors (# most frequent)| Frequency (FD) a and level of mRNA decrease (LD av ) b| Wt KRAS (%) Responders (%)| Location (proximal versus distal)| HRG| 
+Type 95 (81): comments| CSC culture conditions| Pathogenetic Mechanism| Dosing Regimen| Subjects and approach| Working mechanism| Associate function| Clonorchis sinensis predicted proteins (50,769) similar a to those in:| Molecular testing & kits| Functional Annotation| 
+Type 96 (4): GenBank accession numbers| Selected functional event| References (PudMed)| Matching alignment UniProt or EST accession number| 
+Type 97 (548): Recurrence-free survival (months)| Relapse free survival analysis (Logrank P )| Repressed in log phase by Gis1 a| GBM6| Fold induction| IC50 value (nM)| Expression array (log2 ratio)| In combination with LSM| HIV vs. HIV?+?TAK| GATA-4 Expression| 
+Type 98 (26): Reverse primer 5??3?| Reverse primer sequence (5????3?)| Antisense primer| Probe (5?-3?)| modified peptide(s)| Telomeric repeat| Sequences (5? ? 3?)| Sense/Antisense: Sequences| Primer Forward (5'-->3')| Primer sequence : (5?-3?)| 
+Type 99 (14): Isoforms Investigated and References| Mgat5?/?ESC| Regions lost in ? five cases| UKF-NB-4 Hi vs UKF-NB-4 (rank a / P -value/genes affected b )| Human Similarity| Click Beetle Red (Pyrophorus plagiophtalamus)| Virus titer used [reference]| Cardiomyocyte diameter| Number of colonies/ 105 cells/?g plasmid DNA| ESC-Rescue| 

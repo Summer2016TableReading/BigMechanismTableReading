@@ -1,0 +1,242 @@
+table 1 results cell cell tumour experiments cell line ic50 (mean ± sem) tumour growth inhibition vivo r115777 ras statusa era egfra her2a 50 mg/kg 100 mg/kg sk-br3 39.0 ± 25.8 nmol/l - - wild-type - + ++ mcf-7 46.0 ± 5.0 nmol/l - - wild-type over-expression n-ras ++ + (+) mcf-7/her2-18 60.3 ± 117 nmol/l 80.8% 95.9% wild-type over-expression n-ras ++ + +++ bt474 195 ± 119 nmol/l - - wild-type + - ++ skov3 2.7 ± 0.4 ?mol/l 60.1% 20.4% wild-type - ++ +++ mda-mb231 5.9 ± 0.8 ?mol/l -68.8% -91.2% mutated k-ras - +++ + table shows concentration r115777 required reduce cell numbers 50% (50% inhibitory concentration [ic50]) inhibition r115777 two different doses tumours grown athymic mice receptor ras status different cancer cell lines adata collected literature [41246] egfr epidermal growth factor receptor er oestrogen receptor sem standard error mean.
+ras pathway essential cell growth proliferation
+effects r115777 farnesyl transferase inhibitor investigated cancer cell lines expressing varying levels growth factor receptors differing ras status
+effects tumour xenografts human ductal carcinoma situ (dcis) breast xenograft mouse model tested
+vitro concentrations required reduce cell numbers 50% (50% inhibitory concentration) established (mda-mb231 mcf-7 mcf-7/her2-18 bt-474 sk-br3 skov3)
+human dcis implanted nude mice separate experiments cultured cells injected (mda-mb231 mcf-7/her2-18 skov3) allowed form tumours
+proliferation apoptosis determined immunohistochemistry xenografts cell tumours
+50% inhibitory concentrations varied hundred-fold 39 nmol/l (± 26 nmol/l) skbr3 5.9 ?mol/l(± 0.8 ?mol/l) mda-mb231
+mcf-7/her2-18 skov3 cells levels tumour growth inhibition approximately 85% 40% respectively
+there significant decrease cell turnover index (cti proliferation/apoptosis)
+mda-mb 231 activated k-ras no inhibition observed
+treated dcis xenografts proliferation decreased apoptosis increased
+cti ratio between start 1 2 weeks treatment 1.99 1.50 respectively controls 0.85 (p = 0.005) 0.75 (p = 0.08) treated xenografts
+treatment farnesyl transferase inhibitor reduced cell growth vitro cell tumour growth vivo
+dcis treatment resulted reduced cti
+r115777 promising treatment breast cancer but relation between effect growth factor receptor ras status established
+ras pathway activity critical tumour growth [1]
+breast cancers activity ras signalling pathway appears increased chiefly via activation wild-type ras proteins upstream growth factor receptors such epidermal growth factor receptor c-erbb-2 (her2) [23]
+expression receptors increased 30–40% all breast cancers [4] furthermore over-expression indicative more aggressive phenotype [56]
+point mutations ras genes result over-activated ras proteins
+incidence ras mutations human tumours overall about 30% whereas incidence activating ras mutations breast cancers low only few percent [7-9]
+ras pathway activated variety extracellullar factors [10] aberrant function ras signal transduction pathway thought common breast cancer [2]
+preclinical data suggested ras inhibition inhibitory effect growth cell lines express both mutated wild-type ras [11-13]
+ras proteins play important role signal transduction cellular transformation [14]
+function signal transduction activation downstream pathways ras must attach plasma membrane where interact membrane receptors downstream effectors such raf phosphatidylinositol 3-kinase (pi3k)
+activation raf-mapk (mitogen-activated protein kinase) pathway stimulates proliferation cell activation pi3k-pkb (protein kinase b)/akt pathway related increased cell survival [15]
+ras synthesized pro-peptide (pro-ras)
+one way target ras activity inhibit enzyme farnesyl transferase catalyzes major step modification pro-ras
+farnesylation makes ras protein more hydrophobic therefore becomes possible protein attach plasma membrane [10]
+several different farnesyl transferase inhibitors (ftis) been developed
+drug investigated study (r115777) imidazole-based fti acts competitive inhibitor carboxyl-terminal tetrapeptide caax ras [16-19]
+present study we tested effects fti r115777 growth breast ovarian cancer cell lines expressing varying levels her2 epidermal growth factor receptor differing ras status ductal carcinoma situ (dcis) breast human xenograft model
+widespread dcis previously used implantation experiments similar study [2021]
+take rate dcis xenografts been shown high furthermore dcis express her2 70% high-grade dcis lesions [2223] makes dcis suitable studies targeting ras pathway
+study we shown treatment fti r115777 reduced cell growth vitro cell tumour growth vivo
+human dcis xenografts treatment resulted reduced cell turnover index (cti)
+participants study women who attended nightingale breast screening assessment centre symptomatic breast clinic university hospital south manchester uk during period april 2002 april 2003
+women included study mammograms showing widespread microcalcifications indicative dcis without invasive component histopathological confirmation diagnosis core biopsy before surgery (n = 14)
+written consent obtained only those women undergoing mastectomy included
+consultant breast pathologist subsequently reviewed all tissue samples
+approval remove tissue pathological samples study granted south manchester research ethics committee
+athymic female nude mice (balb/c nu/nu aged 6–8 weeks) purchased allowed acclimatize 1–2 weeks before experiments started
+mice housed under conventional conditions 12-hour cycle light dark filter top cages (n = 5–6/cage) given free access normal feed water bedding during experiments
+all care animals surgical procedures performed accordance home office regulations uk scientific procedures act (1986)
+1–2 cm3 specimen breast tissue area microcalcifications taken time surgery handled described previously [2021]
+specimen dissected 2 × 2 × 1 mm pieces random collection 5–10 pieces withdrawn day 0 samples processed histology
+tissue collected well away any areas showing signs invasive cancer mammogram our day 0 xenografts we found no signs invasive cancer
+remaining xenografts implanted 5–30 mice depending tissue volume
+mouse received tissue one patient only implantation completed within 90 min removal tissue patient
+eight xenografts (in pairs) implanted subcutaneously four sites symmetrically flanks
+after 2 weeks one pair xenografts removed treatment started (day 14)
+another pair xenografts removed after 7 days treatment (day 21) remaining xenografts removed after 14 days treatment (day 28) end experiment
+after retrieval xenografts immediately fixed buffered formalin 24 hours 4°c then stored 70% ethanol before paraffin embedding
+treatment r115777 (50 mg/kg 100 mg/kg johnson johnson pharmaceutical research development raritan nj usa) control vehicle (20% ?-cyclodextrin) given gavage twice daily monday friday once daily during weekends
+treatment given over 14 days experiments human dcis
+experiments implanted cell tumours duration treatment varied between 8 29 days different experiments depending how fast tumours grew
+we chose doses 50 mg/kg 100 mg/kg based data previous experiments r115777 [12]
+human breast cancer cell lines mda-mb231 mcf-7 mcf-7/her2-18 bt-474 sk-br3 human ovarian cancer cell line skov3 obtained american type culture collection (rockville ma usa) grown subcultured according their instructions
+breast cancer cell lines chosen based their different expression growth factor receptors skov3 ovarian cell line used model oestrogen receptor (er) negative wild-type ras cancer
+data concerning growth factor expression er expression ras protein status collected literature given table 1
+effect r115777 cell growth used establish concentrations required reduce cell numbers 50% (50% inhibitory concentration [ic50])
+cells plated 96-well plates growth medium containing 2–5% foetal calf serum (fcs) after 24 hours medium discarded replaced medium containing varying concentrations r115777 (0 1 nmol/l 10 nmol/l 100 nmol/l 500 nmol/l 1 ?mol/l 5 ?mol/l 10 ?mol/l)
+plated number cells concentration fcs established cell line separate experiments find suboptimal growing conditions use following experiments r115777
+treatment continued until untreated cells reached confluence
+estimation cell number done means sulphorhodamine b colorimetric assay
+three separate experiments conducted cell line concentration r115777 tested quadruplicate
+cells (2–4 × 106) 200 ?l solution growth medium containing 10% fcs injected subcutaneously flank mouse allowed form tumours
+experiments involving oestrogen-dependent mcf-7/her2-18 cell line oestrogen pellets (2 mg) implanted subcutaneously base tail mice time cell injection [24]
+treatment r115777 50 mg/kg 100 mg/kg control vehicle (20% ?-cyclodextrin) begun when measurable tumours formed about 75% injection sites
+only tumours measurable start treatment included analyses
+tumours measured calliper twice weekly tumour volume calculated using following formula: tumour volume = (width)2 × (length/2)
+experiment terminated all tumours removed when any mice developed tumour burden more 1 cm3
+tumours divided processed immunohistochemistry stored liquid nitrogen
+growth inhibitory effect r115777 calculated using following formula: 1 - ([d - c]/[bmedian - amedian]) × 100% where d final tumour volume after r115777 treatment c tumour volume before r115777 treatment b median final tumour volume among control tumours after treatment median tumour volume among control tumours before treatment
+cell lines two separate experiments conducted median growth inhibition among all r115777-treated tumours calculated
+sections dcis xenografts cell tumours scored proliferation after ki67 immunohistochemical staining (mib-1 coulter-immunotech luton uk)
+least 300 cells xenografts 1000 cells cell tumours counted magnification ×40
+assess apoptosis xenografts we sought morphological evidence apoptosis using haematoxylin eosin stained sections
+cell tumours immunohistochemistry (tdt-mediated dutp-fluorescence nick end labelling) used
+least 1000 cells counted magnification ×40
+proliferation apoptotic indices both expressed percentage apoptotic stained cells
+immunohistochemistry methodology apoptotic scoring described previously [2125-27]
+cti (proliferation index/apoptotic index) [28] calculated individual xenograft cell tumour
+all counting performed without knowledge treatment group
+western blots performed mcf-7 mcf-7/her2-18 cells treated different doses r115777 mcf-7/her2-18 tumours vivo experiments
+protein extracts prepared cell pellets tumours after thawing cryopreserved samples washing them phosphate-buffered saline
+cells lysed ice-cold radioimmunoprecipitation assay buffer (50 mmol/l tris-hcl [ph 7.5] 150 mmol/l nacl 0.1% triton x-100 0.5% deoxycholate 0.1 mmol/l ethyleneglycoltetracetic acid 0.1 mmol/l edta) protease inhibitors 5 minutes ice
+protein concentration lysate quantified using colorimetric assay (bca protein assay pierce rockford il usa) 50 ?g total protein loaded 8% sds polyacrylamide gel
+western blots transferred polyvinyledene difluoride membrane probed mouse monoclonal antibody against hdj2 (kh2a5.6 neomarkers fremont ca usa) [29]
+bound antibody detected using horseradish peroxidase conjugated secondary antibody visualized treating membrane enhanced chemiluminescence reagents (amersham pharmacia biotech inc piscataway nj usa) exposing film
+detection unfarnesylated farnesylated band hdj2 protein represents conclusive evidence farnesyl transferase inhibition
+ic50s presented mean value three separate experiments corresponding standard errors mean
+tumour growth inhibition given percentage
+percentage interquartile range based median growth inhibition among treated tumours relative median control tumour growth
+statistical significance tumour growth inhibition tested comparing individual tumour growth cubic millimetres between treated control tumours using mann-whitney u test
+comparisons between r115777 treated control samples dcis xenograft experiments made 'within-patient' using repeated analysis variance model patient group (r155777 versus control) factors
+statistical model matched r11577 control readings mice transplanted same women
+data restricted those mice tissue women readings available both r115777 control mice
+throughout analysis 'mouse' taken unit analysis only data mice data both day 14 day 21 day 28 included because we looked change over time terms proliferation apoptosis ctis
+data presented geometric means their 95% confidence intervals
+significance level set 5% all tests two sided
+statistical analysis performed using stata software (stata corporation college station tx usa)
+ic50 r115777 varied hundred-fold 39 nmol/l 46 nmol/l sk-br3 mcf-7 2.7 ?mol/l 5.9 ?mol/l skov3 mda-mb231 cell lines respectively when grown vitro (table 1)
+cell line mutated k-ras namely mda-mb231 highest ic50 whereas cell lines wild-type ras drug effective lower doses
+mice growth mcf-7/her2-18 tumours inhibited r115777 50 mg/kg (n = 19) 100 mg/kg (n = 11) 80.8% (interquartile range 56.4–99.0% p = 0.001) 95.9% (68.2–110.1% p = 0.02) respectively compared control tumours (n = 22 figure 1a table 1)
+proliferation index lower treated tumours r115777 50 mg/kg 69.6% (63.4–74.8% p = 0.003) r115777 100 mg/kg 65.5% (62.0–70.1% p < 0.0001) compared 77.7% control tumours (74.4–81.1% table 2)
+apoptotic index higher treated tumours r115777 50 mg/kg 1.5% (1.2–1.6% p = 0.04) r115777 100 mg/kg 1.6% (1.4–1.9% p = 0.003) compared 1.2% control tumours (0.9–1.5%)
+ctis tumours treated r115777 50 mg/kg 100 mg/kg 48.7 (41.6–57.4 p = 0.0009) 38.0 (30.1–43.3 p < 0.0001) respectively values statistically significantly reduced compared cti 61.6 controls (55.5–79.5 table 2)
+growth skov3 tumours inhibited r115777 50 mg/kg (n = 30) 100 mg/kg (n = 14) 60.1% (32.3–83.9% p = 0.04) 20.4% (-65.7 +38.3% p = 0.4) respectively compared control tumours (n = 14 figure 1b table 1)
+proliferation index lower treated tumours r115777 50 mg/kg 34.1% (26.5–44.4% p = 0.009) r115777 100 mg/kg 40.1% (33.1–44.0% p = 0.08) compared 46.6% control tumours (37.6–55.0%)
+apoptotic index did not differ between treated tumours r115777 50 mg/kg 0.49% (0.4–0.7% p = 0.11) r115777 100 mg/kg 0.48% (0.4–0.8% p = 0.18) 0.35% control tumours (0.3–0.5%)
+ctis tumours treated r115777 50 mg/kg 100 mg/kg 67.5 (45.6–96.1 p = 0.004) 81.0 (38.6–110.2 p = 0.05) respectively values statistically significantly reduced compared cti 125.4 controls (87.1–188.9 table 2)
+growth k-ras mutated mda-mb231 tumours not inhibited r115777 50 mg/kg (n = 25) 100 mg/kg (n = 15)
+instead growth treated tumours increased 68.8% (13.8–284.1% p = 0.08) 91.2% (2.8–328.8% p = 0.09) respectively relative control tumours (n = 16 figure 1c table 1)
+proliferation index higher although not statistically significantly higher treated tumours r115777 50 mg/kg 68.2% (63.3–71.5% p = 0.24) r115777 100 mg/kg 72.4% (66.4–78.4% p = 0.06) compared 57.9% control tumours (54.1–71.4%)
+apoptotic index similar treated control tumours r115777 50 mg/kg 0.4% (0.3–0.6% p = 0.98) r115777 100 mg/kg 0.4% (0.3–0.7% p = 0.75) controls 0.4% (0.3–0.6%)
+ctis tumours treated r115777 50 mg/kg 100 mg/kg 180.1 (115.9–205.4 p = 0.32) 180.8 (90.5–227.7 p = 0.37) respectively cti controls 106.0 (85.8–191.0 table 2)
+xenograft experiments no difference body weight seen between r115777 controls neither there any difference number deaths seen between treated control animals
+tissue 14 women widespread dcis implanted
+four cases no dcis found day 0 xenografts implanted xenografts women excluded further analyses
+median age among remaining 10 women implanted dcis 53 years (range 39–72 years)
+nine out 10 women foci invasive cancer their mastectomy specimen according final histopathological report
+nine lesions nuclear grade iii remaining lesions nuclear grade ii
+grading done situ part only lesions invasive cancer
+accordingly data presented proliferation apoptosis cti 10 experiments implanted dcis
+four experiments conducted dose r115777 50 mg/kg six 100 mg/kg
+eight out 10 cases dcis er positive (for instance >5% stained cells)
+seven cases clinically regarded positive her2 (2+ 3+) three regarded negative (0 1+)
+fifty-four out 80 (67.5%) day 0 xenografts contained ducts dcis
+harvested xenograft pairs contained dcis 44.8% (493/1100)
+accordingly overall take rate calculated 66.4%
+proliferation apoptotic indices cti dcis experiments presented table 3
+there decreased proliferation xenografts treated r115777
+ratios proliferation indices between day 14 day 21 1.38 controls (n = 65) 0.75 treated (n = 61) xenografts respectively (p = 0.04)
+ratios between day 14 day 28 1.22 controls (n = 75) 0.78 treated (n = 66) xenografts respectively (p = 0.06)
+apoptosis increased treated dcis xenografts
+ratios between day 14 day 28 0.83 controls (n = 95) 1.06 treated (n = 104) xenografts respectively (p = 0.005)
+overall cti decreased treated xenografts
+ratios ctis between day 14 day 21 1.99 controls (n = 44) 0.85 treated (n = 49) xenografts respectively (p = 0.005)
+ratios between day 14 day 28 1.50 controls (n = 67) 0.75 treated (n = 62) xenografts respectively (p = 0.08)
+results proliferation apoptosis experiments different doses r115777 pointed same direction except unchanged apoptotic index after 7 days treatment lower dose group (data not shown)
+there no statistically significant difference body weight loss/gain number deaths between treated control animals dcis xenograft experiments
+all mcf-7 mcf-7/her2-18 cell samples treated different doses r115777 vitro unfarnesylated ras band detected western blot technique
+unfarnesylated ras band not detected any untreated cell samples (figure 2a)
+cell tumours chosen analysis mcf-7/her2-18 tumours showing good response r115777 treatment mcf-7/her2-18 control tumours uninhibited growth
+selection tumours made attempt establish proof farnesyl tranferase inhibition vivo
+four out five treated mcf-7/her2-18 tumours unfarnesylated ras band detected whereas six out six control tumours no unfarnesylated ras detected (figure 2b)
+study we demonstrated reduced tumour growth vivo reduced cell growth vitro human cancer cell lines wild-type ras varying levels growth factor receptors when treated fti r115777
+we shown effect growth related reduced cti cancer cell lines tumours vivo cti statistically significantly reduced human dcis treated fti after 1 week
+effect cti due both antiproliferative pro-apoptotic effect
+study effect fti we conducted series experiments: first vitro studies different human cancer cell lines second vivo studies tumour growth inhibition selected cell lines finally studies human dcis implanted directly operating theatre nude mice model earlier used our department
+ras pathway activated variety extracellullar factors aberrant function ras signal transduction not only due ras mutations
+we could not assess activation ras signalling pathway but chose study downstream effects fti measured change apoptosis proliferation
+we tried relate effect fti growth factor receptor status ras status
+furthermore showing unfarnesylated protein treated cell pellets cell line tumours we demonstrated effect farnesylation fti r115777
+strikingly we found effect proliferation apoptosis consistent in vivo studies cell tumours expressing wild-type ras (mcf-7/her2-18 skov3) human dcis
+results growth inhibition vitro accordance vivo results (for instance largest effect tumour growth vivo seen cell line lowest ic50 vitro)
+no antiproliferative effect no pro-apoptotic effect seen k-ras mutated mda-mb231 tumours treated fti no tumour growth inhibition resulting treatment observed cell line
+mda-mb231 cell line highest ic50
+other ftis been shown inhibit both mutated wild-type ras [3031] but relative resistance ftis k-ras mutated cell lines been reported [3233]
+although we unable establish ras status dcis lesions our human dcis xenograft experiments majority (70%) her2 positive would expected activated wild-type ras
+we found no areas invasive breast cancer our day 0 xenografts
+however some mixture invasive cancer cells occurred xenografts then should been evenly distributed between controls treated animals therefore causing no bias
+cell lines considered our vitro experiments selected represent different expressions growth factor receptor ers
+we unable detect clear relationship between any factors effect fti
+example ic50s mcf-7 mcf-7/her2-18 not significantly different in vitro experiments
+mcf-7/her2-18 mcf-7 cell line 45-fold over-expression her2 receptor caused transfection full-length her2 cdna [34]
+however experiment similar ours cell line tumour growth inhibition studied same fti used kelland coworkers [12] identified inhibition about 60–70% treated mcf-7 cell line tumours
+less inhibition approximately 80% we found mcf-7/her2-18 tumours using same dose r115777
+might indication her2 expression plays role response farnesyl transferase vivo
+effect her2 transfected mcf-7 cell line tumours considerably more pronounced effect skov3 cell tumours reflected 10-fold lower ic50
+other studies [1113] unable show clear relation between markers such growth factor receptors ras status effect ftis
+work kelland colleagues we found no dose respond effect chosen doses namely 50 100 mg/kg
+mechanism might threshold effect due saturable drug pharmacokinetics [12]
+we did not study effect fti subgroups dcis (for example er positive/negative her2 positive/negative)
+we stratified treatment dose r115777 but not possible compare results between two different doses because number xenografts too small after stratification
+however all results proliferation apoptotic change different groups pointed same direction except unchanged apoptotic index after seven days treatment lower dose group
+clinical studies r115777 phase i trials shown reversible myelosuppression dose-limiting toxicity drug [3536]
+phase ii study continuous intermittent dosing r15777 women advanced breast cancer [37] partial response stable disease demonstrated about 20% treated women
+forty-one primary tumours study conducted johnston coworkers [37] analyzed ras mutations only one tumour h-ras mutation
+no correlation between response er and/or her2 expression seen study
+no clinical studies involving ftis patients dcis been performed knowledge ras status dcis lesions sparse
+one study [38] two out 25 dcis lesions over-expressed wild-type k-ras another study [39] four out five dcis patients expressed detectable plasma levels wild-type ras but no ras mutations found studies
+we shown fti effective some tumours not others
+future might possible identify those tumours will benefit treatment fti
+series new signal transduction inhibitors (stis) under development [40]
+gaining better understanding how different interactions normal upregulated downregulated signal pathways work we hopefully will able tailor breast cancer treatment individual patients
+furthermore data suggest combining stis endocrine therapy may more effective sti alone [41-43]
+there lack correlation between preclinical results ftis results clinical studies
+inhibition farnesylation not been clearly correlated tumour inhibition cancer patients [44]
+there need identify targets ftis preclinical setting we understand clinical results able select patients future studies
+breast cancer potentially suitable tumour type study because possible perform experiments similar ours human tumours tested xenograft model
+exact mechanism action ftis cancer cells remains unknown
+other ras-independent mechanisms action might play role antitumour effect including inhibition enzymes other farnesyl transferases [4445]
+we clearly demonstrated inhibition farnesylation vitro present study
+we demonstrated effect farnesylation cell tumours good response r115777 treatment
+however effect not clear in vitro setting varied among treated tumours
+indicates mechanisms other farnesyl transferase inhibition involved tumour growth inhibition
+treatment fti reduced cell growth vitro
+cell tumour growth vivo reduced we showed increased apoptosis decreased proliferation resulting reduced cti
+human dcis xenografts treatment resulted reduced cti
+fti r115777 promising new treatment breast cancer
+type tumours respond farnesyl transferase inhibition must established before treatment become clinically useful
+we planning further investigations mechanisms action ftis how affect different pathways regulate cell survival proliferation
+cti = cell turnover index dcis = ductal carcinoma situ er = oestrogen receptor fcs = foetal calf serum fti = farnesyl transferase inhibitor ic50 = 50% inhibitory concentration pi3k = phosphatidylinositol 3-kinase sti = signal transduction inhibitor
+research partly sponsored johnson johnson pharmaceutical research development new jersey usa
+fw participated design study carried out cell tumour experiments obtained patient consent collected human dcis tissue performed part statistical analysis drafted manuscript
+dw participated design study carried out cell tumour experiments carried out immunoassays western blots
+ea participated design coordination study
+fk participated design study classified human dcis tissue helped counting proliferation apoptosis tumour cells
+rbc participated design coordination study
+jm participated design parts study performed statistical analysis
+njb participated design coordination study helped draft manuscript
+all authors read approved final manuscript
+tumour growth inhibition
+(a) tumour growth inhibition mcf-7/her2-18 tumours grown athymic mice treated r115777 50 mg/kg 100 mg/kg
+median tumour volume treated relative control animals given cubic millimetres
+(b) tumour growth inhibition r115777 skov3 tumours
+(c) tumour growth inhibition r115777 mda-mb231 tumours
+farnesyl transferase inhibition vitro vivo
+(a) detection unfarnesylated farnesylated band hdj2 protein western blot technique cell pellets treated different doses r115777 controls
+all treated cell pellets exhibit high proportion unfarnesylated protein
+(b) detection unfarnesylated farnesylated band hdj2 protein western blot technique mcf-7/her2-18 cell tumours treated r115777 control vehicle
+tumours selected those tumours treated r115777 exhibiting good response control tumours no response tumour growth
+four out five treated tumours unfarnesylated protein detected
+results cell cell tumour experiments table shows concentration r115777 required reduce cell numbers 50% (50% inhibitory concentration [ic50]) inhibition r115777 two different doses tumours grown athymic mice receptor ras status different cancer cell lines
+adata collected literature [41246]
+egfr epidermal growth factor receptor er oestrogen receptor sem standard error mean
+apoptosis proliferation cell tumour experiments effect r115777 proliferation (ki67) apoptosis (tdt-mediated dutp-fluorescence nick end labelling [tunel]) cell turnover index (cti) cell line tumours grown athymic nude mice
+values expressed median values (interquartile range)
+*p < 0.05 **p < 0.01 ***p < 0.001 ****p < 0.0001
+results experiments conducted human dcis xenografts overall effect farnesyl transferase inhibitor r115777 proliferation apoptosis ducatal carcinoma situ (dcis) breast
+xenografts implanted athymic mice day 0 left untreated 14 days
+xenografts removed day 14 day 21 day 28
+mice gavaged twice daily either r115777 control vehicle starting day 14 after removal first pair xenografts
+proliferation measured immunohistochemistry (ki67) apoptosis morphology haematoxylin eosin stained slides
+data shown represent overall effect r115777 both doses separately
+data only include mice data available day 14 day 21 day 28
+data expressed geometric means 95% confidence intervals
+statistical significance tested change between day 14 day 21 between day 14 day 28
+*p < 0.05 **p < 0.01 ***p = 0.001
+cti cell turnover index.

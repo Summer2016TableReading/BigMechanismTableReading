@@ -1,0 +1,85 @@
+84
+table 2 summary mutation analyses immunohistochemical western blotting data uveal melanoma cell lines primary uveal melanomas (a) uveal melanoma cell lines cell line braf mutation analysis nras mutation analysis kras mutation analysis hras mutation analysis total erk western phospho-erk western phospho-mek western phospho-elk western primaries ocm 1 v599e wt wt wt +++ +++ ++++ +++ mel 285 wt wt wt wt ++++ ++++ ++ ++ mel 290 wt wt wt wt ++++ ++++ +++ ++ 92.1 wt wt wt wt +++ ++ +++ +++ 92.2 wt wt wt wt +++ ++ ++ +++ ocm 3 wt wt wt wt +++ ++ ++++ +++ mel 202 wt wt wt wt +++ ++ +++ +++ mel 270 wt wt wt wt +++ ++ +++ ++ metastases omm 1.3 wt wt wt wt +++ + + +++ omm 1.5 wt wt wt wt +++ + + +++ omm 1 wt wt wt wt +++ + ++++ +++ (b) primary uveal melanomas tumour sample id braf mutation analysis nras mutation analysis kras mutation analysis hras mutation analysis total erk1/2 ihc phospho erk1/2 ihc     1 wt wt wt wt ++ ++++     2 wt wt wt wt +++ +++     3 wt wt wt wt + +++     4 wt wt wt wt + +     5 wt wt wt wt ++ +++     6 wt wt wt wt + ++++     7 wt wt wt wt +++ +++     8 wt wt wt wt + ++     9 wt wt wt wt +++ +     10 wt wt wt wt ++ +     11 wt wt wt wt ++ +     12 wt wt wt wt +++ +++     13 wt wt wt wt ++ +     14 wt wt wt wt + +     15 wt wt wt wt ++++ ++++     16 wt wt wt wt ++ +++     17 wt wt wt wt + +     18 wt wt wt wt +++ +     19 wt wt wt wt ++++ +     positive control cutaneous melanoma v599e na na na +++ ++++     level expression western blotting immunhistochemistry (ihc) experiments scored categorised either negative (â??) weakly positive (+) weakâ??moderately positive (++) moderately positive (+++) strongly positive (++++) na=not applicable.
+contrast cutaneous melanoma there no evidence braf mutations involved activation mitogen-activated protein kinase (mapk) pathway uveal melanoma although there increasing evidence pathway activated frequently latter tumours
+study we performed mutation analysis ras braf genes panel 11 uveal melanoma cell lines 19 primary uveal melanoma tumours
+addition western blot immunohistochemical analyses performed downstream members mapk pathway order assess contribution components
+no mutations found any three ras gene family members only one cell line carried braf mutation (v599e)
+despite mitogen-activated protein kinase/extracellular signal-regulated kinase kinase (mek) erk elk constitutively activated all samples
+data suggest activation mapk pathway commonly involved development uveal melanoma but occurs through mechanism different cutaneous melanoma
+total 11 uveal melanoma cell lines derived primary uveal melanomas (mel202 mel 285 mel 270 mel 290 ocm 1 ocm 3 92.1 92.2) uveal melanoma metastases (omm 1 omm 1.3 omm 1.5) analysed
+mel 202 mel 285 mel 270 mel 290 two cell lines derived metastases (omm 1.3 omm 1.5) kindly provided dr br ksander (schepens eye institute boston ma usa)
+omm 1 obtained subcutaneous metastasis established dr luyten ( luyten et al 1996 )
+cell lines ocm 1 ocm 3 provided dr kan-mitchell ( kan-mitchell et al 1989 ) cell lines 92.1 92.2 derived same primary tumour established our own laboratory ( de waard-siebinga et al 1995 )
+melanoma cell lines cultured rpmi 1640 (gibco paisley scotland) medium supplemented 3?m m l -glutamine (gibco) 2% penicillin/streptomycin 10% fbs (hyclone logan ut usa)
+all cell cultures incubated 37°c humidified 5% co2 atmosphere
+addition we analysed 19 primary fresh frozen uveal melanomas
+primary tumours eight located choroid 11 both choroid ciliary body
+four samples showed spindle cell type one epithelioid cell type 14 mixed population cells
+all samples derived tumours diameter greater 12?ml prominence greater 6?ml
+research protocol followed tenets declaration helsinki (world medical association declaration helsinki 1964 ethical principles medical research involving human subjects)
+dna extracted cell line using adaptation salting-out method ( miller et al 1988 )
+primers used amplify parts braf ras genes given table 1 
+reactions braf contained 200 ng dna qiagen (hilden germany) pcr buffer (10 × concentrated containing tris-cl kcl (nh4)2so4 15?m m mgcl2 ph 8.7) q solution (pcr enhancer) 20?pmol? ? l?1 primer 2?m m dntp 1.25?u qiagen taq polymerase
+amplification involved 35 cycles denaturation 94°c 45?s annealing 56°c 90?s extension 72°c 90?s
+initial 12?min denaturation step 94°c final 3?min extension 72°c used
+ras genes dna amplified using qiagen taq polymerase described above but pcr involved ?touchdown' thermal cycling routine two cycles annealing temperature decreasing steps 2°c followed 25 cycles lowest temperature
+cycle consisted denaturation 94°c 45?s annealing 65?57°c 90?s extension 72°c 90?s
+initial 12?min denaturation 94°c final 3?min extension 72°c employed
+19 fresh frozen uveal melanoma samples total rna extracted rneasy kits described manufacturer (qiagen)
+rna primed random primers reverse transcribed cdna 20? ? l reaction volume containing 200?u superscript ii (mmv) reverse transcriptase (invitrogen inc breda netherlands)
+pcr primers used amplifying parts braf ras genes primary tumour samples listed table 1 
+touchdown pcr procedure braf followed described above fixed annealing temperature 57°c total 38 cycles used ras genes followed final elongation step 10?min
+pcr products all samples electrophoresed through 1.5% tae/agarose gels stained ethidium bromide excised purified using qiagen qiaquick gel extraction kit
+ras braf pcr products sequenced using applied biosystems (abi) bigdye version 3 reagents according manufacturer's instructions using 3.2?pmol? ? l?1 primer
+sequencing products precipitated using 75% isopropanol run abi 377 automated sequencer (pe applied biosystems foster city ca usa)
+protein lysates uveal melanoma cell lines separated 12.5% sds?page gels proteins transferred hybond-polyvinyldifluoride membranes (amersham biosciences buckinghamshire uk)
+after blocking 5% skim milk pbs-tween solution membranes probed overnight 4°c following primary antibodies specific antigen: phospho-mek1/2 (dilution 1?:?1000) phospho-erk1/2 (p44/42) (#9106 dilution 1?:?5000) total erk1/2 (#9102 dilution 1?:?1000) phospho-elk1 (dilution 1?:?1000) antibody (all cell signaling technology hertfordshire uk)
+antibody against actin (santa cruz biotechnology california usa) used loading control
+membranes then incubated horseradish peroxidase-conjugated igg anti-mouse anti-rabbit anti-goat secondary antibodies 1?h room temperature visualise protein bands
+acetone-fixed 10? ? m sections 19 fresh frozen uveal melanomas washed three times pbs (ph=7.2) incubated anti-erk1/2 anti-phospho-erk 1/2 antibodies (cell signalling technology beverly ma usa #9102 #9106 respectively) both diluted 1?:?100 pbs 1% bsa 2% normal human serum (nhs) 4°c
+sections washed three times incubated cy3-conjugated affinipure goat anti-rabbit igg cy3-conjugated affinipure rabbit anti-mouse igg (jackson immunoresearch west grove pa usa #111-165-003 #315-165-003) both diluted 1?:?500 respectively during 1?h room temperature
+sections rinsed pbs three times incubated 20?min alexa fluor 647 phalloidin (molecular probes leiden netherlands #a22287) 1?:?40 dilution
+sections washed three times pbs
+nuclear staining preformed incubating sections 5?min 4?6-diamidino-2-phenylindole dilacetate (dapi molecular probes leiden netherlands #d-3571) 1?:?500
+sections rinsed briefly pbs imbedded vectashield (vecta shield h1000 brunschwig amsterdam netherlands)
+specimen fluorescence cy3 determined three different microscope fields (leica dmrxa microscope leica microsystems rijswijk netherlands)
+no background fluorescence cy3 observed
+number positively stained tumour cells estimated two antibodies expressed percentage total number tumour cells analysed section
+percentages then categorised either negative <5% (+/?) very weakly positive 5?25% (+) weakly positive 26?50% (++) moderately positive 51?75% (+++) highly positive 76?100% (++++)
+slides examined two observers independently
+interobserver disagreement did not exceed one category
+11 uveal melanoma cell lines under study only one cell line (ocm 1) carried braf mutation common v599e (also described calipel et al kilic et al )
+all primary tumour specimens wild type braf 
+no mutations found nras hras kras genes both cell lines primary tissue
+order assess level expression activation (by phosphorylation) members mapk pathway downstream ras braf western blot analysis performed uveal melanoma cell lines ( table 2a )
+expression levels downstream members ras braf presented figure 1 
+response constitutively activating braf mutation ocm 1 downstream members mapk pathway show activation (phosphorylated mek erk elk)
+levels expression downstream members not different two cell lines derived same primary tumour (92.1 92.2) except phosphorylated mek indicating there been little clonal divergence between cell populations during vitro culturing
+interestingly compared phosphorylation status members ocm 1 most cell lines show activation mek erk elk however cell lines show activation absence mutations upstream ras braf genes
+levels total erk remarkably similar across all cell lines exception two cell lines mel 285 mel 290 significantly higher levels total erk others
+keeping observation two cell lines highest levels phosphorylated-erk
+figure 2 shows there no significant influence serum activity erk1/2 cell lines reported recently calipel et al (2003) 
+immunofluorescence results total phospho-erk1/2 panel 19 fresh frozen uveal melanoma sections listed table 2 (b) 
+seven 19 primary tumours less 5% tumour cells stained positively erk1/2 nine tumours phosphorylated erk1/2
+despite lack mutations ras braf genes set uveal melanomas noteworthy we observed phosphorylated (active) erk1/2 expression 10 19 tumours
+there no significant association between erk1/2 activation tumour location cell type
+scoring system antibody cannot compared between antibodies since antibodies recognise different epitopes different affinities therefore staining intensity western immunohistochemistry relative only other samples particular antibody used
+uveal melanoma cell lines primary uveal melanomas analysed our study only cell line ocm 1 carried mutation braf (v599e) thus confirming documentation mutation cell line calipel et al (2003) kilic et al (2004) 
+similarly our observation complete lack braf mutations primary uveal tumours mirrors findings several recent reports ( cohen et al 2003 cruz et al 2003 edmunds et al 2003 rimoldi et al 2003 weber et al 2003 kilic et al 2004 )
+table 3 contains summary published reports ras braf mutations well studies other members mapk pathway uveal melanomas
+including results our study date not single braf mutation been found total 276 primary secondary uveal melanoma samples ( table 3 )
+somewhat surprising therefore three out three uveal melanoma cell lines studied calipel et al (2003) carried v599e mutation braf especially since only one out 11 cell lines panel we analysed found mutation
+taken together data suggest while braf mutation not required uveal melanoma development vivo such mutations confer cellular growth advantage hence selected occur cell lines cultured vitro 
+our study none cell lines primary tumours carried mutations any three ras genes (n h k) finding consistent previous report ( soparker et al 1993 )
+mutation data stark contrast cutaneous melanoma would appear suggest mapk pathway unlikely play significant role uveal melanoma development
+however contrary western blot analysis immunohistochemistry we found substantial evidence activation mapk pathway absence serum majority uveal melanoma samples ? both cell lines primary uveal melanoma specimens
+frequent mapk pathway activation uveal melanoma independent ras braf mutations been reported recently others ( rimoldi et al 2003 weber et al 2003 ) but mechanism unknown
+recently interaction been found between mapk pten pathways both frequently activated parallel promote cutaneous melanoma development ( tsao et al 2004 )
+tempting speculate mapk activation uveal melanoma may arise via crosstalk pi3k/pten/akt pathway possibly consequence mutation some its components (other pten not mutated tumour type)
+thus mutation analysis pi3k akt gene families uveal melanomas seems warranted
+interestingly graells et al (2004) demonstrated proangiogenic vascular endothelial growth factor (vegf) frequently highly expressed uveal melanoma ( stitt et al 1998 sheidow et al 2000 ) could operate cutaneous melanoma survival factor through increasing mapk pi3k pathway activity
+possible mapk activation such crucial requirement uveal melanoma development because similarly provides survival and/or antiapoptotic signals necessary tumour cell growth maintenance
+although many uveal melanoma samples been studied braf nras mutations few been analysed mapk activation there implicit assumption pathway not involved uveal melanoma genesis
+our study only study design providing mutation information all ras members expression data wide range participants mapk pathway
+our data thus support notion activation mapk indeed involved development uveal melanoma but occurs via different mechanism(s) majority cutaneous melanomas
+conclusion significant ramifications development rational therapies treat uveal melanoma implies general inhibitors pathway may still effective even though tumours do not mutations ras braf .

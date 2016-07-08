@@ -1,0 +1,584 @@
+583
+10.1371/journal.pgen.1001258.t004 table 4 mitf sox10 mrna levels melanocytes melanoma cell lines following atf2 kd melanocytes/melanoma cells relative change mitf mrna upon atf2 kd * level sox10 upon atf2 kd ** hermes 3amelanocytes 6â??7 fold increase 6â??8 fold increase melan-ink4a-arf1melanocytes 4â??6 fold increase nd lu1205 2â??3 fold increase unchanged wm35 2.5â??3.5 fold increase unchanged wm1361 4â??6 fold increase 3â??3.5 fold increase wm793 1.5â??2 fold increase 1.5â??2 fold increase sbcl2 1.5 fold increase 1.5 fold increase wm4 2 fold increase 2 fold increase wm9 2 fold increase 1.5 fold increase wm1650 1.7 fold increase 1.5 fold increase wm1552 2 fold decrease unchanged wm3629 2.5 fold decrease 1.7 fold decrease 501mel 2.5â??3 fold decrease 0.6 fold decrease sk-mel-2 2.5 fold decrease 2 fold decrease sk-mel-5 3 fold decrease 2 fold decrease sk-mel-8 2.5 fold decrease 1.5 fold decrease mewo 2â??2.5 fold decrease 0.5 fold decrease uacc903 4 fold decrease 1.5 fold decrease a2068 unchanged 2.5 fold decrease wm1366 unchanged 2.3 fold increase *relative changes mitf upon atf2 kd shown fold change rna level determined qpcr data shown represent triplicate analyses **relative changes sox10 upon atf2 knock down (kd) quantified qpcr analysis nd: not determined.
+transcription factor atf2 been shown attenuate melanoma susceptibility apoptosis promote its ability form tumors xenograft models
+directly assess atf2's role melanoma development we crossed mouse melanoma model ( nras q61k::ink4a ?/? ) mice expressing transcriptionally inactive form atf2 melanocytes
+contrast 7/21 nras q61k::ink4a ?/? mice only 1/21 mice expressing mutant atf2 melanocytes developed melanoma
+gene expression profiling identified higher mitf expression primary melanocytes expressing transcriptionally inactive atf2
+mitf downregulation atf2 confirmed skin atf2 ?/? mice primary human melanocytes 50% human melanoma cell lines
+inhibition mitf transcription mitf shown mediated atf2-junb?dependent suppression sox10 transcription
+remarkably oncogenic braf (v600e)?dependent focus formation melanocytes soft agar inhibited atf2 knockdown partially rescued upon shmitf co-expression
+melanoma tissue microarrays high nuclear atf2 mitf ratio primary specimens associated metastatic disease poor prognosis
+our findings establish importance transcriptionally active atf2 melanoma development through fine-tuning mitf expression
+malignant melanoma one most highly invasive metastatic tumors [1] its incidence been increasing higher rate other cancers recent years [2] 
+significant advances understanding melanoma biology been made over past few years thanks identification genetic changes along mapk signaling pathway
+those include mutations braf nras kit gnaq all result constitutively active mapk pathway [3] ? [5] 
+consequently corresponding transcription factor targets such microphthalmia-associated transcription factor (mitf) [6] ap2 [7] c-jun [8] its heterodimeric partner atf2 [9] activated induce changes cellular growth motility resistance external stress [10] [11] 
+addition constitutively active mapk/erk causes rewiring other signaling pathways [4] 
+among examples rewired signaling upregulation c-jun expression activity [8] potentiates other pathways including pdk1 akt pkc plays critical role melanoma development [12] 
+activating transcription factor 2 (atf2) member bzip family activated stress kinases including jnk p38 implicated transcriptional regulation immediate early genes regulating stress dna damage responses [13] ? [15] expression cell cycle control proteins [16] 
+activate transcription atf2 heterodimerizes bzip proteins including c-jun creb [17] [18] both constitutively upregulated melanomas [8] 
+atf2 implicated dna damage response through phosphorylation atm/atr [19] 
+knock-in mice expressing form atf2 cannot phosphorylated atm more susceptible tumor development [20] 
+nuclear localization atf2 melanoma tumor cells associated poor prognosis [21] likely due transcriptional activity constitutively active atf2
+indeed expression transcriptionally inactive atf2 peptides attenuate endogenous atf2 activity inhibits melanoma development progression xenograft models [22] ? [26] 
+studies suggest atf2 required melanoma development progression
+transcription factor mitf been shown play central role melanocyte biology melanoma progression [27] [28] 
+yet role mitf early stages melanoma development remains largely unexplored
+factors controlling mitf transcription been well documented include transcriptional activators such sox10 creb pax3 lymphoid enhancer-binding factor 1 (lef1 known tcf) onecut domain 2 (onecut-2) mitf itself [29] ? [33] well factors repress mitf transcription including brn2 foxd3 [34] [35] 
+addition mitf subject several post translational modifications affect its availability activity including acetylation sumoylation ubiquitination [27] [28] 
+directly assess importance atf2 melanoma development we employed mouse melanoma model atf2 selectively inactivated melanocytes
+we demonstrate melanoma development markedly attenuated mice expressing transcriptionally inactive form atf2 melanocytes
+surprisingly atf2 control melanoma development mediated part through its negative regulation sox10 consequently mitf transcription
+inhibition atf2 abolished mutant braf-expressing melanocytes' ability form foci soft agar partially rescued when expression mitf attenuated
+significance findings underscored our observation human melanoma tumors high ratio nuclear atf2 mitf expression associated poor prognosis
+findings identify novel mechanism underlying melanocyte transformation melanoma development
+global atf2 knockout mice leads early post-natal death [36] 
+therefore cre-loxp system utilized disrupt atf2 melanocytes
+deletion its dna binding domain portion leucine zipper motif results transcriptionally inactive form atf2 ( figure 1a [36] )
+generate loss-of-function mutants we established mice would allow cre-dependent deletion domains
+mice homozygous loxp-flanked (floxed) atf2 gene ( atf2 f/f ) born expected mendelian ratios presented no apparent abnormalities
+addition several tissues analyzed atf2 expression levels comparable between wt atf2 f/f mice (data not shown)
+a
+targeting strategy shows wild-type allele atf2 encompassing exons 8 9 (boxes) flanking loxp sequences (arrowheads)
+b
+expression atf2 assessed immunoblot melanocytes derived tyrcre + :: atf2 +/+::nras q61k::ink4a ?/? tyrcre + :: atf2 md::nras q61k::ink4a ?/? mice treated 4-oht enabling expression mutant lacking dna binding leucine zipper domains
+?-actin served loading control
+c
+induction mutant nras melanocytes
+shown rt-pcr analysis (20 cycles) nrasq61k transcript levels melanocyte cultures treated doxycycline (2mg/ml)
+rna untreated melanocytes served control (right lane) cyclophilin served internal control
+d
+melanoma development inhibited tyrcre +::atf2 md::nras q61k::ink4a ?/? mice
+image represents animals tyrcre + :: atf2 +/+::nras q61k::ink4a ?/? tyrcre + :: atf2 md::nras q61k::ink4a ?/? genotype analyzed tumor formation within 8?32 weeks
+e
+representative staining melanoma tumors mice tyrcre + :: atf2 +/+nras q61kink4a ?/? genotype melanoma markers
+immunohistochemistry performed 5 µm paraffin-embedded samples
+sections incubated s-100 dct antibody (ab) control secondary antibody (cont) counterstained hematoxylin
+scale bar?=?50 micron
+slides scanned scanscope 20× (ihc) 40× (h&e)
+elucidate role atf2 melanoma atf2 f/f mice crossed mice harboring 4-hydroxytamoxifen (oht)-inducible cre recombinase-estrogen receptor fusion transgene under control melanocyte-specific tyrosinase promoter designated tyr::cre er(t2) 
+upon administration oht we predicted cre-mediated recombination would induced spatially temporally controlled manner embryonic melanoblasts melanocytes putative melanocyte stem cells [37] 
+resulting atf2 f/f/tyr-cre er(t2) mice designated melanocyte-deleted (md) atf2 md ) indeed expressed gene encoding atf2 transcriptional mutant melanocytes
+immunoblot analysis atf2 protein confirmed melanocytes prepared wild-type tyrcre+ ::atf2 +/+ ::nras + ::ink4a ?/? (wt) mice express 70 kda band corresponding full length atf2 whereas melanocytes tyrcre+ ::atf2 md ::nras + ::ink4a ?/? mice express only 55 kda band corresponding size atf2 lacking dna binding leucine zipper domains ( figure 1b )
+address role atf2 de novo melanoma formation tyr::cre er::nras q61k::ink4a ?/? (ko exon 2?3 cdkn2a locus encodes both p16ink4a p19arf [38] ) mice develop spontaneous melanoma (lynda chin unpublished observations) crossed atf2 md mice
+similar findings reported ackermann et al
+[39] mutant n-ras/ink4a ?/? mice developed melanoma within 8?12 weeks metastatic lesions often seen lymph nodes
+however incidence melanoma lower tyr::cre er::nras q61k::ink4a ?/? mice used present study (50% penetrance 50% tumors confirmed melanoma) probably because expression mutant nras induced only after birth opposed activation nras during embryogenesis reported [39] )
+thus atf2 md::n-ras q61k::ink4a ?/? mice used assess changes melanoma incidence absence functional atf2 over period up 8 months
+all cases mouse skin treated tamoxifen within 3?5 days after birth inactivate atf2 ( figure 1b ) doxycycline their drinking water induce expression nras mutant transgene (see materials methods details figure 1c )
+control group ( tyr::cre er::atf2 +/+::nras q61k::ink4a ?/? ) 11/21 mice (52%) developed tumors within 8?16 weeks ( table 1 )
+atf2 heterozygotes ( tyr::cre er::atf2 ?/+::nras q61k::ink4a ?/? ) 18/44 mice (41%) developed tumors within 8?16 weeks tyr::cre er::atf2 md::nras q61k::ink4a ?/? group only 3 21 animals (15%) developed tumors within 24?36 weeks ( figure 1d table 1 )
+evaluate tumor type we examined melanoma markers including dct s100 all tumors ( figure 1e figure s1 )
+analysis identified 55?63% tumors melanomas both atf2 +/+ (7/11) atf2 +/? (10/18) groups ( table 2 )
+only one three tumors observed atf2 md group identified melanoma
+kaplan meier curve did not reveal significant differences survival among different genotypes probably since study primarily designed follow tumor incidence
+common all genotypes most tumors not identified melanomas fibrosarcomas lymphomas consistent previous reports [38] 
+data suggest transcriptionally active atf2 required melanoma development nras q61k::ink4a ?/? mouse melanoma model
+shown tumor incidence different genotypes
+order distinguish melanoma non-melanoma tumors subjected staining s100 dct (see figure 1e figure s1 )
+only those stained positive both markers considered melanomas
+number positive stained out total melanomas shown (percent positive) genotypes
+statistical analysis using chi-square assay revealed differences between # melanomas between atf2?/? atf2+/+ genotypes significant (p?=?0.018)
+differences among other groups not significant (differences between # melanomas between atf2?/+ atf2+/+ p?=?0.36 differences between # non-melanomas between atf2?/? atf2+/+ groups p?=?0.37
+differences between # non-melanomas between atf2?/? atf2?/+ p?=?0.92)
+assess mechanism underlying atf2's contribution melanoma development we conducted gene profiling array analysis primary melanocytes prepared tyr::cre +::atf2 +/+::nras q61k::ink4a ?/? tyr::cre +::atf2 md::nras q61k::ink4a ?/? mice
+analysis limited melanocytes since reported above only one melanoma formed atf2 mutant group
+all cases atf2 inactivated nras induced culture within 48h plating cells monitored western blots ( figure 1b 1c data not shown)
+melanocytes enriched immunostaining appropriate markers confirmed samples free keratinocytes fibroblasts (data not shown see materials methods details)
+rna prepared cultures two biological technical replicates used data analysis
+shown table 3 among transcripts differentially expressed atf2 wt mutant cultures several factors play important role melanocyte pigmentation including mitf silver tyrp1 dct 
+qpcr analysis performed independently prepared rna samples melanocytes expressing wt ( tyr::cre +::atf2 +/+::nras q61k::ink4a ?/? ) mutant atf2 ( tyr::cre +::atf2 md::nras q61k::ink4a ?/? ) confirmed altered expression pigmentation genes ( table 3 )
+data provide initial indication atf2 negatively regulates mitf several other important pigmentation genes
+pigmentation genes identified array known regulated mitf [27] we focused regulation mitf atf2
+primary melanocytes isolated inactivation atf2+ induction n-ras expression performed culture (see materials methods details)
+rna prepared cells used array analysis
+data shown represents 2 biological 2 technical replicates array studies 3 replicates qpcr analyses (see materials methods details)
+confirm atf2 negatively regulates mitf expression we assessed mitf transcription primary mouse melanocytes harboring wt ( tyr::cre ?::atf2 +/+ ) mutant ( tyr::cre +::atf2 md ) forms atf2
+rna prepared whole skin mice (3 mice per group) subjected qpcr analysis
+significantly mitf expression inversely correlated presence functional atf2 samples obtained atf2 mutant skin exhibited greater 2-fold increase mitf expression compared those obtained wt atf2 mice ( figure 2a )
+likewise we found genes transcriptionally regulated mitf such dct silver tyrp1 upregulated skin mutant atf2 mice ( figure 2a )
+degree altered expression pigmentation genes less pronounced whole skin samples cultured melanocytes ( table 3 ) probably due confounding effects vitro cell culture
+confirm qpcr data we performed immunostaining skin tissue samples obtained 4 days old wt atf2 mutant mice observed increased mitf expression melanocytes atf2 md mice relative their wt counterparts ( figure 2b )
+quantification mitf staining revealed approximate 2-fold increase nuclear mitf expression atf2 md compared wt mice ( figure 2c )
+note level s100 staining hair matrix markedly reduced skin atf2 md mice
+later time point (2 weeks) representing advanced stage melanocyte development s100 staining similar both genotypes while mitf expression remained upregulated atf2 md mice (not shown)
+all data confirm our initial observations primary mouse melanocytes mitf levels elevated atf2 mutant-expressing cells
+a
+qpcr performed rna prepared skin 4-day-old atf2 wt atf2 md mice (3 mice per sample see materials methods details)
+shown representative analysis 3 independent samples
+b
+ihc analysis mouse skin prepared 4-day-old mice
+staining corresponding antibodies performed indicated experimental procedures
+magnifications shown 20 40×
+s100 staining reveals changes hair matrix (low magnification) migrating melanoblasts (higher magnification) scale bar?=?100 micron
+c
+quantification immunostaining performed using automated aperio scanscope cs system (see materials methods details)
+percentage (%) reflects amount positive signal five selected fields representing longitudinal sections through skin containing entire length hairs bulb subcutis epidermis
+additional assessment performed melan - ink4a-arf1 melanocytes line derived black ink4a-arf null mice [40] primary human melanocytes
+both atf2 expression inhibited viral infection corresponding mouse human shrna (shatf2)
+infection either primary human ( figure 3a ) melan - ink4a-arf1 melanocytes ( figure 3b ) shatf2 markedly increased mitf transcription protein expression ( figure 3a 3b )
+findings show loss transcriptionally active atf2 allows higher expression mitf strongly suggest atf2 negatively regulates mitf expression melanocytes
+a
+upper panel atf2 knocked down primary human melanocytes (one 10 cm plate 50% confluent) cells either untreated kept under hypoxia (1%) 16h
+cells lysed western blotting carried out indicated antibodies
+lower panel rna extracted above samples qpcr carried out using mitf primers
+cyclophilin served internal control
+b
+upper panel atf2 knocked down melan-ink4a-arf1 mouse melanocytes western blotting performed using indicated antibodies
+lower panel qpcr above samples carried out using mitf primers
+c
+left panel lu1205 melanoma cells (one 10 cm plate 50% confluent) transduced either empty shatf2 lentiviral vectors
+cells left untreated kept under hypoxia (1%) treated uv-b (21 mj/cm2 6 h) irradiation
+proteins prepared 6h after uv-b treatment 16h after growth under hypoxia
+proteins immunoblotted using indicated antibodies
+right panel rna extracted cells maintained under same conditions qpcr performed using mitf primers
+cyclophilin served internal control qpcr
+d
+experiment carried out mewo melanoma cells described panel c
+given atf2 negatively regulates mitf melanocytes mouse human tissues related melanocyte cell lines we asked whether atf2 regulates mitf human melanoma cells
+initially we assessed changes mitf expression six human melanoma lines harboring oncogenic mutations braf nras atf2 expression effectively inhibited corresponding shrna (shatf2)
+all cases shrna specificity confirmed using three independent sequences (data not shown)
+surprisingly six melanoma lines fell two classes based distinct patterns regulation mitf atf2 ( table 4 )
+first class comprised four six melanoma cultures (1205lu wm35 wm793 wm1361) mitf expression elevated 3?6-fold following inhibition atf2 expression ( figure 3c s2a )
+conversely second class cells including mewo 501mel cells exhibited decreased mitf expression after atf2 knockdown (kd) suggesting positive regulation mitf atf2 ( figure 3d s2b )
+notably latter group showed high levels basal mitf expression [41] [42] suggesting regulation mitf expression cells differs mechanistically first group
+further response stress (uv hypoxia) mewo 501mel lines further reduced mitf expression ( figure 3d data not shown) providing further evidence differential regulation mitf cells both prior response stress stimuli
+additional analyses performed employing 12 more melanoma cell lines
+inhibition atf2 expression revealed 4/12 exhibited increase mitf expression while 6/12 decreased mitf expression
+two 12 lines did not exhibit change mitf expression following atf2 kd ( table 4 s5)
+collectively out 18 melanoma lines we found 8 (44%) retained similar negative regulation mitf atf2 observed melanocytes
+however another 8 (44%) exhibited positive regulation mitf atf2 pointing transcriptional switch occurred course melanocyte transformation
+mitf not affected altered atf2 expression 2/18 cell lines ( table 4 figure s5 )
+all about 50% melanoma cell lines atf2 elicits negative regulation mitf similar what seen human mouse melanocytes
+*relative changes mitf upon atf2 kd shown fold change rna level determined qpcr
+data shown represent triplicate analyses
+**relative changes sox10 upon atf2 knock down (kd) quantified qpcr analysis
+nd: not determined
+mitf transcription regulated complex positive negative cues [27] 
+instance while creb sox10 positively regulate mitf brn2 foxd3 been shown downregulate mitf expression [29] [30] [34] [35] 
+hence we used melanocytes representative melanoma lines assess mechanisms underlying positive negative regulation mitf
+infection human melanocyte line hermes 3a shatf2 effectively inhibited atf2 expression upregulated mitf transcription increased transcription sox10 foxd3 (from 7- 10-fold) lesser extent pax3 brn2 (from 1.5- 2-fold) ( figure 4a s3a )
+similarly inhibition atf2 transcription human melanoma 1361 cells increased sox10 foxd3 transcription albeit lesser degree (3- 1.5-fold respectively) compared human melanocytes ( figure s3b )
+neither brn2 nor pax3 transcription elevated melanoma cells atf2 expression inhibited ( figure s3a )
+observations suggest role atf2 foxd3- sox10-mediated regulation mitf transcription melanocytes melanoma cells
+a
+atf2 knocked down human melanocytes (hermes 3a) qpcr carried out using primers indicated mrnas
+b
+melanoma cells (wm1361 one 10 cm plate 50% confluent) transduced either empty shatf2 lentiviral particles
+cells selected 3 days puromycin treatment (1.5 µg/ml) then transfected either wt mitf-luciferase reporter one mutant brn2 site (0.5 µg) along ?-gal (0.1 µg) internal control
+?-gal activity normalized every sample relative fold change reporter activity control shatf2 cells shown
+right panel- analysis performed wm1361 melanoma cells using wt cre-mutated mitf promoter
+c
+analysis performed panel b using human melanocytes h3a ( left panel ) 1361 melanoma cells ( right panel ) wt mitf promoter construct sox10 site mutated
+d
+human melanocytes (h3a one 10 cm plate 50% confluent) infected control shrna (sisc) shatf2
+after puromycin selection 3 days control shrna cells atf2 knock down cells (2×106) transfected either scrambled sirna (sisc) sirna against sox10
+after 72 h western analysis carried out using 50 µg proteins indicated antibodies
+e
+same analysis performed human melanoma cells
+right panel rna extracted cells used qpcr analysis mitf transcripts
+assess possible role foxd3 regulation mitf we inhibited foxd3 expression melanocytes expressing control shrna shatf2
+inhibition foxd3 expression increased sox10 transcription protein expression albeit lower levels compared inhibition atf2 expression ( figure s4 )
+concomitant increase mitf rna protein levels lower compared seen upon inhibition atf2 expression
+notably inhibition both atf2 foxd3 resulted additive increase sox10 mitf ( figure s4 )
+data suggest foxd3 may contribute negative regulation mitf melanocytes independent atf2
+since inhibition foxd3 elicited less pronounced effect compared atf2 since effect appeared atf2-independent furthermore did not appear mediate similar changes human melanoma cells ( figure s3b data not shown) we focused assessment direct mechanisms underlying atf2 effect mitf transcription
+end we first analyzed mitf promoter sequences atf2/cre elements (cyclic amp response element) targeted atf2 well sequences recognized brn2 sox10 using luciferase reporter construct (mitf-luc) [43] 
+using either wild-type (wt) construct one brn2 site mutated we observed increased luciferase activity following inhibition atf2 transcription wm1361 melanoma ( figure 4b ) well lu1205 wm35 melanoma cells (data not shown)
+relative increase luciferase activity following atf2 inhibition equivalent both constructs suggesting atf2 effect not mediated brn2 ( figure 4b left panel)
+similarly mitf transcriptional activities altered similar degree following inactivation cre element ( figure 4b right panel) suggesting atf2 down-regulation mitf promoter indirect
+we therefore assessed whether sox10 positively regulates mitf whose transcription markedly increases melanocytes melanoma cells atf2 expression inhibited ( figure 4a s3b ) may mediate atf2 effect mitf transcription
+analysis mitf-luc construct harboring mutant sox10 binding site revealed atf2 inhibition no longer elicited increased mitf transcription human melanocytes melanoma cells ( figure 4c )
+agreement inhibition sox10 expression corresponding sirna attenuated increase mitf transcription seen shatf2-expressing human melanocytes ( figure 4d ) melanoma cells ( figure 4e )
+results suggest atf2 regulation mitf transcription mediated sox10
+agreement chromatin immunoprecipitation (chip) assays confirmed increased binding sox10 mitf promoter melanoma cells expressing shatf2 ( figure 5a )
+a
+chromatin immuno-precipitation performed using antibodies sox10 creb (or rabbit igg control) wm1361 melanoma cells expressing either control shrna atf2 shrna
+mitf promoter sequence spanning ?300 ?120 (180bp containing sox10 binding sites cre site) amplified using mitf-specific primers
+gapdh served control
+b
+chip performed using indicated antibodies followed amplification sox10 promoter sequence containing ap-1 binding sites (?4797 ?4791)
+gapdh served control
+c
+chip analysis carried out using atf2 junb antibodies cells express either shcontrol shatf2 jun dn construct tam67
+d
+expression junb jund (3 µg) alone combination tam67 (2 µg) performed wm1361 melanoma cells expression sox10 protein monitored westerns quantified using licor imaging system
+corresponding changes level mitf transcripts assessed qpcr (lower panel)
+e
+experiment similar shown panel d performed melanocytes h3a cell line
+f
+effect junb sox10 expression assessed melanoma wm1361 cells expressing control shatf2
+right panel shows level mitf transcripts quantified qpcr
+putative response element ap1 (which serve atf2 response element through atf2 heterodimerization jun family members [9] ) been identified upstream regions sox10 promoter [44] 
+we examined potential atf2 binding element chip found endogenous atf2 but not atfa binds ap1 sequence (?4797?4791) both human melanocytes melanoma cells ( figure 5b )
+we next set identify atf2 heterodimeric partner could mediate negative regulation sox10 transcription
+among members jun family implicated transcriptional silencing junb
+thus further assessment performed determine junb functions atf2 heterodimerization partner regulate sox10 transcription through ap1 site
+chip analysis confirmed junb binds ap1 site found sox10 promoter sequences ( figure 5c )
+confirm possible role junb regulating mitf transcription we asked whether expression tam67 negative regulator jun family members could attenuate binding transcriptional activities elicited junb
+expression tam67 indeed reduced degree atf2 junb binding ap1 site sox10 promoter
+further kd atf2 expression abolished binding both atf2 junb ap1 site sox10 promoter ( figure 5c )
+data confirm presence atf2-junb complex sox10 promoter suggest atf2 recruits junb binding ap1 site sox10 promoter
+assess role junb sox10 transcription we monitored changes sox10 expression protein rna levels
+expression tam67 caused increased expression sox10 both human melanoma (?2 folds figure 5d ) melanocytes (?3 folds figure 5e ) indicating some relief junb inhibition
+co-expression tam67 jun b attenuated increase reducing level sox10 expression basal levels ( figure 5d 5e )
+over-expression junb but not jun d effectively inhibited sox10 expression both melanoma melanocytes cells ( figure 5d 5e )
+data suggest junb mediates inhibition sox10 expression
+further reveal role atf2 inhibition we assessed effect junb sox10 expression cells expressing control shrna shatf2
+while ectopic expression junb reduced expression sox10 control shrna-expressing cells such decrease no longer seen cells expressing shatf2 ( figure 5f )
+collectively findings suggest atf2 concert junb responsible inhibition sox10 expression
+we next assessed effect atf2 sox10 mitf expression 12 additional human melanoma cell lines
+all cases cells infected shatf2 changes sox10 mitf monitored level rna
+notably about 4/12 melanoma lines revealed increase both sox10 mitf expression upon kd atf2 ( figure s5 table 4 )
+contrast 6/12 melanoma lines revealed decrease mitf expression 5 shown decrease sox10 expression pointing positive regulation sox10 mitf melanoma cells
+two out 12 melanoma lines atf2 affected sox10 but not mitf transcription ( figure s5 )
+overall our cohort 18 melanoma lines revealed about 50% melanomas retained negative regulation mitf atf2 seen melanocytes (primary cell lines) ( table 4 )
+further assess whether atf2 regulation mitf sox10-dependent melanocytes melanoma cells we coexpressed sox10 shatf2-expressing cells
+seen earlier analysis inhibition atf2 expression caused increase mitf transcription human melanocytes 4 melanoma cell lines (wm1361 wm793 lu1205 wm35 figure s6 )
+notably melanocytes 2/4 melanoma cell lines revealed atf2 effect mitf expression sox10-dependent (wm1361 wm793 figure s6 )
+two four melanoma cell lines did not reveal increased sox10 expression although retained increased mitf expression upon inhibition atf2 (lu1205 wm35 figure s6 )
+findings confirm while melanocytes expression sox10 mitf negatively regulated atf2 mechanism conserved approximately half melanomas surveyed
+along lines two melanoma lines (mewo 501 mel) exhibit positive regulation mitf atf2 exhibited positive regulation sox10 atf2 ( figure s7 )
+inhibition atf2 expression reduced sox10 mitf rna protein levels ( figure s7a?c )
+order determine whether junb lost its ability elicit negative regulation sox10 mitf melanoma cells where atf2 no longer inhibited sox10 mitf expression we transfected those cell lines tam67 junb alone combination
+cells whereas tam67 effectively attenuated sox10 mitf expression junb did not alter expression genes suggesting positive regulation mitf sox10 atf2 depends other members jun family transcription factors ( figure s7d )
+conversely tam67 junb no effect melanoma cells atf2 inhibits mitf independently sox10 suggesting cases atf2 likely cooperates transcription factors other junb elicit negative regulation sox10 mitf ( figure s7d )
+consistent observation chip assay confirmed atf2 creb but not junb binding sox10 promoter cells ( figure s7e )
+findings suggest changes atf2 heterodimeric partner (from junb creb) likely cause switch negative positive regulation sox10 turn mitf (see below)
+possibility altered expression junb may account atf2 positive negative regulation sox10 mitf excluded no clear correlation between junb expression ability atf2 elicit negative regulation sox10/mitf seen ( figure s7f )
+among response elements potentially required upregulate mitf transcription cre element implicated creb-mediated upregulation mitf transcription [45] 
+although transcriptional activity cre mutant mitf promoter lower compared wt promoter (30%) no longer responsive inhibition atf2 expression mewo cells ( figure s8a )
+pull-down assays using biotin-tagged mitf promoter sequences harboring cre identified atf2 creb cre-bound proteins mewo melanoma cells ( figure s8b )
+agreement chip analysis confirmed occupancy cre site mitf promoter atf2 ( figure s8c )
+findings consistent fact atf2 heterodimerizes creb [9] report p38/mapk14 (which phosphorylates atf2) plays important role mitf transcription dependent cre site [46] 
+results establish atf2-dependent activation mitf transcription melanoma cells mediated through cre site likely cooperation creb
+notably mewo 501mel lines known express high mitf levels compared other melanoma lines [41] [42] suggesting cells harbor distinct mechanisms preclude negative regulation mitf atf2
+determine whether contribution atf2 melanocyte transformation development mitf-dependent we assessed melanocytes' ability grow form colonies soft agar indicative their transformed potential
+expression mutant brafv600e immortal melanocytes reportedly sufficient growth soft agar [47] 
+thus we infected melan-ink4a-arf1 melanocytes mutant braf ( figure 6a ) confirmed their ability form colonies soft agar
+mutant braf expression effectively caused formation about 1000 colonies per 5000 cells ( figure 6b 6c )
+contrast melanocytes infected braf600e shatf2 formed average about 20 colonies indicative loss tumorigenicity ( figure 6b 6c 6d ) consistent our initial observation number melanoma tumors significantly decreases absence transcriptionally functional atf2 ( tables 1 ? 2 )
+determine importance mitf early stage melanocyte transformation we inhibited mitf expression (using shrna) melanocytes expressing mutant braf alone mutant braf+shatf2
+significantly inhibition mitf expression decreased number braf-induced foci (from 1000 about 100 per well)
+over-expression mitf braf-expressing melanocytes inhibited focus formation degree similar seen following inhibition mitf expression ( figure 6b 6c 6d )
+observation implies effective inhibition overexpression mitf attenuates melanocyte transformation consistent previous reports (52)
+remarkably inhibition mitf expression melanocytes expressing both mutant braf shatf2 rescued least partially melanocytes' ability form foci soft agar (400 compared 20 seen shatf2 cells figure 6b 6c 6d )
+findings suggest inhibition mitf expression melanocytes lacking atf2 expression promote transformation
+mitf inhibition melanocytes expressing atf2 wt attenuate their ability form foci soft agar attributable relative expression mitf rna protein condition ( figure 6d )
+mitf expression levels atf2 kd cells increased 7.5-fold compared control braf-expressing melanocytes
+inhibition mitf expression atf2 kd melanocytes reduced mitf expression 2.5-fold relative controls whereas mitf kd alone resulted lower mitf expression (5-fold figure 6d )
+thus complete abrogation mitf expression attenuates melanocyte transformation whereas low moderate levels mitf expression sufficient promote growth soft agar
+higher mitf expression levels seen atf2 kd cells result total loss melanocytes' ability form foci soft agar
+findings line proposed rheostat model medium levels mitf optimal growth melanoma development [48] agreement our observations mouse melanoma model
+a
+melan-ink4a-arf1 cells stably transduced wild type braf brafv600e followed treatment ici 182780 (ici 200 nm) induce braf expression
+western analysis carried out assess erk activation using perk erk antibodies
+b
+mouse melanocytes stably expressing mutant b-raf infected lentiviral vectors carrying shrna atf2 mitf both
+cells plated (5000 per well) soft agar assessed ability form colonies after 21 days using p-iodonitrotetrazolium violet staining
+colonies counted triplicate wells per experiment experiments reproduced twice
+means +sd shown
+c
+shown representative images quantification depicted panel b
+d
+qpcr performed mitf ( left panel ) atf2 ( middle panel ) transcripts using rna cells used panels b/c
+western analysis performed lysates obtained cells used colony formation indicated antibodies ( right panel )
+e
+mouse melanocytes analyzed colony formation stained brdu
+cell cycle phase analyzed using mod fit lt v.2 program
+percentage cells g1 s g2 shown graph
+f
+melanocytes shown panels a?e stained annexin v (early apoptosis) 7-aad (apoptosis necrosis)
+plot presented reveals annexin-apc staining x-axis 7-aad staining y-axis
+mean +/? sd calculated based triplicate analyses
+we next assessed whether inhibition melanocyte growth soft agar altered atf2 and/or mitf expression attributed decreased proliferation increased apoptosis
+inhibition atf2 expression caused notable accumulation cells g2 (60%) significant cell death induction (22%) compared controls (4%) ( figure 6e 6f )
+interestingly such altered cell cycle distribution cell death rate associated significant increase mitf protein levels ( figure 6d )
+contrast inhibition mitf expression did not significantly induce cell death (6.5%) but resulted fewer cells g2/m-phase more cells g1 compared inhibition atf2 alone
+observations suggest mitf inhibition sufficient reduce rate cell cycle progression through g2/m phase inhibited growth braf600e-expressing melanocytes soft agar may attributed abrogation distinct cell cycle-regulatory mechanisms
+combined inhibition atf2 mitf restored cell cycle distribution seen control melanocytes reduced cell death 22.4% 12.9%
+interest mitf overexpression promoted similar degree cell death (11.4%) without altering cell cycle distribution similar combined inhibition atf2 mitf ( figure 6e 6f )
+together observations suggest simultaneous inhibition atf2 mitf averts cell cycle abrogation induced when expression either factors perturbed individually further substantiating regulation mitf atf2
+availability melanoma tma consisting over 500 melanoma samples expression both atf2 mitf same tumors been measured enabled us assess possible associations between atf2 mitf their correlation survival other clinical pathological factors
+our earlier studies revealed atf2 subcellular localization tumors significantly correlated prognosis: nuclear localization reflecting constitutively active atf2 associated metastasizing tumors poor outcome [7] 
+here we quantitated immunofluorescent staining tmas mitf atf2 employing our automated quantitative (aqua) method
+normalize atf2 mitf levels expression two proteins individual patients divided median expression level respective protein all patients nuclear atf2/mitf ratio calculated log-transformed
+anova analysis ratio higher metastatic primary specimens ( t value?=?2.823 p?=?0.0051) shown figure 7a 
+no association found between nuclear atf2/mitf ratio disease-specific survival among patients metastatic melanoma (not shown)
+significantly high nuclear atf2/mitf ratio primary melanoma specimens associated decreased 10-year disease-specific survival (p?=?0.0014 figure 7b )
+cox multivariable analysis association survival independent patient age breslow thickness presence absence ulceration (data not shown)
+nuclear atf2 alone primary specimens associated poor survival but lesser degree ratio nuclear atf2/mitf (p?=?0.0118 atf2 single discriminator versus p?=?0.0014 ratio nuclear atf2/mitf)
+nuclear mitf single discriminator not significant predictor survival (p?=?0.185) reported previously using immunohistochemistry [49] 
+observations suggest active (nuclear) atf2 melanoma suppress mitf expression phenomenon associated poor prognosis
+a
+atf2/mitf expression ratios tended higher metastatic primary specimens
+b
+primary specimen cohort high atf2/mitf ratios associated decreased 10-year disease specific survival
+quantification performed aqua provides continuous output scores
+absence underlying cut-point justification nuclear atf2/mitf ratios randomly binarized median ratio all specimens (primary metastatic)
+results shown primary cohort only no association found between survival atf2/mitf ratios metastatic cases
+number cases events (deaths) high low atf2/mitf expression ratios shown
+identifying mechanisms underlying early phases melanocyte transformation melanoma development central understanding etiology devastating tumor well developing novel treatment approaches
+previous studies indicate presence mutant braf melanocytic lesions well its effect pigment gene expression [6] [50] [51] 
+present study enhances our understanding early events contributing melanoma development
+we demonstrate loss transcriptionally active form atf2 melanocytes inhibits melanoma development nras/ink4a model
+our quest understand mechanisms underlying atf2 activity process led us identify important role atf2 regulation mitf important regulator melanocyte biogenesis factor implicated melanoma progression [49] 
+surprisingly atf2 negatively regulated mitf expression mouse human melanocytes suggesting atf2 transcriptional activities limit mitf expression
+we demonstrate such negative regulation elicited through downregulation sox10 atf2 cooperation junb
+putative ap1 response element been identified sox10 promoter sequences chip analysis domain showed atf2 junb binding
+overexpression junb efficiently suppressed sox10 expression atf2-dependent manner inhibition jun transcriptional activities phenocopied effect shatf2 suggesting negative regulation sox10 atf2 direct mediated cooperation junb
+importantly atf2-dependent negative regulation sox10 consequently mitf seen melanocytes but only about 50% 18 melanoma cell lines studied here
+correspondingly junb required atf2-dependent inhibition sox10 transcription no longer found promoter sox10 melanoma cells (i.e
+501mel) exhibit positive regulation atf2
+rather creb atf2 found sox10 mitf promoters pointing switch atf2 heterodimeric partners enable positive regulation genes
+notably melanoma cell lines exhibit positive regulation sox10 mitf atf2 show high basal levels mitf expression [41] [42] suggesting additional genetic epigenetic changes distinguish lines melanocytes other melanoma lines atf2 elicits negative regulation mitf
+notably atf2 control mitf expression affected ability braf600e-expressing melanocytes exhibit transformed phenotype culture monitored their ability grow soft agar
+inhibition atf2 abolished soft agar growth braf600e-expressing melanocytes partially rescued upon kd mitf
+interestingly both over expression kd mitf resulted inhibition melanocytes ability grow soft agar substantiating notion fine balance mitf expression must maintained order ensure its contribution cellular proliferation transformation
+we propose excessively low high mitf levels block melanocyte transformation whereas intermediate levels allow transformation occur
+overall our observations demonstrate atf2 plays important role fine-tuning those levels support rheostat model proposed mitf's role melanoma development progression [48] 
+importance atf2 mitf affect ability braf600e-expressing melanocytes grow soft agar via distinct mechanisms
+whereas specific inhibition atf2 causes both accumulation cells g2 induction cell death specific alteration mitf protein levels?particularly depletion?significantly affects cell proliferation inhibit growth soft agar non-lethally slowing cell cycle progression g2/m
+observations consistent report wellbrock marais [52] who showed altered mitf expression inhibits melanocyte proliferation
+importantly inhibiting mitf expression atf2 kd melanocytes sufficient partially rescue melanocyte growth soft agar
+while supportive our finding nras::ink4a mouse melanoma model where expression transcriptionally inactive atf2 inhibits melanoma formation observations provide foundation model atf2 inhibition causes increased mitf levels concomitant inhibition melanocyte growth possible induction cell death delayed development
+latter suggested ihc analysis mouse skin atf2 md mice shows notably reduced s100 staining indicative delayed melanocyte development: atf2 ko melanocytes appear represent anagen stage iv whereas wt represent anagen stage vi
+delay seen 4- but not 14-day time point suggesting atf2 effect might limited specific subpopulation phase melanocyte development
+early (4 day) time point within time frame allows induction melanoma development uv-irradiation c-met h-ras mutant mice [53] 
+therefore plausible timely control mitf expression atf2 determines melanocyte susceptibility transformation
+our analysis genes whose expression altered atf2 kd melanocytes identified cluster pigmentation genes many reportedly regulated mitf [6] [54] 
+therefore changes tyrp1 dct silver expression could attributed altered mitf expression
+however initial analysis points more complex mechanism since (i) degree changes expression genes often greater seen mitf (ii) expression some pigmentation genes found independent mitf some melanoma melanocyte cultures
+hence further studies required address mechanisms underlying atf2 regulation pigmentation genes significance such regulation melanocyte transformation melanoma development
+while our present studies focused atf2-mitf axis expected additional atf2-regulated genes contribute melanoma development [12] 
+agreement our earlier studies using both human mouse melanoma lines demonstrate inhibition atf2 effectively inhibits tumorigenesis blocks metastasis [22] ? [26] 
+important atf2 function its subcellular localization
+while findings presented here position atf2 oncogene functioning melanocyte transformation melanoma development earlier studies our laboratory others suggest keratinocytes mammary glands atf2 elicits tumor suppressor function [55] [56] 
+interest assessing localization atf2 melanoma cell lines studied here revealed all express nuclear atf2
+interestingly most cases nuclear staining revealed punctate staining resembling localization atf2 dna repair foci following dna damage ( figure s9 )
+possible link between presence atf2 repair foci most melanoma cells points possible presence activated dna damage response may associated genomic instability [19] [20] ?aspects will explored future studies
+significantly appearance nuclear atf2 correlated poor prognosis melanoma whereas melanomas exhibit cytosolic atf2 exhibit better survival
+notably cytosolic atf2 primarily seen non-malignant skin tumors [55] 
+here we demonstrate high nuclear atf2/mitf ratios associated poor prognosis primary melanomas but not metastatic melanomas
+latter finding attests important role atf2 plays control mitf expression early phase melanocyte transformation melanoma development
+overall using mutant nras / ink4a melanoma model we provide genetic evidence central role atf2 melanoma development
+we demonstrate absence transcriptionally active atf2 melanoma formation largely inhibited
+furthermore our data point unexpected role atf2 fine-tuning mitf transcription through regulation its positive regulator sox10
+mouse melanoma models vitro transformation studies indicate newly identified regulatory pathway required early phases melanocyte transformation
+given atf2 affects activity oncogenes n-ras (mouse model) braf (melanocyte growth soft agar) we expect atf2 play significant roles melanomas carry either mutations
+research involving human participants been approved institutional review board yale university (where tma prepared analyzed)
+all animal work been conducted according relevant national international guidelines accordance recommendations weatherall report approved iacuc committee sbmri
+mice bearing conditional allele mutant atf2 dna binding domain part leucine zipper domain deleted generated previously described [36] [55] 
+study function atf2 melanocytes we utilized cre-loxp system disruption atf2 gene melanocytes [37] 
+tyr::cre er::atf2 md mice their littermate controls (wt) fvb/129p2/olahsd (tyrcreert mice fvb atf2fl/fl 129p2/olahsd) n-ras/ink4a?/? mice c57bl/6/129svj
+melanoma studies we used tyr::cre er::nras q61k::ink4a ?/? mice (developed hms lc) following their cross tyr::cre er::atf2 md mice
+skin specimens fixed neutral buffered formalin solution processed paraffin embedding
+skin sections (5 µm thickness) prepared deparaffinized using xylene
+mitf dct s100 immunostaining tissue sections incubated dako antigen retrieval solution 20 min boiling bath followed treatment 3% hydrogen peroxide 20 min
+antibodies against mitf (1?100 sigma) dct (1?500 kind gift dr
+vincent hearing) s100 (1?100 dakocytomation carpinteria ca) allowed react tissue sections 4°c overnight
+biotinylated anti-rabbit igg allowed react 30 min room temperature diaminobenzidineor nova red used color reaction
+hematoxylin used counterstaining
+control sections treated normal mouse serum normal rabbit serum instead antibody
+immortalized human melanocytes hermes 3a htert (puro) cdk4 (neo) expression [57] grown rpmi 1640 medium containing fetal bovine serum (fbs 10%) 12-o-tetradecanoyl-phorbol-13-acetate (tpa 200 nm sigma st
+louis mo) cholera toxin (200 pm sigma) human stem cell factor (10 ng/ml r&d systems minneapolis ma) endothelin 1 (10 nm bachem bioscience inc torrance ca)
+primary human melanocytes (nem-lp invitrogen) grown medium 254 hmgs (cascade biologics)
+mouse melanocytes ( melan-ink4a-arf1 ) grown immortalized human melanocytes excluding human stem cell factor endothelin
+melanoma cell lines grown dmem medium supplemented 10% fbs penicillin/streptomycin (p/s cellgro)
+melanoma cell lines used study lu1205 wm793 501mel wm35 wm1361 mewo (kind gift meenhard herlyn) uacc903 maintained dmem medium supplemented 10% fbs penicillin/streptomycin
+melanoma cell lines sbcl2 wm9 wm4 wm1650 a2068 wm1366 wm3629 wm1552 skmel2 skmel5 skmel8 maintained rpmi medium supplemented 10% fbs penicillin/streptomycin
+primary melanocytes cultures prepared mice carrying atf2 wt mutant genotypes n-ras/ink4a ?/? follows
+dorsal-lateral skin removed one day-old pups disinfected 70% ethanol 1 min then washed least twice sterile pbs
+skin submerged 1× trypsin/edta overnight 4°c next day skin placed petri dish mouse melanocyte culture medium (described below)
+epidermis sheared tissue removed discarded forceps
+tissue transferred 15 ml centrifuge tubes vortexed vigorously until solution becomes cloudy (1?2 min)
+cell suspension transferred tissue culture flasks
+after 3 days melanocyte growth medium containing 0.8 µg/ml geneticin (sigma-aldrich) added eliminate contaminating fibroblasts (melanocytes resistant such treatment)
+geneticin-containing medium removed replaced fresh media after 1 day
+media changed twice week
+primary mouse melanocytes grown f-12 media (invitrogen) containing 20% l-15 media (invitrogen) 4% fbs horse serum (invitrogen) penicillin (100 units) streptomycin (50 µg) antibiotics db-camp (40 µm sigma-aldrich) 12-o-tetradecanoyl-phorbol-13-acetate (tpa 50 ng/ml sigma-aldrich) alpha-melanocyte stimulating hormone (?-msh 80 nm sigma-aldrich) fungizone (2.5 µg/ml sigma-aldrich) melanocyte growth supplement (invitrogen)
+primary melanocytes treated 4-oht (10 µm) 8h followed addition doxycycline (2 µg/ml) 24h inactivate atf2 induce expression n-ras
+atf2-specific shrna clones obtained open biosystems (catalog no
+rhs4533)
+five different shrna obtained tested their efficiency kd
+clone trcn0000013714 more efficient inhibiting atf2 human cell lines while clone trcn0000013713 more efficient knocking down mouse atf2
+subsequent experiments we used respective shatf2 clone depending human mouse cell lines
+we tested 3 different clones kd atf2 rule out any off target effect (data not shown)
+sirna control (cat # 4611) three sox10-specific sirna oligonucleotides obtained ambion (cat # 4392420)
+four foxd3 specific sirna obtained dharmacon (cat # j-009152-06 -07 -08 -09)
+sirnas pooled together equimolar ratio transient transfection
+mitf specific shrna mitf promoter luciferase constructs (wt mutant cre-luc constructs) obtained dr
+david fisher [58] 
+pgl3 vectors containing wild-type brn2-site-mutated mitf promoters obtained dr
+colin goding [34] 
+pgl3 vectors containing wild-type sox10-site-mutated mitf promoters obtained dr
+michel goossens [59] 
+retroviral vectors encoding fusion protein consisting full length human braf brafv600e linked t1 form human estrogen receptor hormone-binding domain generously provided dr
+martin mcmahon [60] 
+sox10 expression vector obtained dr
+alexey terskikh rsv-junb rsv-jund obtained dr
+michael karin pbabe-flag-tam67 dr
+michael birrer
+antibodies against sox10 creb (sc-1734 sc-186 respectively) santa cruz biotechnologies antibodies against atf2 perk erk (catalogue # 9226 4337 4695 respectively) obtained cell signaling antibodies against mitf (c5) purchased cell lab vision
+protein extract (40?60 µg) preparation western blot analysis done described previously [8] 
+specific bands detected using fluorescent-labeled secondary antibodies (invitrogen carlsbad ca) analyzed using odyssey infrared scanner (li-cor biosciences)
+?-actin antibody used monitoring loading
+human melanoma melanocytes grown coverslips fixed (4% paraformaldehyde 2% sucrose 1×pbs) then permeabilized blocked (0.4% triton x-100 2% bsa 1×pbs) room temperature
+cells then washed (0.2% triton x-100 0.2% bsa 1×pbs) incubated overnight 4°c monoclonal anti-rabbit antibody against atf2 (20f1 1?100) followed five washes then subsequent incubation room temperature 2 h anti-rabbit igg (invitrogen 1?300) phalloidin (molecular probes 1?1000)
+dna counterstained 46-diamidino-2-phenylindole (dapi vector laboratories) containing mounting medium
+skin samples collected backs mice immediately fixed z-fix processed embedded paraffin
+paraffin sections routinely stained h&e
+dewaxed tissue sections (4.0?5.0 µm) immunostained using rabbit polyclonal antibodies mitf (sigma-aldrich) s100 (s100b dakocytomation carpinteria ca) dct (?pep8 kindly provided dr
+vincent hearing)
+application primary antibody followed incubation goat anti-rabbit polymer-based envision-hrp-enzyme conjugate (dakocytomation)
+dab (dakocytomation) sg-vector (vector lab inc burlingame ca) chromogens applied yielding brown (dab) black (sg) colors respectively
+quantitative analysis performed described previously [61] 
+briefly all slides scanned absolute magnification 400× [resolution 0.25 µm/pixel (100000 pix/in.)] using aperio scanscope cs system (aperio technologies vista ca)
+acquired digital images representing whole tissue sections analyzed applying spectrum analysis algorithm package imagescope analysis software (version 9 aperio technologies inc.) quantify ihc histochemical stainings
+algorithms make use color deconvolution method [62] separate stains
+algorithm parameters set achieve concordance manual scoring number high-power fields including intensity thresholds positivity parameters control cell segmentation using nuclear algorithm
+primary melanocytes treated 4-oht doxycycline before isolation total rna
+500 ng total rna used synthesis biotin-labeled crna using rna amplification kit (ambion)
+biotinylated crna labeled incubation streptavidin-cy3 generate probe hybridization mouse-6 expression beadchip (illumina mouse-6_v1_1_11234304_a) represents 46.6k mouse gene transcripts
+we analyzed beadchips using manufacturers beadarray reader collected primary data using supplied scanner software
+data analysis done follows
+first expression intensities calculated gene probed array all hybridizations using illumina's beadstudio 3.0 software
+second intensity values quality controlled normalized: quality control carried out using beadstudio detection p-value set <0.01 cutoff
+removed genes never detected arrays
+all arrays then normalized using cubic spline routine beadstudio 3.0 software
+procedure accounted any variation hybridization intensity between individual arrays
+finally normalized data analyzed differentially expressed genes
+groups 2 biological 2 technical replicates described beadstudio 3.0 software significantly differentially expressed genes determined basis difference changes expression level (illumina diffscor>60 diffscore<?60) expression difference p-value<0.01
+microarray data available under accession number gse23860
+human embryonic kidney 293t cells transfected corresponding retro- lentiviral shrna constructs (10 µg) gag-pol (5 µg) env expression vectors (10 µg) calcium phosphate transfection 10 cm plates supernatant collected after 48 hours obtain viral particles
+2 million melanocytes melanoma cells 10 cm plates infected 5 ml viral supernatant along 5 ml medium presence 8 µg/ml polybrene
+virus replaced fresh media after 8 hours infection
+after two days puromycin (1.5 µg/ml) used select cells 3 days
+human mouse melanocytes media changed dmem containing 10% fbs 24 h prior harvesting cells
+50 nm duplexes scrambled sox10- foxd3- specific sirna transfected human melanocytes wm1361 melanoma cells (2 million cells per transfection) nucleofection using amaxa reagents (nhem-neo nucleofector solution r respectively) sox10 foxd3 knock down
+over 90% cells transduced able resist drug selection indicating efficient infection respective genes
+gfp used monitor efficiency infection confirming >90% gfp expression fluorescence microscopy
+quantitative pcr performed described earlier [8] 
+total rna isolated using rneasy mini kit (sigma st
+louis mo) reverse transcribed using high cdna capacity reverse transcription kit (applied biosystems foster city ca) following manufacturer's instructions
+specific primers (valuegene san diego ca) used pcr follows: human atf2 forward: tgtggccagcgttttaccaa reverse: tgatgtgggctgtgcagttt human mitf forward: aaaccccaccaagtaccaca reverse: acatggcaagctcaggac human sox10 forward: caa gtaccagcccaggcggc reverse: gggtgccggtggtccaagtg human foxd3 forward: gcgacgggctggaagag reverse: gctgtccgtgatggggtgcc human pax3 forward: ggaactggagcgtgcttttg reverse: ggcggttgctaaaccagac human brn2 forward: gaaagagcgagcgaggaga reverse: caggctgtagtggttagacg mouse mitf forward: agatttgagatgctcatcccc reverse: gatgcgtgatgtcatactgga mouse tyrp1 forward: ccctagcctatatctccctttt reverse: taccatcgtggggataatggc mouse dct forward: gtcctccactcttttacagacg reverse: attcggttgtgaccaatgggt mouse silver forward: tgacggtggaccctgcccat reverse: agctttgcgtggcccgtagc 
+reaction mixture denatured 95°c 10 min followed 40 cycles 95°c 15s annealing 60°c 30s extension 72°c 30s
+reactions performed using sybr green qpcr reagent (invitrogen) run mx3000p qpcr machine (stratagene la jolla ca)
+specificity products verified melting curve analysis agarose gels
+amount target transcript related reference gene (cyclophilin both human mouse) ct method
+sample assayed least triplicate reproduced least three times
+chromatin immunoprecipitation performed using magna-chip (upstate) according manufacturer's instructions
+control shrna atf2 knocked down wm1361 cells (one 10 cm plate 80% confluent) fixed 37% formaldehyde sheared chromatin immunoprecipitated subjected pcr 32 cycles
+following primers corresponding mitf promoter spanning sox10 binding site used forward: gcagtcggaagtggcag reverse: caactcactgtcagatcaa
+antibodies against sox10 creb (sc-1734 sc-186 respectively) santa cruz biotechnologies
+igg control glyceraldehyde-3-phosphate dehydrogenase oligonucleotides provided kit
+antibody against atf2 (sc-6233) junb (sc-8051) jund (sc-74) obtained santa cruz
+antibodies against atfa provided generated nic jones
+sox10 promoter following primers spanning ap-1 binding site used forward: cccagtgctggcctaatagc reverse: cacccttgatatccccaagtga 
+mewo wm35 wm1361 lu1205 cells six-well plates transiently transfected 0.5 µg reporter plasmid containing wt cre mutant brn2 mutant sox10 mutant mitf promoter 0.1 µg psv-?-galactosidase (promega san luis obispo ca) using lipofectamine 2000 reagent (invitrogen)
+human melanocytes (2 million) transfected 2 µg reporter plasmid containing wt sox10 mutant mitf promoter 0.3 µg psv-?-galactosidase using amaxa reagent (nhem-neo nucleofector kit lonza) according manufacturer's protocol
+cell lysates prepared cells after 48 h
+luciferase activity measured using luciferase assay system (promega) luminometer normalized ?-galactosidase activity
+data normalized ?-galactosidase represent mean sd assays performed triplicate
+all experiments performed minimum 3 times
+melan-ink4a-arf1 cells transduced retroviral vector expressing brafv600e:ert1 selected puromycin 3 days
+cells treated 200 nm estrogen receptor antagonist ici 182780 (ici tocris bioscience) induce expression brafv600e
+after one day cells transduced lentiviral vector expressing either shatf2 shmitf separately combination
+colony formation carried out described franken et al
+[63] 
+briefly 5000 cells plated well 6-well plate cells grown mouse melanocyte media containing ici puromycin (1.5 µg/ml) 3 weeks until colonies became visible
+colonies stained p-iodonitrotetrazolium violet (1 mg/ml sigma st
+louis mo)
+experiment performed triplicate reproduced 2 times
+genomic dna isolated tail tissue subjected pcr resulting amplification 549 bp dna fragment atf2 floxed 485 bp dna fragment wild type mice
+pcr conditions included one cycle 95°c 3 min 30 cycles 94°c/30 sec 55°c/30 sec 72°c/1 min one cycle 72°c 5 min
+primers used pcr reactions forward: caatccactgccatggcctt reverse: tcagataaagccaagtcgaatctgg 
+mewo cells left untreated treated 20 mj/cm2 uv-b 1 h
+cells lysed using lysis buffer containing 1% triton-100 incubated 4 µg biotin-labeled mitf promoter spanning cre site oligo ( 5?-gaaaaaaaagcatgacgtcaagccaggggg-3? ) presence poly-(di-dc) (20 µg/ml) 2h 4°c
+oligo-bound proteins captured using streptavidin-agarose (invitrogen) 1 h incubation followed extensive washes washing buffer (20 mm hepes 150 mm nacl 20% glycerol 0.5 mm edta 1% triton-100) analyzed using sds-page western blots
+evaluate cell cycle index melan-ink4a-arf1 cells stably overexpressing brafv600e:ert1 alone combination shrna genes indicated results cells plated media containing ici puromycin (1.5 µg/ml) 2×106 cells per 10 cm plate o/n
+cells labeled 10 µm 5-bromo-2-deoxyuridine (brdu sigma chemical co.) hour
+cells then washed fixed stained anti-brdu mabs propidium iodide (bd biosciences san jose ca) according manufacturer's protocol analyzed bd facscanto machine
+cell cycle phase analyzed using mod fit lt v.2 program (verity software topsham me)
+separate experiment cells stained annexin v-apc 7-aad (bd pharmingen san diego ca) according manufacturer's protocol enable analysis early apoptosis cell death
+cells treated under hypoxia (1% o2) indicated time points using hypoxia chamber (in vivo 400 ruskin technologies ltd bridgend uk)
+mice treated 4-hydroxytamoxifen (25 mg/ml dmso) swabbing entire body (excluding head) days 1?3 after birth
+day 4 pups placed under uvb light source (fl-15e 320 nm) exposed 20 µw/cm2 22 seconds
+ninety minutes after uvb treatment mice sacrificed entire skin removed processed
+tissue microarrays constructed previously described [21] 
+arrays included series 192 sequentially collected primary melanomas 299 metastatic melanomas
+slides stained automated quantitative analysis (aqua) atf2 mitf previously published [49] [64] 
+aqua scores two markers obtained aquamine database ( www.tissuearray.org )
+representative staining non-melanoma tumor developed tyrcre + :: atf2 +/+::nras q61k::ink4a ?/? model
+(7.25 mb tif) click here additional data file
+a
+atf2 negatively regulates mitf several melanoma lines
+atf2 knocked down wm793 cells ( left panel ) wm35 cells ( middle panel ) wm1361 cells ( right panel ) (one 10 cm plate 50% confluent)
+cells lysed western blotting carried out (50 µg/lane) indicated antibodies
+lower panel rna extracted corresponding cell lines qpcr carried out using mitf primers
+cyclophilin served internal control
+b
+atf2 positively regulates mitf 501-mel melanoma cells
+left panel atf2 knocked down 501- mel cells (one 10 cm plate 50% confluent)
+cells lysed western blotting carried out (40 µg/lane) indicated antibodies
+right panel rna extracted above samples qpcr carried out using mitf primers cyclophilin served internal control
+(1.36 mb tif) click here additional data file
+a
+atf2 effect brn2 pax3 human melanocytes melanoma cells
+cells infected shrna control shatf2 rna prepared used qpcr analysis pax3 brn2 expression relative t o cyclophilin used control
+b
+increased sox10 mrna expression melanoma cells
+atf2 expression inhibited wm1361 cells total mrna extracted
+qpcr performed quantify changes expression indicated genes
+cyclophilin served internal control
+(0.93 mb tif) click here additional data file
+effect atf2 foxd3 sox10 mitf expression human melanocytes
+h3a human melanocytes cells infected scrambled control sirna (sisc) shatf2 sifoxd3 their combination
+protein rna prepared 72h later assessed western qpcr
+(1.16 mb tif) click here additional data file
+analysis atf2 effect sox10 mitf transcription 12 melanoma cell lines
+melanoma cell lines indicated infected shatf2 subjected selection enrich atf2 kd cells
+rna prepared 4 days later qpcr analysis performed atf2 (upper panel) mitf (middle panel) sox10 (lower panel) transcripts
+data shown represent analysis triplicate samples
+(1.70 mb tif) click here additional data file
+altered mitf expression atf2 +/? sox10 human melanocytes melanomas
+indicated cell lines infected shcontrol shatf2 presence absence sox10 overexpression proteins prepared determine changes expression sox10
+?-actin used loading control
+analysis mitf sox10 transcript levels carried out indicated cell lines using qpcr rna prepared cells infected indicated vectors (c c+sox10 shatf2 shatf2+sox10)
+(2.59 mb tif) click here additional data file
+effect atf2 sox10 mitf human melanoma cell lines exhibiting positive regulation atf2
+a
+melanoma cell lines mewo 501mel infected shcontrol shatf2 level sox10 protein assessed
+b c
+effect sox10 expression mitf (b) sox10 (c) transcripts mewo (left graph) cells expressing control shatf2 determined using qpcr
+d
+effect dn jun junb sox10 protein mitf transcript levels
+indicated melanoma cells transfected tam67 (dn jun) junb either alone combination indicated
+cells lysed proteins rna prepared
+western blotting carried out indicated antibodies
+qpcr analysis mitf transcripts performed (lower panel)
+e
+chromatin ip reveals loss junb binding sox10 promoter melanoma cells mitf positively regulated atf2
+melanoma cells subjected chip using indicated antibodies followed pcr sox10 promoter sequences harboring ap1 response element
+f
+endogenous level junb various melanoma cells
+cell lysates indicated melanoma cells subjected western blot analysis using junb antibody
+??actin used loading control
+(1.06 mb tif) click here additional data file
+a
+transcriptional activity mitf dependent atf2 cre element specific melanoma cells express high mitf levels
+wt mutant (cre) forms mitf-luc constructs used assess contribution atf2 mitf transcription mewo cells
+luciferase assays performed detailed materials methods 
+b
+atf2 creb bind mitf cre site
+human melanoma (mewo) cells treated 20mj/cm2 uvb proteins prepared after 1h incubated di/dt (20 µg/ml 30 min 4c) then biotinylated annealed oligo (4 µg overnight 4°c) containing cre site flanking sequences mitf promoter
+streptavidin beads added lysates bound material analyzed immunoblots indicated antibodies
+c
+chip analysis shows atf2 binding mitf cre site specific melanoma mewo cells
+chromatin prepared precipitated using atf2 antibody bound dna amplified using mitf specific primers flank cre binding site analyzed 1.5% agarose gel
+rabbit igg served negative control creb atf1 served positive controls
+(1.34 mb tif) click here additional data file
+subcellular localization atf2 melanoma cell lines
+immunostaining carried out indicated melanoma human melanocyte cells atf2 (green) antibody phalloidin (red)
+cells counter stained dapi nuclear staining
+(6.98 mb tif) click here additional data file.

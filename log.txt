@@ -1,0 +1,6 @@
+Parsing html file: C:\Users\hsiaov\workspace\TableTextExtractor\rasTables\PMC1557711T1.html
+Human markup required on: PMC1557711T1.html
+Parsing html file: C:\Users\hsiaov\workspace\TableTextExtractor\rasTables\PMC2360724tbl2a.html
+Parsing html file: C:\Users\hsiaov\workspace\TableTextExtractor\rasTables\PMC2360724tbl2a.html
+Parsing html file: C:\Users\hsiaov\workspace\TableTextExtractor\rasTables\PMC1557711T1.html
+Human markup required on: PMC1557711T1.html

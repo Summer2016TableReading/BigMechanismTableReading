@@ -1,0 +1,187 @@
+186
+10.1371/journal.pone.0014635.t003 table 3 table representing gene ontology processes define genes our meta-signature ubquitination/chaparone ras signalling p53 regulation translation rna binding hnrnpc x ube2d2 x hspa4 x hspa9 x x x csnk1a1 x g3bp1 x x any genes involved same processes easily identifiable overlap evident ubiquitination most common known process shared significant genes however ras signalling p53 regulation linked 2 genes signature.
+bioenergetic status non-small cell lung cancer correlates tumour aggressiveness
+voltage dependent anion channel type 1 (vdac1) component mitochondrial permeability transition pore regulates mitochondrial atp/adp exchange suggesting its over-expression could associated energy dependent processes including increased proliferation invasiveness
+test hypothesis we conducted vivo gene-expression meta-analysis surgically resected non-small cell lung cancer (nsclc) using 602 individual expression profiles examine impact vdac1 survival
+high vdac1 expression associated shorter overall survival hazard ratio (hr)?=?0.6639 (95% confidence interval (ci) 0.4528 0.9721) p?=?0.035352 corresponding 52 versus 101 months
+vdac1 predicted shorter time recurrence shown independent prognostic factor compared histology gender age nodal stage tumour stage cox multivariate analysis
+supervised analysis all datasets identified 6-gene signature comprising hnrnpc hspa4 hspa9 ube2d2 csnk1a1 g3bp1 overlapping functions involving regulation protein turnover ras-raf-mek pathway transcription
+vdac1 predicted survival breast cancer myeloma unsupervised analysis revealed enrichment vdac1 signature specific subsets
+summary gene expression analysis identifies vdac1 gene expression predictor poor outcome nsclc other cancers associated dysregulation conserved set biological pathways may causally associated aggressive tumour behaviour
+non-small cell lung cancer (nsclc) common largely incurable cancer
+early disease setting surgical resection standard care benefit adjuvant chemotherapy limited 5?15% improvement survival stage ii but not stage i disease [1] 
+however relapse frequent stage i cancer 37% patients dying within five years therefore there need identify reliable biomarkers poor outcome order target individuals whom adjuvant novel targeted therapy may improve survival
+alteration tumour metabolism hallmark cancer high levels hexokinase-dependent glucose trapping nsclc evidenced standardized uptake values positron emission tomography associated shorter survival [2] 
+seen both early advanced nsclc [3] [4] 
+voltage dependent anion channel 1 (vdac1) outer mitochondrial membrane protein involved regulation atp/adp exchange respiratory control [5] 
+vdac1 interacts proapoptotic bcl-2 family proteins [6] [7] 
+however its role regulating mitochondrial outer membrane depolarization been controversial [8] [9] [10] 
+yet emerging data identified potential role protein regulation cell survival reason we found worthy further study
+permeability transition pore comprises vdac1 directly regulated bh3-only proapoptotic bcl-2 family member bad [10] regulates cell survival
+contrast type ii isoform (vdac2) been identified antiapoptotic negative regulator bak [9] [11] [12] 
+adenine-nucleotide translocator (ant) located inner mitochondrial considered major component permeability transition pore [13] along vdac believed control mitochondrial remodeling processes either directly indirectly [14] 
+recently bacterial protein fila [15] been shown regulate complex vdac1 hexokinase ii [16] inhibits apoptosis
+growing body data suggests hexokinase-vdac interaction anti-apoptotic [17] disruption interaction could strategy inducing cell death [18] [19] 
+vdac-hexokinase complex been reported regulated glycogen synthase kinase 3 beta [19] akt [20] 
+cancer cells low vdac1 induced rna interference exhibit defect cell growth vivo [21] 
+conversely high levels vdac1 expression levels may confer tumour cell selection advantage facilitating energy dependent processes such proliferation invasiveness [22] 
+although hexokinase ii expression been linked worse prognosis [23] date there been no studies exploring potential prognostic impact vdac1 patients cancer
+therefore hypothesized vdac1 expression could impact survival following nsclc resection
+here we show using gene expression meta-analysis vdac1 overexpression strong independent poor prognostic factor early stage non-small cell lung cancer based combined analysis multiple gene expression datasets
+vdac1 overexpression consistently associated overexpression 6 additional genes involved survival signalling protein ubiquitination atp binding
+association maintained across multiple independent datasets across different cancers suggesting potential role biological processes regulating tumour behaviour therefore clinical outcome nsclc
+total 8 independent nsclc datasets curated gene expression omnibus (geo) total 602 microarrays
+all datasets high expression vdac1 (upper tertile) associated significantly shorter survival compared lower tertile vdac1 expression p?=?0.0353 hr?=?0.6639 (0.4528 0.9721) ( figure 1a )
+average overall survival 101.6 months patients lowest vdac1 tertile 52 months patients highest vdac1 tertile
+figure 1a: displays kaplan meier plot depicting patient survival dependent high low vdac1 expression
+distinct difference survival visibly evident median survival high vdac1 expressing patients being only half low expressing patients
+curves significantly different p?=?0.0353 logrank test
+figure 1b: survival plot stage i patients
+again difference high low expressing samples clear low vdac1 patients having better survival rates
+logrank test proves curves significantly different p?=?0.0455
+stage i samples follow same pattern all combined data all stages
+further explore impact vdac1 survival we carried out correlation cox regression analysis well multivariate tests using pasw statistics v.18 (spss: ibm company)
+high vdac1 expression shown independent prognostic variable shorter survival p<0.001 level
+stage (p?=?0.013) pt (primary tumour) (p?=?0.022) proved independent variables correlated survival while multivariate analysis showed combination stage histology significantly influences patient survival (p?=?0.027)
+results cox regression analysis seen table 1 where vdac1 most significant influence survival followed pt stage
+influence vdac1 stage survival evident figure high vdac1 expression inducing poor survival
+vdac1 most significant predictor survival time stage pt displaying predictive power
+age patient their gender whether tumour squamous adenocarcinoma didn't large effect overall survival time
+influence vdac1 expression time relapse following surgical resection interest clinical variable not confounded therapy after relapse
+therefore more accurate measure prognostic significance
+so we analysed only recurrence data univariate analysis showed vdac1 significantly predict time recurrence (p<0.001)
+information histological subtype gender age available all samples found not significant p values 0.35 0.82 0.73 respectively
+summary analysis found table 2 
+similarly multivariate analysis ranked variables same order vdac1 being only independent factor (p<0.001)
+when dealing time recurrence vdac1 expression again shown most significant variable predicting time recurrence
+we found no significant relationship between recurrence tumour type gender age
+information stage not available all datasets but we analysed what we access to
+we 89 stage i samples kaplan-meier plot patients shown figure 1b p?=?0.0455 associated hazard ratio 0.52 (0.1492?0.7653)
+we found correlation between vdac1 expression survival very strong p<0.001
+cox regression analysis stage 1 nsclc where adjuvant chemotherapy not been shown improve patient outcome [24] [25] [26] revealed no variables statistically significant but similarly analysis all data vdac1 most influential predictor survival (p?=?0.241) ranked above histology (p?=?0.344) age (p?=?0.465) pt (p?=?0.970) pn (nodal stage) (p?=?0.975) gender (p?=?0.999)
+regression coefficient vdac1 29.18 indicating very poor prognosis patients high levels vdac1.the sample numbers low stages ii iii 68 samples being stage ii only 16 samples being stage iii made difficult obtain statistically significant results
+correlation between vdac1 expression survival stage ii samples stage iii samples insignificant p?=?0.853 p?=?0.701 respectively
+we inadequate number events both stages produce accurate kaplan meier plot less 10 incidences death per category
+lack higher stage samples led us focus output stage i samples combined data
+order gain insight biology underlying poor prognosis vdac1 overexpressing nsclc vivo analysis conducted identify genes gene networks consistently associated high vdac1 expression
+subset 6 genes identified vdac1 overexpressing nsclc datasets associated significant differential expression 50% more datasets
+genes csnk1a1 g3bp1 hnrnpc hspa4 hspa9 ube2d2 see figure 2 where difference average expression genes when vdac1 low high shown
+defined gene ontology consortium [27] hnrnpc hspa4 hspa9 ube2d2 involved protein ubiquitination pathways csnk1a1 regulates eif2 function
+hspa9 involved anti-apoptosis pathways while g3bp1 linked ras protein signal transduction atp dependent dna rna helicase activity
+csnk1a1 hspa4 hspa9 linked atp binding while hnrnpc involved rna nucleotide binding
+summary go terms genes found table 3 
+hnrnpc hspa9 g3bp1 ube2d2 determined being prognostic individually when univariate analysis carried out their expression levels survival time associated p values 0.027 0.002 0.02 0.003 respectively
+chart shows variation gene expression our differentially expressed genes samples where vdac1 expression low when high
+all genes collectively made up our signature upregulated so increase when vdac1 increases
+any genes involved same processes easily identifiable overlap evident
+ubiquitination most common known process shared significant genes however ras signalling p53 regulation linked 2 genes signature
+we analysed data without filtering vdac1 expression reaffirm vdac1 would significantly differentially expressed when expression levels living dead patients compared
+using unsupervised method ranking gene expression according overall survival time vdac1 found downregulated patients longer survival
+similarly 6 genes regulated alongside vdac1 behaved same way them downregulated samples patients survived long period time
+confirm validity potential biological relevance 6-gene signature covariant vdac1 we tested its discriminative power independent breast cancer dataset
+t-test performed comparing high low vdac1 expressing samples
+we found all 6 genes upregulated when vdac1 highly expressed
+similarly expression low when vdac1 expression low so our signature genes covariant vdac1 nsclc data exhibited same expression patterns breast cancer data
+we carried out same test using independent myeloma cancer dataset performing t-test data split based vdac1 high low expression
+we again found all 6 genes our meta-signature returned being statistically significant p<0.001 level
+additional validation found through analysis nci60 cell lines found gse2003
+we again compared samples based vdac1 expression found 6-gene signature conserved 8 cell lines namely uacc62 sk_mel2 (melanoma) sf295 sf539 (cns) a498 snc12c (renal) h23 hop62 (nsclc)
+analysing nci60 data low vdac1 low expression 6-gene signature identified 5 cell lines ccrf-cem rpmi-8226 k562b (leukaemia) igrov1 (ovarian) h522 (nsclc)
+pca helps explain variance data common technique dimensionality reduction high dimensional data
+we performed pca nsclc dataset gse3141 found although there some outliers using first principal component accounted much variability possible all 6 genes our meta-signature top 1% based pc1 component loadings
+hnrnpc g3bp1 performed particularly well being placed fourth fifth list respectively
+within vdac1 ppi network using yu et al's [28] categorisation encoded proteins classed either hubs (nodes high degree values constituting vulnerable areas network) and/or bottlenecks (those high betweenness centrality scores corresponding key intersecting nodes)
+vdac1 four genes csnk1a1 hspa4 hnrnpc ube2d2 considered both hub-bottlenecks
+clustering identified potential groups genes operating same pathways processes molecular complexes
+five genes g3bp1 ube2d2 vdac1 csnk1a1 hspa4 belonged four high-scoring clusters highest-ranked containing both ube2d2 g3bp1
+functional analysis revealed cluster most significantly associated sh2 domain atp binding sites protein protein tyrosine kinase activity autophosphorylation dna binding transcription factor activity
+next most significant vdac1-related cluster included hspa4 enriched nuclear lumen nucleoplasm components rna-binding mrna splicing processes
+vdac1 itself associated top-scoring cluster functionally enriched regulation programmed cell death apoptosis anti-apoptosis nucleoplasm intracellular organelle lumen transcription factor binding repressor activities
+cluster csnk1a1 member associated significant functionality coated pit endomembrane system endocytosis endosome binding transport activities
+shortest path analysis revealed sub-network 14 genes comprising vdac1 signature genes key inter-connecting partners including tp53 rasa1 grb2 cbl csk raf1 kpna2 see figure 3 
+only two genes hnrnpc csnk1a1 direct interactors hnrnpc's binding ability being modulated csnk1a1-mediated phosphorylation
+shown most-frequently occurring inter-connecting genes
+shortest path analysis revealed sub-network 14 genes comprising vdac1 6 differentially expressed genes associated vdac1 expression
+key inter-connecting partners included tp53 rasa1 grb2 cbl csk raf1 kpna2
+only hnrnpc csnk1a1 interacted directly
+functional analysis revealed enriched processes primarily associated vdac1 target genes including atp-binding nucleotide binding
+both vdac1-target internal shortest-path genes jointly participated number significantly enriched processes pathways
+included signalling processes (intracellular signalling cascade ras protein signal transduction small gtpase mediated signal transduction) transport (nucleocytoplasmic transport nuclear transport intracellular protein transport) anti-apoptosis
+genes providing internal links within shortest-path network significantly enriched signalling pathways e.g
+neurotrophin igf-1 insulin tpo pdgf egf integrin t cell receptor mapk erkb
+further pathways identified included: signalling hepatocyte growth factor receptor transmembrane receptor protein tyrosine kinase signalling pathway enzyme linked receptor protein signalling pathway sprouty regulation tyrosine kinase signals il-2 receptor beta chain t cell activation
+main combined activities vdac1 genes (csnk1a1 g3bp1 hspa4 hspa9 ube2d2) focused atp nucleotide binding
+specific individual enriched functionality occurred e.g
+protein kinase activity host-virus interaction (associated genes csnk1a1 vdac1 respectively)
+interestingly although less prominent within ppi network two non-hub-non-bottleneck genes hspa9 g3bp1 enriched distinct sets functions
+case g3bp1 signal transduction highlighted (both small gtpase ras protein) conjunction connecting genes raf1 grb2
+hspa9 particular associated two groups functions: protein targeting transport (intracellular protein nuclear nucleocytoplasmic) conjunction tp53 kpna2 negative regulation cell death apoptosis programmed cell death (together tp53 rasa1)
+vdac1 overexpression predicts shorter time recurrence overall survival nsclc evidenced pooled gene expression analysis
+independent prognostic factor evidenced cox regression analysis predicts survival stage 1 disease where subgroup analysis randomized controlled clinical trials adjuvant chemotherapy failed show clinical benefit [24] [25] [26] 
+combined gene expression data analysis approach been employed investigate impact vdac1 expression survival statistically significant all individual datasets examined
+several recent studies analysing microarray data prognostic markers nsclc produced inconsistent results [29] 
+distinct lack overlap associated between signatures reflects instability attributed small sample sizes less 200 samples used per study
+analysis multiple datasets example combined analysis microarray gene expression datasets addressing similar biological questions conducted interpretational level meta-analysis enable more accurate results
+many studies propose methods meta-analysis microarray data aim identifying significantly differentially expressed genes across studies using statistical techniques avoid direct comparison gene expression values [30] 
+evaluation multiple datasets employed study been shown yield more reliable valid results because based large sample numbers individual bias caused study weakened [30] 
+not known why vdac1 correlates poor survival outcomes
+understand most relevant genetic features vdac1 overexpressing nsclc we conducted gene expression meta-analysis [31] [32] identify subset genes (signature) significantly enriched
+we employed stringent statistical criteria combined large sample size support identification vdac1-covariant genes
+vdac1 6 gene signature then validated across breast myeloma nci-60 datasets [33] suggesting enrichment genes independent type cancer
+interestingly 6 genes identified being conserved significantly differentially regulated high vdac1 expressing group most functionally linked regulation protein turnover
+genes included heat shock 70kda protein 4 (hspa4) ubiquitin-conjugating enzyme e2d 2 (ube2d2) heat shock 70kda protein 9 (mortalin/hspa9) encoding glucose regulated 75 kilodalton protein previously reported correlating poor survival colorectal cancer [34] 
+hspa9 binds inactivates wild type p53 [35] regulates ras raf mek pathway [36] 
+similarly p53 ras targets gtpase activating protein (sh3 domain) binding protein 1 (g3bp1) [37] shown predict shorter survival oesophageal cancer [38] 
+casein kinase 1 alpha 1 (csnk1a1) regulates protein turnover via initiation translation via eif2 participates wnt signalling homologue csknk2a1 been previously identified independent predictor survival squamous cell lung cancer [39] 
+like g3bp1 heterogeneous nuclear ribonucleoprotein c (c1/c2) hnrnpc involved rna binding transcription [40] 
+ppi networks identified main combined activities vdac1 genes (csnk1a1 g3bp1 hspa4 hspa9 ube2d2) focussed atp nucleotide binding
+specific individual enriched functionality occurred e.g
+protein kinase activity host-virus interaction (associated genes csnk1a1 vdac1 respectively)
+interestingly although less prominent within ppi network two non-hub-non-bottleneck genes hspa9 g3bp1 enriched distinct sets functions
+case g3bp1 signal transduction highlighted (both small gtpase ras protein) conjunction connecting genes raf1 grb2
+hspa9 particular associated two groups functions: protein targeting transport (intracellular protein nuclear nucleocytoplasmic) conjunction tp53 kpna2 negative regulation apoptosis (together tp53 rasa1)
+summary based poor prognosis associated overexpression vdac1 associated 6-gene signature methods target molecular subclass nsclc may effective improve survival outcomes after surgery
+we identified cell lines upregulation 6-gene signature found vdac1 overexpressing nsclc
+ongoing work aims target signature determine effects cell viability utilizing connectivity map
+we propose regulating expression vdac1 and/or genes 6-gene signature could provide novel therapeutic strategy targeting poor risk patients nsclc
+conduct gene expression meta-analysis library 8 nsclc gene expression datasets curated ncbi gene expression omnibus (geo) [41] : gse8894 gse3141 (array type: hg-u133 plus2.0) gse6253 gse4573 (array type: hg-u133a) gse6253 (array type: hg-u133b) gse6253 (array type: hg-u95av2) gse4716 (array type: genefilter human microarray release ii) gse5123 (array type: pc human operon v 2 21k)
+602 samples total contained gene expression information primarily resected tumour samples received no previous treatment
+pre-processed using r [42] bioconductor [43] 
+normalization carried out using rma algorithm [44] implemented bioconductor
+data base-two log-transformed where applicable
+along gene expression measurements there recordings patient information including age sex histology overall survival time some cases stage recurrence free survival time tumour stage (pt) nodal stage (pn) recorded
+genes found significantly differentially expressed nsclc datasets then validated independent breast cancer datasets obtained geo: gse6434 containing hg-u95av2 array data 24 patients who received chemotherapy gse2034 hg-u133a array data 286 samples
+we tested meta-signature myeloma dataset (gse2658) hg-u133 plus2.0 array data 559 patients who received chemotherapy
+further validation found through analysis nci60 cell line panel (gse2003) we checked gene expression matched what we found our subset significant genes
+additionally we checked our results carrying out principal components analysis data gse3141
+distribution vdac1 expression subdivided tertiles data set corresponding low medium high
+kaplan-meier curves plotted using prism (graphpad software san diego california usa www.graphpad.com ) based survival data comparing highest versus lowest tertile vdac1 initially plots produced all data then only stage i
+hazard ratios comparing low high vdac1 expressing samples calculated
+we carried out correlation analysis between vdac1 expression survival time using spearman's rank correlation coefficient
+we performed univariate multivariate analysis using pasw (spss: ibm company) recurrence-free overall survival used clinical endpoints assess prognostic significance vdac1 logrank ratio considered significant p<0.05
+cox multivariate analysis used determine whether vdac1 independent prognostic variable relation 7 clinical variables: age gender stage histology tumour size (pt) nodal stage (pn) survival
+we adopted method termed meta-analysis microarrays determine what genes regulated alongside vdac1 [45] 
+dataset subdivided according vdac1 expression tertiles we compared top bottom vdac1 tertiles samples using tmev [46] 
+gene assessed differential expression using two class t-test dataset class 1 being low vdac1 expression class 2 high vdac1 expression
+bonferroni's correction used analysis carried out all 8 datasets
+bonferroni's correction helps minimise likelihood generating false positives
+number probes vast some datasets containing more 54000 so reduce our significant genes manageable list per dataset we used stringent cut off criteria where gene labelled significantly differentially expressed t-test returned p value less 0.001
+same hypotheses tested nsclc dataset independently e.g
+genes differentially expressed based vdac1 expression
+enable multiple hypothesis testing we used method compares statistical measures q values (estimated false discovery rates) calculated independently dataset [32] [47] where where p probability n total number genes i sorted rank p value
+strict p value cut-off we applied carried forward when q values calculated
+after ranking significantly differentially expressed genes based their q value direction significance threshold q<0.10 set define differential expression signatures already computed differential expression analysis
+having obtained ordered list differentially expressed genes dataset genes then filtered based number datasets differentially expressed.
+genes defined being significantly differentially expressed then validated independent breast cancer datasets (gse6434 gse2034) obtained geo 24 286 samples respectively
+we tested meta-signature myeloma dataset (gse2658) 559 samples
+t-tests performed additional data we compared high low vdac1 expressing samples determine genes our signature identified once again
+same procedure used nci60 cell lines identify cell lines expression levels matched our signature
+using vdac1 six associated sde genes seeds together their interactions found human protein reference database (hprd) [48] parent ppi network (including recursive interactions) created using in-house java-based program
+using seed proteins initial depth (level 0) subsequent depths obtained using snowball sampling
+resulting parent ppi network (9266 gene nodes 38800) then viewed manipulated analyzed cytoscape [49] 
+using network analyzer plug-in [50] gene nodes then identified either hubs bottlenecks using classification yu et al [28] top 20% nodes degree value identified hubs remainder non-hubs
+same ranking method applied betweenness centrality metric identify bottleneck nodes
+node ppi network thus classified one four categories: non-hub-non-bottlenecks (nh/nb) hub-non-bottlenecks (h/nb) non-hub-bottlenecks (nh/b) hub-bottlenecks (h/b)
+multiple shortest paths between seven genes identified using pesca tool
+key shortest paths identified considering direct connections between target genes paths target genes themselves acted inter-connectors most frequently occurring genes providing internal linkages
+modular functional enrichment analysis gene clusters shortest path network carried out using online tool david [51] .
