@@ -28,3 +28,4 @@ annotationLogs*
 hs_err_pid*
 /bin/
 /target/
+/paperText.txt
