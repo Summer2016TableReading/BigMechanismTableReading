@@ -14,6 +14,7 @@ import extract.HTMLTableExtractor;
 
 public class ColumnClassifier {
 	public static void main(String[] args){
+		OntobeeQuery.parseOntologies();
 		ArrayList<ArrayList<Double>> means = new ArrayList<ArrayList<Double>>();
 		ArrayList<ArrayList<Double>> headerMeans = new ArrayList<ArrayList<Double>>();
 		HashMap<Integer, String> classes = new HashMap<Integer, String>();
@@ -119,12 +120,24 @@ public class ColumnClassifier {
 									}
 								}
 								int tempType = findCluster(vec, headerMeans, exclude);
-								next += classes.get(tempType);
+								next += classes.get(tempType) + "(Type " + tempType + ")";
 							} else {
 								next += "Long Descriptions";
 							}
 						}
-						System.out.println(col.getHeader() + " : " +  category + " (Type " + type + ")" + next);
+						String ontologyProperty = "";
+						if (category.toLowerCase().contains("number") || category.toLowerCase().contains("decimal") || category.toLowerCase().contains("percentage")
+								|| next.toLowerCase().contains("number") || next.toLowerCase().contains("decimal") || next.toLowerCase().contains("percentage")){
+							HashSet<String> types = new HashSet<String>();
+							String[] words = col.getHeader().split(" ");
+							for(String s : words){
+								types.addAll(OntobeeQuery.queryAllOntologies(s));
+							}
+							if(types.contains("concentration endpoint")){
+								ontologyProperty = " Process: concentration test";
+							}
+						}
+						System.out.println(col.getHeader() + ": " +  category + " (Type " + type + ")" + next + ontologyProperty);
 					}
 				}
 			}
