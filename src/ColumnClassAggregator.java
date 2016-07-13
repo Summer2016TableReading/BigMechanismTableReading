@@ -1,19 +1,25 @@
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map.Entry;
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
 
 import extract.ColumnData;
 import extract.HTMLTable;
 import extract.HTMLTableExtractor;
 import lookup.TabLookup;
 
-public class ColumnClassifier {
+public class ColumnClassAggregator {
 	public static void main(String[] args){
 		OntobeeQuery.parseOntologies();
 		ArrayList<ArrayList<Double>> means = new ArrayList<ArrayList<Double>>();
@@ -65,101 +71,139 @@ public class ColumnClassifier {
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-		Scanner queryScanner = new Scanner(System.in);
-		System.out.println("Please input a query: ");
-		String query = queryScanner.nextLine();
-		while(!query.equals("exit")){
-			File f = new File(query);
-			
-			HTMLTableExtractor hte = new HTMLTableExtractor();
-			Collection<HTMLTable> list = hte.parseHTML("files/" + f.getName());
-			if(list.size() != 0){
+		Pattern p = Pattern.compile("(PMC[0-9]+)");
+		HashSet<String> assays = OntobeeQuery.queryOntologyChildren(OntobeeQuery.obi, "assay");
+		HashMap<String, HashMap<String, Integer>> columnAnalysis = new HashMap<String, HashMap<String, Integer>>();
+		int num_tables = 0;
+		for(File f: new File("files").listFiles()){
+			if(f.getName().endsWith(".html")){
+				HashSet<String> currentAssays = new HashSet<String>();
+				Matcher m = p.matcher(f.getName());
+				m.find();
+				String paperTitle = m.group() + ".html";
+				try {
+					Document paper = Jsoup.parse(new File("papers/" + paperTitle), null);
+					String text = paper.text().toLowerCase();
+					for (String s: assays){
+						if (text.contains(s)){
+							currentAssays.add(s);
+						}
+					}
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
 				
-				HTMLTable table = list.iterator().next();
-				ColumnData[] cols = table.getColumnData();
-				for(ColumnData col: cols){
-					if(col.getHeader() != null && checkNotNull(col.getData())){
-						ArrayList<Double> vec = new ArrayList<Double>();
-						for(int i = 0; i < means.size(); i++){
-							vec.add(0.0);
-						}
-						double totalEntries = 0.0;
-						
-						double longEntries = 0.0;
-						for(String s: col.getData()){
-							if(s != null && s.length() > 0){
-								if(s.length() < 50){
-									int clusterNum = findCluster(generateVec(s), means);
-									totalEntries++;
-									vec.set(clusterNum, vec.get(clusterNum) + 1.0);
-								} else {
-									longEntries++;
-								}
-							}
-						}
-						if(totalEntries > 0){
-							for (int i = 0; i < means.size(); i++){
-								vec.set(i, vec.get(i)/totalEntries);
-							}
-						}
-						int type = findCluster(vec, headerMeans);
-						String category = classes.get(type);
-						String next = "";
-						if(type == 0){
-							for(String checkWord: classesSingle.keySet()){
-								if(checkColumn(checkWord, col.getData())){
-									category = classesSingle.get(checkWord);
-								}
-							}
-						} else if (category.contains("Inconclusive")){
-							next = ", Best guess: ";
-							if(longEntries < totalEntries){
-								HashSet<Integer> exclude = new HashSet<Integer>();
-								for(Entry<Integer, String> entry: classes.entrySet()){
-									if(entry.getValue().contains("Inconclusive")){
-										exclude.add(entry.getKey());
-									}
-								}
-								int tempType = findCluster(vec, headerMeans, exclude);
-								next += classes.get(tempType) + " (Type " + tempType + ")";
-							} else {
-								next += "Long Descriptions";
-							}
-						}
-						String ontologyProperty = "";
-						if (category.toLowerCase().contains("number") || category.toLowerCase().contains("decimal") || category.toLowerCase().contains("percentage")
-								|| next.toLowerCase().contains("number") || next.toLowerCase().contains("decimal") || next.toLowerCase().contains("percentage")){
-							HashSet<String> types = new HashSet<String>();
-							String[] words = col.getHeader().split(" ");
-							for(String s : words){
-								if(s.length() > 2){
-									types.addAll(OntobeeQuery.queryAllOntologies(s));
-								}
-							}
-							if(types.contains("concentration endpoint")){
-								ontologyProperty = " Process: concentration test";
-							}
-						}
-						String proteinConfirmed = "";
-						if (category.toLowerCase().contains("english") || category.toLowerCase().contains("inconclusive")){
-							if(lookupColumn(TabLookup.getInstance().english, col.getData())){
-								proteinConfirmed = "(english protein names found)";
-							}
-						}
-						if (category.toLowerCase().contains("protein")){
-							if(lookupColumn(TabLookup.getInstance().genename, col.getData())){
-								proteinConfirmed = "(protein/gene found)";
-							} 
-						}
-						
-						System.out.println(col.getHeader() + ": " +  category + " (Type " + type + ")" + next + ontologyProperty + " " + proteinConfirmed);
+				for(String s: currentAssays){
+					if(!columnAnalysis.containsKey(s)){
+						columnAnalysis.put(s, new HashMap<String, Integer>());
 					}
 				}
+				
+				HTMLTableExtractor hte = new HTMLTableExtractor();
+				Collection<HTMLTable> list = hte.parseHTML("files/" + f.getName());
+				if(list.size() != 0){
+					
+					HTMLTable table = list.iterator().next();
+					ColumnData[] cols = table.getColumnData();
+					for(ColumnData col: cols){
+						if(col.getHeader() != null && checkNotNull(col.getData())){
+							ArrayList<Double> vec = new ArrayList<Double>();
+							for(int i = 0; i < means.size(); i++){
+								vec.add(0.0);
+							}
+							double totalEntries = 0.0;
+							
+							double longEntries = 0.0;
+							for(String s: col.getData()){
+								if(s != null && s.length() > 0){
+									if(s.length() < 50){
+										int clusterNum = findCluster(generateVec(s), means);
+										totalEntries++;
+										vec.set(clusterNum, vec.get(clusterNum) + 1.0);
+									} else {
+										longEntries++;
+									}
+								}
+							}
+							if(totalEntries > 0){
+								for (int i = 0; i < means.size(); i++){
+									vec.set(i, vec.get(i)/totalEntries);
+								}
+							}
+							int type = findCluster(vec, headerMeans);
+							String category = classes.get(type);
+							String next = "";
+							if(type == 0){
+								for(String checkWord: classesSingle.keySet()){
+									if(checkColumn(checkWord, col.getData())){
+										category = classesSingle.get(checkWord);
+									}
+								}
+							} else if (category.contains("Inconclusive")){
+								next = ", Best guess: ";
+								if(longEntries < totalEntries){
+									HashSet<Integer> exclude = new HashSet<Integer>();
+									for(Entry<Integer, String> entry: classes.entrySet()){
+										if(entry.getValue().contains("Inconclusive")){
+											exclude.add(entry.getKey());
+										}
+									}
+									int tempType = findCluster(vec, headerMeans, exclude);
+									next += classes.get(tempType) + " (Type " + tempType + ")";
+								} else {
+									next += "Long Descriptions";
+								}
+							}
+							String ontologyProperty = "";
+							if (category.toLowerCase().contains("number") || category.toLowerCase().contains("decimal") || category.toLowerCase().contains("percentage")
+									|| next.toLowerCase().contains("number") || next.toLowerCase().contains("decimal") || next.toLowerCase().contains("percentage")){
+								HashSet<String> types = new HashSet<String>();
+								String[] words = col.getHeader().split(" ");
+								for(String s : words){
+									if(s.length() > 2){
+										types.addAll(OntobeeQuery.queryAllOntologies(s));
+									}
+								}
+								if(types.contains("concentration endpoint")){
+									ontologyProperty = " Process: concentration test";
+								}
+							}
+							String proteinConfirmed = "";
+							if (category.toLowerCase().contains("english") || category.toLowerCase().contains("inconclusive")){
+								if(lookupColumn(TabLookup.getInstance().english, col.getData())){
+									proteinConfirmed = "(english protein names found)";
+								}
+							}
+							if (category.toLowerCase().contains("protein")){
+								if(lookupColumn(TabLookup.getInstance().genename, col.getData())){
+									proteinConfirmed = "(protein/gene found)";
+								} 
+							}
+							
+							//System.out.println(col.getHeader() + ": " +  category + " (Type " + type + ")" + next + ontologyProperty + " " + proteinConfirmed);
+							
+							for(String s: currentAssays){
+								HashMap<String, Integer> histo = columnAnalysis.get(s);
+								if(histo.containsKey(category)){
+									histo.put(category, histo.get(category)+1);
+								} else {
+									histo.put(category, 1);
+								}
+							}
+							
+						}
+					}
+				}
+				num_tables++;
+				if(num_tables % 100 == 0){
+					System.out.println(num_tables + " tables processed");
+				}
 			}
-			System.out.println("Please input a query: ");
-			query = queryScanner.nextLine();
 		}
-		queryScanner.close();
+		
+		for(Entry<String, HashMap<String, Integer>> entry: columnAnalysis.entrySet()){
+			System.out.println(entry.getKey() + ": " + entry.getValue());
+		}
 	}
 	
 	private static boolean checkNotNull(String[] data) {

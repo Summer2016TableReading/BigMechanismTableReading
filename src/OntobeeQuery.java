@@ -51,11 +51,15 @@ public class OntobeeQuery {
 	}
 	
 	public static void parseOntologies(){
-		init = true;
-		bao = parseOntology(new File("ontologies/bao.owl"));
-		obi = parseOntology(new File("ontologies/obi.owl"));
-		allOntologies.add(bao);
-		allOntologies.add(obi);
+		if(!init){
+			init = true;
+			bao = parseOntology(new File("ontologies/bao.owl"));
+			obi = parseOntology(new File("ontologies/obi.owl"));
+			allOntologies.add(bao);
+			allOntologies.add(obi);
+		} else {
+			System.out.println("Ontologies already initialized...");
+		}
 	}
 	
 	public static OWLOntology parseOntology(File file){
@@ -82,6 +86,38 @@ public class OntobeeQuery {
 		return ontology;
 	}
 	
+	public static HashSet<String> queryOntologyChildren(OWLOntology ontology, String s){
+		manager = OWLManager.createOWLOntologyManager();
+		OWLClass clazz = manager.getOWLDataFactory().getOWLThing();
+		OWLReasoner reasoner = new StructuralReasoner(ontology, new SimpleConfiguration(), BufferingMode.NON_BUFFERING);
+	    try {
+			return getChildren(reasoner, clazz,0, ontology, s);
+		} catch (OWLException e) {
+			e.printStackTrace();
+		}
+	    return null;
+	}
+	
+	private static HashSet<String> getChildren(@Nonnull OWLReasoner reasoner, @Nonnull OWLClass clazz, int level, OWLOntology ontology, String query) throws OWLException {
+	 	HashSet<String> children = new HashSet<String>();
+        if (reasoner.isSatisfiable(clazz)) {
+            String s = labelFor(clazz, ontology);
+            if(s.equals(query)){
+            	for (OWLClass heir:  reasoner.getSubClasses(clazz, false).getFlattened()){
+            		children.add(labelFor(heir, ontology));
+            	}
+            }
+            
+            /* Find the children and recurse */
+            for (OWLClass child : reasoner.getSubClasses(clazz, true).getFlattened()) {
+                if (!child.equals(clazz)) {
+                	children.addAll(getChildren(reasoner, child, level + 1, ontology, query));
+                }
+            }
+        }
+        return children;
+	}
+	
 	public static HashSet<String> queryOntology(OWLOntology ontology, String s){
 		manager = OWLManager.createOWLOntologyManager();
 		OWLClass clazz = manager.getOWLDataFactory().getOWLThing();
@@ -95,10 +131,6 @@ public class OntobeeQuery {
 	}
 
 	 private static HashSet<String> getHierarchy(@Nonnull OWLReasoner reasoner, @Nonnull OWLClass clazz, int level, OWLOntology ontology, String query) throws OWLException {
-	        /*
-	         * Only print satisfiable classes -- otherwise we end up with bottom
-	         * everywhere
-	         */
 		 	HashSet<String> parents = new HashSet<String>();
 	        if (reasoner.isSatisfiable(clazz)) {
 	            for (int i = 0; i < level * 4; i++) {
