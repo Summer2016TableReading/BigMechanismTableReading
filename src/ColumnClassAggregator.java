@@ -1,7 +1,9 @@
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
@@ -74,6 +76,9 @@ public class ColumnClassAggregator {
 		Pattern p = Pattern.compile("(PMC[0-9]+)");
 		HashSet<String> assays = OntobeeQuery.queryOntologyChildren(OntobeeQuery.obi, "assay");
 		HashMap<String, HashMap<String, Integer>> columnAnalysis = new HashMap<String, HashMap<String, Integer>>();
+		Document paper = null;
+		String currentPaper = "";
+		
 		int num_tables = 0;
 		for(File f: new File("files").listFiles()){
 			if(f.getName().endsWith(".html")){
@@ -81,16 +86,19 @@ public class ColumnClassAggregator {
 				Matcher m = p.matcher(f.getName());
 				m.find();
 				String paperTitle = m.group() + ".html";
-				try {
-					Document paper = Jsoup.parse(new File("papers/" + paperTitle), null);
-					String text = paper.text().toLowerCase();
-					for (String s: assays){
-						if (text.contains(s)){
-							currentAssays.add(s);
+				if(!paperTitle.equals(currentPaper)){
+					try {
+						paper = Jsoup.parse(new File("papers/" + paperTitle), null);
+						currentPaper = paperTitle;
+						String text = paper.text().toLowerCase();
+						for (String s: assays){
+							if (text.contains(s)){
+								currentAssays.add(s);
+							}
 						}
+					} catch (IOException e) {
+						e.printStackTrace();
 					}
-				} catch (IOException e) {
-					e.printStackTrace();
 				}
 				
 				for(String s: currentAssays){
@@ -102,6 +110,15 @@ public class ColumnClassAggregator {
 				HTMLTableExtractor hte = new HTMLTableExtractor();
 				Collection<HTMLTable> list = hte.parseHTML("files/" + f.getName());
 				if(list.size() != 0){
+					File logfile = new File("classifierLogs/" + f.getName().replace(".html",".txt"));
+					FileOutputStream fos = null;
+					PrintWriter pw = null;
+					try {
+						fos = new FileOutputStream(logfile);
+						pw = new PrintWriter(fos);
+					} catch (FileNotFoundException e) {
+						e.printStackTrace();
+					}
 					
 					HTMLTable table = list.iterator().next();
 					ColumnData[] cols = table.getColumnData();
@@ -169,7 +186,7 @@ public class ColumnClassAggregator {
 								}
 							}
 							String proteinConfirmed = "";
-							if (category.toLowerCase().contains("english") || category.toLowerCase().contains("inconclusive")){
+							 if (category.toLowerCase().contains("english") || category.toLowerCase().contains("inconclusive")){
 								if(lookupColumn(TabLookup.getInstance().english, col.getData())){
 									proteinConfirmed = "(english protein names found)";
 								}
@@ -180,18 +197,23 @@ public class ColumnClassAggregator {
 								} 
 							}
 							
-							//System.out.println(col.getHeader() + ": " +  category + " (Type " + type + ")" + next + ontologyProperty + " " + proteinConfirmed);
+							pw.println(col.getHeader() + ": " +  category + " (Type " + type + ")" + next + ontologyProperty + " " + proteinConfirmed);
 							
 							for(String s: currentAssays){
-								HashMap<String, Integer> histo = columnAnalysis.get(s);
-								if(histo.containsKey(category)){
-									histo.put(category, histo.get(category)+1);
+								if(columnAnalysis.get(s).containsKey(category)){
+									columnAnalysis.get(s).put(category, columnAnalysis.get(s).get(category)+1);
 								} else {
-									histo.put(category, 1);
+									columnAnalysis.get(s).put(category, 1);
 								}
 							}
 							
 						}
+					}
+					pw.close();
+					try {
+						fos.close();
+					} catch (IOException e) {
+						e.printStackTrace();
 					}
 				}
 				num_tables++;
@@ -223,8 +245,11 @@ public class ColumnClassAggregator {
 					match++;
 				}
 			}
+			if(match > 5){
+				return true;
+			}
 		}
-		return match >= 0.5 * data.length || match > 5;
+		return match >= 0.5 * data.length;
 	}
 
 	private static boolean checkColumn(String checkWord, String[] data) {

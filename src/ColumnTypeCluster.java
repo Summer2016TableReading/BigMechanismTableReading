@@ -174,10 +174,14 @@ public class ColumnTypeCluster {
 		for (int i = 0; i < 9; i++){
 			vec.add(0.0);
 		}
+		double wordLength = 0;
 		HashSet<Character> chars = new HashSet<Character>();
 		for (int i = 0; i < entry.length(); i++){
 			chars.add(entry.charAt(i));
-			longestWord++;
+			wordLength++;
+			if(longestWord < wordLength){
+				longestWord = wordLength;
+			}
 			if(Character.isDigit(entry.charAt(i))){
 				if(entry.charAt(i) == '0'){
 					vec.set(1, vec.get(1)+ 1);
@@ -189,7 +193,7 @@ public class ColumnTypeCluster {
 			} else if (Character.isLowerCase(entry.charAt(i))){
 				vec.set(4, vec.get(4)+ 1);
 			} else if (Character.isWhitespace(entry.charAt(i))){
-				longestWord = 0;
+				wordLength = 0;
 				vec.set(5, vec.get(5)+ 1);
 			} else if (entry.charAt(i) == ','){
 				vec.set(6, vec.get(6)+ 1);

@@ -10,7 +10,7 @@ import org.jsoup.parser.Parser;
 
 public class PaperFormatter {
 	public static void main(String[] args){
-		File pdirectory = new File("rasPapers");
+		File pdirectory = new File("rasPapers2");
 		File[] papers = pdirectory.listFiles();
 		for(File p: papers){
 			formatPaper(p);
@@ -37,7 +37,7 @@ public class PaperFormatter {
 			t.html(t.html().replace("title", "h3"));
 		}*/
 		
-		File outFile = new File("formattedPapers/" + p.getName());
+		File outFile = new File("formattedPapers2/" + p.getName());
 		FileOutputStream fos;
 		try {
 			fos = new FileOutputStream(outFile);

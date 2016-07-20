@@ -22,6 +22,7 @@ files*
 tables*
 papers*
 annotationLogs*
+classifierLogs*
 .git-rewrite*
 .settings*
 

@@ -14,7 +14,7 @@ public class AssayFinder {
 		HashMap<String, ArrayList<String>> assayMap = new HashMap<String, ArrayList<String>>();
 		OntobeeQuery.parseOntologies();
 		HashSet<String> assays = OntobeeQuery.queryOntologyChildren(OntobeeQuery.obi, "assay");
-		for(File file: new File("rasPapers").listFiles()){
+		for(File file: new File("papers").listFiles()){
 			try {
 				if(file.getName().endsWith(".html")){
 					Document paper = Jsoup.parse(file, null);

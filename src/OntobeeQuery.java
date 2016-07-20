@@ -1,5 +1,6 @@
 import java.io.File;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
 
@@ -14,7 +15,6 @@ import org.semanticweb.owlapi.model.OWLOntology;
 import org.semanticweb.owlapi.model.OWLOntologyManager;
 import org.semanticweb.owlapi.reasoner.BufferingMode;
 import org.semanticweb.owlapi.reasoner.OWLReasoner;
-import org.semanticweb.owlapi.reasoner.OWLReasonerFactory;
 import org.semanticweb.owlapi.reasoner.SimpleConfiguration;
 import org.semanticweb.owlapi.reasoner.structural.StructuralReasoner;
 
@@ -25,6 +25,7 @@ public class OntobeeQuery {
 	public static OWLOntology bao;
 	public static OWLOntology obi;
 	public static ArrayList<OWLOntology> allOntologies = new ArrayList<OWLOntology>();
+	public static HashMap<OWLOntology, OWLReasoner> reasonerMap;
 	public static boolean init = false;
 	static OWLOntologyManager manager = OWLManager.createOWLOntologyManager();
 	
@@ -37,6 +38,7 @@ public class OntobeeQuery {
 			System.out.println(queryOntology(obi, query));
 			query = s.nextLine();
 		}
+		s.close();
 	}
 	
 	public static HashSet<String> queryAllOntologies(String query){
@@ -53,6 +55,7 @@ public class OntobeeQuery {
 	public static void parseOntologies(){
 		if(!init){
 			init = true;
+			reasonerMap = new HashMap<OWLOntology, OWLReasoner>();
 			bao = parseOntology(new File("ontologies/bao.owl"));
 			obi = parseOntology(new File("ontologies/obi.owl"));
 			allOntologies.add(bao);
@@ -78,6 +81,7 @@ public class OntobeeQuery {
 	        System.out.println("Class       : " + clazz);
 	        // Print the hierarchy below thing
 	        OWLReasoner reasoner = new StructuralReasoner(ontology, new SimpleConfiguration(), BufferingMode.NON_BUFFERING);
+	        reasonerMap.put(ontology, reasoner);
 	        //printHierarchy(clazz, reasoner, ontology);
 	        
 		} catch (OWLException e) {
@@ -87,9 +91,8 @@ public class OntobeeQuery {
 	}
 	
 	public static HashSet<String> queryOntologyChildren(OWLOntology ontology, String s){
-		manager = OWLManager.createOWLOntologyManager();
 		OWLClass clazz = manager.getOWLDataFactory().getOWLThing();
-		OWLReasoner reasoner = new StructuralReasoner(ontology, new SimpleConfiguration(), BufferingMode.NON_BUFFERING);
+		OWLReasoner reasoner = reasonerMap.get(ontology);
 	    try {
 			return getChildren(reasoner, clazz,0, ontology, s);
 		} catch (OWLException e) {
@@ -119,9 +122,8 @@ public class OntobeeQuery {
 	}
 	
 	public static HashSet<String> queryOntology(OWLOntology ontology, String s){
-		manager = OWLManager.createOWLOntologyManager();
 		OWLClass clazz = manager.getOWLDataFactory().getOWLThing();
-		OWLReasoner reasoner = new StructuralReasoner(ontology, new SimpleConfiguration(), BufferingMode.NON_BUFFERING);
+		OWLReasoner reasoner = reasonerMap.get(ontology);
 	    try {
 			return getHierarchy(reasoner, clazz,0, ontology, s);
 		} catch (OWLException e) {
@@ -152,44 +154,6 @@ public class OntobeeQuery {
 	            }
 	        }
 	        return parents;
-	    }
-	
-	 private static void printHierarchy(@Nonnull OWLClass clazz, OWLReasoner reasoner, OWLOntology ontology) throws OWLException {
-	        printHierarchy(reasoner, clazz, 0, ontology);
-	        /* Now print out any unsatisfiable classes */
-	        for (OWLClass cl : ontology.getClassesInSignature()) {
-	            assert cl != null;
-	            if (!reasoner.isSatisfiable(cl)) {
-	            	System.out.println("XXX: " + labelFor(cl, ontology));
-	            }
-	        }
-	        reasoner.dispose();
-	    }
-	 
-	 private static void printHierarchy(@Nonnull OWLReasoner reasoner, @Nonnull OWLClass clazz, int level, OWLOntology ontology) throws OWLException {
-	        /*
-	         * Only print satisfiable classes -- otherwise we end up with bottom
-	         * everywhere
-	         */
-	        if (reasoner.isSatisfiable(clazz)) {
-	            for (int i = 0; i < level * 4; i++) {
-	            	//System.out.print(" ");
-	            }
-	            String s = labelFor(clazz, ontology);
-	            if(s.contains("IC50")){
-	            	System.out.println(labelFor(clazz, ontology));
-	            	for (OWLClass heir: reasoner.getSuperClasses(clazz, true).getFlattened()){
-	            		System.out.println(labelFor(heir, ontology));
-	            	}
-	            }
-	            
-	            /* Find the children and recurse */
-	            for (OWLClass child : reasoner.getSubClasses(clazz, true).getFlattened()) {
-	                if (!child.equals(clazz)) {
-	                    printHierarchy(reasoner, child, level + 1, ontology);
-	                }
-	            }
-	        }
 	    }
 	 
 
