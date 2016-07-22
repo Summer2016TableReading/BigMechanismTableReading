@@ -29,6 +29,7 @@ import org.deeplearning4j.nn.conf.layers.OutputLayer;
 import org.deeplearning4j.nn.conf.layers.RBM;
 import org.deeplearning4j.nn.multilayer.MultiLayerNetwork;
 import org.deeplearning4j.nn.weights.WeightInit;
+import org.deeplearning4j.ui.weights.HistogramIterationListener;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.nd4j.linalg.api.ndarray.INDArray;
@@ -195,8 +196,8 @@ public class TableSentenceAnalyzer {
 	
 	private static void buildDeepLearning(ArrayList<ArrayList<Writable>> training, ArrayList<ArrayList<Writable>> testing) {
 		RecordReader recordReader = new CollectionRecordReader(training);
-		DataSetIterator iter = new RecordReaderDataSetIterator(recordReader, training.get(0).size()-1, 2);
-		System.out.println("buildilng nn");
+		DataSetIterator iter = new RecordReaderDataSetIterator(recordReader, 32, training.get(0).size()-1, 2);
+		System.out.println("building nn");
 		int seed = 100;
 		int iterations = 10;
 		MultiLayerConfiguration conf = new NeuralNetConfiguration.Builder()
@@ -232,8 +233,8 @@ public class TableSentenceAnalyzer {
 			                .activation("relu") // Activation function.
 			                .weightInit(WeightInit.XAVIER) // Weight initialization.
 			                .build())
-			            .layer(4, new OutputLayer.Builder(LossFunction.NEGATIVELOGLIKELIHOOD).activation("softmax")
-			                    .nIn(20).nOut(2).build())
+			       .layer(4, new OutputLayer.Builder(LossFunction.NEGATIVELOGLIKELIHOOD).activation("softmax")
+			                .nIn(20).nOut(2).build())
 			       .pretrain(false).backprop(true)
 			            .build();
 		        
@@ -241,6 +242,7 @@ public class TableSentenceAnalyzer {
 		        
 		 MultiLayerNetwork network = new MultiLayerNetwork(conf);
 		 network.init();
+		 network.setListeners(new HistogramIterationListener(1));
 		 int data_processed = 0;
 		 while(iter.hasNext()){
 			 DataSet next = iter.next();
@@ -249,6 +251,7 @@ public class TableSentenceAnalyzer {
 		     network.fit(next);
 		     data_processed++;
 		 }
+		 
 		 
 	     Evaluation eval = new Evaluation(2);
 	        
