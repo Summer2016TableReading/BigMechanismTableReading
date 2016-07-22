@@ -22,8 +22,11 @@ import org.deeplearning4j.nn.api.OptimizationAlgorithm;
 import org.deeplearning4j.nn.conf.GradientNormalization;
 import org.deeplearning4j.nn.conf.MultiLayerConfiguration;
 import org.deeplearning4j.nn.conf.NeuralNetConfiguration;
+import org.deeplearning4j.nn.conf.Updater;
 import org.deeplearning4j.nn.conf.layers.AutoEncoder;
+import org.deeplearning4j.nn.conf.layers.DenseLayer;
 import org.deeplearning4j.nn.conf.layers.OutputLayer;
+import org.deeplearning4j.nn.conf.layers.RBM;
 import org.deeplearning4j.nn.multilayer.MultiLayerNetwork;
 import org.deeplearning4j.nn.weights.WeightInit;
 import org.jsoup.Jsoup;
@@ -48,7 +51,7 @@ public class TableSentenceAnalyzer {
 					for(String s: sentences){
 						Matcher m = p.matcher(s.replaceAll("\\W","").toLowerCase());
 						if(m.find()){
-							tableSentences.add(s.toLowerCase());
+							tableSentences.add(s.toLowerCase().replaceAll("table\\W+\\d+",""));
 							labels.add(1.0);
 						}
 					}
@@ -68,9 +71,11 @@ public class TableSentenceAnalyzer {
 			scan = new Scanner(negatives);
 			int nSentences = 0;
 			while(scan.hasNext()){
-				if(nSentences < 1000){
-					tableSentences.add(scan.nextLine().toLowerCase());
-					labels.add(-1.0);
+				String s = scan.nextLine();
+				if(nSentences < 2000){
+					tableSentences.add(s.toLowerCase());
+					labels.add(0.0);
+					nSentences++;
 				}
 			}
 		} catch (FileNotFoundException e) {
@@ -131,17 +136,31 @@ public class TableSentenceAnalyzer {
 			String s = tableSentences.get(i);
 			ArrayList<Writable> vec = new ArrayList<Writable>();
 			for(String phrase: ngrams.keySet()){
-				if(sentenceNGrams.get(phrase) < 500 && sentenceNGrams.get(phrase) > 10){
+				if(sentenceNGrams.get(phrase) < 250 && sentenceNGrams.get(phrase) > 10){
 					double termFrequency = getTermFrequency(s, phrase);
 					double inverseDocFrequency = Math.log((double)tableSentences.size()/(double)(sentenceNGrams.get(phrase)));
-					vec.add(new DoubleWritable(termFrequency*inverseDocFrequency));
+					//vec.add(new DoubleWritable(termFrequency*inverseDocFrequency));
+					if(termFrequency*inverseDocFrequency > 10){
+						vec.add(new DoubleWritable(1.0));
+					} else {
+						vec.add(new DoubleWritable(0.0));
+					}
 				}
 			}
 			vec.add(new DoubleWritable(labels.get(i)));
 			TfIdfVectors.add(vec);
 		}
+		System.out.println(TfIdfVectors.get(0).size());
+		Collections.shuffle(TfIdfVectors);
+		ArrayList<ArrayList<Writable>> trainingSet = new ArrayList<ArrayList<Writable>>();
+		ArrayList<ArrayList<Writable>> testingSet = new ArrayList<ArrayList<Writable>>();
 		
-		buildDeepLearning(TfIdfVectors);
+		for(int i = 0; i < TfIdfVectors.size()-1; i+=2){
+			trainingSet.add(TfIdfVectors.get(i));
+			testingSet.add(TfIdfVectors.get(i+1));
+		}
+		
+		buildDeepLearning(trainingSet, testingSet);
 	}
 	
 	private static boolean checkNumber(String word) {
@@ -174,54 +193,76 @@ public class TableSentenceAnalyzer {
 		return phrase;
 	}
 	
-	private static void buildDeepLearning(ArrayList<ArrayList<Writable>> vectors) {
-		RecordReader recordReader = new CollectionRecordReader(vectors);
-		DataSetIterator iter = new RecordReaderDataSetIterator(recordReader, vectors.get(0).size()-1, vectors.size());
+	private static void buildDeepLearning(ArrayList<ArrayList<Writable>> training, ArrayList<ArrayList<Writable>> testing) {
+		RecordReader recordReader = new CollectionRecordReader(training);
+		DataSetIterator iter = new RecordReaderDataSetIterator(recordReader, training.get(0).size()-1, 2);
 		System.out.println("buildilng nn");
 		int seed = 100;
 		int iterations = 10;
-		 MultiLayerConfiguration conf = new NeuralNetConfiguration.Builder()
+		MultiLayerConfiguration conf = new NeuralNetConfiguration.Builder()
 			       .seed(seed)
-			       .gradientNormalization(GradientNormalization.ClipElementWiseAbsoluteValue)
-			       .gradientNormalizationThreshold(1.0)
 			       .iterations(iterations)
-			       .momentum(0.5)
-			       .momentumAfter(Collections.singletonMap(3, 0.9))
-			       .optimizationAlgo(OptimizationAlgorithm.CONJUGATE_GRADIENT)
-			       .list(5)
-			       .layer(0, new AutoEncoder.Builder().nIn(vectors.get(0).size()-1).nOut(1000)
-				           .weightInit(WeightInit.XAVIER).lossFunction(LossFunction.RMSE_XENT)
-				           .corruptionLevel(0.3)
-				           .build())
-			       .layer(1, new AutoEncoder.Builder().nIn(1000).nOut(500)
-		                   .weightInit(WeightInit.XAVIER).lossFunction(LossFunction.RMSE_XENT)
-		                   .corruptionLevel(0.3)
-		                   .build())
-		            .layer(2, new AutoEncoder.Builder().nIn(500).nOut(250)
-			               .weightInit(WeightInit.XAVIER).lossFunction(LossFunction.RMSE_XENT)
-			               .corruptionLevel(0.3)
-			               .build())
-			            .layer(3, new AutoEncoder.Builder().nIn(250).nOut(100)
-			                    .weightInit(WeightInit.XAVIER).lossFunction(LossFunction.RMSE_XENT)
-			                    .corruptionLevel(0.3)
-			                    .build())
+			       .learningRate(0.006)
+			        .updater(Updater.NESTEROVS).momentum(0.9)
+			        .regularization(true).l2(1e-4)
+			        .weightInit(WeightInit.XAVIER)
+			        .optimizationAlgo(OptimizationAlgorithm.STOCHASTIC_GRADIENT_DESCENT)
+			       .list()
+			       .layer(0, new DenseLayer.Builder()
+			                .nIn(training.get(0).size()-1) // Number of input datapoints.
+			                .nOut(20) // Number of output datapoints.
+			                .activation("relu") // Activation function.
+			                .weightInit(WeightInit.XAVIER) // Weight initialization.
+			                .build())
+			       .layer(1, new DenseLayer.Builder()
+			                .nIn(20) // Number of input datapoints.
+			                .nOut(50) // Number of output datapoints.
+			                .activation("relu") // Activation function.
+			                .weightInit(WeightInit.XAVIER) // Weight initialization.
+			                .build())
+			       .layer(2, new DenseLayer.Builder()
+			                .nIn(50) // Number of input datapoints.
+			                .nOut(50) // Number of output datapoints.
+			                .activation("relu") // Activation function.
+			                .weightInit(WeightInit.XAVIER) // Weight initialization.
+			                .build())
+			       .layer(3, new DenseLayer.Builder()
+			                .nIn(50) // Number of input datapoints.
+			                .nOut(20) // Number of output datapoints.
+			                .activation("relu") // Activation function.
+			                .weightInit(WeightInit.XAVIER) // Weight initialization.
+			                .build())
 			            .layer(4, new OutputLayer.Builder(LossFunction.NEGATIVELOGLIKELIHOOD).activation("softmax")
-			                    .nIn(100).nOut(2).build())
-			       .pretrain(true).backprop(false)
+			                    .nIn(20).nOut(2).build())
+			       .pretrain(false).backprop(true)
 			            .build();
+		        
+		        
+		        
 		 MultiLayerNetwork network = new MultiLayerNetwork(conf);
-		 network.fit(iter);
+		 network.init();
+		 int data_processed = 0;
+		 while(iter.hasNext()){
+			 DataSet next = iter.next();
+			 System.out.println(next);
+		     System.out.println(data_processed + "0 data points processed...");
+		     network.fit(next);
+		     data_processed++;
+		 }
 		 
 	     Evaluation eval = new Evaluation(2);
 	        
-		 recordReader = new CollectionRecordReader(vectors);
-		iter = new RecordReaderDataSetIterator(recordReader, vectors.get(0).size()-1, vectors.size());
-
+		 recordReader = new CollectionRecordReader(testing);
+		 iter = new RecordReaderDataSetIterator(recordReader, testing.get(0).size()-1, 2);
+		 System.out.println("evaulation starting...");
+		 
 		 while(iter.hasNext()){
 		      DataSet next = iter.next();
 		      INDArray predict2 = network.output(next.getFeatureMatrix());
+		      System.out.println(predict2);
 	          eval.eval(next.getLabels(), predict2);
 		}
+		 System.out.println(eval.stats());
 		 System.out.println("hi");
 	}
 
