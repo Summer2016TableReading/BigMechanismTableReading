@@ -38,6 +38,7 @@ import org.nd4j.linalg.lossfunctions.LossFunctions.LossFunction;
 
 public class TableSentenceAnalyzer {
 	public static void main(String[] args){
+		//Parsing for table and unhighlighted sentences
 		File directory = new File("papers");
 		File[] papers = directory.listFiles();
 		Pattern p = Pattern.compile("table\\d+");
@@ -82,9 +83,10 @@ public class TableSentenceAnalyzer {
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-		
+		//initializing ngrams for tfidf calculations
 		HashMap<String, Integer> ngrams = new HashMap<String, Integer>();
 		HashMap<String, Integer> sentenceNGrams = new HashMap<String,Integer>();
+		//formatting sentences for tfidf(word splitting, phrase creation and number removal)
 		for(String s: tableSentences){
 			HashSet<String> phrasesFound = new HashSet<String>();
 			String[] words = s.replaceAll("\\W+"," ").split("\\W");
@@ -117,7 +119,7 @@ public class TableSentenceAnalyzer {
 				}
 			}
 		}
-		
+		//creation of tfidf vectors
 		ArrayList<String> commonNGrams = new ArrayList<String>();
 		commonNGrams.addAll(ngrams.keySet());
 		Collections.sort(commonNGrams, new Comparator<String>(){
@@ -152,6 +154,7 @@ public class TableSentenceAnalyzer {
 			TfIdfVectors.add(vec);
 		}
 		System.out.println(TfIdfVectors.get(0).size());
+		//splitting tfidf vectors into training and testing sets, then building the neural network
 		Collections.shuffle(TfIdfVectors);
 		ArrayList<ArrayList<Writable>> trainingSet = new ArrayList<ArrayList<Writable>>();
 		ArrayList<ArrayList<Writable>> testingSet = new ArrayList<ArrayList<Writable>>();
@@ -198,6 +201,7 @@ public class TableSentenceAnalyzer {
 		RecordReader recordReader = new CollectionRecordReader(training);
 		DataSetIterator iter = new RecordReaderDataSetIterator(recordReader, 32, training.get(0).size()-1, 2);
 		System.out.println("building nn");
+		//building of the actual neural net, all params are self explanatory
 		int seed = 100;
 		int iterations = 10;
 		MultiLayerConfiguration conf = new NeuralNetConfiguration.Builder()
@@ -241,6 +245,7 @@ public class TableSentenceAnalyzer {
 		        
 		        
 		 MultiLayerNetwork network = new MultiLayerNetwork(conf);
+		 //initialization of the browser-based listener and fitting of the network to the data
 		 network.init();
 		 network.setListeners(new HistogramIterationListener(1));
 		 int data_processed = 0;
@@ -252,7 +257,7 @@ public class TableSentenceAnalyzer {
 		     data_processed++;
 		 }
 		 
-		 
+		//evaluation of the neural network 
 	     Evaluation eval = new Evaluation(2);
 	        
 		 recordReader = new CollectionRecordReader(testing);
