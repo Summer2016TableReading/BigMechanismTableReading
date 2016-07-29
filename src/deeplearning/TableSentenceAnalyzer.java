@@ -7,6 +7,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Random;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -40,7 +41,7 @@ public class TableSentenceAnalyzer {
 	public static void main(String[] args){
 		File directory = new File("papers");
 		File[] papers = directory.listFiles();
-		Pattern p = Pattern.compile("table\\d+");
+		Pattern p = Pattern.compile("table(\\d+)");
 		ArrayList<String> tableSentences = new ArrayList<String>();
 		ArrayList<Double> labels = new ArrayList<Double>();
 		int num_papers = 0;
@@ -82,6 +83,18 @@ public class TableSentenceAnalyzer {
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
+		
+		/*File positives = new File("highlightedsentences.txt");
+		try {
+			scan = new Scanner(positives);
+			while(scan.hasNext()){
+				String s = scan.nextLine();
+				tableSentences.add(s.toLowerCase());
+				labels.add(1.0);
+			}
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}*/
 		
 		HashMap<String, Integer> ngrams = new HashMap<String, Integer>();
 		HashMap<String, Integer> sentenceNGrams = new HashMap<String,Integer>();
@@ -152,16 +165,19 @@ public class TableSentenceAnalyzer {
 			TfIdfVectors.add(vec);
 		}
 		System.out.println(TfIdfVectors.get(0).size());
-		Collections.shuffle(TfIdfVectors);
+		Collections.shuffle(TfIdfVectors, new Random(100L));
 		ArrayList<ArrayList<Writable>> trainingSet = new ArrayList<ArrayList<Writable>>();
 		ArrayList<ArrayList<Writable>> testingSet = new ArrayList<ArrayList<Writable>>();
 		
-		for(int i = 0; i < TfIdfVectors.size()-1; i+=2){
-			trainingSet.add(TfIdfVectors.get(i));
-			testingSet.add(TfIdfVectors.get(i+1));
+		for(int i = 0; i < TfIdfVectors.size(); i++){
+			if(i < TfIdfVectors.size()*0.8){
+				trainingSet.add(TfIdfVectors.get(i));
+			} else {
+				testingSet.add(TfIdfVectors.get(i));
+			}
 		}
 		
-		buildDeepLearning(trainingSet, testingSet);
+		buildDeepLearning(trainingSet, testingSet, 2);
 	}
 	
 	private static boolean checkNumber(String word) {
@@ -194,12 +210,15 @@ public class TableSentenceAnalyzer {
 		return phrase;
 	}
 	
-	private static void buildDeepLearning(ArrayList<ArrayList<Writable>> training, ArrayList<ArrayList<Writable>> testing) {
-		RecordReader recordReader = new CollectionRecordReader(training);
-		DataSetIterator iter = new RecordReaderDataSetIterator(recordReader, 32, training.get(0).size()-1, 2);
-		System.out.println("building nn");
+	private static void buildDeepLearning(ArrayList<ArrayList<Writable>> training, ArrayList<ArrayList<Writable>> testing, int num_labels) {
+		int batchSize = 32;
 		int seed = 100;
 		int iterations = 10;
+		
+		RecordReader recordReader = new CollectionRecordReader(training);
+		DataSetIterator iter = new RecordReaderDataSetIterator(recordReader, batchSize, training.get(0).size()-1, num_labels);
+		System.out.println("building nn");
+		
 		MultiLayerConfiguration conf = new NeuralNetConfiguration.Builder()
 			       .seed(seed)
 			       .iterations(iterations)
@@ -211,30 +230,30 @@ public class TableSentenceAnalyzer {
 			       .list()
 			       .layer(0, new DenseLayer.Builder()
 			                .nIn(training.get(0).size()-1) // Number of input datapoints.
+			                .nOut(50) // Number of output datapoints.
+			                .activation("relu") // Activation function. 
+			                .weightInit(WeightInit.XAVIER) // Weight initialization.
+			                .build())
+			       .layer(1, new DenseLayer.Builder()
+			                .nIn(50) // Number of input datapoints.
 			                .nOut(20) // Number of output datapoints.
 			                .activation("relu") // Activation function.
 			                .weightInit(WeightInit.XAVIER) // Weight initialization.
 			                .build())
-			       .layer(1, new DenseLayer.Builder()
-			                .nIn(20) // Number of input datapoints.
-			                .nOut(50) // Number of output datapoints.
-			                .activation("relu") // Activation function.
-			                .weightInit(WeightInit.XAVIER) // Weight initialization.
-			                .build())
-			       .layer(2, new DenseLayer.Builder()
+			       /*.layer(2, new DenseLayer.Builder()
 			                .nIn(50) // Number of input datapoints.
-			                .nOut(50) // Number of output datapoints.
+			                .nOut(30) // Number of output datapoints.
 			                .activation("relu") // Activation function.
 			                .weightInit(WeightInit.XAVIER) // Weight initialization.
 			                .build())
 			       .layer(3, new DenseLayer.Builder()
-			                .nIn(50) // Number of input datapoints.
+			                .nIn(30) // Number of input datapoints.
 			                .nOut(20) // Number of output datapoints.
 			                .activation("relu") // Activation function.
 			                .weightInit(WeightInit.XAVIER) // Weight initialization.
-			                .build())
-			       .layer(4, new OutputLayer.Builder(LossFunction.NEGATIVELOGLIKELIHOOD).activation("softmax")
-			                .nIn(20).nOut(2).build())
+			                .build())*/
+			       .layer(2, new OutputLayer.Builder(LossFunction.NEGATIVELOGLIKELIHOOD).activation("softmax")
+			                .nIn(20).nOut(num_labels).build())
 			       .pretrain(false).backprop(true)
 			            .build();
 		        
@@ -246,17 +265,16 @@ public class TableSentenceAnalyzer {
 		 int data_processed = 0;
 		 while(iter.hasNext()){
 			 DataSet next = iter.next();
-			 System.out.println(next);
-		     System.out.println(data_processed + "0 data points processed...");
+			 //System.out.println(next);
+		     System.out.println((batchSize*data_processed) + " data points processed...");
 		     network.fit(next);
 		     data_processed++;
 		 }
-		 
-		 
-	     Evaluation eval = new Evaluation(2);
+		
+	     Evaluation eval = new Evaluation(num_labels);
 	        
 		 recordReader = new CollectionRecordReader(testing);
-		 iter = new RecordReaderDataSetIterator(recordReader, testing.get(0).size()-1, 2);
+		 iter = new RecordReaderDataSetIterator(recordReader, testing.get(0).size()-1, num_labels);
 		 System.out.println("evaulation starting...");
 		 
 		 while(iter.hasNext()){
@@ -266,7 +284,9 @@ public class TableSentenceAnalyzer {
 	          eval.eval(next.getLabels(), predict2);
 		}
 		 System.out.println(eval.stats());
-		 System.out.println("hi");
+		 System.out.println("hi"); 
+		 
+		 //System.out.println(network.getLayer(0).paramTable());
 	}
 
 }
