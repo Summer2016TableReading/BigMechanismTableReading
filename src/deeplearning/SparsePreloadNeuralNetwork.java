@@ -3,8 +3,6 @@ package deeplearning;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Random;
 import java.util.Scanner;
 
 import org.canova.api.io.data.DoubleWritable;
@@ -27,14 +25,14 @@ import org.nd4j.linalg.api.ndarray.INDArray;
 import org.nd4j.linalg.dataset.api.DataSet;
 import org.nd4j.linalg.lossfunctions.LossFunctions.LossFunction;
 
-public class PreloadNeuralNetwork {
+public class SparsePreloadNeuralNetwork {
 	public static void main(String[] args){
 		ArrayList<ArrayList<Writable>> trainingSet = new ArrayList<ArrayList<Writable>>();
 		ArrayList<ArrayList<Writable>> testingSet = new ArrayList<ArrayList<Writable>>();
 		
 		try {
 			Scanner sTraining = new Scanner(new File("trainingVectors"));
-			Scanner sTesting = new Scanner(new File("testingVectors"));
+			Scanner sTesting = new Scanner(new File("trainingVectors"));
 			while(sTraining.hasNext()){
 				String s = sTraining.nextLine();
 				String[] vals = s.split(",");
@@ -65,8 +63,7 @@ public class PreloadNeuralNetwork {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		Collections.shuffle(trainingSet, new Random(100L));
-		Collections.shuffle(testingSet, new Random(100L));
+		
 		
 		
 		buildDeepLearning(trainingSet, testingSet, 2);
@@ -136,7 +133,7 @@ public class PreloadNeuralNetwork {
 		    	network.fit(next);
 		    	data_processed++;
 			 }
-			 if(i % 5 == 0){
+			 if(i % 10 == 0){
 				 evalauteEpoch(testing, num_labels, network);
 			 }
 		 }

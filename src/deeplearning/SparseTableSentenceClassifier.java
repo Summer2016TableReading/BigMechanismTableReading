@@ -39,7 +39,9 @@ import org.nd4j.linalg.api.ndarray.INDArray;
 import org.nd4j.linalg.dataset.api.DataSet;
 import org.nd4j.linalg.lossfunctions.LossFunctions.LossFunction;
 
-public class TableSentenceClassifier {
+public class SparseTableSentenceClassifier {
+	public static final String LABEL = "Typelabel";
+	
 	public static void main(String[] args){
 		File directory = new File("papers");
 		File tableDirectory = new File("files");
@@ -52,7 +54,7 @@ public class TableSentenceClassifier {
 		HashMap<String, String> sentenceToPaper = new HashMap<String, String>();
 		int num_papers = 0;
 		for(File f: directory.listFiles()){
-			if(f.getName().endsWith(".html") && num_papers < 1000){
+			if(f.getName().endsWith(".html") /*&& num_papers < 1000*/){
 				try {
 					Document d = Jsoup.parse(f, null);
 					String[] sentences = d.text().split("\\. ");
@@ -164,101 +166,88 @@ public class TableSentenceClassifier {
 		System.out.println("Vocab size: " + ngrams.size());
 		int threshSize = 0;
 		
+		HashMap<String, Integer> indices = new HashMap<String, Integer>();
+		int index = 0; 
 		for(Iterator<String> iter = ngrams.keySet().iterator(); iter.hasNext();) {
 			String phrase = iter.next();
 			if(sentenceNGrams.get(phrase) < 350 && sentenceNGrams.get(phrase) > 10){
 				threshSize++;
+				indices.put(phrase, index);
+				index++;
 			} else {
 				iter.remove();
 			}
 		}
 		System.out.println("Cutoff Vocab size: " + threshSize);
 		
-		ArrayList<ArrayList<Writable>> PositiveTfIdfVectors = new ArrayList<ArrayList<Writable>>();
-		ArrayList<ArrayList<Writable>> NegativeTfIdfVectors = new ArrayList<ArrayList<Writable>>();
-		HashMap<String, ArrayList<Writable>> cachedTableVecs = new HashMap<String, ArrayList<Writable>>();
+		ArrayList<HashMap<String,Writable>> TfIdfVectors = new ArrayList<HashMap<String,Writable>>();
+		HashMap<String, HashMap<String,Writable>> cachedTableVecs = new HashMap<String, HashMap<String,Writable>>();
 		int sentences_processed = 0;
 		for(int i = 0; i < tableSentences.size(); i++){
 			String s = tableSentences.get(i);
-			ArrayList<Writable> vec = generateVec(s, ngrams, sentenceNGrams, tableSentences.size() + tableFileSentences.size(), 1);
+			HashMap<String,Writable> vec = generateVec(s, ngrams, sentenceNGrams, tableSentences.size() + tableFileSentences.size(), 1);
 			for (int label = 1; label < 5; label ++){
 				String table = tableFileSentences.get(sentenceToPaper.get(s) + "t" + labels.get(i).intValue());
 				if (table != null){
-					ArrayList<Writable> vec2;
+					HashMap<String,Writable> vec2;
 					if(cachedTableVecs.containsKey(table)){
 						vec2 = cachedTableVecs.get(table);
 					} else {
 						vec2 = generateVec(table, ngrams, 
 								sentenceNGrams, tableSentences.size() + tableFileSentences.size(), label == labels.get(i).intValue() ? 1 : 0);
-						cachedTableVecs.put(table,vec2);
+						cachedTableVecs.put(table, vec2);
 					}
 
 					
-					ArrayList<Writable> product = hadamardProduct(vec,vec2);
+					HashMap<String,Writable> product = hadamardProduct(vec,vec2);
 					if (label == labels.get(i).intValue()){
-						PositiveTfIdfVectors.add(product);
-						PositiveTfIdfVectors.add(product);
-					} else {
-						NegativeTfIdfVectors.add(product);
+						TfIdfVectors.add(product);
+						TfIdfVectors.add(product);
 					}
 					
+					TfIdfVectors.add(product);
 					sentences_processed++;
 					if(sentences_processed % 50 == 0){
 						System.out.println(sentences_processed + " sentences processed...");
 					}
 				}
 			}
-			if (cachedTableVecs.size() > 30){
-				cachedTableVecs = new HashMap<String, ArrayList<Writable>>();
+		}
+		System.out.println(TfIdfVectors.get(0).size());
+		Collections.shuffle(TfIdfVectors, new Random(100L));
+		ArrayList<HashMap<String,Writable>> trainingSet = new ArrayList<HashMap<String,Writable>>();
+		ArrayList<HashMap<String,Writable>> testingSet = new ArrayList<HashMap<String,Writable>>();
+		
+		for(int i = 0; i < TfIdfVectors.size(); i++){
+			if(i < TfIdfVectors.size()*0.8){
+				trainingSet.add(TfIdfVectors.get(i));
+			} else {
+				testingSet.add(TfIdfVectors.get(i));
 			}
 		}
 		
-		for (Iterator<ArrayList<Writable>> iter = PositiveTfIdfVectors.iterator(); iter.hasNext();){
-			ArrayList<Writable> vec = iter.next();
-			if(checkZero(vec)){
-				iter.remove();
-			} 
-		}
-		for (Iterator<ArrayList<Writable>> iter = NegativeTfIdfVectors.iterator(); iter.hasNext();){
-			ArrayList<Writable> vec = iter.next();
-			if(checkZero(vec)){
-				iter.remove();
-			} 
-		}
-		
-		Collections.shuffle(NegativeTfIdfVectors, new Random(100L));
-		Collections.shuffle(PositiveTfIdfVectors, new Random(100L));
-		ArrayList<ArrayList<Writable>> TfIdfVectors = new ArrayList<ArrayList<Writable>>();
-		for(int i = 0; i < NegativeTfIdfVectors.size(); i++){
-			TfIdfVectors.add(NegativeTfIdfVectors.get(i));
-			if (i % 3 == 0){
-				for(int j = 0; j < 3; j++){
-					TfIdfVectors.add(PositiveTfIdfVectors.get(i/3));
-				}
-			}
-		}
-		
-		File trainingFile = new File("trainingVectors");
-		File testingFile = new File("testingVectors");
+		File trainingFile = new File("trainingVectorsSparse");
+		File testingFile = new File("testingVectorsSparse");
 		try {
 			PrintWriter pw = new PrintWriter(trainingFile);
-			PrintWriter pwTest = new PrintWriter(testingFile);
-			
-			for(int j = 0; j < TfIdfVectors.size(); j++){
-				ArrayList<Writable> vec = TfIdfVectors.get(j);
-				if(j < TfIdfVectors.size()*0.8){
-					for (int i = 0; i < vec.size() -1; i++){
-						pw.print(vec.get(i).toDouble() + ",");
+			for (HashMap<String, Writable> vec: trainingSet){
+				pw.print(vec.get(LABEL) + " ");
+				for (String s: vec.keySet()){
+					if(!s.equals(LABEL)){
+						pw.print(indices.get(s) + ":" + vec.get(s).toDouble() + " ");
 					}
-					pw.print((int) (vec.get(vec.size()-1).toDouble()));
-					pw.println();;
-				} else {
-					for (int i = 0; i < vec.size() -1; i++){
-						pwTest.print(vec.get(i).toDouble() + ",");
-					}
-					pwTest.print((int) (vec.get(vec.size()-1).toDouble()));
-					pwTest.println();
 				}
+				pw.println();
+			}
+			PrintWriter pwTest = new PrintWriter(testingFile);
+			for (HashMap<String, Writable> vec: testingSet){
+				pwTest.print(vec.get(LABEL) + " ");
+				for (String s: vec.keySet()){
+					if(!s.equals(LABEL)){
+						pwTest.print(indices.get(s) + ":" + vec.get(s).toDouble() + " ");
+					}
+				}
+				pwTest.println();
 			}
 			pw.close();
 			pwTest.close();
@@ -268,36 +257,49 @@ public class TableSentenceClassifier {
 		
 	}
 	
-	private static boolean checkZero(ArrayList<Writable> vec) {
-		for(int i = 0; i < vec.size() - 1; i++){
-			if(vec.get(i).toDouble() > 0){
-				return false;
+	private static HashMap<String,Writable> hadamardProduct(HashMap<String,Writable> vec, HashMap<String,Writable> vec2) {
+		HashMap<String,Writable> newVec = new HashMap<String,Writable>();
+		for (String s: vec.keySet()){
+			if(vec2.containsKey(s)){
+				newVec.put(s, new DoubleWritable(vec.get(s).toDouble() * vec2.get(s).toDouble()));
 			}
-		}
-		return true;
-	}
-
-	private static ArrayList<Writable> hadamardProduct(ArrayList<Writable> vec, ArrayList<Writable> vec2) {
-		ArrayList<Writable> newVec = new ArrayList<Writable>();
-		for(int i = 0; i < vec.size(); i++){
-			newVec.add(new DoubleWritable(vec.get(i).toDouble() * vec2.get(i).toDouble()));
 		}
 		return newVec;
 	}
 
-	private static ArrayList<Writable> generateVec(String s, HashMap<String, Integer> ngrams, HashMap<String, Integer> sentenceNGrams, int size, double label) {
-		ArrayList<Writable> vec = new ArrayList<Writable>();
-		for(String phrase: ngrams.keySet()){
-			double termFrequency = getTermFrequency(s, phrase);
-			double inverseDocFrequency = Math.log((double)size/(double)(sentenceNGrams.get(phrase)));
-			vec.add(new DoubleWritable(termFrequency*inverseDocFrequency));
-			/*if(termFrequency*inverseDocFrequency > 10){
-				vec.add(new DoubleWritable(1.0));
-			} else {
-				vec.add(new DoubleWritable(0.0));
-			}*/
+	private static HashMap<String,Writable> generateVec(String s, HashMap<String, Integer> ngrams, HashMap<String, Integer> sentenceNGrams, int size, double label) {
+		HashMap<String,Writable> vec = new HashMap<String,Writable>();
+		HashSet<String> phrasesFound = new HashSet<String>();
+		String[] words = s.replaceAll("\\W+"," ").split("\\W");
+		ArrayList<String> corrected = new ArrayList<String>();
+		for(String word: words){
+			if(word.length() > 0){
+				if(checkNumber(word)){
+					corrected.add(word);
+				} else {
+					corrected.add("numval");
+				}
+			}
 		}
-		vec.add(new DoubleWritable(label));
+		for(int l = 1; l < 3; l++){
+			for(int i = 0; i < corrected.size() - l; i++){
+				String phrase = getNGram(corrected, l, i);
+				if(!phrasesFound.contains(phrase) && ngrams.containsKey(phrase)){
+					phrasesFound.add(phrase);
+					double termFrequency = getTermFrequency(s, phrase);
+					double inverseDocFrequency = Math.log((double)size/(double)(sentenceNGrams.get(phrase)));
+					if(termFrequency > 0){
+						vec.put(phrase, new DoubleWritable(termFrequency*inverseDocFrequency));
+						/*if(termFrequency*inverseDocFrequency > 10){
+							vec.add(new DoubleWritable(1.0));
+						} else {
+							vec.add(new DoubleWritable(0.0));
+						}*/
+					}
+				}
+			}
+		}
+		vec.put(LABEL, new DoubleWritable(label));
 		return vec;
 	}
 
